@@ -11,7 +11,7 @@
 Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the
 Individual Differences in Psychosis (IDP) Lab studies the origins and
 clinical consequences of individual differences in psychotic disorders.
-Are you interested in working with us? Please [[mailto:philipp <dot> homan <at> bli <dot> uzh <dot> ch][reach out]].
+Interested in working with us? [[mailto:philipp <dot> homan <at> bli <dot> uzh <dot> ch][Reach out]].
 
 * Philipp Homan, MD, PhD. PI
 
