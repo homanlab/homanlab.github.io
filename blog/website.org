@@ -14,4 +14,5 @@
 https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=100
 
 Built in [[https://orgmode.org][org-mode]] and hosted on [[https://github.com][github]], the IDP Lab Zurich now finally
-has a [[https://homanlab.github.io][website]]. Stay tuned for more. 
+has a [[https://homanlab.github.io][website]]. Find out [[/about/][who we are and what we do]], and watch out for new
+posts on our [[/blog][blog]]. And stay tuned for more. 
