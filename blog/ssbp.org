@@ -1,0 +1,19 @@
+#+TITLE:       SSBP Young Investigator Award 2019
+#+AUTHOR:      Philipp Homan
+#+EMAIL:       philipp.homan@bli.uzh.ch
+#+DATE:        2019-10-03 Thu
+#+URI:         /blog/%y/%m/%d/ssbp-young-investigator-award
+#+KEYWORDS:    award, lab
+#+TAGS:        award, lab
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Award to be delivered at SSBP Annual Meeting in Lausanne
+#+AVATAR:      https://homanlab.github.io/media/img/ssbp1.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/ssbp1.png]]
+
+The [[https://www.ssbp.ch/index.php?option=com_content&view=article&id=152&Itemid=795Young][Young Investigator Award 2019]] by the [[https://www.ssbp.ch][Swiss Society of Biological
+Psychiatry (SSBP)]] will be awarded to Philipp Homan this year. The
+ceremony will be held at the [[https://sfcns2019.congress-imk.ch/frontend/index.php?folder_id=818][Annual Meeting of the SSBP]] on 10/24 at the
+[[https://www.epfl.ch][EPFL Lausanne]] at 2 pm.
