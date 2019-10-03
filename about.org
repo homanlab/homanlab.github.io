@@ -6,7 +6,7 @@
 #+TAGS:        homanlab, members, personnel
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Lab members of the INDIP lab
+#+DESCRIPTION: Lab members of the IDP lab
 
 Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the
 Individual Differences in Psychosis (IDP) Lab studies the origins and
@@ -30,17 +30,17 @@ Sinai]], New York after which he joined the faculty as Assistant Professor
 at the [[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
 Medicine]] in New York.
 
-* Maria Neumeier, MD. Postdoc
+* Maria Neumeier. Doctoral student
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_mn.png]]
 
-Maria studied medicine at the University of
-Erlangen-Nuremberg. During her studies she joined a research project in
-the field of tumor immunology. She is a resident physician in Psychiatry
-and Psychotherapy and has a special interest in psychotic
-disorders. Currently she investigates individual differences in side
-effects to antipsychotic treatment.
+Maria studied medicine at the University of Erlangen-Nuremberg. During
+her studies she joined a research project in the field of tumor
+immunology. She is a resident physician in Psychiatry and Psychotherapy
+and has a special interest in psychotic disorders. Currently she
+investigates individual differences in side effects to antipsychotic
+treatment.
 
 * Werner Surbeck MD, PhD. Postdoc
 
@@ -55,6 +55,22 @@ specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
+* Janis Brakowski, MD. Postdoc
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_empty.png]]
+
+Janis is a clinician scientist and is the deputy head of the Center for
+Acute Psychiatry at the Psychiatric University Hospital Zurich. He
+studied Medicine at the Charité University Medicine Berlin as well as
+Philosophy and History at the Humboldt University Berlin. He completed
+his residency in psychiatry (with Erich Seifritz) at the Psychiatric
+University Hospital Zurich and at the Department of Neurology of the
+University Hospital Zurich. His main interest is the analysis of resting
+state functional connectivity in neuropsychiatric disorders. Currently
+he investigates functional connectivity of striatal networks and
+severity of negative symptoms in schizophrenia.
+
 * Nils Kallen, MD. Postdoc
 
 #+ATTR_HTML: :width 200px
@@ -64,6 +80,21 @@ Nils studied medicine at the University of Bern. He is currently a
 resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
+
+* Rahel Horisberger, MSc. Doctoral student
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_rh.png]]
+
+Rahel studied Clinical Psychology, Biology and Art History at the
+University of Zurich. She works as a clinical psychologist and
+psychotherapist at the Psychiatric University Hospital in Zurich. Her
+current research activity for a dissertation focusses on the assessment
+and psychotherapeutic treatment of negative symptoms in schizophrenia
+(in collaboration with Prof. B. Kleim and Prof. S. Kaiser). The
+development of brief psychotherapeutic interventions for psychotic
+disorders in the context of acute inpatient treatment forms the extended
+focus of her research interest.
 
 * Stephanie Winkelbeiner, PhD. Postdoc
 
@@ -83,7 +114,7 @@ interventions (antipsychotics, brain stimulation, psychotherapy).
 
 Noemi completed her masters in neuropsychology at the University of
 Zurich and has worked as a neuropsychologist at the University Hospital
-of Neurology. In her PhD project she is going to apply natural language
+Zurich. In her PhD project she is going to apply natural language
 processing, machine learning, and neuroimaging to identify language
 markers for mental health and mental illness in the psychosis spectrum.
 
