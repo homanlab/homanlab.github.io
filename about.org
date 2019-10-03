@@ -14,7 +14,6 @@ clinical consequences of individual differences in psychotic disorders.
 Interested in working with us? [[mailto:philipp <dot> homan <at> bli <dot> uzh <dot> ch][Reach out]].
 
 * Philipp Homan, MD, PhD. PI
-
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph.png]]
 
