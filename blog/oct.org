@@ -3,8 +3,8 @@
 #+EMAIL:       philipp.homan@bli.uzh.ch
 #+DATE:        2019-10-03 Thu
 #+URI:         /blog/%y/%m/%d/guest-seminar-steven-silverstein-phd
-#+KEYWORDS:    optical coherence tomography, retina, optic nerve
-#+TAGS:        optical coherence tomography, retina, optic nerve
+#+KEYWORDS:    guest seminar, optical coherence tomography, retina, optic nerve
+#+TAGS:        guest seminar, optical coherence tomography, retina, optic nerve
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Steven Silverstein's remote lecture on OCT
@@ -33,7 +33,7 @@ published an
 [[https://www.cambridge.org/core/journals/psychological-medicine/article/optical-coherence-tomography-indices-of-structural-retinal-pathology-in-schizophrenia/9060C9830CBEEE8CE0AD7B36E4754F6D][authorative review on the topic]] in 2018.
 
 * Details
-- *Date*: 10/11/19
-- *Time*: 3:30 PM CET
-- *Location*: PUK Zurich, H108
+- Date: 10/11/19
+- Time: 3:30 PM CET
+- Location: PUK Zurich, H108
 - Host: Philipp Homan
