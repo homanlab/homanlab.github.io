@@ -1,6 +1,6 @@
 #+TITLE:       Contact
-#+AUTHOR:      Philipp Homan
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-05 Sat
 #+URI:         /blog/%y/%m/%d/how-to-contact-us
 #+KEYWORDS:    lab, contact, website
