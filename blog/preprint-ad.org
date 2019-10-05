@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Collaboration with the Nordic Cochrane Centre, Denmark
-#+AVATAR:      https://homanlab.github.io/media/img/preprint-ad2.png
+#+AVATAR:      https://homanlab.github.io/media/img/preprint-ad4.png
 
 #+ATTR_HTML: :width 200px :title preprint
-[[https://homanlab.github.io/media/img/preprint-ad2.png]]
+[[https://homanlab.github.io/media/img/preprint-ad4.png]]
 
 A few months after our [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][paper on individual differences in treatment
 response]] to antipsychotics was [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][published]], we are excited to announce
