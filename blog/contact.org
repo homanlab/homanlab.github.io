@@ -13,13 +13,16 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/contact3.png]]
 
+The lab is located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich
+in the [[https://www.pukzh.ch/default/assets/File/Downloads/WebplanhoheAufl%25C3%25B6sung2014.pdf][H-Building]], Room H108.
+
 * Address
 
-- University Hospital of Psychiatry
-- IDP Lab c/o Philipp Homan
-- Lenggstrasse 31
-- Postfach
-- 8032 Zurich, Switzerland
+University Hospital of Psychiatry \\
+IDP Lab c/o Philipp Homan \\
+Lenggstrasse 31 \\
+Postfach \\
+8032 Zurich, Switzerland
 
 * How to get there 
 - Public Transport Tram 11 or Forchbahn S18 to Balgrist stop
