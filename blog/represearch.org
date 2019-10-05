@@ -13,6 +13,7 @@
 #+ATTR_HTML: :width 200px :title talk
 [[https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png]]
 
+* Summary
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
 [[https://figshare.com/articles/Making_research_reproducible_git_R_and_org-mode/7620692][here]]), I argue that we need to make our work reproducible to make it
@@ -29,11 +30,11 @@ statistical software R[fn:1], all of which have a strong and supportive online
 community and are widely used by computer scientists and researchers
 across the world. They are ideal tools to make research reproducible.
 
-[fn:1] Although popular in academia, there are also legitimate concerns
+[fn:1]Although popular in academia, there are also legitimate concerns
 about R (see [[https://twitter.com/polesasunder/status/1171609748682301447?s=20][here]] for an example) and Python might ultimately be a even 
 better choice.
 
-** Reproducing and replicating
+* Reproducing and replicating
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides [[https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136][here]]) is very useful:
 
@@ -47,7 +48,7 @@ steps that can be integrated into regular work flows that will make it
 at least more likely that our work is reproducible on other machines as
 well.
 
-** Separating data from code 
+* Separating data from code 
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
 intuition when organizing data, code, and manuscripts, which may result
@@ -75,7 +76,7 @@ i.e., read-only. Any analysis reads from but never writes to this
 database. This might seem obvious but I've seen this ignored way too
 often to be confident it is as obvious as it should be.
 
-** Using version control
+* Using version control
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
 version control system originally developed to enable to collectively
@@ -101,7 +102,7 @@ analysis. In other words, it will be difficult to reproduce what we
 did. Fortunately, the solution is simple: writing computer code to
 analyze data.
 
-** Using code to analyze data
+* Using code to analyze data
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
 code; once you get started, it's surprisingly simple.
@@ -182,7 +183,7 @@ In fact, this setup has been so helpful for me that I decided to write a
 function that creates it. It is part of the package [[http://github.com/homanlab/represearch][represearch]] that I
 wrote.
 
-** Putting it all together: the beauty of Makefiles
+* Putting it all together: the beauty of Makefiles
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
 out. Unix environments include an incredibly powerful command with a
@@ -237,12 +238,12 @@ free our memory from remembering all the dependencies of our analysis
 pipeline. We just have to think about them once: when we write the
 Makefile.
 
-** Conclusion
+* Conclusion
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
 version control, Makefiles, and a disciplined coding style.
  
-** Further reading
+* Further reading
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what [[http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/][Jon Zelner]] wrote
 about reproducibility, of which I first read about on [[https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/][Andrew Gelman's
