@@ -1,6 +1,6 @@
 #+TITLE:       SSBP Young Investigator Award 2019
-#+AUTHOR:      Philipp Homan
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-03 Thu
 #+URI:         /blog/%y/%m/%d/ssbp-young-investigator-award
 #+KEYWORDS:    award, lab
