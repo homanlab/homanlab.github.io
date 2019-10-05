@@ -35,7 +35,7 @@ H-Building, Room H108.
 | 11/15/19 | Introduction to git                  | Stephanie   |
 | 11/22/19 | Project presentation                 | Rahel       |
 | 11/29/19 | CANCELLED (DGPPN)                    |             |
-| 12/06/19 | Reserved slot for guest              |             |
+| 12/06/19 | Reserved slot for guest              | Philipp     |
 | 12/13/19 | CANCELLED (ACNP)                     |             |
 | 12/20/19 | Holiday party                        |             |
 
