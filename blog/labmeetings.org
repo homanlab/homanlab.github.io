@@ -27,7 +27,7 @@ H-Building, Room H108.
 | 09/20/19 | CANCELLED (PH traveling)             |             |
 | 09/27/19 | LIBR and SRP 2019 impressions        | Philipp     |
 | 10/04/19 | Project presentation                 | Maria       |
-| 10/11/19 | Guest: Steven Silverstein, PhD       | Philipp     |
+| 10/11/19 | Guest: [[https://tinyurl.com/y5mv5yar][Steven Silverstein, PhD]]       | Philipp     |
 | 10/18/19 | CANCELLED (PH teaching)              |             |
 | 10/25/19 | Project presentation                 | Nils        |
 | 11/01/19 | CANCELLED (Holiday)                  |             |
