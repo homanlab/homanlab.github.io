@@ -31,7 +31,7 @@ community and are widely used by computer scientists and researchers
 across the world. They are ideal tools to make research reproducible.
 
 [fn:1]Although popular in academia, there are also legitimate concerns
-about R (see [[https://twitter.com/polesasunder/status/1171609748682301447?s=20][here]] for an example) and Python might ultimately be a even 
+about R (see [[https://twitter.com/polesasunder/status/1171609748682301447?s=20][here]] for an example) and Python might ultimately be an even 
 better choice.
 
 * Reproducing and replicating
