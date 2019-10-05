@@ -1,6 +1,6 @@
 #+TITLE:       About the IDP lab 
-#+AUTHOR:      Philipp Homan 
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-29 Sun
 #+KEYWORDS:    lab, members, personnel
 #+TAGS:        lab, members, personnel
@@ -115,7 +115,7 @@ focus of her research interest.
 [[https://homanlab.github.io/media/img/lab_sw.png]]
 
 Stephanie completed her PhD at the University of Bern in 2019 and
-currently works as a Post Doc and psychologist at the University
+currently works as a postdoc and psychologist at the University
 Hospital of Psychiatry. As a clinician researcher, she is interested in
 the question of whether or not patients respond differently to
 interventions (antipsychotics, brain stimulation, psychotherapy). 
