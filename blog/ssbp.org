@@ -3,8 +3,8 @@
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-03 Thu
 #+URI:         /blog/%y/%m/%d/ssbp-young-investigator-award
-#+KEYWORDS:    award, lab
-#+TAGS:        award, lab
+#+KEYWORDS:    ssbp, award, lab, 2019
+#+TAGS:        ssbp, award, lab, 2019
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Award to be delivered at SSBP Annual Meeting in Lausanne

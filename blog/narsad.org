@@ -1,0 +1,20 @@
+#+TITLE:       NARSAD Young Investigator Grant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2019-09-30 Mon
+#+URI:         /blog/%y/%m/%d/narsad-young-investigator-grant
+#+KEYWORDS:    narsad, grant, lab, 2019
+#+TAGS:        narsad, grant, lab, 2019
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: 
+#+AVATAR:      https://homanlab.github.io/media/img/narsad1.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/narsad1.png
+
+The [[https://www.bbrfoundation.org/][Brain & Behavior Research
+Foundation]] has awarded a
+[[https://www.bbrfoundation.org/grants-prizes/narsad-young-investigator-grants][NARSAD
+Young Investigator Grant]] to Philipp Homan to study nigrostriatal
+connectivity in psychosis with pharmacoimaging.
