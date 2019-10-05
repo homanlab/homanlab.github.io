@@ -13,7 +13,7 @@
     <meta name="twitter:description" content="Using git, R and org-mode" />
     <meta name="twitter:site" content="@philipphoman"></meta>
     <meta name="twitter:title" content="Repost: Making research reproducible - IDP Lab Zurich"></meta>
-    <meta name="twitter:image" content="https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=100"></meta>
+    <meta name="twitter:image" content="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png"></meta>
   </head>
 
   <body class="container">
@@ -47,7 +47,7 @@
 <h1>Repost: Making research reproducible</h1>
 
 <div class="figure">
-<p><img src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png" alt="thumb.png" width="100px" title="talk" />
+<p><img src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png" alt="thumb.png" width="200px" title="talk" />
 </p>
 </div>
 
@@ -64,14 +64,14 @@ allow us to make our work reproducible; they also enable us to readily
 share our data and workflows with others. I introduce a working
 environment that is based on the editor emacs together with the
 outlining tool org-mode, the version control system git, and the
-statistical software R <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, all of which have a strong and supportive online
+statistical software R<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, all of which have a strong and supportive online
 community and are widely used by computer scientists and researchers
 across the world. They are ideal tools to make research reproducible.
 </p>
 
-<div id="outline-container-org8320c46" class="outline-2">
-<h2 id="org8320c46">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-org8320c46">
+<div id="outline-container-org5ddb3a3" class="outline-2">
+<h2 id="org5ddb3a3">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-org5ddb3a3">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
@@ -79,7 +79,7 @@ To understand this difference, the following table by Kirstie Whitaker
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch.png" alt="represearch.png" width="500px" title="table" />
+<p><img src="http://homanlab.github.io/media/img/represearch.png" alt="represearch.png" width="500px" title="table" />
 </p>
 </div>
 
@@ -94,9 +94,9 @@ well.
 </div>
 </div>
 
-<div id="outline-container-org14ad53d" class="outline-2">
-<h2 id="org14ad53d">Separating data from code</h2>
-<div class="outline-text-2" id="text-org14ad53d">
+<div id="outline-container-org261b4d6" class="outline-2">
+<h2 id="org261b4d6">Separating data from code</h2>
+<div class="outline-text-2" id="text-org261b4d6">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -106,7 +106,7 @@ in excel sheets such as this
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch2.png" alt="represearch2.png" width="700px" title="excel example" />
+<p><img src="http://homanlab.github.io/media/img/represearch2.png" alt="represearch2.png" width="700px" title="excel example" />
 </p>
 </div>
 
@@ -118,7 +118,7 @@ from code -- was this done here?
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch3.gif" alt="represearch3.gif" width="700px" title="nope" />
+<p><img src="http://homanlab.github.io/media/img/represearch3.gif" alt="represearch3.gif" width="700px" title="nope" />
 </p>
 </div>
 
@@ -140,9 +140,9 @@ often to be confident it is as obvious as it should be.
 </div>
 </div>
 
-<div id="outline-container-org1e43803" class="outline-2">
-<h2 id="org1e43803">Using version control</h2>
-<div class="outline-text-2" id="text-org1e43803">
+<div id="outline-container-org07ab36f" class="outline-2">
+<h2 id="org07ab36f">Using version control</h2>
+<div class="outline-text-2" id="text-org07ab36f">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -155,31 +155,31 @@ it works best with plain text files.
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch4.png" alt="represearch4.png" width="700px" title="git" />
+<p><img src="http://homanlab.github.io/media/img/represearch4.png" alt="represearch4.png" width="700px" title="git" />
 </p>
 </div>
 
 <p>
 That being said, much of my research work involves writing text, be it
-code or manuscripts; as it happens, I even write my <a href="https://raw.githubusercontent.com/philipphoman/mrr/master/src/mrr_presentation.org">presentations</a> and
-<a href="http://github.com/philipphoman/org-mode-poster">posters</a> in plain text. In a future blog post, I aim to show how
-scientific manuscripts can ideed be written entirely in plain text,
-using tools such as emacs or Rstudio. Be that as it may, for computer
-code, there is really no other option than writing it in plain
-text. Using a graphical user interfaces (GUIs) such as SPSS or JASP may
-be appealing to get started but it does have a crucial downside: the
-workflow is lost after closing the program. What this means is that it
-will quickly become very difficult to remember the all the steps taken
-to complete a specific analysis. In other words, it will be difficult to
-reproduce what we did. Fortunately, the solution is simple: writing
-computer code to analyze data.
+code or manuscripts; I even write my <a href="https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org">presentations</a> and <a href="http://github.com/homanlab/org-mode-poster">posters</a> in plain
+text. In a future blog post, I aim to show how scientific manuscripts
+can ideed be written entirely in plain text, using tools such as emacs
+or Rstudio. Be that as it may, for computer code, there is really no
+other option than writing it in plain text. Using a graphical user
+interfaces (GUIs) such as SPSS or JASP may be appealing to get started
+but it does have a crucial downside: the workflow is lost after closing
+the program. What this means is that it will quickly become very
+difficult to remember the all the steps taken to complete a specific
+analysis. In other words, it will be difficult to reproduce what we
+did. Fortunately, the solution is simple: writing computer code to
+analyze data.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org96bf626" class="outline-2">
-<h2 id="org96bf626">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org96bf626">
+<div id="outline-container-org4f97b97" class="outline-2">
+<h2 id="org4f97b97">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org4f97b97">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -188,7 +188,7 @@ code; once you get started, it's surprisingly simple.
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch5.jpg" alt="represearch5.jpg" width="700px" title="spaghetti code" />
+<p><img src="http://homanlab.github.io/media/img/represearch5.jpg" alt="represearch5.jpg" width="700px" title="spaghetti code" />
 </p>
 </div>
 
@@ -221,14 +221,14 @@ generous with commenting your code. As many have noted, this is mainly a
 courtesy to your future self who will have much less difficulties
 understanding your code in the future. Finally, a good rule of thumb is
 to never write a line of code twice. Whenever you are tempted to do it,
-you should probably replace it by a function. As it happens, you also
-should not find yourself writing the same function more than once (e.g.,
-across different projects). Instead, put the function into a package;
-and use the package across projects.
+you should probably replace it by a function. In fact, you also should
+not find yourself writing the same function more than once (e.g., across
+different projects). Instead, put the function into a package; and use
+the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="org7a17c3b">#---------------------------------------------------
+<pre class="src src-R" id="orgde15f72">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -273,15 +273,15 @@ the project <i>myproject</i> would look like this:
 
 <p>
 In fact, this setup has been so helpful for me that I decided to write a
-function that creates it. As it happens, the package is called
-<a href="http://github.com/philipphoman/represearch">represearch</a>. 
+function that creates it. It is part of the package <a href="http://github.com/homanlab/represearch">represearch</a> that I
+wrote.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orge7ef8d7" class="outline-2">
-<h2 id="orge7ef8d7">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-orge7ef8d7">
+<div id="outline-container-orgfd96463" class="outline-2">
+<h2 id="orgfd96463">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgfd96463">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -295,7 +295,7 @@ the beginning.
 
 
 <div class="figure">
-<p><img src="http://philipphoman.github.io/media/img/represearch7.png" alt="represearch7.png" width="700px" title="makefile" />
+<p><img src="http://homanlab.github.io/media/img/represearch7.png" alt="represearch7.png" width="700px" title="makefile" />
 </p>
 </div>
 
@@ -316,7 +316,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="orgb0155c1">
+<pre class="src src-sh" id="org6cbdb0b">
 # this is a rule in the Makefile
 statistics: preprocessing 
 	R CMD BATCH myproj_do.R
@@ -349,9 +349,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-org9998350" class="outline-2">
-<h2 id="org9998350">Conclusion</h2>
-<div class="outline-text-2" id="text-org9998350">
+<div id="outline-container-orgdc4f8ad" class="outline-2">
+<h2 id="orgdc4f8ad">Conclusion</h2>
+<div class="outline-text-2" id="text-orgdc4f8ad">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -360,9 +360,9 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-org8c79829" class="outline-2">
-<h2 id="org8c79829">Further reading</h2>
-<div class="outline-text-2" id="text-org8c79829">
+<div id="outline-container-org58d3526" class="outline-2">
+<h2 id="org58d3526">Further reading</h2>
+<div class="outline-text-2" id="text-org58d3526">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
