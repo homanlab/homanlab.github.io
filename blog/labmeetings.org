@@ -1,4 +1,4 @@
-#+TITLE:       Lab meetings schedule
+#+TITLE:       Lab meetings schedule for 2019
 #+AUTHOR:      Philipp Homan
 #+EMAIL:       philipp.homan@bli.uzh.ch
 #+DATE:        2019-09-30 Mon
@@ -13,25 +13,28 @@
 #+ATTR_HTML: width 200px
 https://homanlab.github.io/media/img/labmeeting1.jpg
 
-| Date     | Topic                                                      | Responsible |
-|----------+------------------------------------------------------------+-------------|
-| 08/09/19 | Kelly et al. 2018, Mol Psychiatry                          | Philipp     |
-| 08/16/19 | McCutcheon et al. 2019, TICS                               | Stephanie   |
-| 08/23/19 | Nielsen et al. 2016, JAMA Psychiatry                       | Maria       |
-| 08/30/19 | Upthegrove et al. 2016, Acta Psych                         | Werner      |
-| 09/06/19 | CANCELLED                                                  |             |
-| 09/13/19 | Powers et al. 2017, Science                                | Philipp     |
-| 09/20/19 | CANCELLED (PH traveling)                                   |             |
-| 09/27/19 | LIBR and SRP 2019 impressions                              | Philipp     |
-| 10/04/19 | Project presentation                                       | Maria       |
-| 10/11/19 | Guest speaker: Steven Silverstein, PhD. Rutgers University | Philipp     |
-| 10/18/19 | CANCELLED (PH teaching)                                    |             |
-| 10/25/19 | Project presentation                                       | Nils        |
-| 11/01/19 | CANCELLED (Holiday)                                        |             |
-| 11/08/19 |                                                            |             |
-| 11/15/19 |                                                            |             |
-| 11/22/19 |                                                            |             |
-| 11/29/19 | CANCELLED (DGPPN)                                          |             |
-| 12/06/19 |                                                            |             |
-| 12/13/19 | CANCELLED (ACNP)                                           |             |
-| 12/20/19 | Holiday party                                              |             |
+Meetings take place at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in the
+H-Building, Room H108.    
+
+| Date     | Topic                                | Responsible |
+|----------+--------------------------------------+-------------|
+| 08/09/19 | Kelly et al. 2018, Mol Psychiatry    | Philipp     |
+| 08/16/19 | McCutcheon et al. 2019, TICS         | Stephanie   |
+| 08/23/19 | Nielsen et al. 2016, JAMA Psychiatry | Maria       |
+| 08/30/19 | Upthegrove et al. 2016, Acta Psych   | Werner      |
+| 09/06/19 | CANCELLED                            |             |
+| 09/13/19 | Powers et al. 2017, Science          | Philipp     |
+| 09/20/19 | CANCELLED (PH traveling)             |             |
+| 09/27/19 | LIBR and SRP 2019 impressions        | Philipp     |
+| 10/04/19 | Project presentation                 | Maria       |
+| 10/11/19 | Guest: Steven Silverstein, PhD       | Philipp     |
+| 10/18/19 | CANCELLED (PH teaching)              |             |
+| 10/25/19 | Project presentation                 | Nils        |
+| 11/01/19 | CANCELLED (Holiday)                  |             |
+| 11/08/19 | Project presentation                 | Werner      |
+| 11/15/19 | Introduction to git                  | Stephanie   |
+| 11/22/19 | Project presentation                 | Rahel       |
+| 11/29/19 | CANCELLED (DGPPN)                    |             |
+| 12/06/19 | Reserved slot for guest              | Philipp     |
+| 12/13/19 | CANCELLED (ACNP)                     |             |
+| 12/20/19 | Holiday party                        |             |
