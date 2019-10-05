@@ -16,7 +16,7 @@
 A few months after our [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][paper on individual differences in treatment
 response]] to antipsychotics was [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][published]], we are excited to announce
 that we just posted a follow up study was to [[https://psyarxiv.com/m4aqc/][PsyArxiv]]. Klaus Munkholm,
-MD, DMSc. from the [[https://nordic.cochrane.org][Nordic Cochrane Centre]] led this project that assessed
+MD, DMSc, from the [[https://nordic.cochrane.org][Nordic Cochrane Centre]] led this project that assessed
 a potential personal element of treatment response in
-antidepressants. You can find the [[https://psyarxiv.com/m4aqc/][reprint here]] and the [[https://osf.io/5gpe4/][code and data on
+antidepressants. You can find the [[https://psyarxiv.com/m4aqc/][preprint here]] and the [[https://osf.io/5gpe4/][code and data on
 OSF]].
