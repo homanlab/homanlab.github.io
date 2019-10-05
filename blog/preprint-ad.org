@@ -1,17 +1,17 @@
 #+TITLE:       New preprint posted
-#+AUTHOR:      Philipp Homan
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-30 Mon
 #+URI:         /blog/%y/%m/%d/new-preprint-posted
-#+KEYWORDS:    preprint, treatment response, antidepressant, collaboration
-#+TAGS:        preprint, treatment response, antidepressant, collaboration
+#+KEYWORDS:    preprint, treatment response, antidepressants, collaboration
+#+TAGS:        preprint, treatment response, antidepressants, collaboration
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Collaboration with the Nordic Cochrane Centre, Denmark
-#+AVATAR:      https://homanlab.github.io/media/img/preprint-ad1.png
+#+AVATAR:      https://homanlab.github.io/media/img/preprint-ad2.png
 
 #+ATTR_HTML: :width 200px :title preprint
-[[https://homanlab.github.io/media/img/preprint-ad1.png]]
+[[https://homanlab.github.io/media/img/preprint-ad2.png]]
 
 A few months after our [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][paper on individual differences in treatment
 response]] to antipsychotics was [[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][published]], we are excited to announce

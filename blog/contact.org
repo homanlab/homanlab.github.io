@@ -1,4 +1,4 @@
-#+TITLE:       How to contact us
+#+TITLE:       Contact us
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-05 Sat
@@ -7,7 +7,7 @@
 #+TAGS:        lab, contact, website
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: How to find the IDP Lab
+#+DESCRIPTION: How to reach the IDP Lab
 #+AVATAR:      https://homanlab.github.io/media/img/contact3.png
 
 #+ATTR_HTML: :width 200px
