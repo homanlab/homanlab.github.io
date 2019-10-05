@@ -88,18 +88,18 @@ it works best with plain text files.
 [[http://homanlab.github.io/media/img/represearch4.png]]
 
 That being said, much of my research work involves writing text, be it
-code or manuscripts; as it happens, I even write my [[https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org][presentations]] and
-[[http://github.com/homanlab/org-mode-poster][posters]] in plain text. In a future blog post, I aim to show how
-scientific manuscripts can ideed be written entirely in plain text,
-using tools such as emacs or Rstudio. Be that as it may, for computer
-code, there is really no other option than writing it in plain
-text. Using a graphical user interfaces (GUIs) such as SPSS or JASP may
-be appealing to get started but it does have a crucial downside: the
-workflow is lost after closing the program. What this means is that it
-will quickly become very difficult to remember the all the steps taken
-to complete a specific analysis. In other words, it will be difficult to
-reproduce what we did. Fortunately, the solution is simple: writing
-computer code to analyze data.
+code or manuscripts; I even write my [[https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org][presentations]] and [[http://github.com/homanlab/org-mode-poster][posters]] in plain
+text. In a future blog post, I aim to show how scientific manuscripts
+can ideed be written entirely in plain text, using tools such as emacs
+or Rstudio. Be that as it may, for computer code, there is really no
+other option than writing it in plain text. Using a graphical user
+interfaces (GUIs) such as SPSS or JASP may be appealing to get started
+but it does have a crucial downside: the workflow is lost after closing
+the program. What this means is that it will quickly become very
+difficult to remember the all the steps taken to complete a specific
+analysis. In other words, it will be difficult to reproduce what we
+did. Fortunately, the solution is simple: writing computer code to
+analyze data.
 
 ** Using code to analyze data
 Twitter is full of tweets that celebrate the first successes in writing
@@ -133,10 +133,10 @@ generous with commenting your code. As many have noted, this is mainly a
 courtesy to your future self who will have much less difficulties
 understanding your code in the future. Finally, a good rule of thumb is
 to never write a line of code twice. Whenever you are tempted to do it,
-you should probably replace it by a function. As it happens, you also
-should not find yourself writing the same function more than once (e.g.,
-across different projects). Instead, put the function into a package;
-and use the package across projects.
+you should probably replace it by a function. In fact, you also should
+not find yourself writing the same function more than once (e.g., across
+different projects). Instead, put the function into a package; and use
+the package across projects.
 
 #+NAME: code1
 #+BEGIN_SRC R :session :exports code :results silent
@@ -179,8 +179,8 @@ the project /myproject/ would look like this:
 - myproject_do.R
 	
 In fact, this setup has been so helpful for me that I decided to write a
-function that creates it. As it happens, the package is called
-[[http://github.com/homanlab/represearch][represearch]]. 
+function that creates it. It is part of the package [[http://github.com/homanlab/represearch][represearch]] that I
+wrote.
 
 ** Putting it all together: the beauty of Makefiles
 Having written some code to different files, the question arises how to
