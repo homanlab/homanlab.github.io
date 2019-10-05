@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Repost: Making research reproducible - IDP Lab Zurich</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Philipp Homan" />
+    <meta name="description" content="Using git, R and org-mode" />
+    <meta name="keywords" content="reproducibility, coding, git" />
+    <link rel="stylesheet" href="/media/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/media/css/prettify.css" type="text/css">
+    <meta name="twitter:card" content="summary"></meta>
+    <meta name="twitter:creator:id" content="@philipphoman"></meta>
+    <meta name="twitter:description" content="Using git, R and org-mode" />
+    <meta name="twitter:site" content="@philipphoman"></meta>
+    <meta name="twitter:title" content="Repost: Making research reproducible - IDP Lab Zurich"></meta>
+    <meta name="twitter:image" content="https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=100"></meta>
+  </head>
+
+  <body class="container">
+    <div>
+      <header class="masthead">
+        <h1 class="masthead-title"><a href="/">IDP Lab Zurich</a></h1>
+        <p>Individual Differences in Psychosis</p>
+        <ul>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/tags/">Tags</a></li>
+          <li><a href="https://github.com/homanlab">Github</a></li>
+          <li><a href="https://twitter.com/philipphoman">Twitter</a></li>
+
+          <!--
+          <li><a href=""><	img src="media/img/email.png"></a></li>
+          <li><a href="https://github.com/homanlab"><img src="media/img/github.png"></a></li>
+          <li><a href="https://twitter.com/philipphoman"><img src="media/img/twitter.png"></a></li>
+					-->
+        </ul>
+        <form method="get" id="searchform" action="//www.google.com/search">
+          <input type="text" class="field" name="q" id="s" placeholder="Search">
+          <input type="hidden" name="as_sitesearch" value="homanlab.github.io">
+        </form>
+        <img class="avatar" src="https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=100" />
+      </header>
+    </div>
+
+<div>
+<div class="post">
+<h1>Repost: Making research reproducible</h1>
+
+<div class="figure">
+<p><img src="https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png" alt="thumb.png" width="100px" title="talk" />
+</p>
+</div>
+
+<p>
+These are a few notes on reproducibility. Based on a talk that I gave in
+a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
+<a href="https://figshare.com/articles/Making_research_reproducible_git_R_and_org-mode/7620692">here</a>), I argue that we need to make our work reproducible to make it
+replicable. That is, reproducible for ourselves. Although replicability
+and reproducibility should be distinguished, the former depends on the
+latter. I identify three principles of making research
+reproducible: 1. Separating data from analysis; 2. using version
+control; 3. using code to analyze data. These three principles not only
+allow us to make our work reproducible; they also enable us to readily
+share our data and workflows with others. I introduce a working
+environment that is based on the editor emacs together with the
+outlining tool org-mode, the version control system git, and the
+statistical software R <sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, all of which have a strong and supportive online
+community and are widely used by computer scientists and researchers
+across the world. They are ideal tools to make research reproducible.
+</p>
+
+<div id="outline-container-org8320c46" class="outline-2">
+<h2 id="org8320c46">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-org8320c46">
+<p>
+To understand this difference, the following table by Kirstie Whitaker
+(see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch.png" alt="represearch.png" width="500px" title="table" />
+</p>
+</div>
+
+<p>
+Thus, work is reproducible when identical code on identical data give
+identical results. Achieving this takes some effort; <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">it's not
+reproducible if it only runs on your laptop</a>. That said, there are a few
+steps that can be integrated into regular work flows that will make it
+at least more likely that our work is reproducible on other machines as
+well.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org14ad53d" class="outline-2">
+<h2 id="org14ad53d">Separating data from code</h2>
+<div class="outline-text-2" id="text-org14ad53d">
+<p>
+Indeed, I'd argue that not having reproducible work flows is the
+main reason we often fail at reproducing our own work. We use innocent
+intuition when organizing data, code, and manuscripts, which may result
+in excel sheets such as this
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch2.png" alt="represearch2.png" width="700px" title="excel example" />
+</p>
+</div>
+
+<p>
+where we see some data, quite colorful, together with a dynamite plot
+and with what appears to be a t-test. So speaking of separating data
+from code -- was this done here?
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch3.gif" alt="represearch3.gif" width="700px" title="nope" />
+</p>
+</div>
+
+<p>
+The truth is that we are faced with an unhealthy brew of uncleaned data,
+hidden code, and p-hacked results. The versatility of spreadsheets is
+cool but it comes at a price, a price that we usually pay a few weeks
+after compiling such a spreadsheet.
+</p>
+
+<p>
+An essential step is thus to strictly separate data from code. This
+means that once the final data set is compiled (after data cleaning
+which also wasn't done in the above example) the database is locked,
+i.e., read-only. Any analysis reads from but never writes to this
+database. This might seem obvious but I've seen this ignored way too
+often to be confident it is as obvious as it should be.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1e43803" class="outline-2">
+<h2 id="org1e43803">Using version control</h2>
+<div class="outline-text-2" id="text-org1e43803">
+<p>
+What is version control and why should I use it? For me, this boils down
+to the quesiton: what is git and why should I use it? Git is a free
+version control system originally developed to enable to collectively
+work on the open source operating system Linux. It is in principle a
+system for source code management, tracking every file in a project and
+any change therein. It is relatively easy to use but has one downside:
+it works best with plain text files.
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch4.png" alt="represearch4.png" width="700px" title="git" />
+</p>
+</div>
+
+<p>
+That being said, much of my research work involves writing text, be it
+code or manuscripts; as it happens, I even write my <a href="https://raw.githubusercontent.com/philipphoman/mrr/master/src/mrr_presentation.org">presentations</a> and
+<a href="http://github.com/philipphoman/org-mode-poster">posters</a> in plain text. In a future blog post, I aim to show how
+scientific manuscripts can ideed be written entirely in plain text,
+using tools such as emacs or Rstudio. Be that as it may, for computer
+code, there is really no other option than writing it in plain
+text. Using a graphical user interfaces (GUIs) such as SPSS or JASP may
+be appealing to get started but it does have a crucial downside: the
+workflow is lost after closing the program. What this means is that it
+will quickly become very difficult to remember the all the steps taken
+to complete a specific analysis. In other words, it will be difficult to
+reproduce what we did. Fortunately, the solution is simple: writing
+computer code to analyze data.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org96bf626" class="outline-2">
+<h2 id="org96bf626">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org96bf626">
+<p>
+Twitter is full of tweets that celebrate the first successes in writing
+code. They are all encouraging, and indeed, there is no magic in writing
+code; once you get started, it's surprisingly simple.
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch5.jpg" alt="represearch5.jpg" width="700px" title="spaghetti code" />
+</p>
+</div>
+
+<p>
+Of course, it is also surprisingly simple to write bad code, sometimes
+referred to as <a href="https://en.wikipedia.org/wiki/Spaghetti_code">spaghetti code</a> (not to speak of <a href="https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code">ravioli code</a> or <a href="https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code">lasagna
+code</a>); my early work is full of it (twitter is also famous for examples
+of people admitting embarrassement about their code, and I'm no
+exception). Spaghetti code stands for poorly written, hard to maintain
+computer code; or in other words, computer code that does not make
+research reproducible. How to avoid it? Here are three rules:
+</p>
+
+<ol class="org-ol">
+<li>Let your variable names speak for themselves</li>
+<li>Comment your code generously</li>
+<li>Never write a line of code twice</li>
+</ol>
+
+<p>
+There is a famous quote that goes like this: There are only two hard
+things in Computer Science: cache invalidation and naming things (Phil
+Karlton). Indeed, coding is relatively easy, the real problem is naming
+variables. Naming variables (and functions) makes your code readable,
+and style guides (such as <a href="https://google.github.io/styleguide/Rguide.xml">this R style guide</a> by google) take it quite
+seriously. So do spend some time in thinking about reasonable names for
+variables. Although there is truth to the famous saying that "good code
+is self-documenting", another recommendation is to be relatively
+generous with commenting your code. As many have noted, this is mainly a
+courtesy to your future self who will have much less difficulties
+understanding your code in the future. Finally, a good rule of thumb is
+to never write a line of code twice. Whenever you are tempted to do it,
+you should probably replace it by a function. As it happens, you also
+should not find yourself writing the same function more than once (e.g.,
+across different projects). Instead, put the function into a package;
+and use the package across projects.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-R" id="org7a17c3b">#---------------------------------------------------
+# This is a simple R program
+# 9/18/18, PH
+#---------------------------------------------------
+#
+# 1. Load and visualize data
+#---------------------------------------------------
+dat &lt;- read.csv("../data/mrr.csv")
+
+# Histogramms
+hist(dat$y[dat$group=="X"], col="blue")
+hist(dat$y[dat$group=="Y"], col="blue")
+
+# 2. Compute linear model, adjusted for  age
+#---------------------------------------------------
+lmfit &lt;- lm(y ~ group + age, data=dat)
+
+# 3. Visualize residuals to check model assumptions
+#---------------------------------------------------
+plot(density(resid(lmfit)))
+
+# 4. Print coefficients
+#---------------------------------------------------
+summary(lmfit)
+</pre>
+</div>
+
+
+<p>
+A final remark on organizing code. I mostly use R and python, and have
+made good experiences with a simple division of labor of my code: one
+file for all the data cleaning, one for all the functions, one for
+loading the data, and one for analysing it. Thus, a typical setup for
+the project <i>myproject</i> would look like this:
+</p>
+
+<ul class="org-ul">
+<li>myproject_clean.R</li>
+<li>myproject_load.R</li>
+<li>myproject_func.R</li>
+<li>myproject_do.R</li>
+</ul>
+
+<p>
+In fact, this setup has been so helpful for me that I decided to write a
+function that creates it. As it happens, the package is called
+<a href="http://github.com/philipphoman/represearch">represearch</a>. 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7ef8d7" class="outline-2">
+<h2 id="orge7ef8d7">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orge7ef8d7">
+<p>
+Having written some code to different files, the question arises how to
+best execute it. Once again, computer scientists have long figured this
+out. Unix environments include an incredibly powerful command with a
+name that shines in brevity: make. The command will look for a
+<i>Makefile</i> in the current directory and will process the commands and
+dependencies in this file. A Makefile is something like a fancy
+configuration file for the make command; it can be a little confusing in
+the beginning.
+</p>
+
+
+<div class="figure">
+<p><img src="http://philipphoman.github.io/media/img/represearch7.png" alt="represearch7.png" width="700px" title="makefile" />
+</p>
+</div>
+
+<p>
+Yet, a Makefile is just a set of rules that tell <i>make</i> what to do.  A
+Makefile is particularly important when different parts of our code
+depend on each other. For example, there may be one part that does some
+sort of preprocessing of the data and another part that runs statistics
+on that preprocessed data. Now imagine that you found a way to improve
+the preprocessing -- for example, you realize that it is much better to
+use the R package <code>readr</code> and its function <code>read_csv()</code> instead of
+<code>read.csv()</code> to load your comma separated data (see <a href="https://www.google.com">here</a> why this is a
+good idea). You thus edit your preprocessing file. Ideally, the make
+routine would notice that your preprocessing file was modified and and
+that it should be done again. And since the preprocessed data was
+updated, the statistics on the preprocessed data should also be run
+again. Indeed, such a rule can be easily set up in the Makefile.
+</p>
+
+<div class="org-src-container">
+<pre class="src src-sh" id="orgb0155c1">
+# this is a rule in the Makefile
+statistics: preprocessing 
+	R CMD BATCH myproj_do.R
+
+# this another rule
+preprocessing: datafile1.csv datafile2.csv  
+	R CMD BATCH myproj_clean.R
+
+</pre>
+</div>
+
+<p>
+Here, we are telling make that statistics depend on preprocessing, and
+that preprocessing depends on datafile1 and on datafile2. What this
+means is that when e.g. <code>datafile2</code> changes, preprocessing will be run
+again, that is, the file <code>myproj_preproc.R</code>. And since statistics depend
+on preprocessing, statistics (that is, the R script <code>myproj_do.R</code>) will
+also be run in that case.
+</p>
+
+<p>
+The benefit of all this may not be obvious for a trivial example where
+it is easy to keep track what was updated and what needs to be run
+again. But as soon as our projects start expanding to multiple steps of
+preprocessing and analysis, such rules are incredibly useful as they
+free our memory from remembering all the dependencies of our analysis
+pipeline. We just have to think about them once: when we write the
+Makefile.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9998350" class="outline-2">
+<h2 id="org9998350">Conclusion</h2>
+<div class="outline-text-2" id="text-org9998350">
+<p>
+I have argued that making research reproducible requires tools that are
+well-known in computer science and software development, including
+version control, Makefiles, and a disciplined coding style.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org8c79829" class="outline-2">
+<h2 id="org8c79829">Further reading</h2>
+<div class="outline-text-2" id="text-org8c79829">
+<p>
+There are many excellent examples of people reflecting about
+reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
+about reproducibility, of which I first read about on <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">Andrew Gelman's
+blog</a>. I would also like to highlight this <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">presentation</a> by Kirstie
+Whitaker from Cambridge.
+</p>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Although popular in academia, there are also legitimate concerns
+about R (see <a href="https://twitter.com/polesasunder/status/1171609748682301447?s=20">here</a> for an example) and Python might ultimately be a even 
+better choice.
+</p></div></div>
+
+
+</div>
+</div>
+</div>
+</div>
+    <div>
+      <div class="post-meta">
+        <span title="post date" class="post-info">2019-10-05</span>
+        <!--<span title="last modification date" class="post-info">2019-10-05</span>-->
+        <span title="tags" class="post-info"><a href="/tags/reproducibility/">reproducibility</a>, <a href="/tags/coding/">coding</a>, <a href="/tags/git/">git</a></span>
+        <span title="author" class="post-info">Philipp Homan</span>
+      </div>
+      <section>
+        <h1>Comments</h1>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+          //var disqus_developer = 1;
+          var disqus_identifier = "/blog/2019/10/05/repost-making-research-reproducible";
+          var disqus_url = "http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible";
+          var disqus_shortname = 'https-homanlab-github-io';
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="//disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </section>
+      <script src="//code.jquery.com/jquery-latest.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/prettify/r298/prettify.js"></script>
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+      <script src="/media/js/main.js"></script>
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-134217900-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
+      <div class="footer">
+        <p>Generated by <a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.x (<a href="http://orgmode.org">Org mode</a> 9.x)</p>
+        <p>
+          Copyright &copy; 2012 - <span id="footerYear"></span> <a href="mailto:philipp &lt;dot&gt; homan &lt;at&gt; bli &lt;dot&gt; uzh &lt;dot&gt; ch">Philipp Homan</a>
+          &nbsp;&nbsp;-&nbsp;&nbsp;
+          Powered by <a href="https://github.com/kelvinh/org-page" target="_blank">org-page</a>
+          <script type="text/javascript">document.getElementById("footerYear").innerHTML = (new Date()).getFullYear();</script>
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>
