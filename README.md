@@ -1,2 +1,0 @@
-# homanlab.github.io
-
