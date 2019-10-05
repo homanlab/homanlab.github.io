@@ -2,11 +2,11 @@
 #+AUTHOR:      Philipp Homan 
 #+EMAIL:       philipp.homan@bli.uzh.ch
 #+DATE:        2019-09-29 Sun
-#+KEYWORDS:    homanlab, members, personnel
-#+TAGS:        homanlab, members, personnel
+#+KEYWORDS:    lab, members, personnel
+#+TAGS:        lab, members, personnel
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Lab members of the IDP lab
+#+DESCRIPTION: Members of the IDP lab
 
 Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the
 Individual Differences in Psychosis (IDP) Lab studies the origins and
