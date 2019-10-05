@@ -1,4 +1,4 @@
-#+TITLE:       Contact
+#+TITLE:       How to contact us
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-05 Sat
@@ -15,22 +15,18 @@
 
 * Address
 
-University Hospital of Psychiatry
-IDP Lab 
-c/o Philipp Homan
-Lenggstrasse 31
-Postfach 
-8032 Zurich, Switzerland
+- University Hospital of Psychiatry
+- IDP Lab c/o Philipp Homan
+- Lenggstrasse 31
+- Postfach
+- 8032 Zurich, Switzerland
 
- 
+* How to get there 
 - Public Transport Tram 11 or Forchbahn S18 to Balgrist stop
-- About 5 minutes
-  [[https://www.pukzh.ch/default/assets/File/Downloads/WebplanhoheAufl%C3%B6sung2014.pdf
-][walk]]
+- About 5 minutes [[https://www.pukzh.ch/default/assets/File/Downloads/WebplanhoheAufl%C3%B6sung2014.pdf][walk]]
 
 * Phone
 +41 (0)44 384 21 11
 
 * E-Mail
 homanlab.zurich@gmail.com
-
