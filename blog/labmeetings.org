@@ -14,7 +14,7 @@
 https://homanlab.github.io/media/img/labmeeting1.jpg
 
 Usually meetings take place at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in the
-H-Building, Room H108. 
+H-Building, Room H108.   
 
 | Date     | Topic                                | Responsible |
 |----------+--------------------------------------+-------------|
