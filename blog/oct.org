@@ -3,8 +3,8 @@
 #+EMAIL:       philipp.homan@bli.uzh.ch
 #+DATE:        2019-10-03 Thu
 #+URI:         /blog/%y/%m/%d/guest-seminar-steven-silverstein-phd
-#+KEYWORDS:    guest seminar, optical coherence tomography, retina
-#+TAGS:        guest seminar, optical coherence tomography, retina
+#+KEYWORDS:    guest, seminar, optical coherence tomography, retina
+#+TAGS:        guest, seminar, optical coherence tomography, retina
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Steven Silverstein's remote lecture on OCT
