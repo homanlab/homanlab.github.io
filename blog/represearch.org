@@ -8,8 +8,9 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Using git, R and org-mode
+#+AVATAR:      https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png
 
-#+ATTR_HTML: :width 100px :title talk
+#+ATTR_HTML: :width 200px :title talk
 [[https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png]]
 
 These are a few notes on reproducibility. Based on a talk that I gave in
@@ -24,7 +25,7 @@ allow us to make our work reproducible; they also enable us to readily
 share our data and workflows with others. I introduce a working
 environment that is based on the editor emacs together with the
 outlining tool org-mode, the version control system git, and the
-statistical software R [fn:1], all of which have a strong and supportive online
+statistical software R[fn:1], all of which have a strong and supportive online
 community and are widely used by computer scientists and researchers
 across the world. They are ideal tools to make research reproducible.
 
@@ -37,7 +38,7 @@ To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides [[https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136][here]]) is very useful:
 
 #+ATTR_HTML: :width 500px :title table
-[[http://philipphoman.github.io/media/img/represearch.png]]
+[[http://homanlab.github.io/media/img/represearch.png]]
 
 Thus, work is reproducible when identical code on identical data give
 identical results. Achieving this takes some effort; [[https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/][it's not
@@ -53,14 +54,14 @@ intuition when organizing data, code, and manuscripts, which may result
 in excel sheets such as this
 
 #+ATTR_HTML: :width 700px :title excel example
-[[http://philipphoman.github.io/media/img/represearch2.png]]
+[[http://homanlab.github.io/media/img/represearch2.png]]
 
 where we see some data, quite colorful, together with a dynamite plot
 and with what appears to be a t-test. So speaking of separating data
 from code -- was this done here?
 
 #+ATTR_HTML: :width 700px :title nope 
-[[http://philipphoman.github.io/media/img/represearch3.gif]]
+[[http://homanlab.github.io/media/img/represearch3.gif]]
  
 The truth is that we are faced with an unhealthy brew of uncleaned data,
 hidden code, and p-hacked results. The versatility of spreadsheets is
@@ -84,11 +85,11 @@ any change therein. It is relatively easy to use but has one downside:
 it works best with plain text files.
 
 #+ATTR_HTML: :width 700px :title git 
-[[http://philipphoman.github.io/media/img/represearch4.png]]
+[[http://homanlab.github.io/media/img/represearch4.png]]
 
 That being said, much of my research work involves writing text, be it
-code or manuscripts; as it happens, I even write my [[https://raw.githubusercontent.com/philipphoman/mrr/master/src/mrr_presentation.org][presentations]] and
-[[http://github.com/philipphoman/org-mode-poster][posters]] in plain text. In a future blog post, I aim to show how
+code or manuscripts; as it happens, I even write my [[https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org][presentations]] and
+[[http://github.com/homanlab/org-mode-poster][posters]] in plain text. In a future blog post, I aim to show how
 scientific manuscripts can ideed be written entirely in plain text,
 using tools such as emacs or Rstudio. Be that as it may, for computer
 code, there is really no other option than writing it in plain
@@ -106,7 +107,7 @@ code. They are all encouraging, and indeed, there is no magic in writing
 code; once you get started, it's surprisingly simple.
 
 #+ATTR_HTML: :width 700px :title spaghetti code
-[[http://philipphoman.github.io/media/img/represearch5.jpg]]
+[[http://homanlab.github.io/media/img/represearch5.jpg]]
 
 Of course, it is also surprisingly simple to write bad code, sometimes
 referred to as [[https://en.wikipedia.org/wiki/Spaghetti_code][spaghetti code]] (not to speak of [[https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code][ravioli code]] or [[https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code][lasagna
@@ -179,7 +180,7 @@ the project /myproject/ would look like this:
 	
 In fact, this setup has been so helpful for me that I decided to write a
 function that creates it. As it happens, the package is called
-[[http://github.com/philipphoman/represearch][represearch]]. 
+[[http://github.com/homanlab/represearch][represearch]]. 
 
 ** Putting it all together: the beauty of Makefiles
 Having written some code to different files, the question arises how to
@@ -192,7 +193,7 @@ configuration file for the make command; it can be a little confusing in
 the beginning.
 
 #+ATTR_HTML: :width 700px :title makefile 
-[[http://philipphoman.github.io/media/img/represearch7.png]]
+[[http://homanlab.github.io/media/img/represearch7.png]]
 
 Yet, a Makefile is just a set of rules that tell /make/ what to do.  A
 Makefile is particularly important when different parts of our code
