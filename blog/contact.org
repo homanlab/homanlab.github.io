@@ -35,6 +35,7 @@ Switzerland
 [[https://homanlab.github.io/media/img/lab_email.png]]
 
 * Github
+#+ATTR_HTML: :target _parent
 https://github.com/homanlab
 
 * Twitter
