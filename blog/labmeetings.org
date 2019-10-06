@@ -1,6 +1,6 @@
 #+TITLE:       Lab meetings schedule 2019
-#+AUTHOR:      Philipp Homan
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-30 Mon
 #+URI:         /blog/%y/%m/%d/lab-meetings-schedule
 #+KEYWORDS:    lab, meeting, journal club, seminar
