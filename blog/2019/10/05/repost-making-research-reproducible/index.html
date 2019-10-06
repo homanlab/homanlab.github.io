@@ -52,9 +52,9 @@
 </p>
 </div>
 
-<div id="outline-container-orge27acc7" class="outline-2">
-<h2 id="orge27acc7">Summary</h2>
-<div class="outline-text-2" id="text-orge27acc7">
+<div id="outline-container-orgc1d2bd4" class="outline-2">
+<h2 id="orgc1d2bd4">Summary</h2>
+<div class="outline-text-2" id="text-orgc1d2bd4">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -75,9 +75,9 @@ across the world. They are ideal tools to make research reproducible.
 </div>
 </div>
 
-<div id="outline-container-orgea62aa5" class="outline-2">
-<h2 id="orgea62aa5">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-orgea62aa5">
+<div id="outline-container-org0dcd972" class="outline-2">
+<h2 id="org0dcd972">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-org0dcd972">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
@@ -100,9 +100,9 @@ well.
 </div>
 </div>
 
-<div id="outline-container-orgfafd13b" class="outline-2">
-<h2 id="orgfafd13b">Separating data from code</h2>
-<div class="outline-text-2" id="text-orgfafd13b">
+<div id="outline-container-org1b96ff6" class="outline-2">
+<h2 id="org1b96ff6">Separating data from code</h2>
+<div class="outline-text-2" id="text-org1b96ff6">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -146,9 +146,9 @@ often to be confident it is as obvious as it should be.
 </div>
 </div>
 
-<div id="outline-container-org155864a" class="outline-2">
-<h2 id="org155864a">Using version control</h2>
-<div class="outline-text-2" id="text-org155864a">
+<div id="outline-container-orgaad0d15" class="outline-2">
+<h2 id="orgaad0d15">Using version control</h2>
+<div class="outline-text-2" id="text-orgaad0d15">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -167,7 +167,7 @@ it works best with plain text files.
 
 <p>
 That being said, much of my research work involves writing text, be it
-code or manuscripts; I even write my <a href="https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org">presentations</a> and <a href="http://github.com/homanlab/org-mode-poster">posters</a> in plain
+code or manuscripts; I even write my <a href="https://raw.githubusercontent.com/philipphoman/mrr/master/src/mrr_presentation.org">presentations</a> and <a href="http://github.com/homanlab/org-mode-poster">posters</a> in plain
 text. In a future blog post, I aim to show how scientific manuscripts
 can ideed be written entirely in plain text, using tools such as emacs
 or Rstudio. Be that as it may, for computer code, there is really no
@@ -183,9 +183,9 @@ analyze data.
 </div>
 </div>
 
-<div id="outline-container-org094cfb5" class="outline-2">
-<h2 id="org094cfb5">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org094cfb5">
+<div id="outline-container-org36a1e48" class="outline-2">
+<h2 id="org36a1e48">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org36a1e48">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -234,7 +234,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="org870b52b">#---------------------------------------------------
+<pre class="src src-R" id="org1e1bd47">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -279,15 +279,15 @@ the project <i>myproject</i> would look like this:
 
 <p>
 In fact, this setup has been so helpful for me that I decided to write a
-function that creates it. It is part of the package <a href="http://github.com/homanlab/represearch">represearch</a> that I
+function that creates it. It is part of the package <a href="http://github.com/philipphoman/represearch">represearch</a> that I
 wrote.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org15653dd" class="outline-2">
-<h2 id="org15653dd">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-org15653dd">
+<div id="outline-container-orgc3c284f" class="outline-2">
+<h2 id="orgc3c284f">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgc3c284f">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -322,7 +322,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="org4767118">
+<pre class="src src-sh" id="org8805ded">
 # this is a rule in the Makefile
 statistics: preprocessing 
 	R CMD BATCH myproj_do.R
@@ -355,9 +355,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-orgc18e089" class="outline-2">
-<h2 id="orgc18e089">Conclusion</h2>
-<div class="outline-text-2" id="text-orgc18e089">
+<div id="outline-container-org3f22b8b" class="outline-2">
+<h2 id="org3f22b8b">Conclusion</h2>
+<div class="outline-text-2" id="text-org3f22b8b">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -366,9 +366,9 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-org6590ae5" class="outline-2">
-<h2 id="org6590ae5">Further reading</h2>
-<div class="outline-text-2" id="text-org6590ae5">
+<div id="outline-container-org6633a9e" class="outline-2">
+<h2 id="org6633a9e">Further reading</h2>
+<div class="outline-text-2" id="text-org6633a9e">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
