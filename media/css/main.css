@@ -48,7 +48,7 @@ p {
 h1, h2, h3 {
     position: relative;
     margin: 30px 0 20px;
-    font-size: 28px;
+    font-size: 18px;
     font-weight: bold;
     line-height: 1.1;
     color: #111;
@@ -175,7 +175,7 @@ table th.right, table td.right {
 }
 /* head */
 .masthead {
-    color: #ccc;
+    color: #888;
 }
 .masthead:after {
     display: block;
@@ -184,14 +184,12 @@ table th.right, table td.right {
     color: #ccc;
 }
 .masthead a {
-    color: #ccc;
+    color: #333;
 }
 .masthead ul {
     list-style: none;
 }
 .masthead li {
-    font-size: 20px;
-    font-weight: bold;
     display: inline-block;
 }
 .masthead li + li:before {
