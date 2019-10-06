@@ -20,5 +20,3 @@ MD, DMSc, from the [[https://nordic.cochrane.org][Nordic Cochrane Centre]] led t
 a potential personal element of treatment response in
 antidepressants. You can find the [[https://psyarxiv.com/m4aqc/][preprint here]] and the [[https://osf.io/5gpe4/][code and data on
 OSF]].
-
-
