@@ -9,7 +9,7 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Making research reproducible
 # AVATAR:      https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png
-#+AVATAR:      https://homanlab.github.io/media/img/represearch5.jpg
+#+AVATAR:      https://homanlab.github.io/media/img/represearch5.png
 
 #+ATTR_HTML: :width 200px :title talk
 https://homanlab.github.io/media/img/represearch5.png
