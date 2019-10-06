@@ -1,7 +1,7 @@
 #+TITLE:       Contact us
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
-#+DATE:        2019-10-05 Sat
+#+DATE:        2019-09-30 Mon
 #+URI:         /blog/%y/%m/%d/how-to-contact-us
 #+KEYWORDS:    lab, contact, website
 #+TAGS:        lab, contact, website
