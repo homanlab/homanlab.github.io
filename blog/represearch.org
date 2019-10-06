@@ -12,7 +12,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/represearch5.jpg
 
 #+ATTR_HTML: :width 200px :title talk
-[[https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png]]
+https://homanlab.github.io/media/img/represearch5.png
 
 * Summary
 These are a few notes on reproducibility. Based on a talk that I gave in
