@@ -38,5 +38,5 @@ Switzerland
 https://github.com/homanlab
 
 * Twitter
-@philipphoman
+[[https://twitter.com/philipphoman][@philipphoman]]
 
