@@ -8,7 +8,8 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Using git, R and org-mode
-#+AVATAR:      https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png
+# AVATAR:      https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png
+#+AVATAR:      https://homanlab.github.io/media/img/represearch5.jpg
 
 #+ATTR_HTML: :width 200px :title talk
 [[https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png]]
