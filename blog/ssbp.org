@@ -1,4 +1,4 @@
-#+TITLE:       SSBP Young Investigator Award 2019
+#+TITLE:       SSBP Young Investigator Award
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-03 Thu
