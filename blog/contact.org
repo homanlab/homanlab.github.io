@@ -32,4 +32,11 @@ Switzerland
 +41 (0)44 384 21 11
 
 * E-Mail
-homanlab.zurich@gmail.com
+[[https://homanlab.github.io/media/img/lab_contact.png]]
+
+* Github
+https://github.com/homanlab
+
+* Twitter
+@philipphoman
+
