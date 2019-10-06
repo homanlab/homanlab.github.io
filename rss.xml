@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 06 Oct 2019 12:58:21 CEST</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2019 12:58:21 CEST</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2019 13:00:12 CEST</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2019 13:00:12 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -30,9 +30,9 @@
       <guid>http://homanlab.github.io/blog/2019/09/30/new-preprint-posted</guid>
     </item>
     <item>
-      <title>Repost: Making research reproducible</title>
+      <title>Repost: Beyond spaghetti code</title>
       <link>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</link>
-      <description><![CDATA[Using git, R and org-mode]]></description>
+      <description><![CDATA[Making research reproducible]]></description>
       <pubDate>2019-10-06</pubDate>
       <guid>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</guid>
     </item>
