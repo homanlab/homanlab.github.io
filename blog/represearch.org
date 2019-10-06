@@ -251,4 +251,3 @@ about reproducibility, of which I first read about on [[https://statmodeling.sta
 blog]]. I would also like to highlight this [[https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136][presentation]] by Kirstie
 Whitaker from Cambridge.
 
-
