@@ -1,5 +1,5 @@
 # METAEXTRA: <meta http-equiv = "refresh" content="0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/" />
-#+TITLE: 0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/
+#+URI: 0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/
 
 Test
 test
