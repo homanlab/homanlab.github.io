@@ -37,7 +37,7 @@ html {
 body {
     padding: 20px;
     font-family: Menlo, Monaco, monospace;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.5;
     color: #666;
     background-color: #fff;
@@ -48,7 +48,8 @@ p {
 h1, h2, h3 {
     position: relative;
     margin: 30px 0 20px;
-    font-size: 18px;
+    /*font-size: 18px; */
+    font-size: 35px;
     font-weight: bold;
     line-height: 1.1;
     color: #111;
