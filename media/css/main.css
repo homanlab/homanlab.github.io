@@ -176,7 +176,8 @@ table th.right, table td.right {
 }
 /* head */
 .masthead {
-    font-size: 22px;
+    font-size: 18px;
+    font-weight: bold;
     color: #888;
 }
 .masthead:after {
