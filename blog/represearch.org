@@ -89,7 +89,7 @@ it works best with plain text files.
 [[http://homanlab.github.io/media/img/represearch4.png]]
 
 That being said, much of my research work involves writing text, be it
-code or manuscripts; I even write my [[https://raw.githubusercontent.com/homanlab/mrr/master/src/mrr_presentation.org][presentations]] and [[http://github.com/homanlab/org-mode-poster][posters]] in plain
+code or manuscripts; I even write my [[https://raw.githubusercontent.com/philipphoman/mrr/master/src/mrr_presentation.org][presentations]] and [[http://github.com/homanlab/org-mode-poster][posters]] in plain
 text. In a future blog post, I aim to show how scientific manuscripts
 can ideed be written entirely in plain text, using tools such as emacs
 or Rstudio. Be that as it may, for computer code, there is really no
@@ -180,7 +180,7 @@ the project /myproject/ would look like this:
 - myproject_do.R
 	
 In fact, this setup has been so helpful for me that I decided to write a
-function that creates it. It is part of the package [[http://github.com/homanlab/represearch][represearch]] that I
+function that creates it. It is part of the package [[http://github.com/philipphoman/represearch][represearch]] that I
 wrote.
 
 * Putting it all together: the beauty of Makefiles
