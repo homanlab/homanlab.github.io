@@ -1,6 +1,6 @@
 #+TITLE:       Our lab website is online
-#+AUTHOR:      Philipp Homan
-#+EMAIL:       philipp.homan@bli.uzh.ch
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-30 Mon
 #+URI:         /blog/%y/%m/%d/our-lab-website-is-online
 #+KEYWORDS:    lab, website
@@ -11,7 +11,7 @@
 #+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=80
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_logo.png]]
+[[https://homanlab.github.io/media/img/lab_logo_blue.png]]
 
 Built in [[https://orgmode.org][org-mode]] and hosted on [[https://github.com][github]], the IDP Lab Zurich now finally
 has a [[https://homanlab.github.io][website]]. Find out [[https://homanlab.github.io/about][who we are and what we do]], and watch out for new
