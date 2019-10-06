@@ -57,7 +57,7 @@ h1, h2, h3 {
 h1:before, h2:before, h3:before {
     position: absolute;
     top: auto;
-    color: #ccc;
+    color: #3973b5;
     display: none;
 }
 h1:before {
@@ -94,7 +94,7 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    color: #3973b5;
 }
 ul, ol {
     padding: 0;
@@ -108,7 +108,7 @@ code {
 }
 code:before, code:after {
     content: "=";
-    color: #ccc;
+    color: #3973b5;
 }
 pre {
     display: block;
@@ -181,7 +181,7 @@ table th.right, table td.right {
     display: block;
     content: '----------------------------------------------------------------';
     margin: 10px 0;
-    color: #ccc;
+    color: #3973b5;
 }
 .masthead a {
     color: #333;
@@ -195,7 +195,7 @@ table th.right, table td.right {
 .masthead li + li:before {
     display: inline-block;
     content: "\00B7 \00a0";
-    color: #ccc;
+    color: #3973b5;
 }
 /* searchform*/
 #searchform {
@@ -244,7 +244,7 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    color: #3973b5;
 }
 .post img {
     max-width: 100%;
@@ -255,7 +255,7 @@ table th.right, table td.right {
 .post ul > li:before {
     content: "- ";
     margin-left: -1.25em;
-    color: #ccc;
+    color: #3973b5;
 }
 .post ol {
     counter-reset: o-list;
@@ -264,7 +264,7 @@ table th.right, table td.right {
     content: counter(o-list) ") ";
     counter-increment: o-list;
     margin-left: -1.85em;
-    color: #ccc;
+    color: #3973b5;
 }
 
 /* special for li in pre */
@@ -289,7 +289,7 @@ table th.right, table td.right {
     content: "----------------------------------------------------------------";
     display: block;
     margin-top: -1px;
-    color: #ccc;
+    color: #3973b5;
 }
 
 /* table of content */
