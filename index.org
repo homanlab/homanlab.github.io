@@ -1,2 +1,2 @@
 #+TITLE: Index
-#+HTML_HEAD: <meta http-equiv = "refresh" content="0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/" />
+#+EXTRA_META: <meta http-equiv = "refresh" content="0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/" />
