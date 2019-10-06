@@ -39,5 +39,6 @@ Switzerland
 https://github.com/homanlab
 
 * Twitter
+#+ATTR_HTML: :target _parent
 [[https://twitter.com/philipphoman][@philipphoman]]
 
