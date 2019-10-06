@@ -249,3 +249,5 @@ reproducibility online. The post was inspired by what [[http://www.jonzelner.net
 about reproducibility, of which I first read about on [[https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/][Andrew Gelman's
 blog]]. I would also like to highlight this [[https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136][presentation]] by Kirstie
 Whitaker from Cambridge.
+
+
