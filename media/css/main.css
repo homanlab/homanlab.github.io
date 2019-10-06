@@ -32,7 +32,7 @@ html, body {
     padding: 0;
 }
 html {
-    font-size: 82.5%;
+    font-size: 62.5%;
 }
 body {
     padding: 20px;
@@ -191,6 +191,7 @@ table th.right, table td.right {
     list-style: none;
 }
 .masthead li {
+    font-size: 20px;
     display: inline-block;
 }
 .masthead li + li:before {
