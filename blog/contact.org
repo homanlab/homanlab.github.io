@@ -32,7 +32,7 @@ Switzerland
 +41 (0)44 384 21 11
 
 * E-Mail
-[[https://homanlab.github.io/media/img/lab_contact.png]]
+[[https://homanlab.github.io/media/img/lab_email.png]]
 
 * Github
 https://github.com/homanlab
