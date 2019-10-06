@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 06 Oct 2019 12:33:53 CEST</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2019 12:33:53 CEST</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2019 12:40:13 CEST</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2019 12:40:13 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -37,6 +37,13 @@
       <guid>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</guid>
     </item>
     <item>
+      <title>SSBP Young Investigator Award</title>
+      <link>http://homanlab.github.io/blog/2019/10/03/ssbp-young-investigator-award</link>
+      <description><![CDATA[Award to be delivered at SSBP Annual Meeting in Lausanne]]></description>
+      <pubDate>2019-10-06</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/10/03/ssbp-young-investigator-award</guid>
+    </item>
+    <item>
       <title>Our lab website is online</title>
       <link>http://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online</link>
       <description><![CDATA[The new IDP Lab Zurich website is now online on github]]></description>
@@ -56,13 +63,6 @@
       <description><![CDATA[Steven Silverstein's remote lecture on OCT]]></description>
       <pubDate>2019-10-05</pubDate>
       <guid>http://homanlab.github.io/blog/2019/10/03/guest-seminar-steven-silverstein-phd</guid>
-    </item>
-    <item>
-      <title>SSBP Young Investigator Award 2019</title>
-      <link>http://homanlab.github.io/blog/2019/10/03/ssbp-young-investigator-award</link>
-      <description><![CDATA[Award to be delivered at SSBP Annual Meeting in Lausanne]]></description>
-      <pubDate>2019-10-05</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/10/03/ssbp-young-investigator-award</guid>
     </item>
   </channel>
 </rss>
