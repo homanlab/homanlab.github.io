@@ -3,14 +3,12 @@
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat
 #+URI:         /blog/%y/%m/%d/philipp-homan-md-phd
-#+KEYWORDS:    lab, philipp
-#+TAGS:        lab, philipp
+#+KEYWORDS:    lab, philipp, contact, cv
+#+TAGS:        lab, philipp, contact, cv
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Clinician scientist
 #+AVATAR:      https://homanlab.github.io/media/img/lab_ph.png
-
-* Philipp Homan, MD, PhD. PI
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph.png]]
@@ -60,3 +58,8 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - Medical University of Vienna
 - University of Zurich
 - University of Toronto
+** Contact
+- Phone: +41 (0)44 384 21 11
+- E-mail: philipp.homan@bli.uzh.ch
+#+ATTR_HTML: :target _blank
+- Twitter: [[https://twitter.com/philipphoman][@philipphoman]]
