@@ -13,6 +13,7 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph.png]]
 
+** About                                                             :ignore:
 Philipp is a
 [[https://en.wikipedia.org/wiki/Physician-scientist][clinician
 scientist]] at the University Hospital of Psychiatry and PI of the IDP
@@ -39,27 +40,45 @@ Medicine]] in New York.
 - Homan et al. 2019c, Neuropsychopharmacology [[[https://www.nature.com/articles/s41386-019-0464-y][link]]]
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
-** Conference talks
-- American College of Neuropsychopharmacology (ACNP)
-- Schizophrenia International Research Society (SIRS)
-- Winter Conference for Brain Research (WCBR)
-- Society of Research in Psychopathology (SRP)
-- World Federation of Societies of Biological Psychiatry (WFSBP)
-- German Federation of Psychiatry and Psychotherapy (DGPPN)
-- European Conference of Schizophrenia Research (ECSR)
-	
-** Invited talks 
-- Laureate Institute for Brain Research, Tulsa, Oklahoma
-- National Institute of Mental Health (NIMH)
-- IBM Watson, York Town Heights, New York
-- University of Geneva
-- Mount Sinai School of Medicine, New York
-- Zucker Hillside Hospital, New York
-- Medical University of Vienna
-- University of Zurich
-- University of Toronto
+** Prizes, awards, fellowships
+*** 10/2019
+Young Investigator Award from the Swiss Society of Biological Psychiatry
+(SSBP), Switzerland
+
+*** 09/2019
+NARSAD Young Investigator Grant from the Brain & Behavior Research
+Foundation (BBRF), USA
+
+*** 03/2019
+Young Investigator Award from the World Federation of Societies of
+Biological Psychiatry (WFSBP), Germany
+
+*** 04/2018 
+Travel Award from the Schizophrenia International Research Society, USA
+
+*** 05/2016 
+Poster Award from the Friedman Brain Institute at the 8th Annual
+Neurosciene Retreat, New York Academy of Medicine, USA
+
+*** 06/2015 
+Advanced Postdoc.Mobility Fellowship from the Swiss National Science
+Foundation, Switzerland (SNF 161077)
+
+*** 11/2014 
+Hans Heimann Dissertation Award from the Deutsche Gesellschaft für
+Psychiatrie, Psychotherapie und Nervenheilkunde (DGPPN), Germany
+
+*** 09/2014 
+Frutiger Award from the Foundation Adrian and Simone Frutiger,
+Switzerland
+
+*** 11/2011 
+Poster Award from the Deutsche Gesellschaft für Psychiatrie,
+Psychotherapie und Nervenheilkunde (DGPPN), Germany
+
+
 ** Contact
+#+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
 - E-mail: philipp.homan@bli.uzh.ch
-#+ATTR_HTML: :target _blank
 - Twitter: [[https://twitter.com/philipphoman][@philipphoman]]
