@@ -180,8 +180,9 @@ table th.right, table td.right {
 }
 .masthead:after {
     display: block;
-    content: '----------------------------------------------------------';
+    content: '----------------------------------------------------------------';
     margin: 10px 0;
+    font-size: 18px;
     color: #ccc;
 }
 .masthead a {
@@ -192,7 +193,7 @@ table th.right, table td.right {
 }
 .masthead li {
     display: inline-block;
-    font-size: 20px;
+    font-size: 22px;
 }
 .masthead li + li:before {
     display: inline-block;
