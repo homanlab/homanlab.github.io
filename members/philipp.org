@@ -1,0 +1,62 @@
+#+TITLE:       Philipp Homan, MD, PhD
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-12 Sat
+#+URI:         /blog/%y/%m/%d/philipp-homan-md-phd
+#+KEYWORDS:    lab, philipp
+#+TAGS:        lab, philipp
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Clinician scientist
+#+AVATAR:      https://homanlab.github.io/media/img/lab_ph.png
+
+* Philipp Homan, MD, PhD. PI
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_ph.png]]
+
+Philipp is a
+[[https://en.wikipedia.org/wiki/Physician-scientist][clinician
+scientist]] at the University Hospital of Psychiatry and PI of the IDP
+lab. He studied business and computer science at the
+[[https://tuwien.ac.at/en/][Technical University]] and medicine at the
+[[https://www.meduniwien.ac.at/web/en][Medical University]] in
+Vienna. He completed his residency in psychiatry (with Werner Strik) as
+well as a PhD in clinical neuroscience (with Thomas Dierks) at the
+[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he
+was Attending Physician at the [[http://www.upd.unibe.ch][University
+Hospital]] and also led the Brain Stimulation Unit. He then did a two
+year fellowship with
+[[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela
+Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after
+which he joined the faculty as Assistant Professor at the
+[[https://feinsteininstitute.org][Feinstein Institute for Medical
+Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
+Medicine]] in New York.
+
+** Recent publications
+- Winkelbeiner et al. 2019, JAMA Psychiatry [[[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][link]]]
+- Homan et al. 2019a, Nature Neuroscience [[[https://www.nature.com/articles/s41593-018-0315-x][link]]]
+- Homan et al. 2019b, Neuropsychopharmacology [[[https://www.nature.com/articles/s41386-019-0322-y][link]]]
+- Homan et al. 2019c, Neuropsychopharmacology [[[https://www.nature.com/articles/s41386-019-0464-y][link]]]
+See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
+
+** Conference talks
+- American College of Neuropsychopharmacology (ACNP)
+- Schizophrenia International Research Society (SIRS)
+- Winter Conference for Brain Research (WCBR)
+- Society of Research in Psychopathology (SRP)
+- World Federation of Societies of Biological Psychiatry (WFSBP)
+- German Federation of Psychiatry and Psychotherapy (DGPPN)
+- European Conference of Schizophrenia Research (ECSR)
+	
+** Invited talks 
+- Laureate Institute for Brain Research, Tulsa, Oklahoma
+- National Institute of Mental Health (NIMH)
+- IBM Watson, York Town Heights, New York
+- University of Geneva
+- Mount Sinai School of Medicine, New York
+- Zucker Hillside Hospital, New York
+- Medical University of Vienna
+- University of Zurich
+- University of Toronto
