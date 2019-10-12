@@ -13,6 +13,12 @@
 #+ATTR_HTML: width 200px
 https://homanlab.github.io/media/img/jardri1.png
 
+We are excited to host [[https://pro.univ-lille.fr/en/renaud-jardri/][Renaud Jardri]] as the second speaker this year in
+our remote seminar series. Renaud is an expert in positive symptoms in
+schizophrenia and has published an [[https://www.nature.com/articles/ncomms14218][intriguing paper about circular
+inference in schizophrenia]]. The seminar will take place on December 6,
+2019, at 3:30 pm at the PUK Zurich, H108.
+
 * Abstract
 Positive symptoms in schizophrenia include a combination of
 hallucinations, delusions and disorganized thinking. In a forced-choice
