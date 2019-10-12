@@ -42,6 +42,3 @@ https://github.com/homanlab
 #+ATTR_HTML: :target _blank
 [[https://twitter.com/philipphoman][@philipphoman]]
 
-
-
-
