@@ -44,4 +44,3 @@ neural mechanisms of hallucinations in children, adolescents and adults.
 - Location: PUK Zurich, H108
 - Host: Philipp Homan
 	
-
