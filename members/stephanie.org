@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
-#+URI:         /blog/%y/%m/%d/stephanie-winkelbeiner-phd
+#+URI:         /who/%y/%m/%d/stephanie-winkelbeiner-phd
 #+KEYWORDS:    lab, stephanie, contact, cv
 #+TAGS:        lab, stephanie, contact, cv
 #+LANGUAGE:    en

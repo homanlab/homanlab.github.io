@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
-#+URI:         /blog/%y/%m/%d/rahel-horisberger-msc
+#+URI:         /who/%y/%m/%d/rahel-horisberger-msc
 #+KEYWORDS:    lab, rahel, contact, cv
 #+TAGS:        lab, rahel, contact, cv
 #+LANGUAGE:    en
