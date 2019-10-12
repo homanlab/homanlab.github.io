@@ -184,10 +184,7 @@ table th.right, table td.right {
     color: #ccc;
 }
 .masthead a {
-    color: #666;
-    font-size: 20px;
-    font-weight: bold;
-
+    color: #333;
 }
 .masthead ul {
     list-style: none;
