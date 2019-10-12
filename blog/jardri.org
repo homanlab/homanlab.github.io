@@ -13,6 +13,7 @@
 #+ATTR_HTML: width 200px
 https://homanlab.github.io/media/img/jardri1.png
 
+#+ATTR_HTML: :target _blank
 We are excited to host [[https://pro.univ-lille.fr/en/renaud-jardri/][Renaud Jardri]] as the second speaker this year in
 our remote seminar series. Renaud is an expert in positive symptoms in
 schizophrenia and has published an [[https://www.nature.com/articles/ncomms14218][intriguing paper about circular
