@@ -1,7 +1,7 @@
 #+TITLE:       Rahel Horisberger, MSc, Doctoral Student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-12 Sat
+#+DATE:        2019-10-11 Fri
 #+URI:         /blog/%y/%m/%d/rahel-horisberger-msc
 #+KEYWORDS:    lab, rahel, contact, cv
 #+TAGS:        lab, rahel, contact, cv

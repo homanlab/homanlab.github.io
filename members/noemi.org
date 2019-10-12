@@ -1,7 +1,7 @@
 #+TITLE:       Noemi Dannecker, MSc, Graduate Student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-12 Sat
+#+DATE:        2019-10-10 Thu
 #+URI:         /blog/%y/%m/%d/noemi-dannecker-msc
 #+KEYWORDS:    lab, noemi, contact, cv
 #+TAGS:        lab, noemi, contact, cv
