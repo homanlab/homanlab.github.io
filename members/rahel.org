@@ -1,4 +1,4 @@
-#+TITLE:       Rahel Horisberger, PhD
+#+TITLE:       Rahel Horisberger, MSc, Doctoral Student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat

@@ -1,4 +1,4 @@
-#+TITLE:       Philipp Homan, MD, PhD
+#+TITLE:       Philipp Homan, MD, PhD, PI
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat

@@ -1,4 +1,4 @@
-#+TITLE:       Janis Brakowski, PhD
+#+TITLE:       Janis Brakowski, MD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat

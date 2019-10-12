@@ -1,4 +1,4 @@
-#+TITLE:       Werner Surbeck, PhD
+#+TITLE:       Werner Surbeck, MD, PhD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat

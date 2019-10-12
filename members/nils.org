@@ -1,4 +1,4 @@
-#+TITLE:       Nils Kallen, PhD
+#+TITLE:       Nils Kallen, MD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat

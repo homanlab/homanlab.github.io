@@ -1,4 +1,4 @@
-#+TITLE:       Maria Neumeier, PhD
+#+TITLE:       Maria Neumeier, Doctoral Student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat
