@@ -1,0 +1,27 @@
+#+TITLE:       Maria Neumeier, PhD
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-12 Sat
+#+URI:         /blog/%y/%m/%d/maria-neumeier
+#+KEYWORDS:    lab, maria, contact, cv
+#+TAGS:        lab, maria, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Doctoral Student
+#+AVATAR:      https://homanlab.github.io/media/img/lab_mn.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_mn.png]]
+
+** About                                                             :ignore:
+Maria studied medicine at the University of Erlangen-Nuremberg. During
+her studies she joined a research project in the field of tumor
+immunology. She is a resident physician in Psychiatry and Psychotherapy
+and has a special interest in psychotic disorders. Currently she
+investigates individual differences in side effects to antipsychotic
+treatment.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: maria.neumeier@bli.uzh.ch
