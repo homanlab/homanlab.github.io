@@ -45,4 +45,3 @@ neural mechanisms of hallucinations in children, adolescents and adults.
 - Host: Philipp Homan
 	
 
-
