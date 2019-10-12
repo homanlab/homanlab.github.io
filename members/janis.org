@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
-#+URI:         /who/%y/%m/%d/janis-brakowski-md
+#+URI:         /members/%y/%m/%d/janis-brakowski-md
 #+KEYWORDS:    lab, janis, contact, cv
 #+TAGS:        lab, janis, contact, cv
 #+LANGUAGE:    en

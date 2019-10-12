@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
-#+URI:         /who/%y/%m/%d/maria-neumeier
+#+URI:         /members/%y/%m/%d/maria-neumeier
 #+KEYWORDS:    lab, maria, contact, cv
 #+TAGS:        lab, maria, contact, cv
 #+LANGUAGE:    en

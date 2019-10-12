@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
-#+URI:         /who/%y/%m/%d/noemi-dannecker-msc
+#+URI:         /members/%y/%m/%d/noemi-dannecker-msc
 #+KEYWORDS:    lab, noemi, contact, cv
 #+TAGS:        lab, noemi, contact, cv
 #+LANGUAGE:    en
@@ -24,3 +24,4 @@ markers for mental health and mental illness in the psychosis spectrum.
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
 - E-mail: noemi.dannecker@usz.ch
+

@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat
-#+URI:         /who/%y/%m/%d/philipp-homan-md-phd
+#+URI:         /members/%y/%m/%d/philipp-homan-md-phd
 #+KEYWORDS:    lab, philipp, contact, cv
 #+TAGS:        lab, philipp, contact, cv
 #+LANGUAGE:    en
