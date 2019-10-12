@@ -27,7 +27,7 @@ H-Building, Room H108.
 | 09/20/19 | CANCELLED (PH traveling)             |             |
 | 09/27/19 | LIBR and SRP 2019 impressions        | Philipp     |
 | 10/04/19 | Project presentation                 | Maria       |
-| 10/11/19 | Guest: Steven Silverstein, PhD       | Philipp     |
+| 10/11/19 | [[https://tinyurl.com/y5mv5yar][Guest: Steven Silverstein, PhD]]       | Philipp     |
 | 10/18/19 | CANCELLED (PH teaching)              |             |
 | 10/25/19 | Project presentation                 | Nils        |
 | 11/01/19 | CANCELLED (Holiday)                  |             |
@@ -35,6 +35,6 @@ H-Building, Room H108.
 | 11/15/19 | Introduction to git                  | Stephanie   |
 | 11/22/19 | Project presentation                 | Rahel       |
 | 11/29/19 | CANCELLED (DGPPN)                    |             |
-| 12/06/19 | Guest: Renaud Jardri, MD, PhD        | Philipp     |
+| 12/06/19 | [[https://tinyurl.com/y4slzjcv][Guest: Renaud Jardri, MD, PhD]]        | Philipp     |
 | 12/13/19 | CANCELLED (ACNP)                     |             |
 | 12/20/19 | Holiday party                        |             |
