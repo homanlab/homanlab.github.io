@@ -48,7 +48,7 @@ p {
 h1, h2, h3 {
     position: relative;
     margin: 30px 0 20px;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     line-height: 1.1;
     color: #111;
@@ -176,11 +176,13 @@ table th.right, table td.right {
 /* head */
 .masthead {
     color: #888;
+    font-size: 22px;
 }
 .masthead:after {
     display: block;
     content: '----------------------------------------------------------------';
     margin: 10px 0;
+    font-size: 18px;
     color: #ccc;
 }
 .masthead a {
@@ -191,6 +193,7 @@ table th.right, table td.right {
 }
 .masthead li {
     display: inline-block;
+    font-size: 22px;
 }
 .masthead li + li:before {
     display: inline-block;
