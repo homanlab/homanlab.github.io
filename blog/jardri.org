@@ -3,8 +3,8 @@
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-12 Sat
 #+URI:         /blog/%y/%m/%d/guest-seminar-renaud-jardri-md-phd
-#+KEYWORDS:    confidence, bayesian inference, positive symptoms
-#+TAGS:        confidence, bayesian inference, positive symptoms
+#+KEYWORDS:    seminar, guest, confidence, bayesian inference, positive symptoms
+#+TAGS:        seminar, guest, confidence, bayesian inference, positive symptoms
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Circular inference in schizophrenia
