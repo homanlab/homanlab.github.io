@@ -7,7 +7,7 @@
 #+TAGS:        lab, philipp, contact, cv
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Clinician scientist
+#+DESCRIPTION: Principal Investigator
 #+AVATAR:      https://homanlab.github.io/media/img/lab_ph.png
 
 #+ATTR_HTML: :width 200px

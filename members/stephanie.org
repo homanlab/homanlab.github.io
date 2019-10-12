@@ -7,7 +7,7 @@
 #+TAGS:        lab, stephanie, contact, cv
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Clinician scientist
+#+DESCRIPTION: Postdoc
 #+AVATAR:      https://homanlab.github.io/media/img/lab_sw.png
 
 #+ATTR_HTML: :width 200px

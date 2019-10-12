@@ -1,0 +1,25 @@
+#+TITLE:       Nils Kallen, PhD
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-12 Sat
+#+URI:         /blog/%y/%m/%d/nils-kallen-md
+#+KEYWORDS:    lab, nils, contact, cv
+#+TAGS:        lab, nils, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/lab_nk.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_nk.png]]
+
+** About                                                             :ignore:
+Nils studied medicine at the University of Bern. He is currently a
+resident in psychiatry at the University Hospital of Psychiatry in
+Zurich and is interested in biomarkers of central system abnormalities
+that may predict conversion to psychosis in high risk subjects.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: nils.kallen@puk.zh.ch
