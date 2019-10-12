@@ -176,11 +176,11 @@ table th.right, table td.right {
 /* head */
 .masthead {
     color: #888;
-    font-size: 20px;
+    font-size: 22px;
 }
 .masthead:after {
     display: block;
-    content: '----------------------------------------------------------------';
+    content: '----------------------------------------------------------';
     margin: 10px 0;
     color: #ccc;
 }
