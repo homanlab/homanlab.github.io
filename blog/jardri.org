@@ -26,24 +26,17 @@ patients than controls and correlated with the severity of positive
 symptoms while descending loops correlated with the severity of negative
 symptoms. In addition, both loops correlated with the level of
 disorganized symptoms. The findings suggest that circular inference
-might mediate the clinical manifestations of schizophrenia
+might mediate the clinical manifestations of schizophrenia.
 
 * About the speaker
 Renaud Jardri is a Professor of Child & Adolescent Psychiatry at the
 Lille University School of Medicine, and Associate Faculty in the Group
 for Neural Theory, INSERM U-960, at the Ecole Normale Supérieure
-Paris. He is also the Deputy Chairman of the CRBSP of Lille (Biomedical
-and Public Health Research Committee), Head of the Hallucinations Group
-at the SCA-Lab (Lille University, CNRS UMR-9193), Medical Director of
-the research platform CURE (Fontan Hospital, CHU Lille) and Head of the
-Perinatal Psychiatry Dpt. at the CHU Lille. Renaud obtained his MD in
-2007 and his PhD in Neuroscience in 2010 at the University of Lille. He
-did a postdoctoral fellowship from 2009 to 2011 with Sophie Deneve at
-the Ecole Normale Superieur in Paris. His main research interests are
-the exploration of the underlying neural mechanisms of hallucinations in
-children, adolescents and adults. This work currently focuses on
-hallucinations and delusional beliefs, using behavioral, computational,
-brain imaging and developmental approaches.
+Paris. Renaud obtained his MD in 2007 and his PhD in Neuroscience in
+2010 at the University of Lille. He did a postdoctoral fellowship from
+2009 to 2011 with Sophie Deneve at the Ecole Normale Superieur in
+Paris. His main research interests are the exploration of the underlying
+neural mechanisms of hallucinations in children, adolescents and adults.
 
 * Details
 - Date: 12/6/19
