@@ -41,41 +41,33 @@ Medicine]] in New York.
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
 ** Prizes, awards, fellowships
-*** 10/2019
-Young Investigator Award from the Swiss Society of Biological Psychiatry
-(SSBP), Switzerland
+- 10/2019: Young Investigator Award from the Swiss Society of Biological
+  Psychiatry (SSBP), Switzerland
 
-*** 09/2019
-NARSAD Young Investigator Grant from the Brain & Behavior Research
-Foundation (BBRF), USA
+- 09/2019: NARSAD Young Investigator Grant from the Brain & Behavior
+  Research Foundation (BBRF), USA
 
-*** 03/2019
-Young Investigator Award from the World Federation of Societies of
-Biological Psychiatry (WFSBP), Germany
+- 03/2019: Young Investigator Award from the World Federation of
+  Societies of Biological Psychiatry (WFSBP), Germany
 
-*** 04/2018 
-Travel Award from the Schizophrenia International Research Society, USA
+- 04/2018: Travel Award from the Schizophrenia International Research
+  Society, USA
 
-*** 05/2016 
-Poster Award from the Friedman Brain Institute at the 8th Annual
-Neurosciene Retreat, New York Academy of Medicine, USA
+- 05/2016: Poster Award from the Friedman Brain Institute at the 8th
+  Annual Neurosciene Retreat, New York Academy of Medicine, USA
 
-*** 06/2015 
-Advanced Postdoc.Mobility Fellowship from the Swiss National Science
-Foundation, Switzerland (SNF 161077)
+- 06/2015: Advanced Postdoc.Mobility Fellowship from the Swiss National
+  Science Foundation, Switzerland (SNF 161077)
 
-*** 11/2014 
-Hans Heimann Dissertation Award from the Deutsche Gesellschaft für
-Psychiatrie, Psychotherapie und Nervenheilkunde (DGPPN), Germany
+- 11/2014: Hans Heimann Dissertation Award from the Deutsche
+  Gesellschaft für Psychiatrie, Psychotherapie und Nervenheilkunde
+  (DGPPN), Germany
 
-*** 09/2014 
-Frutiger Award from the Foundation Adrian and Simone Frutiger,
-Switzerland
+- 09/2014: Frutiger Award from the Foundation Adrian and Simone
+  Frutiger, Switzerland
 
-*** 11/2011 
-Poster Award from the Deutsche Gesellschaft für Psychiatrie,
-Psychotherapie und Nervenheilkunde (DGPPN), Germany
-
+- 11/2011: Poster Award from the Deutsche Gesellschaft für Psychiatrie,
+  Psychotherapie und Nervenheilkunde (DGPPN), Germany
 
 ** Contact
 #+ATTR_HTML: :target _blank
