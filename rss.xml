@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 20 Oct 2019 12:33:00 CEST</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2019 12:33:00 CEST</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2019 13:45:02 CEST</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 13:45:02 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Editorial Board</title>
+      <link>http://homanlab.github.io/blog/2019/10/20/editorial-board</link>
+      <description><![CDATA[British Journal of Psychiatry]]></description>
+      <pubDate>2019-10-20</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/10/20/editorial-board</guid>
+    </item>
     <item>
       <title>Lab meetings schedule for 2019</title>
       <link>http://homanlab.github.io/blog/2019/09/30/lab-meetings-schedule</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Graduate Student]]></description>
       <pubDate>2019-10-12</pubDate>
       <guid>http://homanlab.github.io/members/2019/10/10/noemi-dannecker-msc</guid>
-    </item>
-    <item>
-      <title>Rahel Horisberger, MSc, Doctoral Student</title>
-      <link>http://homanlab.github.io/members/2019/10/11/rahel-horisberger-msc</link>
-      <description><![CDATA[Doctoral Student]]></description>
-      <pubDate>2019-10-12</pubDate>
-      <guid>http://homanlab.github.io/members/2019/10/11/rahel-horisberger-msc</guid>
     </item>
   </channel>
 </rss>
