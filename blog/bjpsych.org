@@ -1,4 +1,4 @@
-#+TITLE:       Editorial Board
+#+TITLE:       British Journal of Psychiatry
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-10-20 Sun
@@ -7,7 +7,7 @@
 #+TAGS:        editorial board, philipp, lab
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: British Journal of Psychiatry
+#+DESCRIPTION: Philipp joinded the Editorial Board
 #+AVATAR:      https://homanlab.github.io/media/img/bjpsych1.png
 
 #+ATTR_HTML: :width 200px
