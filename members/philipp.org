@@ -69,6 +69,11 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - 11/2011: Poster Award from the Deutsche Gesellschaft für Psychiatrie,
   Psychotherapie und Nervenheilkunde (DGPPN), Germany
 
+** Media and outreach
+- [[https://www.dropbox.com/s/q0u67aqz10pjvl0/oe1_journalum8_20181228.mp3?dl=0][Radio interview]] about [[https://science.orf.at/stories/2954096/][traumatic memories]], ORF 2018.
+- [[https://www.dropbox.com/s/m5j672swskro4x8/KJ2MN.pdf?dl=0][TMS for positive symptoms]]. NZZ 2013. 
+- Co-founder [[http://www.trialogbern.ch][Recovery Trialog]], 2012.
+
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
