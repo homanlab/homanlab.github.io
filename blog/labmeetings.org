@@ -34,7 +34,7 @@ H-Building, Room H108.
 | 11/08/19 | Project presentation                 | Werner      |
 | 11/15/19 | Introduction to git                  | Stephanie   |
 | 11/22/19 | Project presentation                 | Rahel       |
-| 11/29/19 | DGPPN Meeting                        |             |
+| 11/29/19 | Project presentation                 | Stephanie   |
 | 12/06/19 | [[https://tinyurl.com/y4slzjcv][Guest: Renaud Jardri, MD, PhD]]        | Philipp     |
 | 12/13/19 | ACNP Meeting                         |             |
 | 12/20/19 | Holiday party                        |             |
@@ -42,5 +42,5 @@ H-Building, Room H108.
 | 01/03/20 | CANCELLED                            |             |
 | 01/10/20 | Guest: Lena Palaniyappan, MD         | Philipp     |
 | 01/17/20 | Project presentation                 |             |
-| 01/24/20 | Project presentation                 |             |
+| 01/24/20 | [[https://homanlab.github.io/blog/2019/11/27/guest-seminar-ellen-ji-phd/][Guest: Ellen Ji, PhD]]                 | Philipp     |
 | 01/31/20 | Journalclub                          |             |
