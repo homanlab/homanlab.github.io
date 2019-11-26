@@ -1,0 +1,55 @@
+#+TITLE:       Guest Seminar: Ellen Ji, PhD
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2019-11-27 Wed
+#+URI:         /blog/%y/%m/%d/guest-seminar-ellen-ji-phd
+#+KEYWORDS:    seminar, guest, dysconnectivity, sex hormones
+#+TAGS:        seminar, guest, dysconnectivity, sex hormones
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: The role of sex hormones in schizophrenia 
+#+AVATAR:      https://homanlab.github.io/media/img/ej1.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/ej1.png
+
+We are very happy to host [[https://www.researchgate.net/profile/Ellen_Ji][Ellen Ji]] as a speaker in our guest seminar
+series. Ellen is an expert in brain imaging of psychosis and bipolar
+disorder and has recently published an [[https://academic.oup.com/schizophreniabulletin/article-abstract/45/6/1367/5430123?redirectedFrom=fulltext][exciting paper on dysconnectivity
+in psychosis]]. The seminar will take place on January 24, 2019, at 3:30
+pm at the PUK Zurich, H108.
+
+* Abstract
+Mounting evidence suggests that sex steroid hormones are implicated in
+the pathophysiology of schizophrenia and clinical trials of adjunctive
+hormone-based treatments have been relatively successful. Moreover, grey
+matter deficits and abnormal brain function are integral components of
+disease neuropathology. Using a multidisciplinary approach integrating
+structural neuroimaging, functional neuroimaging and molecular biology,
+Ellen Ji will discuss how sex hormones and neurosteroids (estrogen,
+testosterone, dehydroepiandrosterone) may be relevant to a number of
+core deficits and brain abnormalities routinely described in
+schizophrenia. She proposes that circulating hormones in the periphery
+that cross the blood-brain barrier could be informative of brain
+pathology and supports the idea that stratifying patients into more
+homogeneous subgroups may be a promising approach to better
+understanding the pathophysiology of psychosis.
+
+* About the speaker
+Ellen Ji is dedicated to understanding the pathophysiology of psychosis
+and earned her PhD in the Schizophrenia Research Laboratory of Tom and
+Cyndi Weickert at Neuroscience Research Australia. She did a
+postdoctoral fellowship from 2017-2019 at NeuroSpin in France with
+Josselin Houenou. Ellen has investigated the effects of adjunctive
+treatments for schizophrenia and how brain-based and blood-based
+biomarkers may characterise a subgroup of patients with
+schizophrenia. Most recently she has been working on the
+Bipolar-Schizophrenia Network on Intermediate Phenotypes (B-SNIP) study
+to understand how short-range connectivity in superficial white matter
+may be altered in psychosis.
+
+* Details
+- Date: 1/24/20
+- Time: 3:30 PM CET
+- Location: PUK Zurich, H108
+- Host: Philipp Homan
