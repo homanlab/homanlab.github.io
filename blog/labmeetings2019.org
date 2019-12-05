@@ -32,9 +32,9 @@ H-Building, Room H108.
 | 10/25/19 | CANCELLED                            |             |
 | 11/01/19 | Feczko et al. 2019, TICS             | Nils        |
 | 11/08/19 | Project presentation                 | Werner      |
-| 11/15/19 | Introduction to git                  | Stephanie   |
+| 11/15/19 | Project presentation                 | Stephanie   |
 | 11/22/19 | Project presentation                 | Rahel       |
-| 11/29/19 | Project presentation                 | Stephanie   |
+| 11/29/19 | Introduction to git                  | Stephanie   |
 | 12/06/19 | [[https://tinyurl.com/y4slzjcv][Guest: Renaud Jardri, MD, PhD]]        | Philipp     |
 | 12/13/19 | ACNP Meeting                         |             |
 | 12/20/19 | Holiday party                        |             |

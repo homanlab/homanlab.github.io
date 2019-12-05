@@ -65,7 +65,7 @@ schizophrenia spectrum disorders.
 * Janis Brakowski, MD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_empty.png]]
+[[https://homanlab.github.io/media/img/lab_jb.png]]
 
 Janis is a clinician scientist and is the deputy head of the Center for
 Acute Psychiatry at the Psychiatric University Hospital Zurich. He
