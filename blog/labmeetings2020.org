@@ -14,7 +14,7 @@
 https://homanlab.github.io/media/img/labmeeting2.png
 
 Meetings take place at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in the
-H-Building, Room H108.    
+H-Building, Room H108 unless otherwise announced.   
 
 | Date     | Topic                        | Responsible |
 |----------+------------------------------+-------------|
@@ -23,24 +23,24 @@ H-Building, Room H108.
 | 01/17/20 | Project presentation         |             |
 | 01/24/20 | [[https://homanlab.github.io/blog/2019/11/27/guest-seminar-ellen-ji-phd/][Guest: Ellen Ji, PhD]]         | Philipp     |
 | 01/31/20 | Journalclub                  |             |
-| 02/07/20 |                              |             |
+| 02/07/20 | Project presentation         |             |
 | 02/14/20 |                              |             |
-| 02/21/20 |                              |             |
-| 02/28/20 |                              |             |
+| 02/21/20 | Journalclub                  |             |
+| 02/28/20 | Guest: Paul Hoff, MD         | Philipp     |
 | 03/06/20 |                              |             |
-| 03/13/20 |                              |             |
+| 03/13/20 | Guest: TBC                   |             |
 | 03/20/20 |                              |             |
-| 03/27/20 |                              |             |
+| 03/27/20 | Journalclub                  |             |
 | 04/03/20 | SIRS Meeting                 |             |
 | 04/10/20 |                              |             |
-| 04/17/20 |                              |             |
-| 04/24/20 |                              |             |
+| 04/17/20 | Guest: TBC                   |             |
+| 04/24/20 | Journalclub                  |             |
 | 05/01/20 | SOBP Meeting                 |             |
 | 05/08/20 | Guest: Paola Dazzan, MD      | Philipp     |
 | 05/15/20 |                              |             |
 | 05/22/20 |                              |             |
-| 05/29/20 |                              |             |
-| 06/05/20 |                              |             |
-| 06/12/20 |                              |             |
-| 06/19/20 |                              |             |
+| 05/29/20 | Journalclub                  |             |
+| 06/05/20 | Project presentation         |             |
+| 06/12/20 | Guest: TBC                   |             |
+| 06/19/20 | Journalclub                  |             |
 | 06/26/20 | Summer party                 |             |
