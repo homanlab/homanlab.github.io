@@ -15,5 +15,5 @@
 
 The [[https://www.europsy.net/epa-research-prizes/][EPA Research Prize 2020]] in the category Biological Correlates and
 Treatments of Mental Disorders by the [[https://www.europsy.net/][European Psychiatric Association]]
-will be awarded to Philipp Homan. The award will be delivered at the
-Opening Ceremony of the [[https://epa-congress.org/][EPA 2020 Congress]] on 03/28 in Madrid.
+will be awarded to [[https://homanlab.github.io/members/2019/10/12/philipp-homan-md-phd][Philipp]]. The award will be delivered at the Opening
+Ceremony of the [[https://epa-congress.org/][EPA 2020 Congress]] on 03/28 in Madrid.
