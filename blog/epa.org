@@ -1,0 +1,19 @@
+#+TITLE:       EPA Research Prize 2020
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2019-12-13 Fri
+#+URI:         /blog/%y/%m/%d/epa-research-prize-2020
+#+KEYWORDS:    award, epa, 2019, lab
+#+TAGS:        award, epa, 2019, lab
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Award will be delivered at EPA 2020 in Madrid
+#+AVATAR:      https://homanlab.github.io/media/img/epa1.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/epa1.png]]
+
+The [[https://www.europsy.net/epa-research-prizes/][EPA Research Prize 2020]] in the category Biological Correlates and
+Treatments of Mental Disorders by the [[https://www.europsy.net/][European Psychiatric Association]]
+will be awarded to Philipp Homan. The award will be delivered at the
+Opening Ceremony of the [[https://epa-congress.org/][EPA 2020 Congress]] on 03/28 in Madrid.
