@@ -1,0 +1,31 @@
+#+TITLE:       Giacomo Cecere, MD, Postdoc
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-12 Sat
+#+URI:         /members/%y/%m/%d/giacomo-cecere-md
+#+KEYWORDS:    lab, giacomo, contact, cv
+#+TAGS:        lab, giacomo, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/lab_empty.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_empty.png]]
+
+** About                                                             :ignore:
+Giacomo was born in Rome, Italy. He received his medical degree from
+Campus Bio-Medico University of Rome before moving to
+Switzerland. Giacomo is a third-year psychiatry resident. He has been
+working at the Zürich University Psychiatry Hospital since 2017. During
+his psychiatry rotations, he has been exposed to patients suffering from
+psychotic disorders, a topic that he hopes to further explore and study
+in depth as his residency progresses.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: giacomo.cecere@puk.zh.ch
+
+
+
