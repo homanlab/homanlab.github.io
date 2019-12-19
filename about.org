@@ -88,6 +88,19 @@ resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
 
+* Giacomo Cecere, MD. Postdoc
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_empty.png]]
+
+Giacomo was born in Rome, Italy. He received his medical degree from
+Campus Bio-Medico University of Rome before moving to
+Switzerland. Giacomo is a third-year psychiatry resident. He has been
+working at the Zürich University Psychiatry Hospital since 2017. During
+his psychiatry rotations, he has been exposed to patients suffering from
+psychotic disorders, a topic that he hopes to further explore and study
+in depth as his residency progresses.
+
 * Rahel Horisberger, MSc. Doctoral student
 
 #+ATTR_HTML: :width 200px
