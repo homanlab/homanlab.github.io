@@ -37,5 +37,5 @@ H-Building, Room H108.
 | 11/29/19 | Introduction to git                  | Stephanie   |
 | 12/06/19 | [[https://tinyurl.com/y4slzjcv][Guest: Renaud Jardri, MD, PhD]]        | Philipp     |
 | 12/13/19 | ACNP Meeting                         |             |
-| 12/20/19 | Holiday party                        |             |
+| 12/20/19 | [[https://homanlab.github.io/blog/][Holiday party]]                        |             |
 | 12/27/19 | CANCELLED                            |             |
