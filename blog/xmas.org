@@ -10,7 +10,7 @@
 #+DESCRIPTION: Greetings from the IDP Lab Zurich
 #+AVATAR:      https://homanlab.github.io/media/img/xmas1.png
 
-#+ATTR_HTML: :width 200px
+#+ATTR_HTML: :width 600px
 [[https://homanlab.github.io/media/img/xmas1.png]]
 
 Happy Holidays from the IDP Lab Zurich (Philipp, Werner, Noemi, Giacomo,
