@@ -1,0 +1,24 @@
+#+TITLE:       Travel Award to Werner Surbeck
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2019-12-21 Sat
+#+URI:         /blog/%y/%m/%d/sirs-travel-award-for-werner
+#+KEYWORDS:    award, werner, 2020, lab
+#+TAGS:        award, werner, 2020, lab
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: SIRS 2020 Meeting 
+#+AVATAR:      https://homanlab.github.io/media/img/lab_ws.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_ws.png]]
+
+[[https://homanlab.github.io/members/2019/10/11/werner-surbeck-md-phd/][Werner Surbeck]] won a Travel Award for the [[https://sirs.societyconference.com/v2/][Schizophrenia International
+Research Society (SIRS) 2020 Meeting]]. He will present his work at the
+annual meeting in Florence, Italy. Werner is a trained neurosurgeon and
+resident in psychiatry with a strong interest in the neurobiology of
+psychosis, particularly in the ventral language stream and its
+significance for semantic processing. With his approach that is guided
+by insights directly obtained from epileptic surgery he aims to study
+the neural correlates of thought disorder in psychosis. Congratulations,
+Werner!
