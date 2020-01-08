@@ -17,7 +17,7 @@ We are very happy to host [[https://www.researchgate.net/profile/Ellen_Ji][Ellen
 series. Ellen is an expert in brain imaging of psychosis and bipolar
 disorder and has recently published an [[https://academic.oup.com/schizophreniabulletin/article-abstract/45/6/1367/5430123?redirectedFrom=fulltext][exciting paper on dysconnectivity
 in psychosis]]. The seminar will take place on January 24, 2019, at 3:30
-pm at the PUK Zurich, H108.
+pm at the PUK Zurich, Z105.
 
 * Abstract
 Mounting evidence suggests that sex steroid hormones are implicated in
@@ -51,5 +51,5 @@ may be altered in psychosis.
 * Details
 - Date: 1/24/20
 - Time: 3:30 PM CET
-- Location: PUK Zurich, H108
+- Location: PUK Zurich, Z105
 - Host: Philipp Homan
