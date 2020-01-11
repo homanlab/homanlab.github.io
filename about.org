@@ -18,7 +18,7 @@ Interested in working with us? [[https://homanlab.github.io/blog/2019/10/05/how-
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph3.png]]
 
-Philipp is a
+[[https://homanlab.github.io/members/2019/10/12/philipp-homan-md-phd/][Philipp]] is a
 [[https://en.wikipedia.org/wiki/Physician-scientist][clinician
 scientist]] at the University Hospital of Psychiatry and PI of the IDP
 lab. He studied business and computer science at the
