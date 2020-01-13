@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_empty.png
+#+AVATAR:      https://homanlab.github.io/media/img/lab_gc.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_empty.png]]
+[[https://homanlab.github.io/media/img/lab_gc.png]]
 
 ** About                                                             :ignore:
 Giacomo was born in Rome, Italy. He received his medical degree from

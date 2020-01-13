@@ -91,7 +91,7 @@ that may predict conversion to psychosis in high risk subjects.
 * Giacomo Cecere, MD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_empty.png]]
+[[https://homanlab.github.io/media/img/lab_gc.png]]
 
 Giacomo was born in Rome, Italy. He received his medical degree from
 Campus Bio-Medico University of Rome before moving to
