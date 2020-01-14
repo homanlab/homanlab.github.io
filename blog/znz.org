@@ -1,0 +1,20 @@
+#+TITLE:       Neuroscience Center Zurich
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-12-12 Thu
+#+URI:         /blog/%y/%m/%d/neuroscience-center-zurich
+#+KEYWORDS:    zurich, neuroscience, university
+#+TAGS:        zurich, neuroscience, university
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: IDP Lab now part of ZNZ
+#+AVATAR:      https://homanlab.github.io/media/img/znz1.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/znz1.png]]
+
+The IDP Lab is now part of the [[https://www.neuroscience.uzh.ch/en/][Neuroscience Center Zurich]] and one of the
+[[https://www.neuroscience.uzh.ch/en/research.html][Research Groups]] in [[https://www.neuroscience.uzh.ch/en/research/disorders_nervous_system.html][Disorders of the Nervous System]]. Our lab will also
+participate in the [[https://www.neuroscience.uzh.ch/en/symposium.html][Annual ZNZ Symposium]] (The ZNZ Symposium 2020 will
+take place on 9/10/20 at the ETH Zurich).
+
