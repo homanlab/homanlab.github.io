@@ -1,7 +1,7 @@
 #+TITLE:       Neuroscience Center Zurich
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
-#+DATE:        2020-12-12 Thu
+#+DATE:        2019-12-12 Thu
 #+URI:         /blog/%y/%m/%d/neuroscience-center-zurich
 #+KEYWORDS:    zurich, neuroscience, university
 #+TAGS:        zurich, neuroscience, university
