@@ -1,0 +1,22 @@
+#+TITLE:       SNF grant for Noemi Dannecker
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-01-30 Thu
+#+URI:         /blog/%y/%m/%d/snf-grant-for-noemi-dannecker
+#+KEYWORDS:    grant, snf, lab, noemi, 2020
+#+TAGS:        grant, snf, lab, noemi, 2020
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Swiss National Science Foundation
+#+AVATAR:      https://homanlab.github.io/media/img/lab_nd.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_nd.png]]
+
+Great news to start the new year: [[https://homanlab.github.io/members/2019/10/10/noemi-dannecker-msc][Noemi Dannecker]] will receive a 
+[[http://www.snf.ch/en/funding/careers/docch/Pages/default.aspx][Doc.CH]] grant by the [[http://www.snf.ch/en/funding/careers/docch/Pages/default.aspx][Swiss National Science Foundation]]. This highly
+competitive grant will support her PhD for the full period of four
+years. In her project, Noemi is going to apply natural language
+processing, machine learning, and neuroimaging to identify language
+markers for mental health and mental illness in the psychosis spectrum.
+Congratulations, Noemi!
