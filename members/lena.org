@@ -11,7 +11,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/lab_lena.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_lena.png]]
+[[https://homanlab.github.io/media/img/lab_lh.png]]
 
 ** About                                                             :ignore:
 Lena received her medical degree from the Ludwig-Maximilians-University
