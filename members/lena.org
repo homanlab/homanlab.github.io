@@ -1,0 +1,32 @@
+#+TITLE:       Lena Hofmann, Doctoral student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2020-02-29 Sat
+#+URI:         /members/%y/%m/%d/nils-kallen-md
+#+KEYWORDS:    lab, lena, contact, cv
+#+TAGS:        lab, lena, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/lab_lena.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_lena.png]]
+
+** About                                                             :ignore:
+Lena received her medical degree from the Ludwig-Maximilians-University
+Munich. For her dissertation, she focused on the effects of high
+intensity neoadjuvant chemotherapy on the mortality of patients with
+gastric cancer. At the University Hospital of Psychiatry Zurich, she
+started out in the Department of Forensic Psychiatry, mainly working
+with offenders suffering from schizophreniform psychotic disorders. This
+sparked her interest in interrelations between neurobiological factors
+and aggressive as well as impulsive behavior.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: lena.hofmann@puk.zh.ch
+
+
+
