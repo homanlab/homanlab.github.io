@@ -8,7 +8,7 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_lena.png
+#+AVATAR:      https://homanlab.github.io/media/img/lab_lh.png
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_lh.png]]
