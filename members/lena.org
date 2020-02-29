@@ -1,8 +1,8 @@
 #+TITLE:       Lena Hofmann, Doctoral student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2020-02-29 Sat
-#+URI:         /members/%y/%m/%d/nils-kallen-md
+#+DATE:        2019-10-09 Wed
+#+URI:         /members/%y/%m/%d/lena-hofmann
 #+KEYWORDS:    lab, lena, contact, cv
 #+TAGS:        lab, lena, contact, cv
 #+LANGUAGE:    en
