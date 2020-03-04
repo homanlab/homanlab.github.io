@@ -28,7 +28,7 @@ H-Building, Room H108 unless otherwise announced.
 | 02/21/20 | Journalclub, Z105                 | Paul        |
 | 02/28/20 | Guest: Paul Hoff, MD, PhD         | Philipp     |
 | 02/28/20 | [[https://homanlab.github.io/media/img/noemi_grant.pdf][Noemi Grant Celebration]]           | Philipp     |
-| 03/06/20 | [[https://www.unige.ch/medecine/psyat/en/research-groups/stefan-kaiser/][Guest: Stefan Kaiser, MD]]          | Rahel       |
+| 03/06/20 | [[https://homanlab.github.io/blog/2020/04/03/guest-seminar-stefan-kaiser-md/][Guest: Stefan Kaiser, MD]]          | Rahel       |
 | 03/13/20 | [[https://iris.ucl.ac.uk/iris/browse/profile?upi=RAADA06][Guest: Rick Adams, MRCP, PhD]]      | Steph       |
 | 03/20/20 | Project presentation              | Maria       |
 | 03/27/20 | Journalclub                       | Nils        |
