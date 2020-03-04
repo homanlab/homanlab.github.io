@@ -14,10 +14,11 @@
 https://homanlab.github.io/media/img/sk1.png
 
 #+ATTR_HTML: :target _blank
-We are excited to host Stefan Kaiser as the next speaker this year in
+We are excited to host [[https://www.unige.ch/medecine/psyat/en/research-groups/stefan-kaiser/][Stefan Kaiser]] as the next speaker this year in
 our remote seminar series. Stefan is an expert in negative symptoms in
-schizophrenia. The seminar will take place on March 6, 2020, at 3:30 pm
-at the PUK Zurich, Z105.
+schizophrenia and the leader of the [[https://www.unige.ch/medecine/psyat/en/research-groups/stefjan-kaiser/][Clinical and Experimental
+Psychopathology Research Group]] at the [[https://www.unige.ch/medecine/psyat/en/research-groups/stefjan-kaiser/][University of Geneva]]. The seminar
+will take place on March 6, 2020, at 3:30 pm at the PUK Zurich, Z105.
 
 * Abstract
 Apathy is a common and debilitating negative symptom of schizophrenia
