@@ -13,8 +13,7 @@
 #+ATTR_HTML: width 200px
 https://homanlab.github.io/media/img/labmeeting2.png
 
-Meetings take place at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in the
-H-Building, Room H108 unless otherwise announced.   
+Meetings are currently held online via zoom.
 
 | Date     | Topic                             | Responsible |
 |----------+-----------------------------------+-------------|
@@ -29,16 +28,16 @@ H-Building, Room H108 unless otherwise announced.
 | 02/28/20 | Guest: Paul Hoff, MD, PhD         | Philipp     |
 | 02/28/20 | [[https://homanlab.github.io/media/img/noemi_grant.pdf][Noemi Grant Celebration]]           | Philipp     |
 | 03/06/20 | [[https://homanlab.github.io/blog/2020/04/03/guest-seminar-stefan-kaiser-md/][Guest: Stefan Kaiser, MD]]          | Rahel       |
-| 03/13/20 | [[https://iris.ucl.ac.uk/iris/browse/profile?upi=RAADA06][Guest: Rick Adams, MRCP, PhD]]      | Steph       |
 | 03/20/20 | Project presentation              | Maria       |
 | 03/27/20 | Journalclub                       | Nils        |
-| 04/03/20 | SIRS Meeting                      |             |
+| 04/03/20 |                                   |             |
 | 04/09/20 | Holiday                           |             |
-| 04/16/20 | [[https://modinoslab.com/people][Guest: Gemma Modinos, PhD]]         | Philipp     |
-| 04/17/20 | Project presentation              |             |
-| 04/24/20 | Journalclub                       |             |
-| 05/01/20 | SOBP Meeting                      |             |
+| 04/17/20 |                                   |             |
+| 04/24/20 |                                   |             |
+| 04/30/20 | [[https://modinoslab.com/people][Guest: Gemma Modinos, PhD]]         | Philipp     |
+| 05/01/20 |                                   |             |
 | 05/08/20 | Guest: Paola Dazzan, MD           | Philipp     |
+| 05/13/20 | [[https://iris.ucl.ac.uk/iris/browse/profile?upi=RAADA06][Guest: Rick Adams, MRCP, PhD]]      | Steph       |
 | 05/15/20 |                                   |             |
 | 05/22/20 |                                   |             |
 | 05/29/20 | Journalclub                       |             |
