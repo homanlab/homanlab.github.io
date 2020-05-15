@@ -116,7 +116,7 @@ development of brief psychotherapeutic interventions for psychotic
 disorders in the context of acute inpatient treatment forms the extended
 focus of her research interest.
 
-* Stephanie Winkelbeiner, PhD. Postdoc
+* Stephanie Homan, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_sw.png]]
