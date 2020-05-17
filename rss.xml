@@ -4,10 +4,24 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 03 May 2020 22:14:34 CEST</pubDate>
-    <lastBuildDate>Sun, 03 May 2020 22:14:34 CEST</lastBuildDate>
+    <pubDate>Sun, 17 May 2020 11:49:40 CEST</pubDate>
+    <lastBuildDate>Sun, 17 May 2020 11:49:40 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Guest Seminar: Steven Silverstein, PhD</title>
+      <link>http://homanlab.github.io/blog/2019/10/03/guest-seminar-steven-silverstein-phd</link>
+      <description><![CDATA[Steven Silverstein's remote lecture on OCT]]></description>
+      <pubDate>2020-05-17</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/10/03/guest-seminar-steven-silverstein-phd</guid>
+    </item>
+    <item>
+      <title>Stephanie Homan, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/members/2019/10/10/stephanie-winkelbeiner-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-05-16</pubDate>
+      <guid>http://homanlab.github.io/members/2019/10/10/stephanie-winkelbeiner-phd</guid>
+    </item>
     <item>
       <title>Lab meetings schedule for 2020</title>
       <link>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</link>
@@ -63,20 +77,6 @@
       <description><![CDATA[The role of sex hormones in schizophrenia ]]></description>
       <pubDate>2020-01-08</pubDate>
       <guid>http://homanlab.github.io/blog/2019/11/27/guest-seminar-ellen-ji-phd</guid>
-    </item>
-    <item>
-      <title>Guest Seminar: Lena Palaniyappan, MD, PhD</title>
-      <link>http://homanlab.github.io/blog/2020/01/06/guest-lena-palaniyappan-md-phd</link>
-      <description><![CDATA[Morphological heterogeneity in schizophrenia]]></description>
-      <pubDate>2020-01-06</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/01/06/guest-lena-palaniyappan-md-phd</guid>
-    </item>
-    <item>
-      <title>Travel Award to Werner Surbeck</title>
-      <link>http://homanlab.github.io/blog/2019/12/21/sirs-travel-award-for-werner</link>
-      <description><![CDATA[SIRS 2020 Meeting ]]></description>
-      <pubDate>2019-12-21</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/12/21/sirs-travel-award-for-werner</guid>
     </item>
   </channel>
 </rss>
