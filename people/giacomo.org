@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-09 Wed
-#+URI:         /team/%y/%m/%d/giacomo-cecere-md
+#+URI:         /people/%y/%m/%d/giacomo-cecere-md
 #+KEYWORDS:    lab, giacomo, contact, cv
 #+TAGS:        lab, giacomo, contact, cv
 #+LANGUAGE:    en

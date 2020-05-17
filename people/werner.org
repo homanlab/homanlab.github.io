@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
-#+URI:         /team/%y/%m/%d/werner-surbeck-md-phd
+#+URI:         /people/%y/%m/%d/werner-surbeck-md-phd
 #+KEYWORDS:    lab, werner, contact, cv
 #+TAGS:        lab, werner, contact, cv
 #+LANGUAGE:    en
