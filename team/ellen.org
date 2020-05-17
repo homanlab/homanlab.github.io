@@ -1,7 +1,7 @@
 #+TITLE:       Ellen Ji, PhD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2020-05-17 Sun
+#+DATE:        2019-10-11 Fri
 #+URI:         /team/%y/%m/%d/ellen-ji-phd
 #+KEYWORDS:    lab, ellen, contact, cv
 #+TAGS:        lab, ellen, contact, cv
