@@ -1,0 +1,39 @@
+#+TITLE:       Ellen Ji, PhD, Postdoc
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2020-05-16 Sat
+#+URI:         /members/%y/%m/%d/stephanie-winkelbeiner-phd
+#+KEYWORDS:    lab, ellen, contact, cv
+#+TAGS:        lab, ellen, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/lab_ej.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_ej.png]]
+
+** About                                                             :ignore:
+Ellen did her PhD with Cyndi Weickert with a methodological focus on
+structural and functional neuroimaging. She is a former Marie Curie
+fellow who was able to secure highly competitive funding for both her
+PhD and postdoctoral training. She is also the recipient of 5 awards
+from Australia.
+
+** Recent publications
+- Ji et al. 2019, Schizophrenia Bulletin  
+- Ji et al. 2019, Neuroscience & Behavioral Reviews 
+See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=ji+e][here]] for full list
+
+** Prizes, awards, fellowships
+- Bio-Techne Travel Grant (2016)
+- Best Poster Award, Biological Psychiatry Australia (2015)
+- Australasian Neuroscience Society Travel Award (2015)
+- 2nd Place, UNSW Medicine 3 Minute Thesis Competition (2015)
+- Postgraduate Research Travel Award (2014)
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: ellen.ji@uzh.ch
+- Twitter: [[https://twitter.com/ellen_ji][@ellen_ji]]

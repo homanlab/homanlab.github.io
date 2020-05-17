@@ -37,17 +37,16 @@ which he joined the faculty as Assistant Professor at the
 Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
 Medicine]] in New York.
 
-* Maria Neumeier. Doctoral student
+* Ellen Ji, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_mn.png]]
+[[https://homanlab.github.io/media/img/lab_ej.png]]
 
-Maria studied medicine at the University of Erlangen-Nuremberg. During
-her studies she joined a research project in the field of tumor
-immunology. She is a resident physician in Psychiatry and Psychotherapy
-and has a special interest in psychotic disorders. Currently she
-investigates individual differences in side effects to antipsychotic
-treatment.
+Ellen did her PhD with Cyndi Weickert with a methodological focus on
+structural and functional neuroimaging. She is a former Marie Curie
+fellow who was able to secure highly competitive funding for both her
+PhD and postdoctoral training. She is also the recipient of 5 awards
+from Australia.
 
 * Werner Surbeck MD, PhD. Postdoc
 
@@ -61,6 +60,18 @@ investigation of the insular region. At present, he undergoes additional
 specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
+
+* Maria Neumeier. Doctoral student
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_mn.png]]
+
+Maria studied medicine at the University of Erlangen-Nuremberg. During
+her studies she joined a research project in the field of tumor
+immunology. She is a resident physician in Psychiatry and Psychotherapy
+and has a special interest in psychotic disorders. Currently she
+investigates individual differences in side effects to antipsychotic
+treatment.
 
 * Janis Brakowski, MD. Postdoc
 
