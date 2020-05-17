@@ -1,8 +1,8 @@
 #+TITLE:       Stephanie Homan, PhD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-10 Thu
-#+URI:         /members/%y/%m/%d/stephanie-winkelbeiner-phd
+#+DATE:        2019-10-11 Fri
+#+URI:         /members/%y/%m/%d/stephanie-homan-phd
 #+KEYWORDS:    lab, stephanie, contact, cv
 #+TAGS:        lab, stephanie, contact, cv
 #+LANGUAGE:    en

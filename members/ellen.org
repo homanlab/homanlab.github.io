@@ -1,8 +1,8 @@
 #+TITLE:       Ellen Ji, PhD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2020-05-16 Sat
-#+URI:         /members/%y/%m/%d/stephanie-winkelbeiner-phd
+#+DATE:        2020-05-17 Sun
+#+URI:         /members/%y/%m/%d/ellen-ji-phd
 #+KEYWORDS:    lab, ellen, contact, cv
 #+TAGS:        lab, ellen, contact, cv
 #+LANGUAGE:    en
