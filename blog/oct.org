@@ -3,8 +3,8 @@
 #+EMAIL:       philipp.homan@bli.uzh.ch
 #+DATE:        2019-10-03 Thu
 #+URI:         /blog/%y/%m/%d/guest-seminar-steven-silverstein-phd
-#+KEYWORDS:    guest, seminar, optical coherence tomography, retina
-#+TAGS:        guest, seminar, optical coherence tomography, retina
+#+KEYWORDS:    guest seminar, optical coherence tomography, retina
+#+TAGS:        guest seminar, optical coherence tomography, retina
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Steven Silverstein's remote lecture on OCT
@@ -29,7 +29,12 @@ Psychosocial Medicine and associate chair of Research for the department
 of Psychiatry at the University of Rochester Medical Center. He will
 join the University of Rochester in January 2020. Dr. Silverstein is an
 expert in the use of OCT in schizophrenia spectrum disorders and has
+<<<<<<< HEAD
 published [[https://www.cambridge.org/core/journals/psychological-medicine/article/optical-coherence-tomography-indices-of-structural-retinal-pathology-in-schizophrenia/9060C9830CBEEE8CE0AD7B36E4754F6D][important new findings]] in 2018.
+=======
+published an
+[[https://www.cambridge.org/core/journals/psychological-medicine/article/optical-coherence-tomography-indices-of-structural-retinal-pathology-in-schizophrenia/9060C9830CBEEE8CE0AD7B36E4754F6D][authorative review on the topic]] in 2018.
+>>>>>>> 14dc96ee16f4958b643355ba02d885940db1b41b
 
 * Details
 - Date: 10/11/19
