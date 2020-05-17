@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
-#+URI:         /members/%y/%m/%d/noemi-dannecker-msc
+#+URI:         /team/%y/%m/%d/noemi-dannecker-msc
 #+KEYWORDS:    lab, noemi, contact, cv
 #+TAGS:        lab, noemi, contact, cv
 #+LANGUAGE:    en

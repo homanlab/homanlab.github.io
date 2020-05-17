@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2020-05-17 Sun
-#+URI:         /members/%y/%m/%d/ellen-ji-phd
+#+URI:         /team/%y/%m/%d/ellen-ji-phd
 #+KEYWORDS:    lab, ellen, contact, cv
 #+TAGS:        lab, ellen, contact, cv
 #+LANGUAGE:    en

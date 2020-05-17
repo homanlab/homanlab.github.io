@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-09 Wed
-#+URI:         /members/%y/%m/%d/lena-hofmann
+#+URI:         /team/%y/%m/%d/lena-hofmann
 #+KEYWORDS:    lab, lena, contact, cv
 #+TAGS:        lab, lena, contact, cv
 #+LANGUAGE:    en

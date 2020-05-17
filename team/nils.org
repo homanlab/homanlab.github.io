@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
-#+URI:         /members/%y/%m/%d/nils-kallen-md
+#+URI:         /team/%y/%m/%d/nils-kallen-md
 #+KEYWORDS:    lab, nils, contact, cv
 #+TAGS:        lab, nils, contact, cv
 #+LANGUAGE:    en
