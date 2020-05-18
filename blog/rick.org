@@ -1,0 +1,53 @@
+#+TITLE:       Guest Seminar: Rick Adams, MD, PhD
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-05-13 Wed
+#+URI:         /blog/%y/%m/%d/guest-seminar-rick-adams-md-phd
+#+KEYWORDS:    seminar, guest, dcm, modeling
+#+TAGS:        seminar, guest, dcm, modeling
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Neurobiology of psychosis risk
+#+AVATAR:      https://homanlab.github.io/media/img/idp_rickadams.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/idp_rickadams.png
+
+#+ATTR_HTML: :target _blank
+We are very happy to host [[https://iris.ucl.ac.uk/iris/browse/profile?upi=RAADA06][Rick Adams]] in our remote seminar series. Rick
+is a Research Fellow and Consultant Psychiatrist at [[https://www.ucl.ac.uk/][UCL]]. He is one of
+the leading investigators in the field of modeling psychiatric
+conditions.  The seminar will take place remotely on May 13, 2020, at 12
+pm.
+
+* Abstract
+Subjects with a diagnosis of schizophrenia show consistent differences
+from controls in neuroimaging paradigms such as resting state (rsEEG and
+rsfMRI), mismatch negativity (MMN) and 40 Hz auditory steady state
+response (ASSR). The underlying circuit changes causing these group
+differences are unclear, however, and it is not known whether the same
+abnormalities could underlie group differences in all
+paradigms. Nevertheless, it is widely hypothesised that schizophrenia
+involves a loss of synaptic gain – e.g. due to NMDA receptor dysfunction
+– and disrupted balance between excitatory and inhibitory transmission
+in cortical circuits. Here we analyse a neuroimaging dataset containing
+data from controls (n=107), subjects diagnosed with schizophrenia (Scz,
+n=108) and their first degree relatives (n=57) each undergoing rsEEG,
+rsfMRI, MMN and 40 Hz ASSR paradigms. We use a variety of dynamic causal
+modelling approaches to estimate synaptic gain and other circuit
+parameters in auditory and frontal areas. We find some striking
+commonalities across paradigms, not just in synaptic gain in the Scz
+group, but also in relationships with symptoms and cognitive
+function. The potential for development of a model-based biomarker of
+synaptic gain is discussed.
+
+* About the speaker
+Rick is a Research Fellow and Consultant Psychiatrist at [[https://www.ucl.ac.uk/][UCL]]. He is one
+of the leading investigators in computational psychiatry.
+	
+* Details
+- Date: 05/13/20
+- Time: 12:00 PM CET
+- Location: Remote via Zoom
+- Host: Philipp Homan
+	
