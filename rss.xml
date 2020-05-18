@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 17 May 2020 14:32:29 CEST</pubDate>
-    <lastBuildDate>Sun, 17 May 2020 14:32:29 CEST</lastBuildDate>
+    <pubDate>Mo, 18 Mai 2020 09:06:10 CEST</pubDate>
+    <lastBuildDate>Mo, 18 Mai 2020 09:06:10 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Novartis Foundation Research Grant</title>
+      <link>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</link>
+      <description><![CDATA[Project on cognition and brain networks]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</guid>
+    </item>
     <item>
       <title>Guest Seminar: Steven Silverstein, PhD</title>
       <link>http://homanlab.github.io/blog/2019/10/03/guest-seminar-steven-silverstein-phd</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-05-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
-    </item>
-    <item>
-      <title>Noemi Dannecker, MSc, Graduate Student</title>
-      <link>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</link>
-      <description><![CDATA[Graduate Student]]></description>
-      <pubDate>2020-05-17</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</guid>
     </item>
   </channel>
 </rss>
