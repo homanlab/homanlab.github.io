@@ -140,7 +140,7 @@ not find yourself writing the same function more than once (e.g., across
 different projects). Instead, put the function into a package; and use
 the package across projects.
 
-#+NAME: code1 
+#+NAME: code1
 #+BEGIN_SRC R :exports code
 #---------------------------------------------------
 # This is a simple R program
