@@ -1,0 +1,18 @@
+#+TITLE:       Novartis Foundation Research Grant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-04-20 Mo
+#+URI:         /blog/%y/%m/%d/novartis-foundation-research-grant
+#+KEYWORDS:    grant, ellen, philipp, novartis foundation
+#+TAGS:        grant, ellen, philipp, novartis foundation
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Project on cognition and brain networks
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/novartis1.png]]
+
+We are very happy that the [[http://www.stiftungmedbiol.novartis.com/][Novartis Foundation for medical-biological
+Research]] has decided to support our research with a [[http://www.stiftungmedbiol.novartis.com/wegleitung.html][Research Grant]]! With
+this grant, [[https://homanlab.github.io/people/2019/10/11/ellen-ji-phd/][Ellen]] will investigate the link between cognitive deficits
+and morphometric similarity networks in psychosis.
