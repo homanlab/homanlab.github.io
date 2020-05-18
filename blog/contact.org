@@ -6,7 +6,7 @@
 #+KEYWORDS:    lab, contact, website
 #+TAGS:        lab, contact, website
 #+LANGUAGE:    en
-#+DISQUS:      nil
+#+SHOWCOMMENT: nil
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: How to reach the IDP Lab
 #+AVATAR:      https://homanlab.github.io/media/img/contact3.png
@@ -42,3 +42,5 @@ https://github.com/homanlab
 * Twitter
 #+ATTR_HTML: :target _blank
 [[https://twitter.com/philipphoman][@philipphoman]]
+
+
