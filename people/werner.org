@@ -23,7 +23,7 @@ the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
 ** Prizes, Awards, Fellowships
-- 04/2020: Travel Award, Schizophrenia International Research Society (SIRS), USA
+- 04/2020: [[https://schizophreniaresearchsociety.org/wp-content/uploads/2020/05/2020-Travel-Awardees.pdf][Travel Award]], Schizophrenia International Research Society (SIRS), USA
 - 2010: Participation in the development and patent co-owner of a new
   type of hybrid electrode for intracranial EEG recording from the
   insula and the hidden surfaces of the opercula. The electrode is
