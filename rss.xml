@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 18 Mai 2020 10:12:33 CEST</pubDate>
-    <lastBuildDate>Mo, 18 Mai 2020 10:12:33 CEST</lastBuildDate>
+    <pubDate>Mo, 18 Mai 2020 10:20:24 CEST</pubDate>
+    <lastBuildDate>Mo, 18 Mai 2020 10:20:24 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -21,6 +21,13 @@
       <description><![CDATA[Project on cognition and brain networks]]></description>
       <pubDate>2020-05-18</pubDate>
       <guid>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</guid>
+    </item>
+    <item>
+      <title>Guest Seminar: Rick Adams, MD, PhD</title>
+      <link>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</link>
+      <description><![CDATA[Neurobiology of psychosis risk]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</guid>
     </item>
     <item>
       <title>Guest Seminar: Steven Silverstein, PhD</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-05-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/09/lena-hofmann</guid>
-    </item>
-    <item>
-      <title>Maria Neumeier, Doctoral Student</title>
-      <link>http://homanlab.github.io/people/2019/10/11/maria-neumeier</link>
-      <description><![CDATA[Doctoral Student]]></description>
-      <pubDate>2020-05-17</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/maria-neumeier</guid>
     </item>
   </channel>
 </rss>
