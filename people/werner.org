@@ -21,10 +21,16 @@ investigation of the insular region. At present, he undergoes additional
 specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
+
+** Prizes, Awards, Fellowships
+- 04/2020: Travel Award, Schizophrenia International Research Society (SIRS), USA
+- 2010: Participation in the development and patent co-owner of a new
+  type of hybrid electrode for intracranial EEG recording from the
+  insula and the hidden surfaces of the opercula. The electrode is
+  fabricated by Ad-Tech Medical Instrument Corporation. Centre
+  Hospitalier de l’Université de Montréal, Canada.
  
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
 - E-mail: werner.surbeck@puk.zh.ch
-
-	
