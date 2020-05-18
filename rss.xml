@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 18 Mai 2020 09:53:44 CEST</pubDate>
-    <lastBuildDate>Mo, 18 Mai 2020 09:53:44 CEST</lastBuildDate>
+    <pubDate>Mo, 18 Mai 2020 10:12:33 CEST</pubDate>
+    <lastBuildDate>Mo, 18 Mai 2020 10:12:33 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Guest Seminar: Gemma Modinos, PhD FYAE FHEA</title>
+      <link>http://homanlab.github.io/blog/2020/04/30/guest-seminar-gemma-modinos-phd</link>
+      <description><![CDATA[Neurobiology of psychosis risk]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/04/30/guest-seminar-gemma-modinos-phd</guid>
+    </item>
     <item>
       <title>Novartis Foundation Research Grant</title>
       <link>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Doctoral Student]]></description>
       <pubDate>2020-05-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/maria-neumeier</guid>
-    </item>
-    <item>
-      <title>Nils Kallen, MD, Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-05-17</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
     </item>
   </channel>
 </rss>
