@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 18 Mai 2020 10:20:24 CEST</pubDate>
-    <lastBuildDate>Mo, 18 Mai 2020 10:20:24 CEST</lastBuildDate>
+    <pubDate>Mo, 18 Mai 2020 10:42:47 CEST</pubDate>
+    <lastBuildDate>Mo, 18 Mai 2020 10:42:47 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Contact us</title>
+      <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
+      <description><![CDATA[How to reach the IDP Lab]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
+    </item>
     <item>
       <title>Guest Seminar: Gemma Modinos, PhD FYAE FHEA</title>
       <link>http://homanlab.github.io/blog/2020/04/30/guest-seminar-gemma-modinos-phd</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-05-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/10/janis-brakowski-md</guid>
-    </item>
-    <item>
-      <title>Lena Hofmann, Doctoral student</title>
-      <link>http://homanlab.github.io/people/2019/10/09/lena-hofmann</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-05-17</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/09/lena-hofmann</guid>
     </item>
   </channel>
 </rss>
