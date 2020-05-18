@@ -26,6 +26,7 @@
           <li><a href="/about/">About</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/people/">People</a></li>
+          <li><a href="/tmp/">Tmp</a></li>
           <!--<li><a href="/members/">Members</a></li>-->
           <!--<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax" target="_blank">Papers</a></li>-->
 					<li><a href="https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/">Contact</a></li>
@@ -58,9 +59,9 @@
 </p>
 </div>
 
-<div id="outline-container-orgf718f90" class="outline-2">
-<h2 id="orgf718f90">Summary</h2>
-<div class="outline-text-2" id="text-orgf718f90">
+<div id="outline-container-orga3328a2" class="outline-2">
+<h2 id="orga3328a2">Summary</h2>
+<div class="outline-text-2" id="text-orga3328a2">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -81,9 +82,9 @@ across the world. They are ideal tools to make research reproducible.
 </div>
 </div>
 
-<div id="outline-container-orgab630d7" class="outline-2">
-<h2 id="orgab630d7">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-orgab630d7">
+<div id="outline-container-org6332ebd" class="outline-2">
+<h2 id="org6332ebd">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-org6332ebd">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
@@ -106,9 +107,9 @@ well.
 </div>
 </div>
 
-<div id="outline-container-org5284bd1" class="outline-2">
-<h2 id="org5284bd1">Separating data from code</h2>
-<div class="outline-text-2" id="text-org5284bd1">
+<div id="outline-container-org81c92eb" class="outline-2">
+<h2 id="org81c92eb">Separating data from code</h2>
+<div class="outline-text-2" id="text-org81c92eb">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -152,9 +153,9 @@ often to be confident it is as obvious as it should be.
 </div>
 </div>
 
-<div id="outline-container-orgca1b980" class="outline-2">
-<h2 id="orgca1b980">Using version control</h2>
-<div class="outline-text-2" id="text-orgca1b980">
+<div id="outline-container-org9e34b39" class="outline-2">
+<h2 id="org9e34b39">Using version control</h2>
+<div class="outline-text-2" id="text-org9e34b39">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -189,9 +190,9 @@ analyze data.
 </div>
 </div>
 
-<div id="outline-container-org74d387e" class="outline-2">
-<h2 id="org74d387e">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org74d387e">
+<div id="outline-container-orgd00a8c1" class="outline-2">
+<h2 id="orgd00a8c1">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-orgd00a8c1">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -240,7 +241,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="orgbdf45c7">#---------------------------------------------------
+<pre class="src src-R" id="orgbf53f0a">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -291,9 +292,9 @@ wrote.
 </div>
 </div>
 
-<div id="outline-container-orgc8d854c" class="outline-2">
-<h2 id="orgc8d854c">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-orgc8d854c">
+<div id="outline-container-orgd118590" class="outline-2">
+<h2 id="orgd118590">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgd118590">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -328,7 +329,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="orgd2eb413">
+<pre class="src src-sh" id="orgcaa4f7c">
 # this is a rule in the Makefile
 statistics: preprocessing 
 	R CMD BATCH myproj_do.R
@@ -361,9 +362,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-orgb0db9d2" class="outline-2">
-<h2 id="orgb0db9d2">Conclusion</h2>
-<div class="outline-text-2" id="text-orgb0db9d2">
+<div id="outline-container-orge8b6193" class="outline-2">
+<h2 id="orge8b6193">Conclusion</h2>
+<div class="outline-text-2" id="text-orge8b6193">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -372,9 +373,9 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-org350c25d" class="outline-2">
-<h2 id="org350c25d">Further reading</h2>
-<div class="outline-text-2" id="text-org350c25d">
+<div id="outline-container-org31465b7" class="outline-2">
+<h2 id="org31465b7">Further reading</h2>
+<div class="outline-text-2" id="text-org31465b7">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
@@ -402,7 +403,7 @@ better choice.
     <div>
       <div class="post-meta">
         <span title="post date" class="post-info">2019-10-05</span>
-        <!--<span title="last modification date" class="post-info">2019-10-06</span>-->
+        <!--<span title="last modification date" class="post-info">2020-05-18</span>-->
         <span title="tags" class="post-info"><a href="/tags/reproducibility/">reproducibility</a>, <a href="/tags/coding/">coding</a>, <a href="/tags/git/">git</a>, <a href="/tags/talk/">talk</a></span>
         <span title="author" class="post-info">Philipp Homan</span>
       </div>
