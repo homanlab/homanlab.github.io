@@ -141,7 +141,7 @@ different projects). Instead, put the function into a package; and use
 the package across projects.
 
 #+NAME: code1
-#+BEGIN_SRC R :session :exports code :results silent
+#+BEGIN_SRC R :exports code
 #---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
