@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 18 Mai 2020 11:10:21 CEST</pubDate>
-    <lastBuildDate>Mo, 18 Mai 2020 11:10:21 CEST</lastBuildDate>
+    <pubDate>Mo, 18 Mai 2020 11:23:01 CEST</pubDate>
+    <lastBuildDate>Mo, 18 Mai 2020 11:23:01 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -35,6 +35,13 @@
       <description><![CDATA[Neurobiology of psychosis risk]]></description>
       <pubDate>2020-05-18</pubDate>
       <guid>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</guid>
+    </item>
+    <item>
+      <title>Stephanie Homan, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</guid>
     </item>
     <item>
       <title>Werner Surbeck, MD, PhD, Postdoc</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-05-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
-    </item>
-    <item>
-      <title>Giacomo Cecere, MD, Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/09/giacomo-cecere-md</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-05-17</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/09/giacomo-cecere-md</guid>
     </item>
   </channel>
 </rss>
