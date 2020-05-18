@@ -1,0 +1,51 @@
+#+TITLE:       Guest Seminar: Gemma Modinos, PhD FYAE FHEA
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-04-30 Thu
+#+URI:         /blog/%y/%m/%d/guest-seminar-gemma-modinos-phd
+#+KEYWORDS:    seminar, guest, enigma, schizotypy
+#+TAGS:        seminar, guest, enigma, schizotypy
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Neurobiology of psychosis risk
+#+AVATAR:      https://homanlab.github.io/media/img/gemma.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/gemma.png
+
+#+ATTR_HTML: :target _blank
+We are excited to host [[https://modinoslab.com/][Gemma Modinos]] as the next speaker this year in
+our remote seminar series. Gemma's lab uses translational brain imaging
+techniques in humans and animal models to investigate the neural
+mechanisms involved in emotion and their role in the development of
+psychotic symptoms and disorders. The seminar will take place remotely
+on April 30, 2020, at 12 pm during the [[https://www.dppp.uzh.ch/en/teaching/regular-research-seminars.html][ZPF Project Seminar Series]].
+
+* Abstract
+This talk will provide a bitesize overview of three main research themes
+within our lab: (1) Neural basis of emotional disturbance along a
+psychosis continuum; (2) Translational approaches to the neurochemistry
+of emotional disturbance in psychosis risk; and (3) A big data approach
+to subclinical psychotic-like experiences through the ENIGMA Schizotypy
+consortium.
+
+* About the speaker
+Gemma is a Sir Henry Dale Fellow and Senior Lecturer at the Institute of
+Psychiatry, Psychology & Neuroscience at King's College London. Gemma's
+lab uses translational brain imaging techniques in humans and animal
+models to investigate the neural mechanisms involved in emotion and
+their role in the development of psychotic symptoms and disorders. They
+also apply psychopharmacological approaches to probe how to intervene on
+those neural mechanisms early to prevent or delay the development of
+psychosis. Besides such mechanistic studies, Gemma is also Chair of the
+ENIGMA Schizotypy consortium, bringing together worldwide schizotypy
+researchers aiming to delineate the neural signature of subclinical
+psychotic-like experiences in healthy individuals.
+	
+* Details
+- Date: 04/30/20
+- Time: 12:00 PM CET
+- Location: Remote via Zoom
+- Host: Philipp Homan
+	
+
