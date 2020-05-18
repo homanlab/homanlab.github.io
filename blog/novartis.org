@@ -16,4 +16,3 @@ We are very happy that the [[http://www.stiftungmedbiol.novartis.com/][Novartis 
 Research]] has decided to support our research with a [[http://www.stiftungmedbiol.novartis.com/wegleitung.html][Research Grant]]! With
 this grant, [[https://homanlab.github.io/people/2019/10/11/ellen-ji-phd/][Ellen]] will investigate the link between cognitive deficits
 and morphometric similarity networks in psychosis.
-
