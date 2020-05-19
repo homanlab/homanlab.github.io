@@ -14,23 +14,17 @@
 [[https://homanlab.github.io/media/img/lab_ph2.png]]
 
 ** About                                                             :ignore:
-Philipp is a
-[[https://en.wikipedia.org/wiki/Physician-scientist][clinician
-scientist]] at the University Hospital of Psychiatry and PI of the IDP
-lab. He studied business and computer science at the
-[[https://tuwien.ac.at/en/][Technical University]] and medicine at the
-[[https://www.meduniwien.ac.at/web/en][Medical University]] in
+Philipp is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and from August 2020 will be Chief of
+Service (Leitender Arzt) at the University Hospital of Psychiatry and PI
+of the IDP lab. He studied business and computer science at the
+[[https://tuwien.ac.at/en/][Technical University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in
 Vienna. He completed his residency in psychiatry (with Werner Strik) as
 well as a PhD in clinical neuroscience (with Thomas Dierks) at the
-[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he
-was Attending Physician at the [[http://www.upd.unibe.ch][University
-Hospital]] and also led the Brain Stimulation Unit. He then did a two
-year fellowship with
-[[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela
-Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after
-which he joined the faculty as Assistant Professor at the
-[[https://feinsteininstitute.org][Feinstein Institute for Medical
-Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
+[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was Attending Physician at
+the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain Stimulation Unit. He then
+did a two year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York
+after which he joined the faculty as Assistant Professor at the
+[[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
 Medicine]] in New York.
 
 ** Recent publications
