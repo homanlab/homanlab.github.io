@@ -54,13 +54,21 @@ precentral gyrus, posterior-, and dorsal anterior cingulate
 cortex. These are regions known to be involved in WM processing (Owen et
 al., 2005). Simultaneously acquired task fMRI data will be analyzed
 accordingly to study the overlap between fMRI and FDG-PET derived WM
-task activations. This study is the first to show
+task activations. This study is the first to show quasi-dynamic
+task-induced regional changes of FDG uptake during a highly demanding
+cognitive task. Compared to the newly developed continuous infusion
+protocol for functional PET imaging (Villien et al., 2014), less FDG is
+required, thus increasing feasibility and decreasing radiation
+burden. Further studies should optimize scanning paradigms to elevate
+sensitivity and unfold the full potential of the procedure. From a
+clinical point of view, the technique may serve for diagnostic purposes,
+allowing the assessment of alterations in glucose metabolism during
+different brain states in one scanning session.
 
 * About the speaker
 Lara is a master's student in clinical psychology and cognitive
-neuroscience at the LMU Munich, working with Lana Kambeitz-Ilankovic and
-Igor Yakushev. She is interested in multimodal imaging of normal and
-pathological cognition.
+neuroscience at the LMU Munich, working Igor Yakushev. She is interested
+in multimodal imaging of normal and pathological cognition.
 	
 * Details
 - Date: 05/22/20
