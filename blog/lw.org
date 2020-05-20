@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Task-induced changes in FDG uptake
-#+AVATAR:      https://homanlab.github.io/media/img/idp_lw.png
+#+AVATAR:      https://homanlab.github.io/media/img/larawallenwein1.png
 
 #+ATTR_HTML: width 200px
-https://homanlab.github.io/media/img/idp_lw.png
+https://homanlab.github.io/media/img/larawallenwein1.png
 
 #+ATTR_HTML: :target _blank
 We are very happy to host Lara Wallenwein in our remote seminar
