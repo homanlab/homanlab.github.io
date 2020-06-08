@@ -4,29 +4,22 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 01 Jun 2020 18:13:10 CEST</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2020 18:13:10 CEST</lastBuildDate>
+    <pubDate>Mo, 08 Jun 2020 08:35:45 CEST</pubDate>
+    <lastBuildDate>Mo, 08 Jun 2020 08:35:45 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Working with us</title>
-      <link>http://homanlab.github.io/blog/2020/05/30/working-with-us</link>
-      <description><![CDATA[How to join us]]></description>
-      <pubDate>2020-06-01</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/05/30/working-with-us</guid>
-    </item>
-    <item>
-      <title>Wolfgang Omlor, MD, PhD, Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</link>
+      <title>Ellen Ji, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</link>
       <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-06-01</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</guid>
+      <pubDate>2020-06-08</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
     </item>
     <item>
       <title>Lab meetings schedule for 2020</title>
       <link>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</link>
       <description><![CDATA[Lab meetings in spring semester 2020]]></description>
-      <pubDate>2020-05-30</pubDate>
+      <pubDate>2020-05-20</pubDate>
       <guid>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</guid>
     </item>
     <item>
@@ -77,6 +70,13 @@
       <description><![CDATA[Neurobiology of psychosis risk]]></description>
       <pubDate>2020-05-18</pubDate>
       <guid>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</guid>
+    </item>
+    <item>
+      <title>Stephanie Homan, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</guid>
     </item>
   </channel>
 </rss>
