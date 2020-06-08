@@ -14,11 +14,16 @@
 [[https://homanlab.github.io/media/img/lab_ej.png]]
 
 ** About                                                             :ignore:
-Ellen did her PhD with Cyndi Weickert with a methodological focus on
-structural and functional neuroimaging. She is a former Marie Curie
-fellow who was able to secure highly competitive funding for both her
-PhD and postdoctoral training. She is also the recipient of 5 awards
-from Australia.
+Ellen completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
+in Sydney with Profs. Tom and Cyndi Weickert. There, she assessed the 
+effects of adjunctive raloxifene treatment for schizophrenia and 
+examined the relationship between circulating hormones and brain 
+abnormalities in patients. After performing a number of case-control 
+studies, she became particularly interested in understanding 
+heterogeneity among patients. She is currently investigating how 
+inter-individual variability in cognition may be linked to 
+inter-individual differences in brain architecture in psychosis.
+
 
 ** Recent publications
 - Ji et al. 2019, Schizophrenia Bulletin  
