@@ -45,6 +45,26 @@ heterogeneity among patients. She is currently investigating how
 inter-individual variability in cognition may be linked to 
 inter-individual differences in brain architecture in psychosis.
 
+* Wolfgang Omlor, MD, PhD. Postdoc
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lab_wo.png]]
+
+Wolfgang studied medicine at the University of Tuebingen and as fellow
+of the German Academic Scholarship Foundation at Harvard Medical School
+as well as the University of Oxford. Following his medical degree he
+studied natural sciences with focus on mathematics at the University of
+Zurich and completed his PhD in natural sciences with
+Prof. Helmchen. Clinically, he received two years of resident training
+in neurology at the University Hospital of Zurich (USZ) and he is
+currently resident at the Psychiatric University Clinic of Zurich
+(PUK). His previous research work was focused on neural circuit dynamics
+in the mammalian motor system and involved optogenetics, calcium imaging
+and electrophysiological approaches. He currently plans to explore the
+generation of motor symptoms in schizophrenia and obsessive-compulsive
+disorder by combining fMRI in humans with optogenetic and calcium
+imaging tools in mice.
+
 * Werner Surbeck MD, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
