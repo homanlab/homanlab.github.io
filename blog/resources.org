@@ -78,8 +78,8 @@ https://homanlab.github.io/media/img/idp_studying.png
 - [[https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.0030077&type=printable][Ten simple rules for making good oral presentations]]
 
 * Disseminating
-*Journalism:*
-- [[https://twitter.com/chrisdc77/status/960304692449435648][Should you require proofs?]] 
+- Journalism
+	- [[https://twitter.com/chrisdc77/status/960304692449435648][Should scientists require copy checking?]] 
 
 *Social media:*
 - [[https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007513&type=printable][Ten simple rules for getting started on Twitter as a scientist]]
