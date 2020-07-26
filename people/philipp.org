@@ -14,18 +14,21 @@
 [[https://homanlab.github.io/media/img/lab_ph2.png]]
 
 ** About                                                             :ignore:
-Philipp is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and from August 2020 will be Chief of
-Service (Leitender Arzt) at the University Hospital of Psychiatry and PI
-of the IDP lab. He studied business and computer science at the
-[[https://tuwien.ac.at/en/][Technical University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in
-Vienna. He completed his residency in psychiatry (with Werner Strik) as
-well as a PhD in clinical neuroscience (with Thomas Dierks) at the
-[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was Attending Physician at
-the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain Stimulation Unit. He then
-did a two year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York
-after which he joined the faculty as Assistant Professor at the
-[[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
-Medicine]] in New York.
+[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He
+is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at the British Journal of Psychiatry. From August
+2020 he will be Chief of Service (Leitender Arzt) at the University
+Hospital of Psychiatry and is the Principal Investigator of the IDP lab
+where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
+people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
+University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
+completed his residency in psychiatry (with Werner Strik) as well as a
+PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
+Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
+Hospital]] and also led the Brain Stimulation Unit. He then did a two year
+fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after which he
+joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for
+Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School
+of Medicine]] in New York.
 
 ** Recent publications
 - Winkelbeiner et al. 2019, JAMA Psychiatry [[[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][link]]]
@@ -35,7 +38,7 @@ Medicine]] in New York.
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
 ** Preprints
-- Munkholm et al. 2019, PsyArXiv [[[https://psyarxiv.com/m4aqc/][link]]]
+- Winkelbeiner et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.05.02.20088831v1][link]]]
 - Homan et al. 2019, bioRxiv [[[https://www.biorxiv.org/content/10.1101/626663v2][link]]]
 - Homan et al. 2018, bioRxiv [[[https://www.biorxiv.org/content/10.1101/505545v2][link]]]
 
@@ -50,7 +53,7 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - [[https://www.dropbox.com/s/m5j672swskro4x8/KJ2MN.pdf?dl=0][TMS for positive symptoms]]. NZZ 2013. 
 - Co-founder [[http://www.trialogbern.ch][Recovery Trialog]], 2012.
 
-** Prizes, awards, fellowships
+** Honors, awards, fellowships
 Over $310'000 total funding
 
 - 04/2020: Research Grant from the Novartis Foundation, Switzerland
@@ -58,8 +61,12 @@ Over $310'000 total funding
 - 04/2020: Travel Award from the Society of Biological Psychiatry
   (SOBP), USA
 
+- 04/2020: Associate Editor, British Journal of Psychiatry
+
 - 03/2020: EPA Research Prize from the European Psychiatric Association
   (EPA), France
+
+- 10/2019: Editorial Board Member, British Journal of Psychiatry
 
 - 10/2019: Young Investigator Award from the Swiss Society of Biological
   Psychiatry (SSBP), Switzerland
