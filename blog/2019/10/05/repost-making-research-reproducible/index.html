@@ -58,9 +58,9 @@
 </p>
 </div>
 
-<div id="outline-container-org0c1da97" class="outline-2">
-<h2 id="org0c1da97">Summary</h2>
-<div class="outline-text-2" id="text-org0c1da97">
+<div id="outline-container-orgde33095" class="outline-2">
+<h2 id="orgde33095">Summary</h2>
+<div class="outline-text-2" id="text-orgde33095">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -81,9 +81,9 @@ across the world. They are ideal tools to make research reproducible.
 </div>
 </div>
 
-<div id="outline-container-orgf6e3f9e" class="outline-2">
-<h2 id="orgf6e3f9e">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-orgf6e3f9e">
+<div id="outline-container-org5726f85" class="outline-2">
+<h2 id="org5726f85">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-org5726f85">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
@@ -106,9 +106,9 @@ well.
 </div>
 </div>
 
-<div id="outline-container-org16d855e" class="outline-2">
-<h2 id="org16d855e">Separating data from code</h2>
-<div class="outline-text-2" id="text-org16d855e">
+<div id="outline-container-orgb2a2006" class="outline-2">
+<h2 id="orgb2a2006">Separating data from code</h2>
+<div class="outline-text-2" id="text-orgb2a2006">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -152,9 +152,9 @@ often to be confident it is as obvious as it should be.
 </div>
 </div>
 
-<div id="outline-container-org7ffbd9f" class="outline-2">
-<h2 id="org7ffbd9f">Using version control</h2>
-<div class="outline-text-2" id="text-org7ffbd9f">
+<div id="outline-container-org6797832" class="outline-2">
+<h2 id="org6797832">Using version control</h2>
+<div class="outline-text-2" id="text-org6797832">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -189,9 +189,9 @@ analyze data.
 </div>
 </div>
 
-<div id="outline-container-org0962504" class="outline-2">
-<h2 id="org0962504">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org0962504">
+<div id="outline-container-org93705f2" class="outline-2">
+<h2 id="org93705f2">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org93705f2">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -240,7 +240,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="orgd94e41f">#---------------------------------------------------
+<pre class="src src-R" id="org60b1836">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -291,9 +291,9 @@ wrote.
 </div>
 </div>
 
-<div id="outline-container-org7816e58" class="outline-2">
-<h2 id="org7816e58">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-org7816e58">
+<div id="outline-container-orgd39a7f9" class="outline-2">
+<h2 id="orgd39a7f9">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgd39a7f9">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -328,7 +328,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="org5ab0998">
+<pre class="src src-sh" id="orga4372bc">
 # this is a rule in the Makefile
 statistics: preprocessing 
 	R CMD BATCH myproj_do.R
@@ -361,9 +361,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-orgc7873f5" class="outline-2">
-<h2 id="orgc7873f5">Conclusion</h2>
-<div class="outline-text-2" id="text-orgc7873f5">
+<div id="outline-container-org1c9be7f" class="outline-2">
+<h2 id="org1c9be7f">Conclusion</h2>
+<div class="outline-text-2" id="text-org1c9be7f">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -372,9 +372,9 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-orgda43ab4" class="outline-2">
-<h2 id="orgda43ab4">Further reading</h2>
-<div class="outline-text-2" id="text-orgda43ab4">
+<div id="outline-container-orgd5c8b76" class="outline-2">
+<h2 id="orgd5c8b76">Further reading</h2>
+<div class="outline-text-2" id="text-orgd5c8b76">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote

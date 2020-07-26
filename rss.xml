@@ -4,23 +4,51 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 26 Jul 2020 16:01:43 CEST</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2020 16:01:43 CEST</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2020 16:04:51 CEST</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2020 16:04:51 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>UZH Research Grant to Ellen Ji</title>
+      <link>http://homanlab.github.io/blog/2020/07/11/research-grant-to-ellen</link>
+      <description><![CDATA[Foundation for psychiatric illnesses]]></description>
+      <pubDate>2020-07-26</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/07/11/research-grant-to-ellen</guid>
+    </item>
+    <item>
+      <title>Learning resources</title>
+      <link>http://homanlab.github.io/blog/2020/07/26/resources</link>
+      <description><![CDATA[Learning things ]]></description>
+      <pubDate>2020-07-26</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/07/26/resources</guid>
+    </item>
+    <item>
+      <title>Ellen Ji, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-07-26</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
+    </item>
+    <item>
+      <title>Noemi Dannecker, MSc, Graduate Student</title>
+      <link>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</link>
+      <description><![CDATA[Graduate Student]]></description>
+      <pubDate>2020-07-26</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</guid>
+    </item>
+    <item>
+      <title>Philipp Homan, MD, PhD, PI</title>
+      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2020-07-26</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
+    </item>
     <item>
       <title>Wolfgang Omlor, MD, PhD, Postdoc</title>
       <link>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</link>
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-06-12</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</guid>
-    </item>
-    <item>
-      <title>Ellen Ji, PhD, Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-06-08</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
     </item>
     <item>
       <title>Lab meetings schedule for 2020</title>
@@ -37,13 +65,6 @@
       <guid>http://homanlab.github.io/blog/2020/05/20/guest-seminar-lara-wallenwein</guid>
     </item>
     <item>
-      <title>Philipp Homan, MD, PhD, PI</title>
-      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
-      <description><![CDATA[Principal Investigator]]></description>
-      <pubDate>2020-05-19</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
-    </item>
-    <item>
       <title>Contact us</title>
       <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
       <description><![CDATA[How to reach the IDP Lab]]></description>
@@ -56,27 +77,6 @@
       <description><![CDATA[Neurobiology of psychosis risk]]></description>
       <pubDate>2020-05-18</pubDate>
       <guid>http://homanlab.github.io/blog/2020/04/30/guest-seminar-gemma-modinos-phd</guid>
-    </item>
-    <item>
-      <title>Novartis Foundation Research Grant</title>
-      <link>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</link>
-      <description><![CDATA[Project on cognition and brain networks]]></description>
-      <pubDate>2020-05-18</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</guid>
-    </item>
-    <item>
-      <title>Repost: Beyond spaghetti code</title>
-      <link>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</link>
-      <description><![CDATA[Making research reproducible]]></description>
-      <pubDate>2020-05-18</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</guid>
-    </item>
-    <item>
-      <title>Guest Seminar: Rick Adams, MD, PhD</title>
-      <link>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</link>
-      <description><![CDATA[Neurobiology of psychosis risk]]></description>
-      <pubDate>2020-05-18</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</guid>
     </item>
   </channel>
 </rss>
