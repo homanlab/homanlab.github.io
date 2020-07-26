@@ -1,7 +1,7 @@
 #+TITLE:       UZH Research Grant to Ellen Ji
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
-#+DATE:        2020-07-10 Fri 
+#+DATE:        2020-07-11 Sat
 #+URI:         /blog/%y/%m/%d/research-grant-to-ellen
 #+KEYWORDS:    grant, ellen, 2020
 #+TAGS:        grant, ellen, 2020
