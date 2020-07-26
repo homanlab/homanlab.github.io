@@ -99,3 +99,20 @@ communication.
 
 *Social media:*
 - [[https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007513&type=printable][Ten simple rules for getting started on Twitter as a scientist]]
+* Reading
+*Blogs:*
+- [[https://slatestarcodex.com/][Slate Star Codex]]
+- [[https://errorstatistics.com/][Error statistics blog]]
+- [[https://statmodeling.stat.columbia.edu/][Andrew Gelman's blog]]
+- [[http://datacolada.org/][Data colada]]
+- [[https://djnavarro.net/blog/][Danielle Navarro's blog]]
+- [[https://www.talyarkoni.org/blog/][Tal Yarkoni's blog]]
+
+# * Listening
+*Podcasts:*
+- [[http://rationallyspeakingpodcast.org/][Rationally speaking]]
+
+*Talks:*
+- [[https://www.youtube.com/watch?gl=SN&hl=fr&v=CjVQJdIrDJ0][Daniel Kahneman on Thinking, Fast and Slow]]
+- [[https://www.youtube.com/watch?v=nEnklxGAmak][Robert Sapolsky on Schizophrenia]]
+- [[https://samharris.org/podcasts/91-biology-good-evil/][The biology of good and evil]]
