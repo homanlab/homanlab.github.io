@@ -1,0 +1,85 @@
+#+TITLE:       Learning resources
+#+AUTHOR:      homanlab 
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-07-26 Sun
+#+URI:         /blog/%y/%m/%d/resources
+#+KEYWORDS:    learning, writing, presenting, programming
+#+TAGS:        learning, writing, presenting, programming
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Learning things 
+#+AVATAR:      https://homanlab.github.io/media/img/idp_studying.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/idp_studying.png
+
+* Programming
+** Bash
+- [[https://linuxconfig.org/bash-scripting-tutorial-for-beginners][Bash scripting for beginners]]
+- [[https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/][A beginner's guide to shell scripting]]
+
+** R
+- [[https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R][Getting started with R]]
+- [[https://www.statmethods.net/r-tutorial/index.html][R Tutorial]]
+- [[https://www.zhrcourses.uzh.ch/en.html][UZH R Courses]]
+- [[https://www.meetup.com/Zurich-R-User-Group/][Zurich R user group]]
+
+** Python
+- [[https://www.python.org/about/gettingstarted/][Getting started with python]]
+- [[https://www.coursera.org/learn/python][Learning python]]
+- [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=5F65E85F9484438DC125820B00575623&action=readDocument][UZH Foundations of programming with python]]
+- [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=F96BAF816E2EC95AC12582E40055503A&action=readDocument][UZH Python - data analysis essentials]]
+
+** Matlab
+- [[https://www.mathworks.com/help/matlab/getting-started-with-matlab.html][Getting started with matlab]]
+- [[https://www.coursera.org/learn/matlab][Introduction to programming with matlab]]
+- [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=A65F2C2D167FC7DCC12581D1005F43D6&action=readDocument][UZH Introduction to matlab]]
+
+* Analyzing
+** SPM
+- [[https://www.fil.ion.ucl.ac.uk/spm/course/][UCL SPM course]]
+- [[https://www.tnu.ethz.ch/en/teaching/spmcourse][TNU Previous SPM courses]]
+- [[https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=spm][SPM mailing list]]
+
+** FSL
+- [[https://osf.io/84abu/wiki/home/][Learning FSL]]
+- [[https://fsl.fmrib.ox.ac.uk/fslcourse/][Oxford FSL courses]]
+	
+** Freesurfer
+- [[http://surfer.nmr.mgh.harvard.edu/fswiki/CourseDescription][Boston freesurfer course]]
+- [[http://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial][Freesurfer tutorial]]
+- [[https://surfer.nmr.mgh.harvard.edu/fswiki/TeachYourselfFreeSurfer][Teach yourself freesurfer]]
+
+** AFNI
+- [[https://cbmm.mit.edu/afni][AFNI training bootcamp]]
+- [[https://andysbrainbook.readthedocs.io/en/latest/AFNI/AFNI_Short_Course/AFNI_fMRI_Intro.html][Introduction to AFNI]]
+
+** Computational psychiatry
+- [[https://www.translationalneuromodeling.org/cpcourse/][TNU Zurich computational psychiatry course]]
+- [[https://www.quentinhuys.com/tcpw/][Transcontinental computational psychiatry workgroup]]
+
+** Stan
+- [[https://discourse.mc-stan.org/][The Stan forum]]
+- [[https://mc-stan.org/docs/2_23/stan-users-guide/index.html][Stan user guide]]
+* Writing
+** RMarkdown
+- [[https://rmarkdown.rstudio.com/lesson-1.html][Online website]]
+- [[https://bookdown.org/yihui/rmarkdown/][User guide]]
+	
+** Scientific writing
+- [[https://www.ueberfachliche-kompetenzen.uzh.ch/de/phd-courses/HS19/SWSMe.html][UZH course]]
+- [[https://www.lifescience-graduateschool.uzh.ch/en/courses/tsc.html][UZH course]]
+- [[http://www.ctc.usz.ch/ueber-uns/fort-und-weiterbildung/Seiten/scientific-writing.aspx][USZ course]]
+- [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619][Ten simple rules for structuring papers]]
+- [[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453][Ten simple rules for writing research papers]]
+
+* Presenting
+- [[https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.0030077&type=printable][Ten simple rules for making good oral presentations]]
+
+* Disseminating
+** Journalism
+- [[https://twitter.com/chrisdc77/status/960304692449435648][What to expect]] 
+
+** Social media
+- [[https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007513&type=printable][Ten simple rules for getting started on Twitter as a scientist]]
+
