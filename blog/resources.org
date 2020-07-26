@@ -14,23 +14,23 @@
 https://homanlab.github.io/media/img/idp_studying.png
 
 * Programming
-** Bash
+Bash:
 - [[https://linuxconfig.org/bash-scripting-tutorial-for-beginners][Bash scripting for beginners]]
 - [[https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/][A beginner's guide to shell scripting]]
 
-** R
+R:
 - [[https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R][Getting started with R]]
 - [[https://www.statmethods.net/r-tutorial/index.html][R Tutorial]]
 - [[https://www.zhrcourses.uzh.ch/en.html][UZH R Courses]]
 - [[https://www.meetup.com/Zurich-R-User-Group/][Zurich R user group]]
 
-** Python
+Python:
 - [[https://www.python.org/about/gettingstarted/][Getting started with python]]
 - [[https://www.coursera.org/learn/python][Learning python]]
 - [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=5F65E85F9484438DC125820B00575623&action=readDocument][UZH Foundations of programming with python]]
 - [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=F96BAF816E2EC95AC12582E40055503A&action=readDocument][UZH Python - data analysis essentials]]
 
-** Matlab
+Matlab:
 - [[https://www.mathworks.com/help/matlab/getting-started-with-matlab.html][Getting started with matlab]]
 - [[https://www.coursera.org/learn/matlab][Introduction to programming with matlab]]
 - [[https://app.connect.uzh.ch/apps/id/kurse.nsf/veranstaltung.xsp?openxpage&documentId=A65F2C2D167FC7DCC12581D1005F43D6&action=readDocument][UZH Introduction to matlab]]
