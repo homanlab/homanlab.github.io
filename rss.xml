@@ -4,45 +4,10 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sat, 11 Jul 2020 14:22:37 CEST</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2020 14:22:37 CEST</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2020 13:45:25 CEST</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2020 13:45:25 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
-    <item>
-      <title>UZH Research Grant to Ellen Ji</title>
-      <link>http://homanlab.github.io/blog/2020/07/10/research-grant-to-ellen</link>
-      <description><![CDATA[Foundation for Psychiatric Illnesses]]></description>
-      <pubDate>2020-07-11</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/07/10/research-grant-to-ellen</guid>
-    </item>
-    <item>
-      <title>Ellen Ji, PhD, Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-07-11</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
-    </item>
-    <item>
-      <title>Noemi Dannecker, MSc, Graduate Student</title>
-      <link>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</link>
-      <description><![CDATA[Graduate Student]]></description>
-      <pubDate>2020-07-09</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</guid>
-    </item>
-    <item>
-      <title>Lab meetings schedule for 2020</title>
-      <link>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</link>
-      <description><![CDATA[Lab meetings in spring semester 2020]]></description>
-      <pubDate>2020-07-07</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</guid>
-    </item>
-    <item>
-      <title>Philipp Homan, MD, PhD, PI</title>
-      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
-      <description><![CDATA[Principal Investigator]]></description>
-      <pubDate>2020-07-07</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
-    </item>
     <item>
       <title>Wolfgang Omlor, MD, PhD, Postdoc</title>
       <link>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</link>
@@ -51,11 +16,32 @@
       <guid>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</guid>
     </item>
     <item>
+      <title>Ellen Ji, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-06-08</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/ellen-ji-phd</guid>
+    </item>
+    <item>
+      <title>Lab meetings schedule for 2020</title>
+      <link>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</link>
+      <description><![CDATA[Lab meetings in spring semester 2020]]></description>
+      <pubDate>2020-05-20</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</guid>
+    </item>
+    <item>
       <title>Guest Seminar: Lara Wallenwein</title>
       <link>http://homanlab.github.io/blog/2020/05/20/guest-seminar-lara-wallenwein</link>
       <description><![CDATA[Task-induced changes in FDG uptake]]></description>
       <pubDate>2020-05-20</pubDate>
       <guid>http://homanlab.github.io/blog/2020/05/20/guest-seminar-lara-wallenwein</guid>
+    </item>
+    <item>
+      <title>Philipp Homan, MD, PhD, PI</title>
+      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2020-05-19</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
     </item>
     <item>
       <title>Contact us</title>
@@ -77,6 +63,20 @@
       <description><![CDATA[Project on cognition and brain networks]]></description>
       <pubDate>2020-05-18</pubDate>
       <guid>http://homanlab.github.io/blog/2020/04/20/novartis-foundation-research-grant</guid>
+    </item>
+    <item>
+      <title>Repost: Beyond spaghetti code</title>
+      <link>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</link>
+      <description><![CDATA[Making research reproducible]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/10/05/repost-making-research-reproducible</guid>
+    </item>
+    <item>
+      <title>Guest Seminar: Rick Adams, MD, PhD</title>
+      <link>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</link>
+      <description><![CDATA[Neurobiology of psychosis risk]]></description>
+      <pubDate>2020-05-18</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/05/13/guest-seminar-rick-adams-md-phd</guid>
     </item>
   </channel>
 </rss>
