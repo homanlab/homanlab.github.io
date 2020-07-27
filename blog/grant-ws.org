@@ -1,0 +1,23 @@
+#+TITLE:       Research Grant to Werner Surbeck
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-07-27 Mon
+#+URI:         /blog/%y/%m/%d/research-grant-to-werner
+#+KEYWORDS:    grant, werner, noemi, philipp, 2020
+#+TAGS:        grant, werner, noemi, philipp, 2020
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: OPO Foundation Switzerland
+#+AVATAR:      https://homanlab.github.io/media/img/ws.png
+
+#+ATTR_HTML: width 200px
+https://homanlab.github.io/media/img/ws.png
+
+We are happy to announce that [[https://homanlab.github.io/werner/][Werner Surbeck]] will receive a research
+grant by the [[http://www.opo-stiftung.ch/][OPO Foundation Switzerland]]. This grant will support
+Werner's project that investigates the integrity of the ventral language
+stream with semantic processing deficits as well as in visuo-spatial
+attention deviation in schizotypy and schizophrenia. The project team
+further consists of [[https://homanlab.github.io/noemi/][Noemi Dannecker]], [[https://www.rehazentrum-valens.ch/ueber-uns/organisation/][Peter Brugger]], and [[https://homanlab.github.io/philipp/][Philipp]] as the
+principal investigator. Congratulations, Werner!
+
