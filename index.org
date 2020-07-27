@@ -3,4 +3,4 @@
 #+REFRESH: 0; url=https://homanlab.github.io/about/
 
 #+ATTR_HTML: :width 400px
-[[https://homanlab.github.io/media/img/lab_people.png]]
+[[https://homanlab.github.io/media/img/idp_people.png]]
