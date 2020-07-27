@@ -1,0 +1,34 @@
+#+TITLE:       Intranet
+#+AUTHOR:      homanlab 
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-07-27 Mon
+#+URI:         /blog/%y/%m/%d/intranet
+#+KEYWORDS:    lab, intranet 
+#+TAGS:        lab, intranet
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Useful links 
+#+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c
+
+#+ATTR_HTML: width 200px
+https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+
+These are a few resources that we've found helpful for getting started
+with learning some of the essential skills including programming, data
+analysis, scientific writing, oral presentations, and scientific
+communication.
+
+* Journalclub
+- [[https://homanlab.github.io/journalclub/][homanlab.github.io/journalclub/]]
+
+* Manuscripts
+- [[https://homanlab.github.io/manuscripts/][homanlab.github.io/manuscripts/]]
+
+* Minutes
+- [[https://homanlab.github.io/minutes/][homanlab.github.io/minutes/]]
+
+* Slides
+- [[https://homanlab.github.io/slides/][homanlab.github.io/slides/]]
+
+* Resources
+- [[https://homanlab.github.io/resources/][homanlab.github.io/resources/]]
