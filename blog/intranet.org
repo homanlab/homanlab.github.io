@@ -10,8 +10,8 @@
 #+DESCRIPTION: IDP Lab's intranet portal
 #+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c
 
-#+ATTR_HTML: width 200px
-https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c
+#+ATTR_HTML: width 100px
+[[https://homanlab.github.io/media/img/lab_logo_blue.png]]
 
 For convenience this is the entry point to the lab's intranet. 
 
