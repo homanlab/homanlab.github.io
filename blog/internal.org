@@ -13,10 +13,7 @@
 #+ATTR_HTML: width 200px
 https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
 
-These are a few resources that we've found helpful for getting started
-with learning some of the essential skills including programming, data
-analysis, scientific writing, oral presentations, and scientific
-communication.
+For convenience this is the entry point to the lab's intranet. 
 
 * Journalclub
 - [[https://homanlab.github.io/journalclub/][homanlab.github.io/journalclub/]]
