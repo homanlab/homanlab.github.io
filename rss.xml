@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 27 Jul 2020 13:13:28 CEST</pubDate>
-    <lastBuildDate>Mo, 27 Jul 2020 13:13:28 CEST</lastBuildDate>
+    <pubDate>Mo, 27 Jul 2020 13:22:31 CEST</pubDate>
+    <lastBuildDate>Mo, 27 Jul 2020 13:22:31 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -28,6 +28,13 @@
       <description><![CDATA[IDP Lab's intranet portal]]></description>
       <pubDate>2020-07-27</pubDate>
       <guid>http://homanlab.github.io/blog/2020/07/27/intranet</guid>
+    </item>
+    <item>
+      <title>Werner Surbeck, MD, PhD, Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/werner-surbeck-md-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-07-27</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/werner-surbeck-md-phd</guid>
     </item>
     <item>
       <title>Learning resources</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Lab meetings in spring semester 2020]]></description>
       <pubDate>2020-05-20</pubDate>
       <guid>http://homanlab.github.io/blog/2019/11/27/lab-meetings-schedule-2020</guid>
-    </item>
-    <item>
-      <title>Guest Seminar: Lara Wallenwein</title>
-      <link>http://homanlab.github.io/blog/2020/05/20/guest-seminar-lara-wallenwein</link>
-      <description><![CDATA[Task-induced changes in FDG uptake]]></description>
-      <pubDate>2020-05-20</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/05/20/guest-seminar-lara-wallenwein</guid>
     </item>
   </channel>
 </rss>
