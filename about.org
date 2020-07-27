@@ -37,7 +37,7 @@ Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Med
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ej.png]]
 
-Ellen completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
+[[https://homanlab.github.io/ellen/][Ellen]] completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
 in Sydney with Profs. Tom and Cyndi Weickert. There, she assessed the 
 effects of adjunctive raloxifene treatment for schizophrenia and 
 examined the relationship between circulating hormones and brain 
@@ -52,7 +52,7 @@ inter-individual differences in brain architecture in psychosis.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_wo.png]]
 
-Wolfgang studied medicine at the University of Tuebingen and as fellow
+[[https://homanlab.github.io/wolfgang/][Wolfgang]] studied medicine at the University of Tuebingen and as fellow
 of the German Academic Scholarship Foundation at Harvard Medical School
 as well as the University of Oxford. Following his medical degree he
 studied natural sciences with focus on mathematics at the University of
@@ -72,7 +72,7 @@ imaging tools in mice.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ws.png]]
 
-Werner studied medicine at the University of Zurich. After his training
+[[https://homanlab.github.io/werner/][Werner]] studied medicine at the University of Zurich. After his training
 in neurosurgery, he specialized in epilepsy surgery and functional
 neurooncology before completing a PhD on the electrophysiological
 investigation of the insular region. At present, he undergoes additional
@@ -85,7 +85,7 @@ schizophrenia spectrum disorders.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_mn.png]]
 
-Maria studied medicine at the University of Erlangen-Nuremberg. During
+[[https://homanlab.github.io/maria/][Maria]] studied medicine at the University of Erlangen-Nuremberg. During
 her studies she joined a research project in the field of tumor
 immunology. She is a resident physician in Psychiatry and Psychotherapy
 and has a special interest in psychotic disorders. Currently she
@@ -97,7 +97,7 @@ treatment.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_jb.png]]
 
-Janis is a clinician scientist and is the deputy head of the Center for
+[[https://homanlab.github.io/janis/][Janis]] is a clinician scientist and is the deputy head of the Center for
 Acute Psychiatry at the Psychiatric University Hospital Zurich. He
 studied Medicine at the Charité University Medicine Berlin as well as
 Philosophy and History at the Humboldt University Berlin. He completed
@@ -113,7 +113,7 @@ severity of negative symptoms in schizophrenia.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_nk.png]]
 
-Nils studied medicine at the University of Bern. He is currently a
+[[https://homanlab.github.io/nils/][Nils]] studied medicine at the University of Bern. He is currently a
 resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
@@ -123,7 +123,7 @@ that may predict conversion to psychosis in high risk subjects.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_gc.png]]
 
-Giacomo was born in Rome, Italy. He received his medical degree from
+[[https://homanlab.github.io/giacomo/][Giacomo]] was born in Rome, Italy. He received his medical degree from
 Campus Bio-Medico University of Rome before moving to
 Switzerland. Giacomo is a third-year psychiatry resident. He has been
 working at the Zürich University Psychiatry Hospital since 2017. During
@@ -136,7 +136,7 @@ in depth as his residency progresses.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_rh.png]]
 
-Rahel studied Clinical Psychology, Biology and Art History at the
+[[https://homanlab.github.io/rahel/][Rahel]] studied Clinical Psychology, Biology and Art History at the
 University of Zurich. She works as a clinical psychologist and
 psychotherapist at the Psychiatric University Hospital in Zurich. Her
 current research activity for a dissertation focusses on the assessment
@@ -151,7 +151,7 @@ focus of her research interest.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_sw.png]]
 
-Stephanie completed her PhD at the University of Bern in 2019 and
+[[https://homanlab.github.io/stephanie/][Stephanie]] completed her PhD at the University of Bern in 2019 and
 currently works as a postdoc and psychologist at the University Hospital
 of Psychiatry. As a clinician researcher, she is interested in the
 question of whether or not patients respond differently to interventions
@@ -166,7 +166,7 @@ IDP Lab with her expertise.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_nd.png]]
 
-Noemi studied psychology and biology at the University of Zurich. After
+[[https://homanlab.github.io/noemi/][Noemi]] studied psychology and biology at the University of Zurich. After
 working as a clinical neuropsychologist at the Department of Neurology
 of the University Hospital Zurich for almost 3 years, she decided to
 focus on research full-time and is now doing her PhD with Philipp at the
@@ -184,7 +184,7 @@ of four years.
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_lh.png]]
 
-Lena received her medical degree from the Ludwig-Maximilians-University
+[[https://homanlab.github.io/lena/][Lena]] received her medical degree from the Ludwig-Maximilians-University
 Munich. For her dissertation, she focused on the effects of high
 intensity neoadjuvant chemotherapy on the mortality of patients with
 gastric cancer. At the University Hospital of Psychiatry Zurich, she
