@@ -29,3 +29,9 @@ For convenience this is the entry point to the lab's intranet.
 
 * Resources
 - [[https://homanlab.github.io/resources/][homanlab.github.io/resources/]]
+
+* Calendar
+- [[https://homanlab.github.io/calendar/][homanlab.github.io/calendar/]]
+
+* Deadlines
+- [[https://homanlab.github.io/deadlines/][homanlab.github.io/deadlines/]]
