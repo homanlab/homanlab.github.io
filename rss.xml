@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 27 Jul 2020 17:18:26 CEST</pubDate>
-    <lastBuildDate>Mo, 27 Jul 2020 17:18:26 CEST</lastBuildDate>
+    <pubDate>Di, 28 Jul 2020 09:51:52 CEST</pubDate>
+    <lastBuildDate>Di, 28 Jul 2020 09:51:52 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Intranet</title>
+      <link>http://homanlab.github.io/blog/2020/07/27/intranet</link>
+      <description><![CDATA[IDP Lab's intranet portal]]></description>
+      <pubDate>2020-07-28</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/07/27/intranet</guid>
+    </item>
     <item>
       <title>UZH Research Grant to Ellen Ji</title>
       <link>http://homanlab.github.io/blog/2020/07/11/research-grant-to-ellen</link>
@@ -21,13 +28,6 @@
       <description><![CDATA[OPO Foundation Switzerland]]></description>
       <pubDate>2020-07-27</pubDate>
       <guid>http://homanlab.github.io/blog/2020/07/27/research-grant-to-werner</guid>
-    </item>
-    <item>
-      <title>Intranet</title>
-      <link>http://homanlab.github.io/blog/2020/07/27/intranet</link>
-      <description><![CDATA[IDP Lab's intranet portal]]></description>
-      <pubDate>2020-07-27</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/07/27/intranet</guid>
     </item>
     <item>
       <title>Werner Surbeck, MD, PhD, Postdoc</title>
