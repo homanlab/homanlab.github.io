@@ -113,7 +113,7 @@
 <div class="staticrypt-page">
     <div class="staticrypt-form">
         <div class="staticrypt-instructions">
-            <p class="staticrypt-title">Protected Page</p>
+            <p class="staticrypt-title">IDP Lab: Calendar (Protected)</p>
             <p></p>
         </div>
 
@@ -6160,7 +6160,7 @@
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
-            encryptedMsg = '49c57909cb889da5ba08b7c574dce9c46c48e75f5864cfa342bba8330631f9f454bbba8ad35749d0a71575df949723b2c8ad50e94a0288fab7cfbdc1480b2891uo6HL2ztG0CxQ8qB9ufPZiz9HYvR2cCku+06PXmXRzllOKuXFjkx+ohvfaHVn3ApI/TgsyfJltlzGTGicWEHz1dZvvpqT7HEQGj2QZws4IZLxkNcb+7OSm8tLYOCPptnmlFI8fc/tvWft1F5XlQrbEv0DSHeC68Qpm9pXPEU4DTY1v0KLP4waNtqKwsnZxpaoQZ3wJPkKxFXqvajr595Uw==',
+            encryptedMsg = '452dfff54be034df8e7eee60e18779f009b105d91c1050fec53baaa7ec6966844cfbaacd5a435291607ecdae2d9ef0ccccd4c1154d30e4705468ad4752eca538nNSwNcDnYEKglCWEyqfEcTQwUyIXPC74WyytLvm088eAN1fSdqAxOXMxtwzSweBQdJSBzUl/JsnRzFYt1FWTOEOL9Ur0GBa+CnBrFgfsJVxDyQGR+NgzkWpGEHoZV0xPav9hSb8ScztZu6rhLlBIEl5TSjdaBNkLqdO6+M06VL0=',
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
@@ -6178,3 +6178,4 @@
 </script>
 </body>
 </html>
+
