@@ -33,5 +33,8 @@ For convenience this is the entry point to the lab's intranet.
 * Calendar
 - [[https://homanlab.github.io/calendar/][homanlab.github.io/calendar/]]
 
+* Presentations
+- [[https://homanlab.github.io/presentations/][homanlab.github.io/presentations/]]
+
 * Deadlines
 - [[https://homanlab.github.io/deadlines/][homanlab.github.io/deadlines/]]
