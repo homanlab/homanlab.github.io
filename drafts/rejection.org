@@ -1,0 +1,53 @@
+#+TITLE:       Rejection is the norm. And it probably should be
+#+AUTHOR:      Philipp Homan
+#+EMAIL:       philipp.homan@bli.uzh.ch
+#+DATE:        2020-07-28 Di
+#+URI:         /blog/%y/%m/%d/rejection-is-the-norm
+#+KEYWORDS:    rejection, grant, peer review, academia
+#+TAGS:        peer review, academia
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: And it probably should be
+#+AVATAR:      https://homanlab.github.io/media/img/rejection.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/rejection.png]]
+
+* Why am I writing this?
+After having shared a few outcomes on twitter that had turned out way
+better than I would have hoped I realized (not for the first time) that
+I'm probably contributing to an annoying bias in academia; and that had
+to stop.
+
+* What is acceptance bias?
+
+* Is acceptance bias discouraging others? If so, why?
+- The issue of being unexperienced
+- Envy and its consequences. See De Tocqville.
+
+* What about the vanity in self-promotion?
+- Self promotion is vain only when it's too transparent
+- One could argue that self promotion is unavoidable
+- By mere visibility any act on social media is also self promotional
+
+* Why rejection stings 
+
+* Should we still aim high?
+- Distinguish impact factor issues and filter failure from the necessity
+  to rely on filters for others
+- Thus, even when the CNS filter fails (and it does) you would probably
+  still submit your prime paper there
+
+* Why rejection should be the norm
+- Too many scientists. But is this a good thing?
+- How can we make them employable for others? Think skills
+- How can we be empathic with people's (and our own) rejections and
+  still keep rejecting when necessary?
+
+* On the other hand: has competitive science worked?
+- History may suggest otherwise: see Merkur essays by Caspar Hirschi
+  (2013, 2018)
+
+* The psychology of rejection
+- Is it a rational strategy to expect rejection?
+- Or is that a myth since you will be disappointed anyway?

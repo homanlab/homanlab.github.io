@@ -18,8 +18,13 @@ Maria studied medicine at the University of Erlangen-Nuremberg. During
 her studies she joined a research project in the field of tumor
 immunology. She is a resident physician in Psychiatry and Psychotherapy
 and has a special interest in psychotic disorders. Currently she
-investigates individual differences in side effects to antipsychotic
-treatment.
+investigates variability of side effects to antipsychotic treatment.
+
+** Recent publications
+- Neumeier, Surbeck & Homan 2020, Psychiatrie + Neurologie [[[https://www.rosenfluh.ch/media/psychiatrie-neurologie/2020/02/Psychosen-Vorhersage-des-Therapieerfolgs-einer-antipsychotischen-Behandlung.pdf][link]]]
+
+** Preprints
+- Neumeier et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.07.27.20162727v2][link]]]
 
 ** Contact
 #+ATTR_HTML: :target _blank
