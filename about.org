@@ -17,20 +17,21 @@ Interested in working with us? [[https://homanlab.github.io/blog/2019/09/30/how-
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph3.png]]
 
-[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He
-is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at the British Journal of Psychiatry. From August
-2020 he will be Chief of Service (Leitender Arzt) at the University
-Hospital of Psychiatry and is the Principal Investigator of the IDP lab
-where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
-people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
-University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
-completed his residency in psychiatry (with Werner Strik) as well as a
-PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
-Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
-Hospital]] and also led the Brain Stimulation Unit. He then did a two year
-fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after which he
-joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for
-Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
+[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
+Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at
+the British Journal of Psychiatry. Philipp is Chief of Service
+(Leitender Arzt) at the University Hospital and Principal Investigator
+of the IDP Lab where he is lucky to work with a wonderful group of
+[[https://homanlab.github.io/people/][talented people]]. Philipp studied business and computer science at the
+[[https://tuwien.ac.at/en/][Technical University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in
+Vienna. He completed his residency in psychiatry (with Werner Strik) as
+well as a PhD in clinical neuroscience (with Thomas Dierks) at the
+[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was Attending Physician at
+the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain Stimulation Unit. He then
+did a two year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York
+after which he joined the faculty as Assistant Professor at the
+[[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
+Medicine]] in New York.
 
 * Ellen Ji, PhD. Postdoc
 
