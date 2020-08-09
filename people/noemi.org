@@ -1,4 +1,4 @@
-#+TITLE:       Noemi Dannecker, MSc, Graduate Student
+#+TITLE:       Noemi Dannecker, MSc. PhD student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Graduate Student
-#+AVATAR:      https://homanlab.github.io/media/img/lab_nd.png
+#+AVATAR:      https://homanlab.github.io/media/img/dannecker.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_nd.png]]
+[[https://homanlab.github.io/media/img/dannecker.png]]
 
 ** About                                                             :ignore:
 Noemi studied psychology and biology at the University of Zurich. After
@@ -30,5 +30,5 @@ of four years.
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
-- E-mail: noemi.dannecker@usz.ch
+- E-mail: noemi.dannecker@uzh.ch
 

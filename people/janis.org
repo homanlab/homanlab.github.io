@@ -1,4 +1,4 @@
-#+TITLE:       Janis Brakowski, MD, Postdoc
+#+TITLE:       Janis Brakowski, MD. Attending physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-10 Thu
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_logo_jb.png
+#+AVATAR:      https://homanlab.github.io/media/img/brakowski.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_jb.png]]
+[[https://homanlab.github.io/media/img/brakowski.png]]
 
 ** About                                                             :ignore:
 Janis is a clinician scientist and is the deputy head of the Center for
@@ -28,4 +28,4 @@ severity of negative symptoms in schizophrenia.
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
-- E-mail: janis.brakowski@puk.zh.ch
+- E-mail: janis.brakowski@bli.uzh.ch

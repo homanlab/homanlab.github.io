@@ -1,4 +1,4 @@
-#+TITLE:       Maria Neumeier, Doctoral Student
+#+TITLE:       Maria Neumeier. Resident physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Doctoral Student
-#+AVATAR:      https://homanlab.github.io/media/img/lab_mn.png
+#+AVATAR:      https://homanlab.github.io/media/img/neumeier.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_mn.png]]
+[[https://homanlab.github.io/media/img/neumeier.png]]
 
 ** About                                                             :ignore:
 Maria studied medicine at the University of Erlangen-Nuremberg. During

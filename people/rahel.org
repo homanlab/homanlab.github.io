@@ -1,4 +1,4 @@
-#+TITLE:       Rahel Horisberger, MSc, Doctoral Student
+#+TITLE:       Rahel Horisberger, MSc. Psychologist
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Doctoral Student
-#+AVATAR:      https://homanlab.github.io/media/img/lab_rh.png
+#+AVATAR:      https://homanlab.github.io/media/img/horisberger.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_rh.png]]
+[[https://homanlab.github.io/media/img/horisberger.png]]
 
 ** About                                                             :ignore:
 Rahel studied Clinical Psychology, Biology and Art History at the
@@ -27,6 +27,6 @@ focus of her research interest.
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
-- E-mail: rahel.horisberger@puk.zh.ch
+- E-mail: rahel.horisberger@uzh.ch
 
 	
