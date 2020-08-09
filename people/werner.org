@@ -1,4 +1,4 @@
-#+TITLE:       Werner Surbeck, MD, PhD, Postdoc
+#+TITLE:       Werner Surbeck, MD, PhD. Resident physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_ws.png
+#+AVATAR:      https://homanlab.github.io/media/img/surbeck.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_ws.png]]
+[[https://homanlab.github.io/media/img/surbeck.png]]
 
 ** About                                                             :ignore:
 Werner studied medicine at the University of Zurich. After his training
@@ -34,4 +34,4 @@ schizophrenia spectrum disorders.
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
-- E-mail: werner.surbeck@puk.zh.ch
+- E-mail: werner.surbeck@bli.uzh.ch
