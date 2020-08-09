@@ -1,7 +1,7 @@
 #+TITLE:       Gerhard Wernigg, MD. Resident physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-10 Thu
 #+URI:         /people/%y/%m/%d/gerhard-wernigg-md
 #+KEYWORDS:    lab, gerhard, contact, cv
 #+TAGS:        lab, gerhard, contact, cv

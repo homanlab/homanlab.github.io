@@ -92,7 +92,7 @@ immunology. She is a resident physician in Psychiatry and Psychotherapy
 and has a special interest in psychotic disorders. Currently she
 investigates variability of side effects to antipsychotic treatment.
 
-* Gerhard Wernigg, MD. Psychiarty resident
+* Gerhard Wernigg, MD. Resident physician
 	
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/wernigg.png]]
