@@ -1,4 +1,4 @@
-#+TITLE:       Ellen Ji, PhD, Postdoc
+#+TITLE:       Ellen Ji, PhD. Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_ej.png
+#+AVATAR:      https://homanlab.github.io/media/img/ji.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_ej.png]]
+[[https://homanlab.github.io/media/img/ji.png]]
 
 ** About                                                             :ignore:
 Ellen completed her PhD at the Schizophrenia Research Laboratory, NeuRA 

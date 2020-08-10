@@ -1,4 +1,4 @@
-#+TITLE:       Giacomo Cecere, MD, Postdoc
+#+TITLE:       Giacomo Cecere, MD. Resident physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-09 Wed
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_gc.png
+#+AVATAR:      https://homanlab.github.io/media/img/cecere.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_gc.png]]
+[[https://homanlab.github.io/media/img/cecere.png]]
 
 ** About                                                             :ignore:
 Giacomo was born in Rome, Italy. He received his medical degree from
@@ -25,5 +25,5 @@ in depth as his residency progresses.
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
-- E-mail: giacomo.cecere@puk.zh.ch
+- E-mail: giacomo.cecere@bli.uzh.ch
 	

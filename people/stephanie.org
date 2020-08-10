@@ -1,4 +1,4 @@
-#+TITLE:       Stephanie Homan, PhD, Postdoc
+#+TITLE:       Stephanie Homan, PhD. Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/lab_sw.png
+#+AVATAR:      https://homanlab.github.io/media/img/homans.png
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_sw.png]]
+[[https://homanlab.github.io/media/img/homans.png]]
 
 ** About                                                             :ignore:
 Stephanie completed her PhD at the University of Bern in 2019 and
@@ -32,6 +32,7 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=winkelbeiner+s][here]] for full 
 ** Preprints
 - Neumeier et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.07.27.20162727v2][link]]]
 - Winkelbeiner et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.05.02.20088831v1][link]]]
+- Grieder et al. 2019, OSF [[[http://dx.doi.org/10.31234/osf.io/jb9f4][link]]] 
 
 ** Prizes, awards, fellowships
 - 05/2019: Chair's Choice Travel Award from the Society of Biological
@@ -43,4 +44,4 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=winkelbeiner+s][here]] for full 
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
 - E-mail: stephanie.winkelbeiner@bli.uzh.ch
-- Twitter: [[https://twitter.com/stewinkelbeiner][@stewinkelbeiner]]
+- Twitter: [[https://twitter.com/stehoman][@stehoman]]

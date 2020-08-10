@@ -1,4 +1,4 @@
-#+TITLE:       Philipp Homan, MD, PhD, PI
+#+TITLE:       Philipp Homan, MD, PhD. Principal investigator
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat
@@ -14,22 +14,22 @@
 [[https://homanlab.github.io/media/img/lab_ph2.png]]
 
 ** About                                                             :ignore:
-[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He
-is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at the British Journal of Psychiatry. From August
-2020 he will be Chief of Service (Leitender Arzt) at the University
-Hospital of Psychiatry and is the Principal Investigator of the IDP lab
-where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
-people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
-University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
-completed his residency in psychiatry (with Werner Strik) as well as a
-PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
-Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
-Hospital]] and also led the Brain Stimulation Unit. He then did a two year
-fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after which he
-joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for
-Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School
-of Medicine]] in New York.
-
+[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
+Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at
+the British Journal of Psychiatry. Philipp is Chief of Service
+(Leitender Arzt) at the University Hospital and Principal Investigator
+of the IDP Lab where he is lucky to work with a wonderful group of
+[[https://homanlab.github.io/people/][talented people]]. Philipp studied business and computer science at the
+[[https://tuwien.ac.at/en/][Technical University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in
+Vienna. He completed his residency in psychiatry (with Werner Strik) as
+well as a PhD in clinical neuroscience (with Thomas Dierks) at the
+[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was Attending Physician at
+the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain Stimulation Unit. He then
+did a two year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York
+after which he joined the faculty as Assistant Professor at the
+[[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
+Medicine]] in New York.
+ 
 ** Recent publications
 - Winkelbeiner et al. 2019, JAMA Psychiatry [[[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][link]]]
 - Homan et al. 2019a, Nature Neuroscience [[[https://www.nature.com/articles/s41593-018-0315-x][link]]]
@@ -47,7 +47,8 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - Homan & Schiller 2016, Current Biology [[[https://www.cell.com/current-biology/fulltext/S0960-9822(16)30981-2?_returnURL=https%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS0960982216309812%253Fshowall%253Dtrue][link]]]
 
 ** Media and outreach
-- [[https://www.dropbox.com/s/4q1ukyvpiowuze1/NZZ2020.pdf?dl=0][Comment on new drug Lumataperone]]. NZZ 2020.
+- [[https://www.dropbox.com/s/b6xz9woenja67i6/srf_tagesschau_070820_clip.mp4?dl=0][TV interview]] about [[https://www.srf.ch/kultur/film-serien/loulou-eine-doku-ueber-verrueckte-von-einem-verrueckten][documentary on psychosis]]. SRF Tagesschau 2020.
+- [[https://www.dropbox.com/s/4q1ukyvpiowuze1/NZZ2020.pdf?dl=0][Comment on new drug lumataperone]]. NZZ 2020.
 - [[https://www.dropbox.com/s/q0u67aqz10pjvl0/oe1_journalum8_20181228.mp3?dl=0][Radio interview]] about [[https://science.orf.at/stories/2954096/][traumatic memories]]. ORF 2018.
 - [[https://www.dropbox.com/s/bsrloqmd615fwjo/APA2015.pdf?dl=0][New study on neurotransmitters and depression]]. Der Standard 2015.
 - [[https://www.dropbox.com/s/m5j672swskro4x8/KJ2MN.pdf?dl=0][TMS for positive symptoms]]. NZZ 2013. 

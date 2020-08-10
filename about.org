@@ -13,29 +13,30 @@ Individual Differences in Psychosis (IDP) Lab studies the origins and
 clinical consequences of individual differences in psychotic disorders.
 Interested in working with us? [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][Reach out]].
 
-* Philipp Homan, MD, PhD. PI
+* Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_ph3.png]]
+[[https://homanlab.github.io/media/img/homanp.png]]
 
-[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He
-is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at the British Journal of Psychiatry. From August
-2020 he will be Chief of Service (Leitender Arzt) at the University
-Hospital of Psychiatry and is the Principal Investigator of the IDP lab
-where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
-people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
-University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
-completed his residency in psychiatry (with Werner Strik) as well as a
-PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
-Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
-Hospital]] and also led the Brain Stimulation Unit. He then did a two year
-fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after which he
-joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for
-Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
+[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
+Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]] at
+the British Journal of Psychiatry. Philipp is Chief of Service
+(Leitender Arzt) at the University Hospital and Principal Investigator
+of the IDP Lab where he is lucky to work with a wonderful group of
+[[https://homanlab.github.io/people/][talented people]]. Philipp studied business and computer science at the
+[[https://tuwien.ac.at/en/][Technical University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in
+Vienna. He completed his residency in psychiatry (with Werner Strik) as
+well as a PhD in clinical neuroscience (with Thomas Dierks) at the
+[[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was Attending Physician at
+the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain Stimulation Unit. He then
+did a two year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York
+after which he joined the faculty as Assistant Professor at the
+[[https://feinsteininstitute.org][Feinstein Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of
+Medicine]] in New York.
 
 * Ellen Ji, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_ej.png]]
+[[https://homanlab.github.io/media/img/ji.png]]
 
 [[https://homanlab.github.io/ellen/][Ellen]] completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
 in Sydney with Profs. Tom and Cyndi Weickert. There, she assessed the 
@@ -47,10 +48,10 @@ heterogeneity among patients. She is currently investigating how
 inter-individual variability in cognition may be linked to 
 inter-individual differences in brain architecture in psychosis.
 
-* Wolfgang Omlor, MD, PhD. Postdoc
+* Wolfgang Omlor, MD, PhD. Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_wo.png]]
+[[https://homanlab.github.io/media/img/omlor.png]]
 
 [[https://homanlab.github.io/wolfgang/][Wolfgang]] studied medicine at the University of Tuebingen and as fellow
 of the German Academic Scholarship Foundation at Harvard Medical School
@@ -67,10 +68,10 @@ generation of motor symptoms in schizophrenia and obsessive-compulsive
 disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
-* Werner Surbeck MD, PhD. Postdoc
+* Werner Surbeck MD, PhD. Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_ws.png]]
+[[https://homanlab.github.io/media/img/surbeck.png]]
 
 [[https://homanlab.github.io/werner/][Werner]] studied medicine at the University of Zurich. After his training
 in neurosurgery, he specialized in epilepsy surgery and functional
@@ -80,10 +81,10 @@ specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
-* Maria Neumeier. Doctoral student
+* Maria Neumeier. Resident physician 
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_mn.png]]
+[[https://homanlab.github.io/media/img/neumeier.png]]
 
 [[https://homanlab.github.io/maria/][Maria]] studied medicine at the University of Erlangen-Nuremberg. During
 her studies she joined a research project in the field of tumor
@@ -91,10 +92,24 @@ immunology. She is a resident physician in Psychiatry and Psychotherapy
 and has a special interest in psychotic disorders. Currently she
 investigates variability of side effects to antipsychotic treatment.
 
-* Janis Brakowski, MD. Postdoc
+* Gerhard Wernigg, MD. Resident physician
+	
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/wernigg.png]]
+
+[[https://homanlab.github.io/gerhard/][Gerhard]] recieved his engineering degree in information design at the
+University of Applied Sciences FH Joanneum in his home town Graz /
+Austria. He was the founder of two tech startups and then achieved his
+medical degree at the Medical University of Graz. As an MD he did his
+training in surgery, diagnostic imaging and radiation oncology and in
+2020 made the switch to psychiatry. Gerhard shows great interest in
+coupling his technical skills with his medical interests, image
+processing and analysis.
+
+* Janis Brakowski, MD. Attending physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_jb.png]]
+[[https://homanlab.github.io/media/img/brakowski.png]]
 
 [[https://homanlab.github.io/janis/][Janis]] is a clinician scientist and is the deputy head of the Center for
 Acute Psychiatry at the Psychiatric University Hospital Zurich. He
@@ -107,20 +122,20 @@ state functional connectivity in neuropsychiatric disorders. Currently
 he investigates functional connectivity of striatal networks and
 severity of negative symptoms in schizophrenia.
 
-* Nils Kallen, MD. Postdoc
+* Nils Kallen, MD. Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_nk.png]]
+[[https://homanlab.github.io/media/img/kallen.png]]
 
 [[https://homanlab.github.io/nils/][Nils]] studied medicine at the University of Bern. He is currently a
 resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
 
-* Giacomo Cecere, MD. Postdoc
+* Giacomo Cecere, MD. Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_gc.png]]
+[[https://homanlab.github.io/media/img/cecere.png]]
 
 [[https://homanlab.github.io/giacomo/][Giacomo]] was born in Rome, Italy. He received his medical degree from
 Campus Bio-Medico University of Rome before moving to
@@ -130,10 +145,10 @@ his psychiatry rotations, he has been exposed to patients suffering from
 psychotic disorders, a topic that he hopes to further explore and study
 in depth as his residency progresses.
 
-* Rahel Horisberger, MSc. Doctoral student
+* Rahel Horisberger, MSc. Psychologist
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_rh.png]]
+[[https://homanlab.github.io/media/img/horisberger.png]]
 
 [[https://homanlab.github.io/rahel/][Rahel]] studied Clinical Psychology, Biology and Art History at the
 University of Zurich. She works as a clinical psychologist and
@@ -148,7 +163,7 @@ focus of her research interest.
 * Stephanie Homan, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_sw.png]]
+[[https://homanlab.github.io/media/img/homans.png]]
 
 [[https://homanlab.github.io/stephanie/][Stephanie]] completed her PhD at the University of Bern in 2019 and
 currently works as a postdoc and psychologist at the University Hospital
@@ -160,10 +175,10 @@ question of whether or not patients respond differently to interventions
 Psychopathology and Psychotherapy Group]] she still contributes to the
 IDP Lab with her expertise.
 
-* Noemi Dannecker, MSc. Graduate student
+* Noemi Dannecker, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_nd.png]]
+[[https://homanlab.github.io/media/img/dannecker.png]]
 
 [[https://homanlab.github.io/noemi/][Noemi]] studied psychology and biology at the University of Zurich. After
 working as a clinical neuropsychologist at the Department of Neurology
@@ -178,10 +193,10 @@ was able to implement her own project idea within the framework of an
 [[http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-200214-doc-ch-snsf-supports-24-doctoral-students.aspx][SNF Doc.CH fellowship]] which will support her PhD for the entire period
 of four years.
 
-* Lena Hofmann, Doctoral student
+* Lena Hofmann, Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lab_lh.png]]
+[[https://homanlab.github.io/media/img/hofmann.png]]
 
 [[https://homanlab.github.io/lena/][Lena]] received her medical degree from the Ludwig-Maximilians-University
 Munich. For her dissertation, she focused on the effects of high

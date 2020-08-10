@@ -33,6 +33,8 @@ communication.
 - [[https://www.statmethods.net/r-tutorial/index.html][R Tutorial]]
 - [[https://www.zhrcourses.uzh.ch/en.html][UZH R Courses]]
 - [[https://www.meetup.com/Zurich-R-User-Group/][Zurich R user group]]
+- [[https://github.com/wviechtb/course_oor][Wolfgang Viechtbauer's R course]]
+- [[http://www.wvbauer.com/doku.php/course_ma][Wolfgang Viechtbauer's meta-analysis course]]
 
 *Python:*
 - [[https://www.python.org/about/gettingstarted/][Getting started with python]]
