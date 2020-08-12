@@ -17,7 +17,7 @@ Here we will post teaching materials of lectures and courses held at the
 University of Zurich. Note that some of these materials are in German.
 
 * Summerschool 
-- [[https://github.com/homanlab/teaching/summerschool/20200812/][Wie bereite ich einen Journalclub vor?]]
+- [[https://www.dropbox.com/s/oqotk15nydnbgcc/journalclub.pdf?dl=0][Wie bereite ich einen Journalclub vor?]]
 - [[https://www.dropbox.com/s/j64h7ejsx6kqrmq/leitlinien_presentation.pdf?dl=0][Leitlinien Schizophrenie]]
 
 * WBV 2019
