@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mo, 10 Aug 2020 16:37:08 CEST</pubDate>
-    <lastBuildDate>Mo, 10 Aug 2020 16:37:08 CEST</lastBuildDate>
+    <pubDate>Mi, 12 Aug 2020 11:30:43 CEST</pubDate>
+    <lastBuildDate>Mi, 12 Aug 2020 11:30:43 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Teaching materials</title>
+      <link>http://homanlab.github.io/blog/2020/08/12/teaching-materials</link>
+      <description><![CDATA[Download area]]></description>
+      <pubDate>2020-08-12</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/08/12/teaching-materials</guid>
+    </item>
     <item>
       <title>Learning resources</title>
       <link>http://homanlab.github.io/blog/2020/07/26/resources</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Graduate Student]]></description>
       <pubDate>2020-08-09</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</guid>
-    </item>
-    <item>
-      <title>Philipp Homan, MD, PhD. Principal investigator</title>
-      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
-      <description><![CDATA[Principal Investigator]]></description>
-      <pubDate>2020-08-09</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
     </item>
   </channel>
 </rss>
