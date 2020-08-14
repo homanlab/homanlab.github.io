@@ -106,6 +106,22 @@ training in surgery, diagnostic imaging and radiation oncology and in
 coupling his technical skills with his medical interests, image
 processing and analysis.
 
+* Simon Fuchs. Resident physician
+	
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/fuchs.png]]
+
+[[https://homanlab.github.io/simon/][Simon]] studied medicine at the University of Zurich (UZH). He started his
+specialty training at the department of Consultation-Liaison-Psychiatry
+and Psychosomatic Medicine at the University Hospital Zurich (USZ) and
+is currently a resident at the Psychiatric University Clinic Zurich
+(PUK). He worked as a clinical scientist (USZ, UZH) for an ongoing
+multi-center study focussing on psychiatric and psychosocial aspects of
+brain tumors. His dissertation focusses on the prevalence of delirium
+and the impact of hospitalization characteristics on delirium across
+hospital services. His extended research interests comprise
+neurobiological factors in psychotic disorders.
+
 * Janis Brakowski, MD. Attending physician
 
 #+ATTR_HTML: :width 200px
