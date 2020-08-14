@@ -1,4 +1,4 @@
-#+TITLE:       Simon Fuchs, MD, PhD. Resident physician
+#+TITLE:       Simon Fuchs. Resident physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -27,9 +27,9 @@ hospital services. His extended research interests comprise
 neurobiological factors in psychotic disorders.
 
 ** Recent publications
-- Bode, L., Fuchs, S., Gehrke, S., Ernst, J., Schubert, M., Nuñez,
-  D. G., ... & Boettger, S. (2020). Assessing delirium with nursing care
-  instruments: Evaluation of the cognitive and associated
+- Bode, L., Fuchs, S., Gehrke, S., Ernst, J., Schubert, M.,
+  Nunez, D. G., ... & Boettger, S. (2020). Assessing delirium with
+  nursing care instruments: Evaluation of the cognitive and associated
   domains. Palliative & Supportive Care, 1-6.
 
 - Bode, L., Isler, F., Fuchs, S., Marquetand, J., Petry, H., Ernst, J.,
