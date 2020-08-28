@@ -23,6 +23,8 @@ the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
 ** Prizes, Awards, Fellowships
+- 08/2020: [[https://homanlab.github.io/blog/2020/08/28/narsad-young-investigator-grant-werner][NARSAD Young Investigator Grant]], Brain & Behavior Research
+  Foundation, New York, USA
 - 07/2020: [[https://homanlab.github.io/blog/2020/07/27/research-grant-to-werner][Research Grant]], OPO Foundation Switzerland
 - 04/2020: [[https://schizophreniaresearchsociety.org/wp-content/uploads/2020/05/2020-Travel-Awardees.pdf][Travel Award]], Schizophrenia International Research Society (SIRS), USA
 - 2010: Participation in the development and patent co-owner of a new
