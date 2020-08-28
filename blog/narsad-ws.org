@@ -3,15 +3,15 @@
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2020-08-28 Fri
 #+URI:         /blog/%y/%m/%d/narsad-young-investigator-grant-werner
-#+KEYWORDS:    narsad,grant, werner, 2020
+#+KEYWORDS:    narsad, grant, werner, 2020
 #+TAGS:        narsad, grant, werner, 2020
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: 
-#+AVATAR:      https://homanlab.github.io/media/img/narsad-ws1.png
+#+AVATAR:      https://homanlab.github.io/media/img/ws.png
 
 #+ATTR_HTML: :width 200px
-https://homanlab.github.io/media/img/narsad-ws1.png
+https://homanlab.github.io/media/img/ws.png
 
 We are extremely happy to share that the [[https://www.bbrfoundation.org/][Brain & Behavior Research
 Foundation]] has awarded a [[https://www.bbrfoundation.org/grants-prizes/narsad-young-investigator-grants][NARSAD Young Investigator Grant]] to [[https://homanlab.github.io/werner/][Werner]] to
