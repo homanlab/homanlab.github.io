@@ -1,4 +1,4 @@
-#+TITLE:       NARSAD Young Investigator Grant to Werner Surbeck
+#+TITLE:       NARSAD Grant to Werner Surbeck
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2020-08-28 Fri
