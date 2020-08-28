@@ -1,0 +1,25 @@
+#+TITLE:       NARSAD Grant to Werner Surbeck
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2020-08-28 Fri
+#+URI:         /blog/%y/%m/%d/narsad-young-investigator-grant-werner
+#+KEYWORDS:    narsad,grant, werner, 2020
+#+TAGS:        narsad, grant, werner, 2020
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: 
+#+AVATAR:      https://homanlab.github.io/media/img/narsad-ws1.png
+
+#+ATTR_HTML: :width 200px
+https://homanlab.github.io/media/img/narsad-ws1.png
+
+We are extremely happy to share that the [[https://www.bbrfoundation.org/][Brain & Behavior Research
+Foundation]] has awarded a [[https://www.bbrfoundation.org/grants-prizes/narsad-young-investigator-grants][NARSAD Young Investigator Grant]] to [[https://homanlab.github.io/werner/][Werner]] to
+study semantic and visuo-spatial processing anomalies in schizophrenia
+spectrum disorders. Werner is a trained neurosurgeon and resident in
+psychiatry with a strong interest in the neurobiology of psychosis,
+particularly in the ventral language stream and its significance for
+semantic processing. With his approach that is guided by insights
+directly obtained from epileptic surgery he aims to study the neural
+correlates of thought disorder in psychosis. Very well deserved and
+congratulations, Werner!
