@@ -10,7 +10,7 @@
 #+DESCRIPTION: 
 #+AVATAR:      https://homanlab.github.io/media/img/narsad-ws1.png
 
-#+ATTR_HTML: width 200px
+#+ATTR_HTML: :width 200px
 https://homanlab.github.io/media/img/narsad-ws1.png
 
 We are extremely happy to share that the [[https://www.bbrfoundation.org/][Brain & Behavior Research
