@@ -57,7 +57,8 @@ h1, h2, h3 {
 h1:before, h2:before, h3:before {
     position: absolute;
     top: auto;
-    color: #ccc;
+    /*color: #ccc; */
+    color: #4678c4;
     display: none;
 }
 h1:before {
@@ -94,7 +95,8 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    /*color: #ccc;*/
+    color: #4678c4;
 }
 ul, ol {
     padding: 0;
@@ -141,7 +143,6 @@ a {
     font-weight: inherit;
     line-height: inherit;
     /* color: #000; */
-    color: #4678c4;
     /*text-decoration: none;*/
     text-decoration: none;
 }
@@ -185,7 +186,8 @@ table th.right, table td.right {
     content: '----------------------------------------------------------------';
     margin: 10px 0;
     font-size: 18px;
-    color: #ccc;
+    /*color: #ccc;*/
+    color: #4678c4;
 }
 .masthead a {
     color: #333;
@@ -249,7 +251,8 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    /*color: #ccc;*/
+    color: #4678c4;
 }
 .post img {
     max-width: 100%;
@@ -295,6 +298,7 @@ table th.right, table td.right {
     display: block;
     margin-top: -1px;
     color: #ccc;
+    color: #4678c4;
 }
 
 /* table of content */
