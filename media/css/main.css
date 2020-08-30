@@ -95,8 +95,8 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
-    /*color: #ccc;*/
     color: #4678c4;
+    color: #ccc;
 }
 ul, ol {
     padding: 0;
@@ -186,8 +186,8 @@ table th.right, table td.right {
     content: '----------------------------------------------------------------';
     margin: 10px 0;
     font-size: 18px;
-    /*color: #ccc;*/
     color: #4678c4;
+    color: #ccc;
 }
 .masthead a {
     color: #333;
@@ -251,8 +251,8 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
-    /*color: #ccc;*/
     color: #4678c4;
+    color: #ccc;
 }
 .post img {
     max-width: 100%;
@@ -297,8 +297,8 @@ table th.right, table td.right {
     content: "----------------------------------------------------------------";
     display: block;
     margin-top: -1px;
-    color: #ccc;
     color: #4678c4;
+    color: #ccc;
 }
 
 /* table of content */
