@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 30 Aug 2020 12:23:31 CEST</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2020 12:23:31 CEST</lastBuildDate>
+    <pubDate>Sun, 30 Aug 2020 12:45:10 CEST</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2020 12:45:10 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Contact us</title>
+      <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
+      <description><![CDATA[How to reach the IDP Lab]]></description>
+      <pubDate>2020-08-30</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
+    </item>
     <item>
       <title>NARSAD Grant to Werner Surbeck</title>
       <link>http://homanlab.github.io/blog/2020/08/28/narsad-young-investigator-grant-werner</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-08-09</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/10/janis-brakowski-md</guid>
-    </item>
-    <item>
-      <title>Lena Hofmann. Resident physician</title>
-      <link>http://homanlab.github.io/people/2019/10/09/lena-hofmann</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-08-09</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/09/lena-hofmann</guid>
     </item>
   </channel>
 </rss>
