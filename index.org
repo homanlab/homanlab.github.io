@@ -1,6 +1,6 @@
 #+TITLE: Welcome
 # METAEXTRA: <meta http-equiv = "refresh" content="0; url=https://homanlab.github.io/blog/2019/09/30/our-lab-website-is-online/" />
-#+REFRESH: 0; url=https://homanlab.github.io/about/
+#+REFRESH: 0; url=https://homanlab.github.io/news/
 
 #+ATTR_HTML: :width 400px
 [[https://homanlab.github.io/media/img/idp_people.png]]
