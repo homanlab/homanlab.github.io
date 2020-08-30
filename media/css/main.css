@@ -142,7 +142,7 @@ img {
 a {
     font-weight: inherit;
     line-height: inherit;
-    /* color: #000; */
+    color: #000; 
     /*text-decoration: none;*/
     text-decoration: none;
 }
