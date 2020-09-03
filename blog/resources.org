@@ -79,6 +79,9 @@ communication.
 *Stan:*
 - [[https://discourse.mc-stan.org/][The Stan forum]]
 - [[https://mc-stan.org/docs/2_23/stan-users-guide/index.html][Stan user guide]]
+	
+*Cognitive neuroscience:*
+- [[https://meta-meta-resources.org/][Collection of resources for cognitive neuroscience]]
 
 * Writing
 *RMarkdown:*
