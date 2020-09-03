@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Sun, 30 Aug 2020 12:45:10 CEST</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2020 12:45:10 CEST</lastBuildDate>
+    <pubDate>Do, 03 Sep 2020 13:22:34 CEST</pubDate>
+    <lastBuildDate>Do, 03 Sep 2020 13:22:34 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Learning resources</title>
+      <link>http://homanlab.github.io/blog/2020/07/26/resources</link>
+      <description><![CDATA[Useful links ]]></description>
+      <pubDate>2020-09-03</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/07/26/resources</guid>
+    </item>
     <item>
       <title>Contact us</title>
       <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
@@ -42,13 +49,6 @@
       <description><![CDATA[Download area]]></description>
       <pubDate>2020-08-12</pubDate>
       <guid>http://homanlab.github.io/blog/2020/08/12/teaching-materials</guid>
-    </item>
-    <item>
-      <title>Learning resources</title>
-      <link>http://homanlab.github.io/blog/2020/07/26/resources</link>
-      <description><![CDATA[Useful links ]]></description>
-      <pubDate>2020-08-10</pubDate>
-      <guid>http://homanlab.github.io/blog/2020/07/26/resources</guid>
     </item>
     <item>
       <title>Ellen Ji, PhD. Postdoc</title>
