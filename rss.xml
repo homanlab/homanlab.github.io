@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 07 Sep 2020 11:13:55 CEST</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2020 11:13:55 CEST</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2020 17:23:02 CEST</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2020 17:23:02 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Simon Selden. Medical student</title>
+      <link>http://homanlab.github.io/people/2019/10/11/simon-selden</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2020-09-10</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/simon-selden</guid>
+    </item>
     <item>
       <title>Contact us</title>
       <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2020-08-09</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/09/giacomo-cecere-md</guid>
-    </item>
-    <item>
-      <title>Janis Brakowski, MD. Attending physician</title>
-      <link>http://homanlab.github.io/people/2019/10/10/janis-brakowski-md</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-08-09</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/10/janis-brakowski-md</guid>
     </item>
   </channel>
 </rss>

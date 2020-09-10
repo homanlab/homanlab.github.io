@@ -58,9 +58,9 @@
 </p>
 </div>
 
-<div id="outline-container-orga38cee4" class="outline-2">
-<h2 id="orga38cee4">Summary</h2>
-<div class="outline-text-2" id="text-orga38cee4">
+<div id="outline-container-org0ae3d30" class="outline-2">
+<h2 id="org0ae3d30">Summary</h2>
+<div class="outline-text-2" id="text-org0ae3d30">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -81,9 +81,9 @@ across the world. They are ideal tools to make research reproducible.
 </div>
 </div>
 
-<div id="outline-container-orge727298" class="outline-2">
-<h2 id="orge727298">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-orge727298">
+<div id="outline-container-orgd9734d8" class="outline-2">
+<h2 id="orgd9734d8">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-orgd9734d8">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
@@ -97,7 +97,7 @@ To understand this difference, the following table by Kirstie Whitaker
 
 <p>
 Thus, work is reproducible when identical code on identical data give
-identical results. Achieving this takes some effort; <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">it's not
+identical results. Achieving this takes some effort; <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">it&rsquo;s not
 reproducible if it only runs on your laptop</a>. That said, there are a few
 steps that can be integrated into regular work flows that will make it
 at least more likely that our work is reproducible on other machines as
@@ -106,11 +106,11 @@ well.
 </div>
 </div>
 
-<div id="outline-container-org102a3da" class="outline-2">
-<h2 id="org102a3da">Separating data from code</h2>
-<div class="outline-text-2" id="text-org102a3da">
+<div id="outline-container-orge7e0f9a" class="outline-2">
+<h2 id="orge7e0f9a">Separating data from code</h2>
+<div class="outline-text-2" id="text-orge7e0f9a">
 <p>
-Indeed, I'd argue that not having reproducible work flows is the
+Indeed, I&rsquo;d argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
 intuition when organizing data, code, and manuscripts, which may result
 in excel sheets such as this
@@ -144,17 +144,17 @@ after compiling such a spreadsheet.
 <p>
 An essential step is thus to strictly separate data from code. This
 means that once the final data set is compiled (after data cleaning
-which also wasn't done in the above example) the database is locked,
+which also wasn&rsquo;t done in the above example) the database is locked,
 i.e., read-only. Any analysis reads from but never writes to this
-database. This might seem obvious but I've seen this ignored way too
+database. This might seem obvious but I&rsquo;ve seen this ignored way too
 often to be confident it is as obvious as it should be.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org06dda37" class="outline-2">
-<h2 id="org06dda37">Using version control</h2>
-<div class="outline-text-2" id="text-org06dda37">
+<div id="outline-container-org6158813" class="outline-2">
+<h2 id="org6158813">Using version control</h2>
+<div class="outline-text-2" id="text-org6158813">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -189,13 +189,13 @@ analyze data.
 </div>
 </div>
 
-<div id="outline-container-org8dd49dd" class="outline-2">
-<h2 id="org8dd49dd">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org8dd49dd">
+<div id="outline-container-orgf4075dd" class="outline-2">
+<h2 id="orgf4075dd">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-orgf4075dd">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
-code; once you get started, it's surprisingly simple.
+code; once you get started, it&rsquo;s surprisingly simple.
 </p>
 
 
@@ -208,7 +208,7 @@ code; once you get started, it's surprisingly simple.
 Of course, it is also surprisingly simple to write bad code, sometimes
 referred to as <a href="https://en.wikipedia.org/wiki/Spaghetti_code">spaghetti code</a> (not to speak of <a href="https://en.wikipedia.org/wiki/Spaghetti_code#Ravioli_code">ravioli code</a> or <a href="https://en.wikipedia.org/wiki/Spaghetti_code#Lasagna_code">lasagna
 code</a>); my early work is full of it (twitter is also famous for examples
-of people admitting embarrassement about their code, and I'm no
+of people admitting embarrassement about their code, and I&rsquo;m no
 exception). Spaghetti code stands for poorly written, hard to maintain
 computer code; or in other words, computer code that does not make
 research reproducible. How to avoid it? Here are three rules:
@@ -227,8 +227,8 @@ Karlton). Indeed, coding is relatively easy, the real problem is naming
 variables. Naming variables (and functions) makes your code readable,
 and style guides (such as <a href="https://google.github.io/styleguide/Rguide.xml">this R style guide</a> by google) take it quite
 seriously. So do spend some time in thinking about reasonable names for
-variables. Although there is truth to the famous saying that "good code
-is self-documenting", another recommendation is to be relatively
+variables. Although there is truth to the famous saying that &ldquo;good code
+is self-documenting&rdquo;, another recommendation is to be relatively
 generous with commenting your code. As many have noted, this is mainly a
 courtesy to your future self who will have much less difficulties
 understanding your code in the future. Finally, a good rule of thumb is
@@ -240,7 +240,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="orgda2baf1">#---------------------------------------------------
+<pre class="src src-R" id="orgccbf5ff">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -291,9 +291,9 @@ wrote.
 </div>
 </div>
 
-<div id="outline-container-org01cc99b" class="outline-2">
-<h2 id="org01cc99b">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-org01cc99b">
+<div id="outline-container-org8c2f1f5" class="outline-2">
+<h2 id="org8c2f1f5">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-org8c2f1f5">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -328,7 +328,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="org4098de7">
+<pre class="src src-sh" id="orgef223d0">
 # this is a rule in the Makefile
 statistics: preprocessing 
 	R CMD BATCH myproj_do.R
@@ -361,9 +361,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-orge90b983" class="outline-2">
-<h2 id="orge90b983">Conclusion</h2>
-<div class="outline-text-2" id="text-orge90b983">
+<div id="outline-container-org2419f11" class="outline-2">
+<h2 id="org2419f11">Conclusion</h2>
+<div class="outline-text-2" id="text-org2419f11">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -372,13 +372,13 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-org075381b" class="outline-2">
-<h2 id="org075381b">Further reading</h2>
-<div class="outline-text-2" id="text-org075381b">
+<div id="outline-container-orge7c1e9e" class="outline-2">
+<h2 id="orge7c1e9e">Further reading</h2>
+<div class="outline-text-2" id="text-orge7c1e9e">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
-about reproducibility, of which I first read about on <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">Andrew Gelman's
+about reproducibility, of which I first read about on <a href="https://statmodeling.stat.columbia.edu/2016/10/30/its-not-reproducible-if-it-only-runs-on-your-laptop/">Andrew Gelman&rsquo;s
 blog</a>. I would also like to highlight this <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">presentation</a> by Kirstie
 Whitaker from Cambridge.
 </p>
