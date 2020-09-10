@@ -1,7 +1,7 @@
 #+TITLE:       Simon Selden. Medical student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-09 Wed 
 #+URI:         /people/%y/%m/%d/simon-selden
 #+KEYWORDS:    lab, simon selden, contact, cv
 #+TAGS:        lab, simon selden, contact, cv
