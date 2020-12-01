@@ -23,6 +23,10 @@ with offenders suffering from schizophreniform psychotic disorders. This
 sparked her interest in interrelations between neurobiological factors
 and aggressive as well as impulsive behavior.
 
+** Recent publications
+- Homan S. et al. 2020, Neuroscience & Biobehavioral Reviews [[[https://doi.org/10.1101/2020.05.02.20088831][link]]]
+
+
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
