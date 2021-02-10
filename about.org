@@ -93,20 +93,6 @@ immunology. She is a resident physician in Psychiatry and Psychotherapy
 and has a special interest in psychotic disorders. Currently she
 investigates variability of side effects to antipsychotic treatment.
 
-* Gerhard Wernigg, MD. Resident physician
-	
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/wernigg.png]]
-
-[[https://homanlab.github.io/gerhard/][Gerhard]] recieved his engineering degree in information design at the
-University of Applied Sciences FH Joanneum in his home town Graz /
-Austria. He was the founder of two tech startups and then achieved his
-medical degree at the Medical University of Graz. As an MD he did his
-training in surgery, diagnostic imaging and radiation oncology and in
-2020 made the switch to psychiatry. Gerhard shows great interest in
-coupling his technical skills with his medical interests, image
-processing and analysis.
-
 * Simon Fuchs. Resident physician
 	
 #+ATTR_HTML: :width 200px
@@ -122,22 +108,6 @@ brain tumors. His dissertation focusses on the prevalence of delirium
 and the impact of hospitalization characteristics on delirium across
 hospital services. His extended research interests comprise
 neurobiological factors in psychotic disorders.
-
-* Janis Brakowski, MD. Attending physician
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/brakowski.png]]
-
-[[https://homanlab.github.io/janis/][Janis]] is a clinician scientist and is the deputy head of the Center for
-Acute Psychiatry at the Psychiatric University Hospital Zurich. He
-studied Medicine at the Charité University Medicine Berlin as well as
-Philosophy and History at the Humboldt University Berlin. He completed
-his residency in psychiatry (with Erich Seifritz) at the Psychiatric
-University Hospital Zurich and at the Department of Neurology of the
-University Hospital Zurich. His main interest is the analysis of resting
-state functional connectivity in neuropsychiatric disorders. Currently
-he investigates functional connectivity of striatal networks and
-severity of negative symptoms in schizophrenia.
 
 * Nils Kallen, MD. Resident physician
 
