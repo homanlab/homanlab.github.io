@@ -194,23 +194,6 @@ with offenders suffering from schizophreniform psychotic disorders. This
 sparked her interest in interrelations between neurobiological factors
 and aggressive as well as impulsive behavior.
 
-* Simon Selden, Medical student
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/selden.png]]
-
-[[https://homanlab.github.io/simon-s][Simon]] is a third-year medical
-student at the University of Zurich (UZH). During his studies, he has
-completed clinical internships at the Psychiatric University Clinic
-Zurich (PUK) and the Integrated Psychiatry Winterthur (IPW). He is
-further part of the 'Studienschwerpunkt Psychiatrie', a program designed
-to support students aiming for specializing in the field of
-psychiatry. Among other things, it comprises of weekly courses in
-psychiatry and the commitment to write one's master's thesis in the
-field. His position as associate student at IDP Lab enables Simon to
-gather early insights into psychiatric research and acts as a stepping
-stone for his prospective career.
-
 * External collaborators
 - [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
 - [[http://www.psykl.mri.tum.de/evidenzbasierte-psychiatrie][Stefan Leucht]], MD. TU Munich
