@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Wed, 10 Feb 2021 20:26:55 CET</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2021 20:26:55 CET</lastBuildDate>
+    <pubDate>Sun, 21 Feb 2021 11:50:37 CET</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2021 11:50:37 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -65,18 +65,18 @@
       <guid>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</guid>
     </item>
     <item>
-      <title>Simon Selden. Medical student</title>
-      <link>http://homanlab.github.io/people/2019/10/09/simon-selden</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2020-09-10</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/09/simon-selden</guid>
-    </item>
-    <item>
       <title>Contact us</title>
       <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
       <description><![CDATA[How to reach the IDP Lab]]></description>
       <pubDate>2020-09-07</pubDate>
       <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
+    </item>
+    <item>
+      <title>Learning resources</title>
+      <link>http://homanlab.github.io/blog/2020/07/26/resources</link>
+      <description><![CDATA[Useful links ]]></description>
+      <pubDate>2020-09-03</pubDate>
+      <guid>http://homanlab.github.io/blog/2020/07/26/resources</guid>
     </item>
   </channel>
 </rss>
