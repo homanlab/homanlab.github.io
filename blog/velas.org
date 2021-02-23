@@ -69,14 +69,14 @@ der Studie teilzunehmen.
 #+CAPTION: Mittels MRT können wir eine sehr genaue anatomische Aufnahme Ihres
 #+CAPTION: Gehirns machen
 #+ATTR_HTML: :width 400
-[[file:velas_brain.jpg]]
+https://homanlab.github.io/media/img/velas_brain.jpg
 
 #+CAPTION: Legende Bild Sprache: Bei psychotischen Erkrankungen kommt es zu
 #+CAPTION: Veränderungen in der Sprache. Ein besseres Verständnis dieser
 #+CAPTION: Veränderungen könnte zu einem besseren Verständnis der Krankheit
 #+CAPTION: beitragen.
 #+ATTR_HTML: :width 400
-[[file:velas_sprache.jpg]]
+https://homanlab.github.io/media/img/velas_sprache.jpg
 
 * Wer kann teilnehmen?
 - Alter zwischen 18 und 35 Jahren
@@ -103,12 +103,12 @@ Psychologiestudierende wahlweise 5 Versuchspersonenstunden).
 #+CAPTION: Sprache und andere kognitive Funktionen mit verschiedenen 
 #+CAPTION: Aufgaben und Fragen spielerisch untersucht
 #+ATTR_HTML: :width 400
-[[file:velas_npsy.jpg]]
+https://homanlab.github.io/media/img/velas_npsy.jpg
 
 #+CAPTION: Für das MRT liegen sie während ca. 45 min auf einer bequemen Liege, 
 #+CAPTION: ihr Oberkörper befindet sich in der Röhre
 #+ATTR_HTML: :width 400
-[[file:velas_mr.jpg]]
+https://homanlab.github.io/media/img/velas_mr.jpg
 
 * Eckdaten zur Teilnahme
 - 5-6h Untersuchungszeit 
@@ -144,7 +144,7 @@ https://rq3281.customervoice360.com/uc/velas_studie/
   
 Principal Investigator: PD Dr. Philipp Homan, PhD
 
-* Links für einzelne Begriffe                                        :ignore:
+* Links für einzelne Begriffe                               :ignore:noexport:
 - Psychose - https://de.wikipedia.org/wiki/Psychose 
 - Schizophrenie - https://flexikon.doccheck.com/de/Schizophrenie 
 - Wahn - https://flexikon.doccheck.com/de/Wahn 
