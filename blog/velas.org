@@ -10,8 +10,12 @@
 #+AVATAR:      https://homanlab.github.io/media/img/velas_velas.jpg
 #+HTML_HEAD:   <link rel="stylesheet" type="text/css" href="main.css" />
 
+
+VELAS: Ventral language stream in schizophrenia with regard to
+semantic and visuo-spatial processing anomalies
+
 #+ATTR_HTML: :width 400px :title VELAS
-https://homanlab.github.io/media/img/velas_velas.mov
+https://homanlab.github.io/media/img/velas_velas.png
 
 * Herzlich Willkommen!
 Auf dieser Seite finden Sie Informationen rund um die VELAS-Studie -
