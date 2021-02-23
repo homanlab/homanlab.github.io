@@ -1,15 +1,14 @@
 #+TITLE:       VELAS Studie
+#+SUBTITLE:    Ventral language stream in schizophrenia with regard 
+#+SUBTITLE:    to semantic and visuo-spatial processing anomalies
 #+AUTHOR:      Marius Brandenberg
 #+EMAIL:       marius.brandenberg@students.unibe.ch
 #+DATE:        2021-02-23 Tue
-#+URI:         /blog/%y/%m/%d/velas-studie
-#+KEYWORDS:    velas, study, language 
-#+TAGS:        velas, study, language
-#+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Informationen zur VELAS Studie 
 # AVATAR:      https://s3-eu-west-1.amazonaws.com/pfigshare-u-previews/14155439/thumb.png
 #+AVATAR:      https://homanlab.github.io/media/img/velas_velas.jpg
+#+HTML_HEAD:   <link rel="stylesheet" type="text/css" href="main.css" />
 
 #+ATTR_HTML: :width 400px :title VELAS
 https://homanlab.github.io/media/img/velas_velas.jpg
