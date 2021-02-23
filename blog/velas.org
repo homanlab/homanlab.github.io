@@ -10,9 +10,8 @@
 #+AVATAR:      https://homanlab.github.io/media/img/velas_velas.jpg
 #+HTML_HEAD:   <link rel="stylesheet" type="text/css" href="main.css" />
 
-
 #+ATTR_HTML: :width 400px :title VELAS
-https://homanlab.github.io/media/img/velas_velas.jpg
+https://homanlab.github.io/media/img/velas_velas.mov
 
 * Herzlich Willkommen!
 Auf dieser Seite finden Sie Informationen rund um die VELAS-Studie -
@@ -20,12 +19,12 @@ zum fachlichen Hintergrund, zum Ablauf, zu den Teilnahmebedingungen
 sowie zum Studienteam (inkl. Kontaktdaten).
  
 * Was ist eine psychotische Erkrankung?
-Eine Psychose oder psychotische Erkrankung (wie z.B. die
-Schizophrenie) ist eine gravierende psychische Erkrankung, welche bei
+Eine [[https://de.wikipedia.org/wiki/Psychose][Psychose]] oder psychotische Erkrankung (wie z.B. die
+[[https://flexikon.doccheck.com/de/Schizophrenie][Schizophrenie]]) ist eine gravierende psychische Erkrankung, welche bei
 Betroffenen häufig einschneidende Konsequenzen für die Lebensplanung
 und Lebensqualität hat. Die Symptome einer psychotischen Erkrankung
-beinhalten unter anderem Wahn, Halluzinationen, unterschiedliche
-Denkstörungen, Apathie, sozialer Rückzug oder sogar Katatonie
+beinhalten unter anderem [[https://flexikon.doccheck.com/de/Wahn][Wahn]], [[https://flexikon.doccheck.com/de/Halluzination][Halluzinationen]], unterschiedliche
+[[https://flexikon.doccheck.com/de/Denkstörung][Denkstörungen]], [[https://flexikon.doccheck.com/de/Apathie][Apathie]], [[https://flexikon.doccheck.com/de/Soziale_Isolation][sozialer Rückzug]] oder sogar [[https://flexikon.doccheck.com/de/Katatone_Schizophrenie][Katatonie]]
 (z.B. Erstarrung am ganzen Körper). Diese Symptome bringen oftmals
 eine schwerwiegende Veränderung des Lebensalltags mit sich und
 verursachen bei den Betroffenen und deren Umfeld einen grossen
@@ -42,22 +41,22 @@ anzubieten.
 * Was untersucht die VELAS-Studie?
 Um die Diagnose, Behandlung und Prävention psychotischer Erkrankungen
 in der Zukunft verbessern zu können, versucht die VELAS-Studie an der
-Psychiatrischen Universitätsklinik (PUK) Zürich zu einem besseren
+[[https://www.pukzh.ch][Psychiatrischen Universitätsklinik (PUK) Zürich]] zu einem besseren
 Verständnis dieser Krankheiten beizutragen. Dazu untersucht sie die
 Rolle bestimmter hirnstruktureller Veränderungen bei der Entstehung
 spezifischer Symptome (z.B. Denkstörungen, Wahn) und gewissen
-sprachlichen Auffälligkeiten (z.B. Veränderungen der Bedeutung von
-Wörtern und deren Beziehungen) sowie anderer kognitiver Veränderungen
-(z.B. der visuell-räumlichen Verarbeitung), die bei psychotischen
+sprachlichen Auffälligkeiten (z.B. Veränderungen der [[https://de.wikipedia.org/wiki/Semantische_Relation][Bedeutung von
+Wörtern und deren Beziehungen]]) sowie anderer kognitiver Veränderungen
+(z.B. der [[https://de.wikipedia.org/wiki/Raumwahrnehmung][visuell-räumlichen Verarbeitung]]), die bei psychotischen
 Erkrankungen zu beobachten sind. Die Hirnstruktur, die dabei im Fokus
-seht, ist der inferiore fronto-occipitale Fasciculus (IFOF), von dem
+seht, ist der [[https://en.wikipedia.org/wiki/Occipitofrontal_fasciculus][inferiore fronto-occipitale Fasciculus (IFOF)]], von dem
 wir annehmen, dass er bei diesen Prozessen eine zentrale Rolle
 spielt. So werden in der Studie die Hirnanatomie, die Sprache sowie
 weitere kognitive Funktionen bei Patienten mit einer psychotischen
 Erkrankung mittels einer Kombination aus etablierten Methoden
-(z.B. Magnetresonanztomographie/MRT/MRI, neuropsychologische
-Untersuchung) und neuen, innovativen Ansätzen (z.B. computerbasierte
-Analysen der natürlichen Sprache) untersucht. Um sicherzustellen, ob
+(z.B. [[https://www.mr.ethz.ch/mri-untersuchung.html ][Magnetresonanztomographie/MRT/MRI]], [[https://de.wikipedia.org/wiki/Neuropsychologische_Diagnostik][neuropsychologische
+Untersuchung]]) und neuen, innovativen Ansätzen (z.B. [[https://en.wikipedia.org/wiki/Natural_language_processing][computerbasierte
+Analysen der natürlichen Sprache]]) untersucht. Um sicherzustellen, ob
 es sich bei den untersuchten Bereichen tatsächlich um spezifische
 Veränderungen handelt, die eine Rolle bei der Entstehung und
 Manifestation psychotischer Erkrankungen spielen, werden zum Vergleich
