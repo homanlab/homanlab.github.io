@@ -195,13 +195,47 @@ sparked her interest in interrelations between neurobiological factors
 and aggressive as well as impulsive behavior.
 
 * Marius Brandenberg, Master student
-Coming soon.
 
-* Alba Lopez, Master student
-Coming soon.
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/brandenberg.png]]
+  
+Marius is completing his master's in clinical psychology and
+psychotherapy at the University of Bern. He is particularly interested
+in psychotic disorders and has completed a clinical internship on the
+[[https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/angebote/stationaere-angebote/frueherkennung-und-behandlung-von-psychosen/][early psychosis unit F2]] at the University Hospital of Psychiatry in
+Zurich. Marius is now working on his master thesis in the [[https://homanlab.github.io/velas/][VELAS
+project]], together with [[https://homanlab.github.io/noemi/][Noemi]] as his mentor, where he focuses on
+cognitive correlates of the schizotypy dimensions.
 
-* Ueli Stocker, Master student
-Coming soon.
+* Alba Lopez, Research intern
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lopez.png]]
+
+Alba is doing her master's in psychology at the University of
+Zurich. She has already gained first clinical experience in the field
+of autism spectrum disorder and is now doing a research internship in
+the [[https://homanlab.github.io/velas/][VELAS project]], which focuses on semantic processing in the
+psychosis spectrum. Alba is particularly interested in
+neuropsychological research and hopes to deepen her previous knowledge
+and link it to the broad spectrum of psychotic disorders.
+
+* Ueli Stocker, Research intern 
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/stocker.png]]
+
+Ueli completed his bachelor's in psychology and comparative literature
+at the University of Zurich and Freie Universität Berlin. During his
+studies he developed a strong interest in the relationship between
+language, thought and perception, which finally culminated in his
+bachelor's thesis about the Sapir-Worth hypothesis and a tutorial at
+the neurolinguistic department at the University of Zurich. After his
+bachelor's Ueli completed a clinical internship at the University
+Hospital of Psychiatry in Zurich, where he encountered language
+impairments in psychotic disorders. His position as a research intern
+in the [[https://homanlab.github.io/velas/][VELAS study]] enables Ueli to gain experience in linguistic
+aspects of psychiatric research.
 
 * External collaborators
 - [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
