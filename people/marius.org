@@ -1,0 +1,30 @@
+#+TITLE:       Marius Brandenberg. Master's student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/marius-brandenberg
+#+KEYWORDS:    lab, marius, contact, cv
+#+TAGS:        lab, marius, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/brandenberg.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/brandenberg.png]]
+
+** About                                                             :ignore:
+Marius is completing his master's in clinical psychology and
+psychotherapy at the University of Bern. He is particularly interested
+in psychotic disorders and has completed a clinical internship on the
+[[https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/angebote/stationaere-angebote/frueherkennung-und-behandlung-von-psychosen/][early psychosis unit F2]] at the University Hospital of Psychiatry in
+Zurich. Marius is now working on his master thesis in the [[https://homanlab.github.io/velas/][VELAS
+project]], together with [[https://homanlab.github.io/noemi/][Noemi]] as his mentor, where he focuses on
+cognitive correlates of the schizotypy dimensions.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 39 52
+- E-mail: marius.brandenberg@bli.uzh.ch
+
+	
