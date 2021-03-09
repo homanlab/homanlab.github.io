@@ -48,7 +48,7 @@ p {
 h1, h2, h3 {
     position: relative;
     margin: 30px 0 20px;
-    font-size: 26px;
+    font-size: 18px;
     font-weight: bold;
     line-height: 1.1;
     color: #111;
@@ -57,8 +57,7 @@ h1, h2, h3 {
 h1:before, h2:before, h3:before {
     position: absolute;
     top: auto;
-    /*color: #ccc; */
-    color: #4678c4;
+    color: #ccc;
     display: none;
 }
 h1:before {
@@ -95,7 +94,6 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
-    color: #4678c4;
     color: #ccc;
 }
 ul, ol {
@@ -142,8 +140,7 @@ img {
 a {
     font-weight: inherit;
     line-height: inherit;
-    color: #000; 
-    /*text-decoration: none;*/
+    color: #000;
     text-decoration: none;
 }
 sup a:before {
@@ -179,14 +176,11 @@ table th.right, table td.right {
 /* head */
 .masthead {
     color: #888;
-    font-size: 26px;
 }
 .masthead:after {
     display: block;
     content: '----------------------------------------------------------------';
     margin: 10px 0;
-    font-size: 18px;
-    color: #4678c4;
     color: #ccc;
 }
 .masthead a {
@@ -197,7 +191,6 @@ table th.right, table td.right {
 }
 .masthead li {
     display: inline-block;
-    font-size: 26px;
 }
 .masthead li + li:before {
     display: inline-block;
@@ -240,8 +233,8 @@ table th.right, table td.right {
     float: right;
     margin-top: -100px;
     margin-bottom: -100%;
-    margin-right: 2.5%;
-    /* width: 200px; */
+    margin-right: 10%;
+    width: 200px;
     background-color: #fff;
 }
 /* post */
@@ -251,7 +244,6 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
-    color: #4678c4;
     color: #ccc;
 }
 .post img {
@@ -297,7 +289,6 @@ table th.right, table td.right {
     content: "----------------------------------------------------------------";
     display: block;
     margin-top: -1px;
-    color: #4678c4;
     color: #ccc;
 }
 
