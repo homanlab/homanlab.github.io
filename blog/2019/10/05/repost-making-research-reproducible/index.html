@@ -8,24 +8,43 @@
     <meta name="keywords" content="reproducibility, coding, git, talk" />
     <link rel="stylesheet" href="/media/css/main.css" type="text/css">
     <link rel="stylesheet" href="/media/css/prettify.css" type="text/css">
+    <meta name="twitter:card" content="summary"></meta>
+    <meta name="twitter:creator:id" content="@philipphoman"></meta>
+    <meta name="twitter:description" content="Making research reproducible" />
+    <meta name="twitter:site" content="@philipphoman"></meta>
+    <meta name="twitter:title" content="Repost: Beyond spaghetti code - IDP Lab Zurich"></meta>
+    <meta name="twitter:image" content="https://homanlab.github.io/media/img/represearch5.png"></meta>
+		
   </head>
+
   <body class="container">
     <div>
       <header class="masthead">
         <h1 class="masthead-title"><a href="/">IDP Lab Zurich</a></h1>
         <p>Individual Differences in Psychosis</p>
         <ul>
+          <li><a href="/about/">About</a></li>
           <li><a href="/blog/">Blog</a></li>
           <li><a href="/people/">People</a></li>
-          <li><a href="/tags/">Tags</a></li>
-          <li><a href="/about/">About</a></li>
-          <li><a href="https://github.com/homanlab">GitHub</a></li>
-          <li><a href="/rss.xml">RSS</a></li>
+          <!--<li><a href="/members/">Members</a></li>-->
+          <!--<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax" target="_blank">Papers</a></li>-->
+					<li><a href="https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/">Contact</a></li>
+
+          <!--
+          <li><a href="https://github.com/homanlab">Github</a></li>
+          <li><a href="https://twitter.com/philipphoman">Twitter</a></li>
+					-->
+
+          <!--
+          <li><a href=""><	img src="media/img/email.png"></a></li>
+          <li><a href="https://github.com/homanlab"><img src="media/img/github.png"></a></li>
+          <li><a href="https://twitter.com/philipphoman"><img src="media/img/twitter.png"></a></li>
+					-->
         </ul>
-        <form method="get" id="searchform" action="//www.google.com/search">
+        <!--<form method="get" id="searchform" action="//www.google.com/search">
           <input type="text" class="field" name="q" id="s" placeholder="Search">
           <input type="hidden" name="as_sitesearch" value="homanlab.github.io">
-        </form>
+        </form>-->
         <img class="avatar" src="https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=100" />
       </header>
     </div>
@@ -34,14 +53,14 @@
 <div class="post">
 <h1>Repost: Beyond spaghetti code</h1>
 
-<div id="orgfccdc59" class="figure">
+<div class="figure">
 <p><img src="https://homanlab.github.io/media/img/represearch5.png" alt="represearch5.png" width="200px" title="talk" />
 </p>
 </div>
 
-<div id="outline-container-org33d48fe" class="outline-2">
-<h2 id="org33d48fe">Summary</h2>
-<div class="outline-text-2" id="text-org33d48fe">
+<div id="outline-container-org855cef9" class="outline-2">
+<h2 id="org855cef9">Summary</h2>
+<div class="outline-text-2" id="text-org855cef9">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -62,16 +81,16 @@ across the world. They are ideal tools to make research reproducible.
 </div>
 </div>
 
-<div id="outline-container-org8535b6e" class="outline-2">
-<h2 id="org8535b6e">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-org8535b6e">
+<div id="outline-container-orgd131f12" class="outline-2">
+<h2 id="orgd131f12">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-orgd131f12">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
 </p>
 
 
-<div id="orgea6c407" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch.png" alt="represearch.png" width="500px" title="table" />
 </p>
 </div>
@@ -87,9 +106,9 @@ well.
 </div>
 </div>
 
-<div id="outline-container-orgbe39f90" class="outline-2">
-<h2 id="orgbe39f90">Separating data from code</h2>
-<div class="outline-text-2" id="text-orgbe39f90">
+<div id="outline-container-org41669cb" class="outline-2">
+<h2 id="org41669cb">Separating data from code</h2>
+<div class="outline-text-2" id="text-org41669cb">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -98,7 +117,7 @@ in excel sheets such as this
 </p>
 
 
-<div id="orgcbd1501" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch2.png" alt="represearch2.png" width="700px" title="excel example" />
 </p>
 </div>
@@ -110,7 +129,7 @@ from code -- was this done here?
 </p>
 
 
-<div id="orgc8e3dc8" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch3.gif" alt="represearch3.gif" width="700px" title="nope" />
 </p>
 </div>
@@ -133,9 +152,9 @@ often to be confident it is as obvious as it should be.
 </div>
 </div>
 
-<div id="outline-container-orgd927386" class="outline-2">
-<h2 id="orgd927386">Using version control</h2>
-<div class="outline-text-2" id="text-orgd927386">
+<div id="outline-container-orgaf06b8a" class="outline-2">
+<h2 id="orgaf06b8a">Using version control</h2>
+<div class="outline-text-2" id="text-orgaf06b8a">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -147,7 +166,7 @@ it works best with plain text files.
 </p>
 
 
-<div id="org5d65bbf" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch4.png" alt="represearch4.png" width="700px" title="git" />
 </p>
 </div>
@@ -170,9 +189,9 @@ analyze data.
 </div>
 </div>
 
-<div id="outline-container-org0a604aa" class="outline-2">
-<h2 id="org0a604aa">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-org0a604aa">
+<div id="outline-container-org05b6e00" class="outline-2">
+<h2 id="org05b6e00">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org05b6e00">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -180,7 +199,7 @@ code; once you get started, it's surprisingly simple.
 </p>
 
 
-<div id="orgca84ee9" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch5.jpg" alt="represearch5.jpg" width="700px" title="spaghetti code" />
 </p>
 </div>
@@ -221,7 +240,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="orga5e307a">#---------------------------------------------------
+<pre class="src src-R" id="orgafd42be">#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -272,9 +291,9 @@ wrote.
 </div>
 </div>
 
-<div id="outline-container-orgafbe352" class="outline-2">
-<h2 id="orgafbe352">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-orgafbe352">
+<div id="outline-container-orgb127394" class="outline-2">
+<h2 id="orgb127394">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgb127394">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -287,7 +306,7 @@ the beginning.
 </p>
 
 
-<div id="org23f76be" class="figure">
+<div class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch7.png" alt="represearch7.png" width="700px" title="makefile" />
 </p>
 </div>
@@ -309,14 +328,14 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="orga4e6149">
+<pre class="src src-sh" id="org09c0799">
 # this is a rule in the Makefile
 statistics: preprocessing 
-  R CMD BATCH myproj_do.R
+	R CMD BATCH myproj_do.R
 
 # this another rule
 preprocessing: datafile1.csv datafile2.csv  
-  R CMD BATCH myproj_clean.R
+	R CMD BATCH myproj_clean.R
 
 </pre>
 </div>
@@ -342,9 +361,9 @@ Makefile.
 </div>
 </div>
 
-<div id="outline-container-orgf36931f" class="outline-2">
-<h2 id="orgf36931f">Conclusion</h2>
-<div class="outline-text-2" id="text-orgf36931f">
+<div id="outline-container-org76da2e0" class="outline-2">
+<h2 id="org76da2e0">Conclusion</h2>
+<div class="outline-text-2" id="text-org76da2e0">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -353,9 +372,9 @@ version control, Makefiles, and a disciplined coding style.
 </div>
 </div>
 
-<div id="outline-container-org96fdd39" class="outline-2">
-<h2 id="org96fdd39">Further reading</h2>
-<div class="outline-text-2" id="text-org96fdd39">
+<div id="outline-container-orgfdeca4a" class="outline-2">
+<h2 id="orgfdeca4a">Further reading</h2>
+<div class="outline-text-2" id="text-orgfdeca4a">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
@@ -383,7 +402,7 @@ better choice.
     <div>
       <div class="post-meta">
         <span title="post date" class="post-info">2019-10-05</span>
-        <span title="last modification date" class="post-info">2020-05-18</span>
+        <!--<span title="last modification date" class="post-info">2020-05-18</span>-->
         <span title="tags" class="post-info"><a href="/tags/reproducibility/">reproducibility</a>, <a href="/tags/coding/">coding</a>, <a href="/tags/git/">git</a>, <a href="/tags/talk/">talk</a></span>
         <span title="author" class="post-info">Philipp Homan</span>
       </div>
@@ -420,7 +439,7 @@ better choice.
         })();
       </script>
       <div class="footer">
-        <p>Generated by <a href="http://www.gnu.org/software/emacs/">Emacs</a> 27.x (<a href="http://orgmode.org">Org mode</a> 9.x)</p>
+        <p>Generated by <a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.x (<a href="http://orgmode.org">Org mode</a> 9.x)</p>
         <p>
           Copyright &copy; 2012 - <span id="footerYear"></span> <a href="mailto:philipp &lt;dot&gt; homan &lt;at&gt; bli &lt;dot&gt; uzh &lt;dot&gt; ch">Philipp Homan</a>
           &nbsp;&nbsp;-&nbsp;&nbsp;
