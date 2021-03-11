@@ -175,8 +175,8 @@ PhD with Philipp at the IDP Lab and with Nicolas Langer at the [[https://www.psy
 of Plasticity Research Lab]] at the University of Zurich. In her
 project, Noemi will apply natural language processing, machine
 learning, and neuroimaging to identify language markers for psychosis
-and schizotypy. Together with [[https://homanlab.github.io/werner/][Werner]] and their dedicated team of
-students, she is collecting data in the [[https://homanlab.github.io/velas/][VELAS study]]. She was able to
+and schizotypy. Together with [[https://homanlab.github.io/werner/][Werner]] and their [[https://homanlab.github.io/velas/#team][dedicated team of
+students]], she is collecting data in the [[https://homanlab.github.io/velas/][VELAS study]]. She was able to
 implement her own project idea within the framework of an [[http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-200214-doc-ch-snsf-supports-24-doctoral-students.aspx][SNF Doc.CH
 fellowship]] which will support her PhD for the entire period of four
 years.
