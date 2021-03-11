@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/horisberger.png]]
 
-** About                                                             :ignore:
 Rahel studied Clinical Psychology, Biology and Art History at the
 University of Zurich. She works as a clinical psychologist and
 psychotherapist at the Psychiatric University Hospital in Zurich. Her

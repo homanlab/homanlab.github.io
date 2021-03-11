@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/neumeier.png]]
 
-** About                                                             :ignore:
 Maria studied medicine at the University of Erlangen-Nuremberg. During
 her studies she joined a research project in the field of tumor
 immunology. She is a resident physician in Psychiatry and Psychotherapy

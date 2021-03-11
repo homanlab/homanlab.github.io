@@ -13,8 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/fuchs.png]]
 
-
-** About                                                             :ignore:
 Simon studied medicine at the University of Zurich (UZH). He started his
 specialty training at the department of Consultation-Liaison-Psychiatry
 and Psychosomatic Medicine at the University Hospital Zurich (USZ) and

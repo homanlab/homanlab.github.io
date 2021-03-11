@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/homans.png]]
 
-** About                                                             :ignore:
 Stephanie completed her PhD at the University of Bern in 2019 and
 currently works as a postdoc and psychologist at the University Hospital
 of Psychiatry. As a clinician researcher, she is interested in the

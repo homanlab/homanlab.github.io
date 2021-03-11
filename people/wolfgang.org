@@ -13,8 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/omlor.png]]
 
-
-** About                                                             :ignore:
 Wolfgang studied medicine at the University of Tuebingen and as fellow
 of the German Academic Scholarship Foundation at Harvard Medical School
 as well as the University of Oxford. Following his medical degree he

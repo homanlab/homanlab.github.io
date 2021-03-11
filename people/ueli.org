@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/stocker.png]]
 
-** About                                                             :ignore:
 Ueli completed his bachelor's in psychology and comparative literature
 at the University of Zurich and Freie Universität Berlin. During his
 studies he developed a strong interest in the relationship between

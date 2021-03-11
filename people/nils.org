@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/kallen.png]]
 
-** About                                                             :ignore:
 Nils studied medicine at the University of Bern. He is currently a
 resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities

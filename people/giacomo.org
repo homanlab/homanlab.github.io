@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/cecere.png]]
 
-** About                                                             :ignore:
 Giacomo was born in Rome, Italy. He received his medical degree from
 Campus Bio-Medico University of Rome before moving to
 Switzerland. Giacomo is a third-year psychiatry resident. He has been

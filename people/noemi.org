@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/dannecker.png]]
 
-** About                                                             :ignore:
 Noemi studied psychology and biology at the University of
 Zurich. After working as a clinical neuropsychologist at the
 Department of Neurology of the University Hospital Zurich for almost 3

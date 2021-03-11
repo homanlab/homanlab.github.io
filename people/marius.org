@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/brandenberg.png]]
 
-** About                                                             :ignore:
 Marius is completing his master's in clinical psychology and
 psychotherapy at the University of Bern. He is particularly interested
 in psychotic disorders and has completed a clinical internship on the

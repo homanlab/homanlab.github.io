@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lopez.png]]
 
-** About                                                             :ignore:
 Alba is doing her master's in psychology at the University of
 Zurich. She has already gained first clinical experience in the field
 of autism spectrum disorder and is now doing a research internship in

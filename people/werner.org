@@ -13,7 +13,6 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/surbeck.png]]
 
-** About                                                             :ignore:
 Werner studied medicine at the University of Zurich. After his training
 in neurosurgery, he specialized in epilepsy surgery and functional
 neurooncology before completing a PhD on the electrophysiological
