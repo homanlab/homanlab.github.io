@@ -13,13 +13,14 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/surbeck.png]]
 
-Werner studied medicine at the University of Zurich. After his training
-in neurosurgery, he specialized in epilepsy surgery and functional
-neurooncology before completing a PhD on the electrophysiological
-investigation of the insular region. At present, he undergoes additional
-specialty training in psychiatry and is involved in research projects in
-the field of brain-based semantic processing abnormalities in
-schizophrenia spectrum disorders.
+Werner studied medicine at the University of Zurich. After his
+training in neurosurgery, he specialized in epilepsy surgery and
+functional neurooncology before completing a PhD on the
+electrophysiological investigation of the insular region. At present,
+he undergoes additional specialty training in psychiatry. In the [[https://homanlab.github.io/velas/][VELAS
+study]], Werner investigates brain-based semantic processing
+abnormalities in schizophrenia spectrum disorders, together with [[https://homanlab.github.io/noemi/][Noemi]]
+and their [[https://homanlab.github.io/velas#team][team of students]].
 
 ** Prizes, Awards, Fellowships
 - 08/2020: [[https://homanlab.github.io/blog/2020/08/28/narsad-young-investigator-grant-werner][NARSAD Young Investigator Grant]], Brain & Behavior Research

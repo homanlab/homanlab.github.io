@@ -1,4 +1,4 @@
-#+TITLE:       Ueli Stocker. Master's student
+#+TITLE:       Ueli Stocker. Research intern
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-08 Tue 

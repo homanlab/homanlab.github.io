@@ -28,12 +28,12 @@ fellowship]] which will support her PhD for the entire period of four
 years.
 
 ** Recent publications
-- On cognitive impairment in relation with cancer and cancer therapy:
-  [[https://doi.org/10.1024/1016-264X/a000247][Dannecker et al. 2019]], Zeitschrift für Neuropsychologie, [[https://www.rosenfluh.ch/media/gynaekologie/2018/04/Tumorassoziierte-Fatigue-und-Chemobrain.pdf][Dannecker
-  2018]], Schweizer Zeitschrift für Gynäkologie
-- On the assessment of cognitive performance in neurosurgical
-  patients: [[https://pubmed.ncbi.nlm.nih.gov/?term=dannecker+n][See here]].
-  
+- Rautalin et al. 2020, Neurological Sciences 
+- Dannecker et al. 2019, Zeitschrift für Neuropsychologie [[[https://doi.org/10.1024/1016-264X/a000247][Link]]]
+- Stienen et al. 2019, Frontiers in Neurology 
+- Dannecker 2018, Schweizer Zeitschrift für Gynäkologie [[[https://www.rosenfluh.ch/media/gynaekologie/2018/04/Tumorassoziierte-Fatigue-und-Chemobrain.pdf][Link]]]
+- Akeret et al. 2018, Frontiers in Behavioral Neuroscience 
+
 ** Media and outreach
 - Radio interview about "left and right in the brain". Radio Energy 2018.
 - Contribution to an [[http://kunsthallezurich.ch/de/100-ways-thinking][art exhibition]] in collaboration with [[https://www.dppp.uzh.ch/en/researchgroups/affiliated-scientists-and-institutions/brugger1.html][Prof. Peter
