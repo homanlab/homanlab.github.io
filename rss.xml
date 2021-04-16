@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Thu, 25 Mar 2021 14:27:27 CET</pubDate>
-    <lastBuildDate>Thu, 25 Mar 2021 14:27:27 CET</lastBuildDate>
+    <pubDate>Fri, 16 Apr 2021 14:13:36 CEST</pubDate>
+    <lastBuildDate>Fri, 16 Apr 2021 14:13:36 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>The VELAS study has started!</title>
+      <link>http://homanlab.github.io/blog/2021/04/16/velas</link>
+      <description><![CDATA[We are looking for participants]]></description>
+      <pubDate>2021-04-16</pubDate>
+      <guid>http://homanlab.github.io/blog/2021/04/16/velas</guid>
+    </item>
     <item>
       <title>Noemi Dannecker, MSc. PhD student</title>
       <link>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2021-03-11</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/08/marius-brandenberg</guid>
-    </item>
-    <item>
-      <title>Nils Kallen, MD. Resident physician</title>
-      <link>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2021-03-11</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
     </item>
   </channel>
 </rss>
