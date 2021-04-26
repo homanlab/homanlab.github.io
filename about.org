@@ -49,7 +49,7 @@ heterogeneity among patients. She is currently investigating how
 inter-individual variability in cognition may be linked to 
 inter-individual differences in brain architecture in psychosis.
 
-* Wolfgang Omlor, MD, PhD. Resident physician
+* Wolfgang Omlor, MD, PhD. Attending physician (ad interim)
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/omlor.png]]
