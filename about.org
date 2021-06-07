@@ -69,6 +69,20 @@ generation of motor symptoms in schizophrenia and obsessive-compulsive
 disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
+* Sophie Schneider, MD. Resident physician
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/schneider.png]]
+
+Sophie received her medical degree at Ludwig-Maximilians-University in
+Munich. For her dissertation she conducted clinical research in
+palliative medicine focusing on assessment of palliative care needs in
+oncological patients. Currently she is a second year resident at the
+psychiatric university clinic. During her residency training, so far
+in the acute psychiatric inpatient setting, she developed a special
+interest in psychotic disorders and is hoping to gain experience in
+psychiatric research in this field.
+
 * Werner Surbeck MD, PhD. Resident physician
 
 #+ATTR_HTML: :width 200px
