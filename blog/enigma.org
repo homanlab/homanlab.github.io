@@ -1,0 +1,14 @@
+#+TITLE:       Join our ENIGMA variability project!
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2021-06-07 Mon
+#+URI:         /blog/%y/%m/%d/enigma
+#+KEYWORDS:    enigma, simon, ellen, study, data sharing 
+#+TAGS:        enigma, simon, ellen, study, data sharing
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: We are looking for participants
+#+AVATAR:      https://homanlab.github.io/media/img/enigma-study.png
+
+#+ATTR_HTML: :width 600px :title enigma
+[[https://homanlab.github.io/media/img/enigma-study.png]]
