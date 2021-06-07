@@ -1,0 +1,31 @@
+#+TITLE:       Sophie Schneider, MD. Resident physician
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-11 Fri
+#+URI:         /people/%y/%m/%d/sophie-schneider-md
+#+KEYWORDS:    lab, sophie, contact, cv
+#+TAGS:        lab, sophie, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Psychiatry resident
+#+AVATAR:      https://homanlab.github.io/media/img/sophie.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/schneider.png]]
+
+Sophie received her medical degree at Ludwig-Maximilians-University in
+Munich. For her dissertation she conducted clinical research in
+palliative medicine focusing on assessment of palliative care needs in
+oncological patients. Currently she is a second year resident at the
+psychiatric university clinic. During her residency training, so far
+in the acute psychiatric inpatient setting, she developed a special
+interest in psychotic disorders and is hoping to gain experience in
+psychiatric research in this field.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 21 11
+- E-mail: sophie.schneider@bli.uzh.ch
+
+
+
