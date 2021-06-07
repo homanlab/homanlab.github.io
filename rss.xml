@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 26 Apr 2021 17:40:05 CEST</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 17:40:05 CEST</lastBuildDate>
+    <pubDate>Mon, 07 Jun 2021 13:55:57 CEST</pubDate>
+    <lastBuildDate>Mon, 07 Jun 2021 13:55:57 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Sophie Schneider, MD. Resident physician</title>
+      <link>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2021-06-07</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
+    </item>
     <item>
       <title>Wolfgang Omlor, MD, PhD. Attending physician (ad interim)</title>
       <link>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2021-03-11</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/09/lena-hofmann</guid>
-    </item>
-    <item>
-      <title>Maria Neumeier. Resident physician</title>
-      <link>http://homanlab.github.io/people/2019/10/11/maria-neumeier</link>
-      <description><![CDATA[Doctoral Student]]></description>
-      <pubDate>2021-03-11</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/maria-neumeier</guid>
     </item>
   </channel>
 </rss>
