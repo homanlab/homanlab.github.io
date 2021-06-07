@@ -7,8 +7,8 @@
 #+TAGS:        lab, sophie, contact, cv
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/sophie.png
+#+DESCRIPTION: Psyychiatry resident
+#+AVATAR:      https://homanlab.github.io/media/img/schneider.png
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/schneider.png]]
