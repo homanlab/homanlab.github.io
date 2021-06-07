@@ -4,16 +4,23 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 07 Jun 2021 14:06:47 CEST</pubDate>
-    <lastBuildDate>Mon, 07 Jun 2021 14:06:47 CEST</lastBuildDate>
+    <pubDate>Mon, 07 Jun 2021 14:08:35 CEST</pubDate>
+    <lastBuildDate>Mon, 07 Jun 2021 14:08:35 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Sophie Schneider, MD. Resident physician</title>
+      <title>Nils Kallen, MD. Resident physician</title>
       <link>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</link>
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2021-06-07</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
+    </item>
+    <item>
+      <title>Sophie Schneider, MD. Resident physician</title>
+      <link>http://homanlab.github.io/people/2019/10/11/sophie-schneider-md</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2021-06-07</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/sophie-schneider-md</guid>
     </item>
     <item>
       <title>Wolfgang Omlor, MD, PhD. Attending physician (ad interim)</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2021-03-11</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/09/giacomo-cecere-md</guid>
-    </item>
-    <item>
-      <title>Lena Hofmann. Resident physician</title>
-      <link>http://homanlab.github.io/people/2019/10/09/lena-hofmann</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2021-03-11</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/09/lena-hofmann</guid>
     </item>
   </channel>
 </rss>
