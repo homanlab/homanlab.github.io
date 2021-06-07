@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
-#+URI:         /people/%y/%m/%d/nils-kallen-md
+#+URI:         /people/%y/%m/%d/sophie-schneider-md
 #+KEYWORDS:    lab, sophie, contact, cv
 #+TAGS:        lab, sophie, contact, cv
 #+LANGUAGE:    en
