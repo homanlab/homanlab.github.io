@@ -24,4 +24,3 @@ need for personalized or stratified medicine is still an open
 question. You can find a [[https://doi.org/10.1101/2020.05.02.20088831][preprint]] of this [[https://osf.io/8uxec)][preregistered study]] [[https://doi.org/10.1101/2020.05.02.20088831][here]] and
 the [[https://osf.io/6w947/][code and data on OSF]].
 
-
