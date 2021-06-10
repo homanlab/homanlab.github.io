@@ -1,4 +1,4 @@
-#+TITLE:       Adverse effects and the need for stratified medicine
+#+TITLE:       Adverse effects and stratified medicine
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2021-06-10 Thu
