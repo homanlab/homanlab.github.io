@@ -24,5 +24,5 @@ in their susceptibility to side effects; but how big these differences
 really are was unclear. Interestingly, we did find good evidence for
 variability in weight gain and prolactin elevation, suggesting that
 these side effects could in principle be reduced through personalized
-or stratified medicine, respectively. You can read the [[https://doi.org/10.1093/schbul/sbab0787][article here]], and check out the [[https://github.com/homanlab/sideeffects/][code and data on github]].
+or stratified medicine, respectively. You can read the [[https://doi.org/10.1093/schbul/sbab078][article here]], and check out the [[https://github.com/homanlab/sideeffects/][code and data on github]].
 
