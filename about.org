@@ -96,17 +96,6 @@ specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
-* Maria Neumeier. Resident physician 
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/neumeier.png]]
-
-[[https://homanlab.github.io/maria/][Maria]] studied medicine at the University of Erlangen-Nuremberg. During
-her studies she joined a research project in the field of tumor
-immunology. She is a resident physician in Psychiatry and Psychotherapy
-and has a special interest in psychotic disorders. Currently she
-investigates variability of side effects to antipsychotic treatment.
-
 * Simon Fuchs. Resident physician
 	
 #+ATTR_HTML: :width 200px
