@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 16 Aug 2021 15:52:47 CEST</pubDate>
-    <lastBuildDate>Mon, 16 Aug 2021 15:52:47 CEST</lastBuildDate>
+    <pubDate>Mon, 16 Aug 2021 15:54:34 CEST</pubDate>
+    <lastBuildDate>Mon, 16 Aug 2021 15:54:34 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,20 @@
       <description><![CDATA[Doctoral Student]]></description>
       <pubDate>2021-08-16</pubDate>
       <guid>http://homanlab.github.io/people/2021/08/16/maria-neumeier</guid>
+    </item>
+    <item>
+      <title>Philipp Homan, MD, PhD. Principal investigator</title>
+      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2021-08-16</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
+    </item>
+    <item>
+      <title>Stephanie Homan, PhD. Postdoc</title>
+      <link>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2021-08-16</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</guid>
     </item>
     <item>
       <title>Adverse effects and stratified medicine</title>
@@ -28,13 +42,6 @@
       <description><![CDATA[Analysis of treatment effect variability]]></description>
       <pubDate>2021-06-10</pubDate>
       <guid>http://homanlab.github.io/blog/2020/12/01/neubiorev</guid>
-    </item>
-    <item>
-      <title>Philipp Homan, MD, PhD. Principal investigator</title>
-      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
-      <description><![CDATA[Principal Investigator]]></description>
-      <pubDate>2021-06-10</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
     </item>
     <item>
       <title>Join our ENIGMA variability project!</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[We are looking for participants]]></description>
       <pubDate>2021-04-16</pubDate>
       <guid>http://homanlab.github.io/blog/2021/04/16/velas</guid>
-    </item>
-    <item>
-      <title>Noemi Dannecker, MSc. PhD student</title>
-      <link>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</link>
-      <description><![CDATA[Graduate Student]]></description>
-      <pubDate>2021-03-25</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/10/noemi-dannecker-msc</guid>
     </item>
   </channel>
 </rss>
