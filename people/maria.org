@@ -1,7 +1,7 @@
 #+TITLE:       Maria Neumeier (alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2021-08-16 Mon
+#+DATE:        2019-10-07 Mon
 #+URI:         /people/%y/%m/%d/maria-neumeier
 #+KEYWORDS:    alumni, maria, cv
 #+TAGS:        alumni, maria, cv
