@@ -1,0 +1,60 @@
+#+TITLE:       We are looking for a study coordinator - Research internship 60%!
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2021-08-22 Sun
+#+URI:         /blog/%y/%m/%d/velas-job
+#+KEYWORDS:    velas, noemi, werner, study, job
+#+TAGS:        velas, noemi, werner, study, job
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: We are looking for a study coordinator
+#+AVATAR:      https://homanlab.github.io/media/img/velas_velas.png
+
+#+ATTR_HTML: :width 200px :title preprint
+[[https://homanlab.github.io/media/img/velas_velas.png]]
+
+The [[https://homanlab.github.io/velas/][VELAS study]] investigates neuroanatomical and language markers for
+psychosis using MRI and Natural Language Processing. We are looking
+for a passionate and skilled addition to [[https://homanlab.github.io/velas/#team][our team]] who will take over
+the coordination of the study.
+
+** The position:
+- Workload at least 60%
+- Duration 1 year (with possibility for extension and advancement) 
+- Starts September 2021 (or as soon as possible)
+- Pays CHF 900 (gross; for 60%)
+
+** Your main tasks:
+- Establishing and implementing a standardized system for participant scheduling
+- Recruiting, screening and including participants in the study
+- Conducting MRI measurements
+- Managing organizational and administrative tasks of the study
+
+** Who we are looking for:
+- You are passionate about neuroscience and research
+- You are quick and skilled at understanding, organizing and
+  structuring complex issues
+- You have experience with handling data and spreadsheets
+- You work efficiently, thoroughly and independently
+- You enjoy working as part of a team
+- You have a Bachelor's degree (or more) in psychology, neuroscience,
+  medicine, health sciences, informatics, computer linguistics or
+  similar
+- You speak German and English
+
+** What we offer: 
+- The possibility to take over an important role in an exciting and
+  innovative research project
+- Getting certified to conduct MRI measurements
+- Flexible hours
+- Working as part of an interdisciplinary, competent team in a
+  stimulating environment
+- Entry point into the exciting world of neuroscientific research
+
+** Interested? Get in touch!
+Send your application to Noemi at noemi.dannecker@gmail.com, including
+a short cover letter, your CV and your most recent transcript. Don't
+hesitate to contact us if you have any questions.
+
+We are looking forward to meeting you!
+Your VELAS study team
