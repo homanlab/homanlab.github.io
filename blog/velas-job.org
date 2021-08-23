@@ -7,7 +7,7 @@
 #+TAGS:        velas, noemi, werner, study, job
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: We are looking for a study coordinator
+#+DESCRIPTION: Job opportunity with the VELAS team
 #+AVATAR:      https://homanlab.github.io/media/img/velas_velas.png
 
 #+ATTR_HTML: :width 200px :title preprint
