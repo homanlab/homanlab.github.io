@@ -1,0 +1,24 @@
+#+TITLE:       Relapse prevention with digital health technology
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2022-03-03 Thu
+#+URI:         /blog/%y/%m/%d/icrc
+#+KEYWORDS:    publication, mobile technology, relapse prevention
+#+TAGS:    publication, mobile technology, relapse prevention
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Improving care reducing costs (ICRC)
+#+AVATAR:      https://homanlab.github.io/media/img/icrc.png
+
+#+ATTR_HTML: :width 200px :title preprint
+[[https://homanlab.github.io/media/img/icrc.png]]
+
+In our new paper we report results from a US multisite trial that
+compared digital relapse prevention with usual care.
+Psychiatric hospitalization is a major driver of cost in the treatment
+of schizophrenia. Here, we asked whether a technology-enhanced
+approach to relapse prevention could reduce days spent in a hospital
+after discharge. The paper was just accepted and can already be read
+as preprint
+[[https://www.biorxiv.org/content/10.1101/626663v2][here]], with
+out the [[https://osf.io/yhvce/][code and data on OSF]].
