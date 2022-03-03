@@ -184,20 +184,6 @@ implement her own project idea within the framework of an [[http://www.snf.ch/en
 fellowship]] which will support her PhD for the entire period of four
 years.
 
-* Lena Hofmann, Resident physician
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/hofmann.png]]
-
-[[https://homanlab.github.io/lena/][Lena]] received her medical degree from the Ludwig-Maximilians-University
-Munich. For her dissertation, she focused on the effects of high
-intensity neoadjuvant chemotherapy on the mortality of patients with
-gastric cancer. At the University Hospital of Psychiatry Zurich, she
-started out in the Department of Forensic Psychiatry, mainly working
-with offenders suffering from schizophreniform psychotic disorders. This
-sparked her interest in interrelations between neurobiological factors
-and aggressive as well as impulsive behavior.
-
 * Marius Brandenberg, Master student
 
 #+ATTR_HTML: :width 200px
