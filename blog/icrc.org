@@ -14,11 +14,10 @@
 [[https://homanlab.github.io/media/img/icrc.png]]
 
 In our new paper we report results from a US multisite trial that
-compared digital relapse prevention with usual care.
-Psychiatric hospitalization is a major driver of cost in the treatment
-of schizophrenia. Here, we asked whether a technology-enhanced
-approach to relapse prevention could reduce days spent in a hospital
-after discharge. The paper was just accepted and can already be read
-as preprint
-[[https://www.biorxiv.org/content/10.1101/626663v2][here]], with
-out the [[https://osf.io/yhvce/][code and data on OSF]].
+compared digital relapse prevention with usual care.  Psychiatric
+hospitalization is a major driver of cost in the treatment of
+schizophrenia. Here, we asked whether a technology-enhanced approach
+to relapse prevention could reduce days spent in a hospital after
+discharge. The paper was just accepted and can already be read as
+preprint [[https://www.biorxiv.org/content/10.1101/626663v2][here]],
+with the [[https://osf.io/yhvce/][code and data on OSF]].
