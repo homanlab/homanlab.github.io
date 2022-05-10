@@ -6130,6 +6130,7 @@
 
 }));</script>
 
+<!--
 <script>
 
     /**
@@ -6174,6 +6175,150 @@
 
         document.write(plainHTML);
         document.close();
+    });
+</script>
+-->
+
+
+<script>
+    // variables to be filled when generating the file
+    var encryptedMsg = 'fb92167e268563688d5c27e0559ee178ffe932d7708ae9aa58bfb5c2d4126c332e1fb1894bfc7712caf9577797d4bf6dU2FsdGVkX18uawRr1OP/bntZp3cvbGlSUXjVl24iGXI=',
+        salt = '547b9ff73c5a5fd3bda4ca279258bed6',
+        isRememberEnabled = true,
+        rememberDurationInDays = 0; // 0 means forever
+
+    // constants
+    var rememberPassphraseKey = 'staticrypt_passphrase',
+        rememberExpirationKey = 'staticrypt_expiration';
+
+    /**
+     * Decrypt a salted msg using a password.
+     * Inspired by https://github.com/adonespitogo
+     *
+     * @param  encryptedMsg
+     * @param  hashedPassphrase
+     * @returns 
+     */
+    function decryptMsg(encryptedMsg, hashedPassphrase) {
+        var iv = CryptoJS.enc.Hex.parse(encryptedMsg.substr(0, 32))
+        var encrypted = encryptedMsg.substring(32);
+
+        return CryptoJS.AES.decrypt(encrypted, hashedPassphrase, {
+            iv: iv,
+            padding: CryptoJS.pad.Pkcs7,
+            mode: CryptoJS.mode.CBC
+        }).toString(CryptoJS.enc.Utf8);
+    }
+
+    /**
+     * Decrypt our encrypted page, replace the whole HTML.
+     *
+     * @param  hashedPassphrase
+     * @returns 
+     */
+    function decryptAndReplaceHtml(hashedPassphrase) {
+        var encryptedHMAC = encryptedMsg.substring(0, 64),
+            encryptedHTML = encryptedMsg.substring(64),
+            decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(hashedPassphrase).toString()).toString();
+
+        if (decryptedHMAC !== encryptedHMAC) {
+            return false;
+        }
+
+        var plainHTML = decryptMsg(encryptedHTML, hashedPassphrase);
+
+        document.write(plainHTML);
+        document.close();
+
+        return true;
+    }
+
+    /**
+     * Salt and hash the passphrase so it can be stored in localStorage without opening a password reuse vulnerability.
+     *
+     * @param  passphrase
+     * @returns 
+     */
+    function hashPassphrase(passphrase) {
+        return CryptoJS.PBKDF2(passphrase, salt, {
+            keySize: 256 / 32,
+            iterations: 1000
+        }).toString();
+    }
+
+    /**
+     * Clear localstorage from staticrypt related values
+     */
+    function clearLocalStorage() {
+        localStorage.removeItem(rememberPassphraseKey);
+        localStorage.removeItem(rememberExpirationKey);
+    }
+
+    // try to automatically decrypt on load if there is a saved password
+    window.onload = function () {
+        if (isRememberEnabled) {
+            // show the remember me checkbox
+            document.getElementById('staticrypt-remember-label').classList.remove('hidden');
+
+            // if we are login out, clear the storage and terminate
+            var queryParams = new URLSearchParams(window.location.search);
+
+            if (queryParams.has("staticrypt_logout")) {
+                return clearLocalStorage();
+            }
+
+            // if there is expiration configured, check if we're not beyond the expiration
+            if (rememberDurationInDays && rememberDurationInDays > 0) {
+                var expiration = localStorage.getItem(rememberExpirationKey),
+                    isExpired = expiration && new Date().getTime() > parseInt(expiration);
+
+                if (isExpired) {
+                    return clearLocalStorage();
+                }
+            }
+
+            var hashedPassphrase = localStorage.getItem(rememberPassphraseKey);
+
+            if (hashedPassphrase) {
+                // try to decrypt
+                var isDecryptionSuccessful = decryptAndReplaceHtml(hashedPassphrase);
+
+                // if the decryption is unsuccessful the password might be wrong - silently clear the saved data and let
+                // the user fill the password form again
+                if (!isDecryptionSuccessful) {
+                    return clearLocalStorage();
+                }
+            }
+        }
+    }
+
+    // handle password form submission
+    document.getElementById('staticrypt-form').addEventListener('submit', function (e) {
+        e.preventDefault();
+
+        var passphrase = document.getElementById('staticrypt-password').value,
+            shouldRememberPassphrase = document.getElementById('staticrypt-remember').checked;
+
+        // decrypt and replace the whole page
+        var hashedPassphrase = hashPassphrase(passphrase);
+        var isDecryptionSuccessful = decryptAndReplaceHtml(hashedPassphrase);
+
+        if (isDecryptionSuccessful) {
+            // remember the hashedPassphrase and set its expiration if necessary
+            if (isRememberEnabled && shouldRememberPassphrase) {
+                window.localStorage.setItem(rememberPassphraseKey, hashedPassphrase);
+
+                // set the expiration if the duration isn't 0 (meaning no expiration)
+                if (rememberDurationInDays > 0) {
+                    window.localStorage.setItem(
+                        rememberExpirationKey,
+                        (new Date().getTime() + rememberDurationInDays * 24 * 60 * 60 * 1000).toString()
+                    );
+                }
+            }
+        } else {
+            alert('Bad passphrase!');
+        }
     });
 </script>
 </body>
