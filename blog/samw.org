@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2022-12-01 Thu 
-#+URI:         /blog/%y/%m/%d/bmc
+#+URI:         /blog/%y/%m/%d/samw
 #+KEYWORDS:    research grant, nils, philipp, SAMW, young talents 
 #+TAGS:        research grant, nils, philipp, SAMW, young talents 
 #+LANGUAGE:    en
