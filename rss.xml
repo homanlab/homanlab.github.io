@@ -4,8 +4,8 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 09 Jan 2023 21:31:51 CET</pubDate>
-    <lastBuildDate>Mon, 09 Jan 2023 21:31:51 CET</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2023 21:37:27 CET</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2023 21:37:27 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -21,6 +21,13 @@
       <description><![CDATA[Principal Investigator]]></description>
       <pubDate>2023-01-09</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
+    </item>
+    <item>
+      <title>Wolfgang Omlor, MD, PhD. Resident physician</title>
+      <link>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2023-01-09</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/wolfgang-omlor-md-phd</guid>
     </item>
     <item>
       <title>BMC Medicine</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Analysis of treatment effect variability]]></description>
       <pubDate>2021-06-10</pubDate>
       <guid>http://homanlab.github.io/blog/2020/12/01/neubiorev</guid>
-    </item>
-    <item>
-      <title>Join our ENIGMA variability project!</title>
-      <link>http://homanlab.github.io/blog/2021/06/07/enigma</link>
-      <description><![CDATA[We are looking for participants]]></description>
-      <pubDate>2021-06-07</pubDate>
-      <guid>http://homanlab.github.io/blog/2021/06/07/enigma</guid>
     </item>
   </channel>
 </rss>
