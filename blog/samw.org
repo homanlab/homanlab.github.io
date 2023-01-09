@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Great success for Nils
-#+AVATAR:      https://homanlab.github.io/media/img/nk.png
+#+AVATAR:      https://homanlab.github.io/media/img/kallen.png
 
 #+ATTR_HTML: :width 200px :title preprint
-[[https://homanlab.github.io/media/img/nk.png]]
+[[https://homanlab.github.io/media/img/kallen.png]]
 
 The Swiss Academy for Medical Sciences
 [[https://www.samw.ch/en.html][SAMW]] has awarded
