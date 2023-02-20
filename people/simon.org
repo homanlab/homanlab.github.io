@@ -1,4 +1,4 @@
-#+TITLE:       Simon Fuchs. Resident physician
+#+TITLE:       Simon Fuchs. Resident physician (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -13,16 +13,13 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/fuchs.png]]
 
-Simon studied medicine at the University of Zurich (UZH). He started his
-specialty training at the department of Consultation-Liaison-Psychiatry
-and Psychosomatic Medicine at the University Hospital Zurich (USZ) and
-is currently a resident at the Psychiatric University Clinic Zurich
-(PUK). He worked as a clinical scientist (USZ, UZH) for an ongoing
-multi-center study focussing on psychiatric and psychosocial aspects of
-brain tumors. His dissertation focusses on the prevalence of delirium
-and the impact of hospitalization characteristics on delirium across
-hospital services. His extended research interests comprise
-neurobiological factors in psychotic disorders.
+Simon studied medicine at the University of Zurich (UZH). He started
+his specialty training at the department of
+Consultation-Liaison-Psychiatry and Psychosomatic Medicine at the
+University Hospital Zurich (USZ) and worked as a resident at the
+Psychiatric University Clinic Zurich (PUK). In the lab, he contributed
+to an ENIGMA project on the variability of structural brain measures
+in schizophrenia.
 
 ** Recent publications
 - Bode, L., Fuchs, S., Gehrke, S., Ernst, J., Schubert, M.,
@@ -46,7 +43,7 @@ neurobiological factors in psychotic disorders.
 
 ** Contact
 #+ATTR_HTML: :target _blank
-- Phone: +41 (0)44 384 21 11
-- E-mail: simonraphael.fuchs@uzh.ch
+# - Phone: +41 (0)44 384 21 11
+# - E-mail: simonraphael.fuchs@uzh.ch
 
 	
