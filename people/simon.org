@@ -45,5 +45,3 @@ in schizophrenia.
 #+ATTR_HTML: :target _blank
 # - Phone: +41 (0)44 384 21 11
 # - E-mail: simonraphael.fuchs@uzh.ch
-
-	
