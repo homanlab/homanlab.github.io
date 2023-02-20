@@ -1,0 +1,21 @@
+#+TITLE:       SAMW Young Talents Grant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2022-12-01 Thu 
+#+URI:         /blog/%y/%m/%d/samw
+#+KEYWORDS:    research grant, nils, philipp, SAMW, young talents 
+#+TAGS:        research grant, nils, philipp, SAMW, young talents 
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Great success for Nils
+#+AVATAR:      https://homanlab.github.io/media/img/kallen.png
+
+#+ATTR_HTML: :width 200px :title preprint
+[[https://homanlab.github.io/media/img/kallen.png]]
+
+The Swiss Academy for Medical Sciences
+[[https://www.samw.ch/en.html][SAMW]] has awarded [[https://homanlab.github.io/people/2019/10/11/nils-kallen-md/][Nils]] a prestigious
+[[https://www.samw.ch/en/Funding/Young-Talents-Clinical-Research.html][Young Talents in Clinical Research Grant]]. It is the
+[[https://www.samw.ch/dam/jcr:a59092f4-694d-456a-a366-7197a0b6501d/synopsis_sams_ytcr.pdf][first proposal in psychiatric research]] that has been supported with this
+grant and thus a major success for Nils. His project is titled *Retinal cytoarchitecture as a biomarker to improve identification of patients at pre-clinical and early stages of psychotic disorders – the RETPSY study* and will investigate retinal thinning as a marker of
+psychotic disorders. Congratulations Nils to this great success!

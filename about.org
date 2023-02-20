@@ -13,7 +13,7 @@ Individual Differences in Psychosis (IDP) Lab studies the origins and
 clinical consequences of individual differences in psychotic disorders.
 Interested in working with us? [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][Reach out]].
 
-* Philipp Homan, MD, PhD. Principal investigator
+* Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/homanp.png]]
 
@@ -49,7 +49,7 @@ heterogeneity among patients. She is currently investigating how
 inter-individual variability in cognition may be linked to 
 inter-individual differences in brain architecture in psychosis.
 
-* Wolfgang Omlor, MD, PhD. Attending physician (ad interim)
+* Wolfgang Omlor, MD, PhD. Resident physician (ad interim)
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/omlor.png]]

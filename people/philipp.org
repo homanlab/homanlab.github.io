@@ -1,4 +1,4 @@
-#+TITLE:       Philipp Homan, MD, PhD. Principal investigator
+#+TITLE:       Prof. Philipp Homan, MD, PhD. Principal investigator
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-12 Sat
@@ -31,10 +31,9 @@ Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker
 New York.
  
 ** Recent publications
+- Homan P. et al. 2022, Psychological Medicine [[[http://dx.doi.org/10.1017/S0033291722000794][link]]]
 - Neumeier, Homan S. et al. 2021, Schizophrenia Bulletin [[[https://doi.org/10.1093/schbul/sbab078][link]]]
 - Homan S. et al. 2020, Neuroscience & Biobehavioral Reviews [[[https://doi.org/10.1101/2020.05.02.20088831][link]]]
-- Winkelbeiner et al. 2019, JAMA Psychiatry [[[https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2735440][link]]]
-- Homan et al. 2019a, Nature Neuroscience [[[https://www.nature.com/articles/s41593-018-0315-x][link]]]
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
 ** Preprints
@@ -56,6 +55,8 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 
 ** Honors, awards, fellowships
 # Over $310'000 total funding
+
+- 09/2022: Editorial Board Member, BMC Medicine
 
 - 04/2020: Research Grant from the Novartis Foundation, Switzerland
 
@@ -102,6 +103,7 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - Phone: +41 (0)44 384 21 11
 - E-mail: philipp.homan@bli.uzh.ch
 - Twitter: [[https://twitter.com/philipphoman][@philipphoman]]
+- LinkedIn: [[https://www.linkedin.com/in/philipp-homan-832223188/][philipp-homan]]
 
 	
 
