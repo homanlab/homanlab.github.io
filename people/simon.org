@@ -1,7 +1,7 @@
 #+TITLE:       Simon Fuchs. Resident physician (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/simon-fuchs
 #+KEYWORDS:    lab, simon, contact, cv
 #+TAGS:        lab, simon, contact, cv
