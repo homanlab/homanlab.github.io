@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Mon, 20 Feb 2023 09:52:18 CET</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2023 09:52:18 CET</lastBuildDate>
+    <pubDate>Wed, 22 Feb 2023 16:37:55 CET</pubDate>
+    <lastBuildDate>Wed, 22 Feb 2023 16:37:55 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Postdoc position in Zurich available</title>
+      <link>http://homanlab.github.io/blog/2023/02/22/postdoc</link>
+      <description><![CDATA[Postdoc for dense sampling study]]></description>
+      <pubDate>2023-02-22</pubDate>
+      <guid>http://homanlab.github.io/blog/2023/02/22/postdoc</guid>
+    </item>
     <item>
       <title>Simon Fuchs. Resident physician (alumnus)</title>
       <link>http://homanlab.github.io/people/2019/10/06/simon-fuchs</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Doctoral Student]]></description>
       <pubDate>2021-08-16</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/07/maria-neumeier</guid>
-    </item>
-    <item>
-      <title>Stephanie Homan, PhD. Postdoc</title>
-      <link>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2021-08-16</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/stephanie-homan-phd</guid>
     </item>
   </channel>
 </rss>
