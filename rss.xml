@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Wed, 22 Feb 2023 16:44:36 CET</pubDate>
-    <lastBuildDate>Wed, 22 Feb 2023 16:44:36 CET</lastBuildDate>
+    <pubDate>Fri, 03 Mar 2023 16:43:45 CET</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2023 16:43:45 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Sophie Schneider, MD. Resident physician (alumna)</title>
+      <link>http://homanlab.github.io/people/2019/10/06/sophie-schneider-md</link>
+      <description><![CDATA[Psychiatry resident]]></description>
+      <pubDate>2023-03-03</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/06/sophie-schneider-md</guid>
+    </item>
     <item>
       <title>Postdoc position in Zurich available</title>
       <link>http://homanlab.github.io/blog/2023/02/22/postdoc</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Analysis of side effect variability]]></description>
       <pubDate>2021-08-16</pubDate>
       <guid>http://homanlab.github.io/blog/2021/08/12/sideeffects</guid>
-    </item>
-    <item>
-      <title>Maria Neumeier (alumna)</title>
-      <link>http://homanlab.github.io/people/2019/10/07/maria-neumeier</link>
-      <description><![CDATA[Doctoral Student]]></description>
-      <pubDate>2021-08-16</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/07/maria-neumeier</guid>
     </item>
   </channel>
 </rss>
