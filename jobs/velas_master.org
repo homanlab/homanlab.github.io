@@ -1,0 +1,187 @@
+#+TITLE: 
+* Preamble                                                           :ignore:
+** Comments                                                          :ignore:
+# -------------------------------------------------------------------------------
+# - Turn on synonyms by starting synosaurus-mode
+# - Look up words using C-c sr
+# - Turn on dictionary by starting flyspell-mode
+# - Count words by section using org-wc-display
+# -------------------------------------------------------------------------------
+** org specific settings                                             :ignore:
+# -------------------------------------------------------------------------------
+#+OPTIONS: email:nil toc:nil num:nil title:nil author:nil date:nil tex:t 
+#+STARTUP: align fold
+#+AUTHOR: Prof. Dr. med. univ. Philipp Homan, PhD
+#+DATE: {{{time(%B %Y)}}}
+#+LANGUAGE: de
+# -------------------------------------------------------------------------------
+** Latex header                                                      :ignore:
+# -------------------------------------------------------------------------------
+#+LATEX_CLASS: myprofapp
+#+LATEX_HEADER: \usepackage[ngerman]{babel}
+#+LATEX_HEADER: \usepackage{prof}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0pt}
+#+LATEX_HEADER: \usepackage[german]{datetime}
+#+LATEX_HEADER: \graphicspath{{/Users/phoman/img/}{../../../lib/}}
+#+LATEX_HEADER:	\pagestyle{fancy}
+#+LATEX_HEADER:	\renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER:	\setlength{\headheight}{44pt}
+#+LATEX_HEADER:	\fancyhead{}
+#+LATEX_HEADER:	\fancyhead[R]{\includegraphics[width=122pt]{logo_puk_de.pdf}}
+#+LATEX_HEADER:	\cfoot{\thepage}
+#+LATEX_HEADER:	\lfoot{}
+#+LATEX_HEADER:	\setlength{\footheight}{84pt}
+#+LATEX_HEADER:	\rfoot{\includegraphics[height=40pt]{logo_uzh_de.pdf}}
+# -------------------------------------------------------------------------------
+** Authors and affiliations                                     :ignore:
+# ----------------------------------------------------------------------
+# LATEX_HEADER: \author{
+# LATEX_HEADER: Philipp Homan$^{1,2,3\ast}$, M.D., Ph.D.
+# LATEX_HEADER: \\
+# LATEX_HEADER: \normalsize{$^{1}$Center}\\  
+# LATEX_HEADER: \normalsize{$^{1}$Center for Psychiatric Neuroscience,}\\
+# LATEX_HEADER: \normalsize{The Feinstein Institute for Medical Research,}
+# LATEX_HEADER: \normalsize{Manhasset, NY}\\
+# LATEX_HEADER: \normalsize{$^{2}$Division of Psychiatry Research,}\\
+# LATEX_HEADER: \normalsize{The Zucker Hillside Hospital, Northwell}
+# LATEX_HEADER: \normalsize{Health, New York, NY}\\
+# LATEX_HEADER: \normalsize{$^{3}$Department of Psychiatry,}\\ 
+# LATEX_HEADER: \normalsize{Zucker}
+# LATEX_HEADER: \normalsize{School of Medicine at Northwell/Hofstra,}
+# LATEX_HEADER: \normalsize{Hempstead, NY}\\
+# LATEX_HEADER: \\
+# LATEX_HEADER: \normalsize{$^\ast$E-mail:} 
+# LATEX_HEADER: \normalsize{phoman1@northwell.edu.}
+# LATEX_HEADER: }
+# ----------------------------------------------------------------------
+** Buffer-wide source code blocks                               :ignore:
+# ----------------------------------------------------------------------
+# Set elisp variables need for nice formatting We want no new lines in
+# inline results and a paragraph size of 80 characters Important: this
+# has to be evaluated witch C-c C-c in order to work in the current
+# buffer
+#+BEGIN_SRC emacs-lisp :exports none :results silent
+
+; set timestamp format
+;(setq org-export-date-timestamp-format "%FT%T%z")
+(require 'org-wc)
+(flyspell-mode t)
+;(evil-declare-change-repeat 'company-complete)
+(setq synosaurus-choose-method 'popup)
+(synosaurus-mode t)
+(auto-complete-mode t)
+;(ac-config-default)
+;(add-to-list 'ac-modes 'org-mode)
+(linum-mode t)
+(whitespace-mode t)
+(setq org-babel-inline-result-wrap "%s")
+(setq org-export-with-broken-links "mark")
+(setq fill-column 72)
+(setq whitespace-line-column 72)
+;(setq org-latex-caption-above '(table image))
+(setq org-latex-caption-above nil)
+(org-toggle-link-display)
+; don't remove logfiles at export
+(setq org-latex-remove-logfiles nil)
+
+; Keybindings
+; (global-set-key (kbd "<f7> c") "#+CAPTION: ")
+(defun setfillcolumn72 ()
+	(interactive)
+	(setq fill-column 72)
+	)
+
+(defun setfillcolumn42 ()
+	(interactive)
+	(setq fill-column 42)
+)
+(define-key org-mode-map (kbd "C-c c #") "#+CAPTION: ")
+(define-key org-mode-map (kbd "C-c l #") "#+LATEX_HEADER: ")
+(define-key org-mode-map (kbd "C-c f c 4 2") 'setfillcolumn42)
+(define-key org-mode-map (kbd "C-c f c 7 2") 'setfillcolumn72)
+
+(setq org-odt-category-map-alist
+	 '(("__Figure__" "*Figure*" "value" "Figure" org-odt--enumerable-image-p)))
+
+
+; let ess not ask for starting directory
+(setq ess-ask-for-ess-directory nil)
+
+;(setq org-latex-pdf-process '("latexmk -pdflatex='xelatex
+;-output-directory=../output/tex/ -interaction nonstopmode' -pdf
+;-bibtex -f %f"))
+(setq org-latex-logfiles-extensions 
+	 (quote("bcf" "blg" "fdb_latexmk" "fls" 
+	 "figlist" "idx" "log" "nav" "out" "ptc" 
+	 "run.xml" "snm" "toc" "vrb" "xdv")))
+
+; deactivate link resolving
+(setq org-activate-links nil)
+
+
+#+END_SRC
+#
+#
+#
+# ----------------------------------------------------------------------
+** End preamble                                                      :ignore:
+# -------------------------------------------------------------------------------
+* Formatting                                                         :ignore:
+\singlespacing
+\pagenumbering{gobble}
+# \clearpage
+
+* Head                                                               :ignore:
+\begin{flushright}
+\scriptsize
+Psychiatrische Universitätsklinik Zürich \\
+\textbf{Klinik für Psychiatrie, Psychotherapie \\
+und Psychosomatik} \\
+Lenggstrasse 31, 8032 Zürich \\
+Telefon	+41 (0)58 384 33 65 \\
+www.pukzh.ch \\
+
+Prof. Dr. med. univ. Philipp Homan, PhD \\
+Stv. Klinikdirektor und Chefarzt
+\end{flushright}
+
+\vspace{3.5ex}
+
+* Date                                                               :ignore:
+Zürich, \today
+
+* Subject                                                            :ignore:
+*Masterarbeit Ventral Language Stream im Gehirn*
+
+* Thema                                                         :ignore:
+
+*Thema:* Unsere Forschungsgruppe beschäftigt sich unter anderem mit
+/semantischer Verarbeitung im Gehirn/ und ihrer Veränderung bei
+psychischen Erkrankungen, besonders psychotischen Störungen. Das
+sogenannte Dual Stream Model der Sprachverarbeitung im Gehirn geht von
+dorsalen und ventralen Faserverbindungen aus, dem sogenannten /Ventral Language Stream/. Diesen untersuchen wir in dieser Studie mittels
+DIffusion Tensor Imaging (DTI), welches eine in vivo Darstellung der
+weissen Substanz im Gehirn erlaubt. Wir möchten verstehen, wie die
+typischen semantischen Verarbeitungsfehler, wie wir sie bei
+psychotischen Erkrankungen beobachten können, mit der Integrität dieses
+Ventral Language Streams zusammenhängt. Zu diesem Zweck sollen im Rahmen
+einer Masterarbeit die uns interessierenden weissen Faserverbindungen im
+Gehirn computergestützt rekonstruiert werden. Interesse an
+/Neuroanatomie/ sowie /psychiatrischen Erkrankungen/ wird erwartet,
+ausserdem sind Programmierkenntnisse von Vorteil (aber nicht
+zwingend). Es besteht ausserdem die Möglichkeit, zur neuroanatomischen
+Weiterbildung parallel einen vom Betreuer geleiteten Dissektionskurs zu
+besuchen, bei dem die entsprechenden Faserverbindungen am Präparat
+kennengelernt werden können.
+
+* Betreuung                                                     :ignore:
+*Betreuung:* Prof. Philipp Homan, Dr. Dr. Werner Surbeck
+
+* Beginn                                                        :ignore:
+*Beginn:* Ab sofort
+
+* Kontakt                                                       :ignore:
+*Kontakt:* Bitte über Sekretariat Prof. Homan (Frau Karolina Wicki,
+karolina.wicki@pukzh.ch)
+
