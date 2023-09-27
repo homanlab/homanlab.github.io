@@ -1,4 +1,4 @@
-#+TITLE:       Rahel Horisberger, MSc. Psychologist
+#+TITLE:       Rahel Horisberger, PhD, Postdoc
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -13,16 +13,14 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/horisberger.png]]
 
-Rahel studied Clinical Psychology, Biology and Art History at the
-University of Zurich. She works as a clinical psychologist and
-psychotherapist at the Psychiatric University Hospital in Zurich. Her
-current research activity for a dissertation focusses on the assessment
-and psychotherapeutic treatment of negative symptoms in schizophrenia
-(in collaboration with Prof. B. Kleim and Prof. S. Kaiser). The
-development of brief psychotherapeutic interventions for psychotic
-disorders in the context of acute inpatient treatment forms the extended
-focus of her research interest.
- 
+Rahel completed her PhD on psychotherapeutic treatment of negative
+symptoms in schizophrenia at the University of Zurich (Prof. B.Kleim,
+Prof. P.Homan, Prof. S.Kaiser). Her current research activity focuses
+on the development of brief psychotherapeutic interventions for
+psychotic disorders in the context of acute inpatient treatment. Rahel
+is a senior psychologist and licenced psychotherapist at the
+Psychiatric University Hospital in Zurich.
+
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
