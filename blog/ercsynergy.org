@@ -1,0 +1,26 @@
+#+TITLE:       ERC Synergy Grant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2023-10-27 Fri
+#+URI:         /blog/%y/%m/%d/ercsynergy.org
+#+KEYWORDS:    ERC Synergy, grant, award
+#+TAGS:        ERC Synergy, grant, award
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: New grant for Philipp with three european partners 
+#+AVATAR:      https://homanlab.github.io/media/img/erc_logo.png
+
+#+ATTR_HTML: :width 200px :title delta
+[[https://homanlab.github.io/media/img/erc_logo.png]]
+
+We are thrilled to announce that Philipp has been awarded a coveted
+ERC Synergy Grant shared with three European partners (Groningen: Iris
+Sommer, Barcelona: Wolfram Hinzen, Tromsø: Brita Elvevåg). For the
+joint project on language disturbances in psychotic disorders, UZH
+will receive 3 million of the project's 10 million euro total funding.
+
+Read more:
+- [[https://erc.europa.eu/news-events/news/erc-2023-synergy-grants-results][ERC press release]]  
+- [[UZH News][https://www.news.uzh.ch/en/articles/news/2023/erc-grant-homan0.html]]
+  
+*We will be hiring soon!*
