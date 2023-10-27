@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2023-10-27 Fri
-#+URI:         /blog/%y/%m/%d/ercsynergy.org
+#+URI:         /blog/%y/%m/%d/ercsynergy
 #+KEYWORDS:    ERC Synergy, grant, award
 #+TAGS:        ERC Synergy, grant, award
 #+LANGUAGE:    en
