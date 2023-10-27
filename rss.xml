@@ -4,10 +4,17 @@
     <title>IDP Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Individual Differences in Psychosis</description>
-    <pubDate>Fri, 27 Oct 2023 13:26:11 CEST</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2023 13:26:11 CEST</lastBuildDate>
+    <pubDate>Fri, 27 Oct 2023 13:41:49 CEST</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2023 13:41:49 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>ERC Synergy Grant</title>
+      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy.org</link>
+      <description><![CDATA[New grant for Philipp with three european partners ]]></description>
+      <pubDate>2023-10-27</pubDate>
+      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy.org</guid>
+    </item>
     <item>
       <title>Akhil Misra, PhD student</title>
       <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Psychiatry resident]]></description>
       <pubDate>2023-03-03</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/06/sophie-schneider-md</guid>
-    </item>
-    <item>
-      <title>Postdoc position in Zurich available</title>
-      <link>http://homanlab.github.io/blog/2023/02/22/postdoc</link>
-      <description><![CDATA[Postdoc for dense sampling study]]></description>
-      <pubDate>2023-02-22</pubDate>
-      <guid>http://homanlab.github.io/blog/2023/02/22/postdoc</guid>
     </item>
   </channel>
 </rss>
