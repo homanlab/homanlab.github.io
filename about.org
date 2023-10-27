@@ -8,10 +8,9 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Members of the IDP lab
 
-Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the
-Individual Differences in Psychosis (IDP) Lab studies the origins and
-clinical consequences of individual differences in psychotic disorders.
-Interested in working with us? [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][Reach out]].
+Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the Homan
+Lab studies the origins and clinical consequences of heterogeneity in
+psychotic disorders. Interested in working with us?  [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][Reach out]].
 
 * Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
