@@ -13,10 +13,10 @@
 #+ATTR_HTML: :width 200px :title delta
 [[https://homanlab.github.io/media/img/erc_logo.png]]
 
-We are thrilled to announce that Philipp has been awarded a coveted
-ERC Synergy Grant shared with three European partners (Groningen: Iris
+We are thrilled to announce that [[https://homanlab.github.io/philipp/][Philipp]] has been awarded an [[https://erc.europa.eu/news-events/news/erc-2023-synergy-grants-results][ERC
+Synergy Grant]] shared with three European partners (Groningen: Iris
 Sommer, Barcelona: Wolfram Hinzen, Tromsø: Brita Elvevåg). For the
-joint project on language disturbances in psychotic disorders, UZH
+joint project on language disturbances in psychotic disorders, [[https://www.uzh.ch/][UZH]]
 will receive 3 million of the project's 10 million euro total funding.
 
 Read more:
