@@ -1,4 +1,4 @@
-#+TITLE:       About the IDP lab 
+#+TITLE:       About the Homan Lab 
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-29 Sun
@@ -34,22 +34,20 @@ which he joined the faculty as Assistant Professor at the [[https://feinsteinins
 Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in
 New York.
 
-* Ellen Ji, PhD. Postdoc
+* Finn-Lenart Rabe, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/ji.png]]
+[[https://homanlab.github.io/media/img/rabe.png]]
 
-[[https://homanlab.github.io/ellen/][Ellen]] completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
-in Sydney with Profs. Tom and Cyndi Weickert. There, she assessed the 
-effects of adjunctive raloxifene treatment for schizophrenia and 
-examined the relationship between circulating hormones and brain 
-abnormalities in patients. After performing a number of case-control 
-studies, she became particularly interested in understanding 
-heterogeneity among patients. She is currently investigating how 
-inter-individual variability in cognition may be linked to 
-inter-individual differences in brain architecture in psychosis.
+Finn completed his PhD at the Neural Control of Movement Laboratory,
+ETH Zurich with Prof. Nicole Wenderoth. His research focused on
+cortical finger representations and their changes in healthy and
+tetraplegic patients.  His main goals at the Homan Lab are to i)
+identify new biomarkers for psychosis by analysing the brain, eye and
+speech and ii) describing inter-individual temporal changes in
+psychosis using longitudinal studies.
 
-* Wolfgang Omlor, MD, PhD. Resident physician (ad interim)
+* Wolfgang Omlor, MD, PhD. Postdoc/Attending physician 
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/omlor.png]]
@@ -69,7 +67,7 @@ generation of motor symptoms in schizophrenia and obsessive-compulsive
 disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
-* Sophie Schneider, MD. Resident physician
+* Sophie Schneider, MD. Resident physician                         :noexport:
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/schneider.png]]
@@ -83,7 +81,7 @@ in the acute psychiatric inpatient setting, she developed a special
 interest in psychotic disorders and is hoping to gain experience in
 psychiatric research in this field.
 
-* Werner Surbeck MD, PhD. Resident physician
+* Werner Surbeck MD, PhD. Postdoc/Attending physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/surbeck.png]]
@@ -96,7 +94,7 @@ specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
-* Simon Fuchs. Resident physician
+* Simon Fuchs. Resident physician                                  :noexport:
 	
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/fuchs.png]]
@@ -112,7 +110,7 @@ and the impact of hospitalization characteristics on delirium across
 hospital services. His extended research interests comprise
 neurobiological factors in psychotic disorders.
 
-* Nils Kallen, MD. Resident physician
+* Nils Kallen, MD. Postdoc/Resident physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/kallen.png]]
@@ -122,7 +120,7 @@ resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
 
-* Giacomo Cecere, MD. Resident physician
+* Giacomo Cecere, MD. Postdoc/Resident physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/cecere.png]]
@@ -135,7 +133,7 @@ his psychiatry rotations, he has been exposed to patients suffering from
 psychotic disorders, a topic that he hopes to further explore and study
 in depth as his residency progresses.
 
-* Rahel Horisberger, MSc. Psychologist
+* Rahel Horisberger, PhD. Postdoc/Psychologist
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/horisberger.png]]
@@ -165,6 +163,19 @@ question of whether or not patients respond differently to interventions
 Psychopathology and Psychotherapy Group]] she still contributes to the
 IDP Lab with her expertise.
 
+* Akhil Misra, MSc. PhD student
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/misra.png]]
+
+Akhil studied Biology and Data Science at the Indian Institute of
+Science Education and Research, Mohali. After graduating he worked as
+a Research Assistant at Technical University Munich with Valentin
+Riedl. To further pursue his interest in cognitive neuroscience, he is
+now doing my PhD with Philipp at the Homan Lab. In his project he will
+mainly focus on dense sampling techniques to elucidate the nuanced
+interpatient variability in schizophrenia.
+
 * Noemi Dannecker, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
@@ -184,6 +195,21 @@ implement her own project idea within the framework of an [[http://www.snf.ch/en
 fellowship]] which will support her PhD for the entire period of four
 years.
 
+* Janani Panchalingam, Master student
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/panchalingam.png]]
+  
+Janani completed her bachelor's in Psychology with a minor in
+Biomedicine and she is currently completing her master's in Psychology
+at the University of Zurich. She gained experience in two internships,
+one in the field of eating disorders at the Privat Clinic Aadorf and
+the other in early psychosis at the Psychiatric University Hospital of
+Zurich. At the moment, she is working on her master's thesis
+/Adherence in patients with acute psychosis: Analysis of the
+influencing factors in a psychotherapy study with Motivational
+Interviewing/ within the MIA-study.
+
 * Marius Brandenberg, Master student
 
 #+ATTR_HTML: :width 200px
@@ -197,6 +223,7 @@ Zurich. Marius is now working on his master thesis in the [[https://homanlab.git
 project]], together with [[https://homanlab.github.io/noemi/][Noemi]] as his mentor, where he focuses on
 cognitive correlates of the schizotypy dimensions.
 
+* Anna Steiner, Research assistant
 * Alba Lopez, Research intern
 
 #+ATTR_HTML: :width 200px

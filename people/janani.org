@@ -1,4 +1,4 @@
-#+TITLE:       Janani Panchalingam. Research assistant
+#+TITLE:       Janani Panchalingam. Master student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-08 Tue 
