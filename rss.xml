@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Homan Lab</description>
-    <pubDate>Fri, 27 Oct 2023 14:28:06 CEST</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2023 14:28:06 CEST</lastBuildDate>
+    <pubDate>Fri, 27 Oct 2023 14:41:28 CEST</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2023 14:41:28 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Contact us</title>
+      <link>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</link>
+      <description><![CDATA[How to reach us ]]></description>
+      <pubDate>2023-10-27</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
+    </item>
     <item>
       <title>ERC Synergy Grant</title>
       <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Homanlab has several openings for new projects]]></description>
       <pubDate>2023-06-09</pubDate>
       <guid>http://homanlab.github.io/blog/2023/03/21/jobs</guid>
-    </item>
-    <item>
-      <title>Sophie Schneider, MD. Resident physician (alumna)</title>
-      <link>http://homanlab.github.io/people/2019/10/06/sophie-schneider-md</link>
-      <description><![CDATA[Psychiatry resident]]></description>
-      <pubDate>2023-03-03</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/06/sophie-schneider-md</guid>
     </item>
   </channel>
 </rss>
