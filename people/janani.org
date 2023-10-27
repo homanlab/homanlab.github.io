@@ -1,0 +1,32 @@
+#+TITLE:       Janani Panchalingam. Research assistant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/janani-panchalingam
+#+KEYWORDS:    lab, janani, contact, cv
+#+TAGS:        lab, janani, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Research assistant
+#+AVATAR:      https://homanlab.github.io/media/img/panchalingam.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/panchalingam.png]]
+
+Janani completed her bachelor's in Psychology with a minor in
+Biomedicine and she is currently completing her master's in Psychology
+at the University of Zurich. She gained experience in two internships,
+one in the field of eating disorders at the Privat Clinic Aadorf and
+the other in early psychosis at the Psychiatric University Hospital of
+Zurich. At the moment, she is working on her master's thesis
+/Adherence in patients with acute psychosis: Analysis of the
+influencing factors in a psychotherapy study with Motivational
+Interviewing/ within the MIA-study.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: janani.panchalingam@uzh.ch
+
+	
+

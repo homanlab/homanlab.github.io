@@ -1,7 +1,7 @@
-#+TITLE:       Ellen Ji, PhD. Postdoc
+#+TITLE:       Ellen Ji, PhD. Postdoc (Alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/ellen-ji-phd
 #+KEYWORDS:    lab, ellen, contact, cv
 #+TAGS:        lab, ellen, contact, cv
@@ -13,18 +13,17 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/ji.png]]
 
-Ellen completed her PhD at the Schizophrenia Research Laboratory, NeuRA 
-in Sydney with Profs. Tom and Cyndi Weickert. There, she assessed the 
-effects of adjunctive raloxifene treatment for schizophrenia and 
-examined the relationship between circulating hormones and brain 
-abnormalities in patients. After performing a number of case-control 
-studies, she became particularly interested in understanding 
-heterogeneity among patients. She is currently investigating how 
-inter-individual variability in cognition may be linked to 
+Ellen completed her PhD at the Schizophrenia Research Laboratory,
+NeuRA in Sydney with Profs. Tom and Cyndi Weickert. There, she
+assessed the effects of adjunctive raloxifene treatment for
+schizophrenia and examined the relationship between circulating
+hormones and brain abnormalities in patients. After performing a
+number of case-control studies, she became particularly interested in
+understanding heterogeneity among patients. She investigated how
+inter-individual variability in cognition may be linked to
 inter-individual differences in brain architecture in psychosis.
 
-
-** Recent publications
+** Publications
 - Ji et al. 2020, Psychoneuroendocrinology [[[https://doi.org/10.1016/j.psyneuen.2020.104916][link]]]
 - Homan S. et al. 2020, Neuroscience & Biobehavioral Reviews [[[https://doi.org/10.1101/2020.05.02.20088831][link]]]
 - Berkovitch et al. 2020, Journal of Neuroscience [[[https://doi.org/10.1523/JNEUROSCI.0945-20.2020][link]]]
@@ -40,7 +39,7 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=ji+e][here]] for full list
 - 2nd Place, UNSW Medicine 3 Minute Thesis Competition (2015)
 - Postgraduate Research Travel Award (2014)
 
-** Contact
+** Contact                                                         :noexport:
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)44 384 21 11
 - E-mail: ellen.ji@uzh.ch

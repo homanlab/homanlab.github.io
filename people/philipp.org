@@ -15,15 +15,15 @@
 
 [[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
 Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]]
-at the British Journal of Psychiatry. Philipp is Vicedirector and
-Chief Physician (Stv. Klinikdirektor und Chefarzt) at the University
-Hospital and Principal Investigator of the IDP Lab where he is lucky
-to work with a wonderful group of [[https://homanlab.github.io/people/][talented people]]. Philipp studied
-business and computer science at the [[https://tuwien.ac.at/en/][Technical University]] and medicine
-at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He completed his residency in
-psychiatry (with Werner Strik) as well as a PhD in clinical
-neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of Bern]] in
-Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
+at the British Journal of Psychiatry and BMC Medicine. Philipp is
+Vicedirector and Chief Physician (Stv. Klinikdirektor und Chefarzt) at
+the University Hospital and Principal Investigator of the IDP Lab
+where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
+people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
+University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
+completed his residency in psychiatry (with Werner Strik) as well as a
+PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
+Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
 Hospital]] and also led the Brain Stimulation Unit. He then did a two
 year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after
 which he joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein
@@ -37,15 +37,15 @@ New York.
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
 ** Preprints
-- Neumeier et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.07.27.20162727v2][link]]]
-- Winkelbeiner et al. 2020, MedRxiv [[[https://www.medrxiv.org/content/10.1101/2020.05.02.20088831v1][link]]]
-- Homan et al. 2019, bioRxiv [[[https://www.biorxiv.org/content/10.1101/626663v2][link]]]
+- Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
 
 ** Editorials and essays
+- Homan 2023, MERKUR [[[https://volltext.merkur-zeitschrift.de/article/99.120210/mr-77-6-81][link]]]
 - Homan & Kane 2018, Acta Psychiatrica Scandinavica [[[https://onlinelibrary.wiley.com/doi/full/10.1111/acps.12965][link]]]
 - Homan & Schiller 2016, Current Biology [[[https://www.cell.com/current-biology/fulltext/S0960-9822(16)30981-2?_returnURL=https%253A%252F%252Flinkinghub.elsevier.com%252Fretrieve%252Fpii%252FS0960982216309812%253Fshowall%253Dtrue][link]]]
 
 ** Media and outreach
+- [[https://magazin.nzz.ch/nzz-am-sonntag/wissen/wie-ki-bei-der-erfassung-psychischer-krankheiten-helfen-koennte-ld.1741348?reduced=true][Essay]] on [[https://magazin.nzz.ch/nzz-am-sonntag/wissen/wie-ki-bei-der-erfassung-psychischer-krankheiten-helfen-koennte-ld.1741348?reduced=true][language and psychosis]]. NZZ am Sonntag 2023.
 - [[https://www.dropbox.com/s/b6xz9woenja67i6/srf_tagesschau_070820_clip.mp4?dl=0][TV interview]] about [[https://www.srf.ch/kultur/film-serien/loulou-eine-doku-ueber-verrueckte-von-einem-verrueckten][documentary on psychosis]]. SRF Tagesschau 2020.
 - [[https://www.dropbox.com/s/4q1ukyvpiowuze1/NZZ2020.pdf?dl=0][Comment on new drug lumataperone]]. NZZ 2020.
 - [[https://www.dropbox.com/s/q0u67aqz10pjvl0/oe1_journalum8_20181228.mp3?dl=0][Radio interview]] about [[https://science.orf.at/stories/2954096/][traumatic memories]]. ORF 2018.
@@ -100,7 +100,7 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 
 ** Contact
 #+ATTR_HTML: :target _blank
-- Phone: +41 (0)44 384 21 11
+- Phone: +41 (0)58 384 33 65
 - E-mail: philipp.homan@bli.uzh.ch
 - Twitter: [[https://twitter.com/philipphoman][@philipphoman]]
 - LinkedIn: [[https://www.linkedin.com/in/philipp-homan-832223188/][philipp-homan]]
