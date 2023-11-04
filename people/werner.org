@@ -1,4 +1,4 @@
-#+TITLE:       Werner Surbeck, MD, PhD. Resident physician
+#+TITLE:       Werner Surbeck, MD, PhD. Postdoc/Attending physician
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
