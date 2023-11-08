@@ -38,5 +38,3 @@ psychosis using longitudinal studies.
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)58 384 21 11
 - E-mail: finn.rabe@bli.uzh.ch
-
-	
