@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>IDP Lab Zurich</title>
+    <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
-    <description>Individual Differences in Psychosis</description>
-    <pubDate>Sat, 04 Nov 2023 17:04:14 CET</pubDate>
-    <lastBuildDate>Sat, 04 Nov 2023 17:04:14 CET</lastBuildDate>
+    <description>Homan Lab</description>
+    <pubDate>Wed, 08 Nov 2023 08:41:10 CET</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2023 08:41:10 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Finn-Lennart Rabe, PhD, Postdoc </title>
+      <link>http://homanlab.github.io/people/2019/10/11/finn-rabe-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2023-11-08</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/finn-rabe-phd</guid>
+    </item>
     <item>
       <title>Akhil Misra, PhD student</title>
       <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
@@ -63,13 +70,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2023-10-27</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/06/ellen-ji-phd</guid>
-    </item>
-    <item>
-      <title>Finn-Lennart Rabe, PhD, Postdoc </title>
-      <link>http://homanlab.github.io/people/2019/10/11/finn-rabe-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2023-10-27</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/finn-rabe-phd</guid>
     </item>
     <item>
       <title>Janani Panchalingam. Master student</title>
