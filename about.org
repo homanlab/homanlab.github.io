@@ -10,7 +10,7 @@
 
 Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the Homan
 Lab studies the origins and clinical consequences of heterogeneity in
-psychotic disorders. Interested in working with us?  [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][Reach out]].
+psychotic disorders. Interested in working with us? Please [[https://homanlab.github.io/blog/2019/09/30/how-to-contact-us/][read here]].
 
 * Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
