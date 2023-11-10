@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Homan Lab</description>
-    <pubDate>Wed, 08 Nov 2023 08:42:50 CET</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2023 08:42:50 CET</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2023 10:20:38 CET</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 10:20:38 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Working with us</title>
+      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
+      <description><![CDATA[How to apply ]]></description>
+      <pubDate>2023-11-10</pubDate>
+      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
+    </item>
     <item>
       <title>ERC Synergy Grant</title>
       <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2023-10-27</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/06/ellen-ji-phd</guid>
-    </item>
-    <item>
-      <title>Janani Panchalingam. Master student</title>
-      <link>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</link>
-      <description><![CDATA[Research assistant]]></description>
-      <pubDate>2023-10-27</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</guid>
     </item>
   </channel>
 </rss>
