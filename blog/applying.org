@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2023-10-27 Fri
-#+URI:         /blog/%y/%m/%d/ercsynergy
+#+URI:         /blog/2019/10/20/applying
 #+KEYWORDS:    application, job, lab, cv  
 #+TAGS:        application, job, lab, cv  
 #+LANGUAGE:    en
