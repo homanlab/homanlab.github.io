@@ -1,0 +1,27 @@
+#+TITLE:       Working with us
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2023-10-27 Fri
+#+URI:         /blog/%y/%m/%d/ercsynergy
+#+KEYWORDS:    application, job, lab, cv  
+#+TAGS:        application, job, lab, cv  
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: How to apply 
+#+AVATAR:      https://homanlab.github.io/media/img/striatum.png
+
+#+ATTR_HTML: :width 200px :title delta
+[[https://homanlab.github.io/media/img/striatum.png]]
+
+We are always interested in hearing from people who are interested in
+working with us. While we may not always have an immediate open
+position, there are often prospective openings that could be relevant.
+
+In general, having an idea of the sort of research you are interested
+in is important so that we can assess whether your interests are
+aligned with what we do. Hence, *please describe as specifically as
+possible what you would like to do*. Skills that we are particularly
+interested in are computational modeling and computational
+linguistics, functional neuroimaging and knowledge in experimental
+designs.
+
