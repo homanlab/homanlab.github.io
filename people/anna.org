@@ -1,0 +1,30 @@
+#+TITLE:       Anna Steiner. Research assistant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Thu
+#+URI:         /people/%y/%m/%d/anna-steiner
+#+KEYWORDS:    lab, anna, contact, cv
+#+TAGS:        lab, anna, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Anna Steiner, research assistant
+#+AVATAR:      https://homanlab.github.io/media/img/steiner.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/steiner.jpg]]
+
+As a research assistant in the Homan Lab, Anna organises and
+coordinates the day-to-day running of the [[https://homanlab.github.io/velas/][VELAS project]], which focuses
+on semantic processing in the psychosis spectrum. She is also
+completing her Master's degree in Applied Psychology at the ZHAW. Anna
+previously worked in architectural offices for several years before
+starting her second career in psychology. In her work, Anna
+contributes her organisational skills and gains valuable knowledge and
+experience in the field of psychological research.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 2111
+- E-mail: anna.steiner@uzh.ch
+
+	

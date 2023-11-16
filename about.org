@@ -230,6 +230,20 @@ project]], together with [[https://homanlab.github.io/noemi/][Noemi]] as his men
 cognitive correlates of the schizotypy dimensions.
 
 * Anna Steiner, Research assistant
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/steiner.jpg]]
+
+As a research assistant in the Homan Lab, Anna organises and
+coordinates the day-to-day running of the [[https://homanlab.github.io/velas/][VELAS project]], which focuses
+on semantic processing in the psychosis spectrum. She is also
+completing her Master's degree in Applied Psychology at the ZHAW. Anna
+previously worked in architectural offices for several years before
+starting her second career in psychology. In her work, Anna
+contributes her organisational skills and gains valuable knowledge and
+experience in the field of psychological research.
+
+
 * Alba Lopez, Research intern
 
 #+ATTR_HTML: :width 200px
