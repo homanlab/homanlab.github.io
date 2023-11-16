@@ -13,8 +13,8 @@ Lab studies the origins and clinical consequences of heterogeneity in
 psychotic disorders. Interested in working with us? Please
 [[https://homanlab.github.io/blog/2019/10/20/applying][read here]].
 
-
-* Prof. Philipp Homan, MD, PhD. Principal investigator
+** Current members
+*** Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/homanp.png]]
 
@@ -35,7 +35,7 @@ which he joined the faculty as Assistant Professor at the [[https://feinsteinins
 Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in
 New York.
 
-* Finn-Lenart Rabe, PhD. Postdoc
+*** Finn-Lenart Rabe, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/rabe.png]]
@@ -48,7 +48,7 @@ identify new biomarkers for psychosis by analysing the brain, eye and
 speech and ii) describing inter-individual temporal changes in
 psychosis using longitudinal studies.
 
-* Wolfgang Omlor, MD, PhD. Postdoc/Attending physician 
+*** Wolfgang Omlor, MD, PhD. Postdoc/Attending physician 
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/omlor.png]]
@@ -68,21 +68,7 @@ generation of motor symptoms in schizophrenia and obsessive-compulsive
 disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
-* Sophie Schneider, MD. Resident physician                         :noexport:
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/schneider.png]]
-
-Sophie received her medical degree at Ludwig-Maximilians-University in
-Munich. For her dissertation she conducted clinical research in
-palliative medicine focusing on assessment of palliative care needs in
-oncological patients. Currently she is a second year resident at the
-psychiatric university clinic. During her residency training, so far
-in the acute psychiatric inpatient setting, she developed a special
-interest in psychotic disorders and is hoping to gain experience in
-psychiatric research in this field.
-
-* Werner Surbeck MD, PhD. Postdoc/Attending physician
+*** Werner Surbeck MD, PhD. Postdoc/Attending physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/surbeck.png]]
@@ -95,23 +81,7 @@ specialty training in psychiatry and is involved in research projects in
 the field of brain-based semantic processing abnormalities in
 schizophrenia spectrum disorders.
 
-* Simon Fuchs. Resident physician                                  :noexport:
-	
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/fuchs.png]]
-
-[[https://homanlab.github.io/simon/][Simon]] studied medicine at the University of Zurich (UZH). He started his
-specialty training at the department of Consultation-Liaison-Psychiatry
-and Psychosomatic Medicine at the University Hospital Zurich (USZ) and
-is currently a resident at the Psychiatric University Clinic Zurich
-(PUK). He worked as a clinical scientist (USZ, UZH) for an ongoing
-multi-center study focussing on psychiatric and psychosocial aspects of
-brain tumors. His dissertation focusses on the prevalence of delirium
-and the impact of hospitalization characteristics on delirium across
-hospital services. His extended research interests comprise
-neurobiological factors in psychotic disorders.
-
-* Nils Kallen, MD. Postdoc/Resident physician
+*** Nils Kallen, MD. Postdoc/Resident physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/kallen.png]]
@@ -121,7 +91,7 @@ resident in psychiatry at the University Hospital of Psychiatry in
 Zurich and is interested in biomarkers of central system abnormalities
 that may predict conversion to psychosis in high risk subjects.
 
-* Giacomo Cecere, MD. Postdoc/Resident physician
+*** Giacomo Cecere, MD. Postdoc/Attending physician
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/cecere.png]]
@@ -134,7 +104,7 @@ his psychiatry rotations, he has been exposed to patients suffering from
 psychotic disorders, a topic that he hopes to further explore and study
 in depth as his residency progresses.
 
-* Rahel Horisberger, PhD. Postdoc/Psychologist
+*** Rahel Horisberger, PhD. Postdoc/Senior psychologist
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/horisberger.png]]
@@ -149,22 +119,8 @@ development of brief psychotherapeutic interventions for psychotic
 disorders in the context of acute inpatient treatment forms the extended
 focus of her research interest.
 
-* Stephanie Homan, PhD. Postdoc
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/homans.png]]
-
-[[https://homanlab.github.io/stephanie/][Stephanie]] completed her PhD at the University of Bern in 2019 and
-currently works as a postdoc and psychologist at the University Hospital
-of Psychiatry. As a clinician researcher, she is interested in the
-question of whether or not patients respond differently to interventions
-(antipsychotics, brain stimulation, psychotherapy). While Stephanie's
-[[https://www.psychologie.uzh.ch/de/bereiche/hea/expsy/team/winkelbeiner.html][primary affilition]] is with [[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Birgit Kleim]] and the
-[[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Experimental
-Psychopathology and Psychotherapy Group]] she still contributes to the
-IDP Lab with her expertise.
-
-* Akhil Misra, MSc. PhD student
+*** Foivos Georgiadis, MD. MD-PhD student/Resident physician
+*** Akhil Misra, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/misra.png]]
@@ -177,12 +133,12 @@ now doing my PhD with Philipp at the Homan Lab. In his project he will
 mainly focus on dense sampling techniques to elucidate the nuanced
 interpatient variability in schizophrenia.
 
-* Roya Hüppi, MSc. PhD student
+*** Roya Hüppi, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/hueppi.png]]
 
-* Noemi Dannecker, MSc. PhD student
+*** Noemi Dannecker, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/dannecker.png]]
@@ -201,7 +157,7 @@ implement her own project idea within the framework of an [[http://www.snf.ch/en
 fellowship]] which will support her PhD for the entire period of four
 years.
 
-* Janani Panchalingam, Master student
+*** Janani Panchalingam, Master student
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/panchalingam.png]]
@@ -216,20 +172,7 @@ Zurich. At the moment, she is working on her master's thesis
 influencing factors in a psychotherapy study with Motivational
 Interviewing/ within the MIA-study.
 
-* Marius Brandenberg, Master student
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/brandenberg.png]]
-  
-Marius is completing his master's in clinical psychology and
-psychotherapy at the University of Bern. He is particularly interested
-in psychotic disorders and has completed a clinical internship on the
-[[https://www.pukzh.ch/unsere-angebote/erwachsenenpsychiatrie/angebote/stationaere-angebote/frueherkennung-und-behandlung-von-psychosen/][early psychosis unit F2]] at the University Hospital of Psychiatry in
-Zurich. Marius is now working on his master thesis in the [[https://homanlab.github.io/velas/][VELAS
-project]], together with [[https://homanlab.github.io/noemi/][Noemi]] as his mentor, where he focuses on
-cognitive correlates of the schizotypy dimensions.
-
-* Anna Steiner, Research assistant
+*** Anna Steiner, Research assistant
 
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/steiner.jpg]]
@@ -243,48 +186,34 @@ starting her second career in psychology. In her work, Anna
 contributes her organisational skills and gains valuable knowledge and
 experience in the field of psychological research.
 
-
-* Alba Lopez, Research intern
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lopez.png]]
-
-Alba is doing her master's in psychology at the University of
-Zurich. She has already gained first clinical experience in the field
-of autism spectrum disorder and is now doing a research internship in
-the [[https://homanlab.github.io/velas/][VELAS project]], which focuses on semantic processing in the
-psychosis spectrum. Alba is particularly interested in
-neuropsychological research and hopes to deepen her previous knowledge
-and link it to the broad spectrum of psychotic disorders.
-
-* Ueli Stocker, Research intern 
-
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/stocker.png]]
-
-Ueli completed his bachelor's in psychology and comparative literature
-at the University of Zurich and Freie Universität Berlin. During his
-studies he developed a strong interest in the relationship between
-language, thought and perception, which finally culminated in his
-bachelor's thesis about the Sapir-Worth hypothesis and a tutorial at
-the neurolinguistic department at the University of Zurich. After his
-bachelor's Ueli completed a clinical internship at the University
-Hospital of Psychiatry in Zurich, where he encountered language
-impairments in psychotic disorders. His position as a research intern
-in the [[https://homanlab.github.io/velas/][VELAS study]] enables Ueli to gain experience in linguistic
-aspects of psychiatric research.
+** Alumni
+- Simon Fuchs. Resident physician                                  
+- Marius Brandenberg, Master student
+- Stephanie Homan, PhD. Postdoc
+- Alba Lopez, Research intern
+- Ueli Stocker, Research intern 
 
 * External collaborators
-- [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
-- [[http://www.psykl.mri.tum.de/evidenzbasierte-psychiatrie][Stefan Leucht]], MD. TU Munich
+** Current:
+# - [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
+- Iris Sommer, MD, PhD. UMC Groningen
+- Brita Elvevåg, PhD. UiT Tromsø
+- Wolfram Hinzen, PhD. UPF Barcelona
+- Stefan Kaiser, MD. University of Geneva
+- Matthias Kirschner, MD. University of Geneva
+- Emre Bora, MD. Dokuz Eylul University, Turkey 
+- Filip Spaniel, MD. National Institute of Mental Health, Czech Republic
+- David Cotter, MD and Mary Cannon, MD. Royal College of Surgeons, Ireland
+- [[https://www.psychology.uzh.ch/en/areas/nec/plafor/team/Head-of-Discipline/Langer.html][Nicolas Langer]], PhD. University of Zurich
 - [[https://feinstein.northwell.edu/institutes-researchers/our-researchers/john-m-kane-md][John Kane]], MD. Zucker Hillside Hospital, NY
+- [[http://www.psykl.mri.tum.de/evidenzbasierte-psychiatrie][Stefan Leucht]], MD. TU Munich
+
+** Former:
 - [[https://medicine.yale.edu/lab/decision/][Ifat Levy]], PhD. Yale University
 - [[https://medicine.yale.edu/lab/harpazrotem/][Ilan Harpaz-Rotem]], PhD. Yale University
 - [[https://people.wgtn.ac.nz/david.podhortzercarmel][David Carmel]], PhD. University of Wellington
 - [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]], PhD. Mount Sinai, NY
 - [[https://nordic.cochrane.org/our-centre/nordic-cochrane-centre/our-team][Klaus Munkholm]], MD, DMSc. Nordic Cochrane Centre, Denmark
 - [[https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/6316/9b1e3][Chantal Martin Soelch]], PhD. University of Fribourg, CH
-- [[https://ch.linkedin.com/in/daniel-umbricht-8676a214][Daniel Umbricht]], MD. F. Hoffmann - La Roche Ltd.
-- [[https://www.psychology.uzh.ch/en/areas/nec/plafor/team/Head-of-Discipline/Langer.html][Nicolas Langer]], PhD. University of Zurich
 - [[https://www.rehazentrum-valens.ch/ueber-uns/organisation/][Peter Brugger]], PhD. University of Zurich
 
