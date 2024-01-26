@@ -13,6 +13,7 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph2.png]]
 
+
 [[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
 Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]]
 at the British Journal of Psychiatry and BMC Medicine. Philipp is
