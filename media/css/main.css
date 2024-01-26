@@ -452,18 +452,29 @@ table th.right, table td.right {
 
   body {
       padding: 10px;
-      font-size: 22px;
-  }
-
-  .masthead {
-      font-size: 25px;
-  }
-
-  .masthead h1 {
       font-size: 30px;
   }
 
+  .masthead {
+      font-size: 35px;
+  }
+
+  .masthead h1 {
+      font-size: 40px;
+  }
+
+  .masthead h2 {
+      font-size: 35px;
+  }
+
+  .masthead li {
+      font-size: 32px;
+  }
+
 }
+
+
+
 
 /*
 @media (min-width: 768px) {
