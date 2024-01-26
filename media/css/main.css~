@@ -57,7 +57,8 @@ h1, h2, h3 {
 h1:before, h2:before, h3:before {
     position: absolute;
     top: auto;
-    color: #ccc;
+    /*color: #ccc; */
+    color: #4678c4;
     display: none;
 }
 h1:before {
@@ -94,6 +95,7 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
+    color: #4678c4;
     color: #ccc;
 }
 ul, ol {
@@ -140,7 +142,8 @@ img {
 a {
     font-weight: inherit;
     line-height: inherit;
-    color: #000;
+    color: #000; 
+    /*text-decoration: none;*/
     text-decoration: none;
 }
 sup a:before {
@@ -183,6 +186,7 @@ table th.right, table td.right {
     content: '----------------------------------------------------------------';
     margin: 10px 0;
     font-size: 18px;
+    color: #4678c4;
     color: #ccc;
 }
 .masthead a {
@@ -247,6 +251,7 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
+    color: #4678c4;
     color: #ccc;
 }
 .post img {
@@ -292,6 +297,7 @@ table th.right, table td.right {
     content: "----------------------------------------------------------------";
     display: block;
     margin-top: -1px;
+    color: #4678c4;
     color: #ccc;
 }
 
