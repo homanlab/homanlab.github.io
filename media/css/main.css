@@ -451,9 +451,13 @@ table th.right, table td.right {
 @media (min-width: 320px) {
 
   body {
-      padding: 10px;
+      padding: 2px;
       font-size: 30px;
   }
+
+  h1, h2, h3 {
+      font-size: 30px;
+  } 
 
   .masthead {
       font-size: 35px;
@@ -468,9 +472,8 @@ table th.right, table td.right {
   }
 
   .masthead li {
-      font-size: 32px;
+      font-size: 30px;
   }
-
 }
 
 
