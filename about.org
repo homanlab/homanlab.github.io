@@ -1,4 +1,4 @@
-#+TITLE:       About the Homan Lab 
+#+TITLE:       About the lab 
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-29 Sun
@@ -10,13 +10,13 @@
 
 Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the Homan
 Lab studies the origins and clinical consequences of heterogeneity in
-psychotic disorders. Interested in working with us? Please
-[[https://homanlab.github.io/blog/2019/10/20/applying][read here]].
+psychotic disorders. Interested in working with us? Please start by
+[[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
 
-** Current members
+** Current members                                                 :noexport:
 *** Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/homanp.png]]
+[[../media/img/homanp.png]]
 
 [[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
 Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]]
@@ -38,7 +38,7 @@ New York.
 *** Finn-Lenart Rabe, PhD. Postdoc
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/rabe.png]]
+[[../media/img/rabe.png]]
 
 Finn completed his PhD at the Neural Control of Movement Laboratory,
 ETH Zurich with Prof. Nicole Wenderoth. His research focused on
@@ -51,7 +51,7 @@ psychosis using longitudinal studies.
 *** Wolfgang Omlor, MD, PhD. Postdoc/Attending physician 
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/omlor.png]]
+[[../media/img/omlor.png]]
 
 [[https://homanlab.github.io/wolfgang/][Wolfgang]] studied medicine at the University of Tuebingen and as fellow
 of the German Academic Scholarship Foundation at Harvard Medical School
@@ -71,7 +71,7 @@ imaging tools in mice.
 *** Werner Surbeck MD, PhD. Postdoc/Attending physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/surbeck.png]]
+[[../media/img/surbeck.png]]
 
 [[https://homanlab.github.io/werner/][Werner]] studied medicine at the University of Zurich. After his training
 in neurosurgery, he specialized in epilepsy surgery and functional
@@ -84,7 +84,7 @@ schizophrenia spectrum disorders.
 *** Nils Kallen, MD. Postdoc/Resident physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/kallen.png]]
+[[../media/img/kallen.png]]
 
 [[https://homanlab.github.io/nils/][Nils]] studied medicine at the University of Bern. He is currently a
 resident in psychiatry at the University Hospital of Psychiatry in
@@ -94,7 +94,7 @@ that may predict conversion to psychosis in high risk subjects.
 *** Giacomo Cecere, MD. Postdoc/Attending physician
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/cecere.png]]
+[[../media/img/cecere.png]]
 
 [[https://homanlab.github.io/giacomo/][Giacomo]] was born in Rome, Italy. He received his medical degree from
 Campus Bio-Medico University of Rome before moving to
@@ -107,7 +107,7 @@ in depth as his residency progresses.
 *** Rahel Horisberger, PhD. Postdoc/Senior psychologist
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/horisberger.png]]
+[[../media/img/horisberger.png]]
 
 [[https://homanlab.github.io/rahel/][Rahel]] studied Clinical Psychology, Biology and Art History at the
 University of Zurich. She works as a clinical psychologist and
@@ -123,7 +123,7 @@ focus of her research interest.
 *** Akhil Misra, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/misra.png]]
+[[../media/img/misra.png]]
 
 Akhil studied Biology and Data Science at the Indian Institute of
 Science Education and Research, Mohali. After graduating he worked as
@@ -136,12 +136,12 @@ interpatient variability in schizophrenia.
 *** Roya Hüppi, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/hueppi.png]]
+[[../media/img/hueppi.png]]
 
 *** Noemi Dannecker, MSc. PhD student
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/dannecker.png]]
+[[../media/img/dannecker.png]]
 
 [[https://homanlab.github.io/noemi/][Noemi]] studied psychology and biology at the University of
 Zurich. After working as a clinical neuropsychologist at the
@@ -160,7 +160,7 @@ years.
 *** Janani Panchalingam, Master student
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/panchalingam.png]]
+[[../media/img/panchalingam.png]]
   
 Janani completed her bachelor's in Psychology with a minor in
 Biomedicine and she is currently completing her master's in Psychology
@@ -175,7 +175,7 @@ Interviewing/ within the MIA-study.
 *** Anna Steiner, Research assistant
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/steiner.jpg]]
+[[../media/img/steiner.jpg]]
 
 As a research assistant in the Homan Lab, Anna organises and
 coordinates the day-to-day running of the [[https://homanlab.github.io/velas/][VELAS project]], which focuses
@@ -186,7 +186,7 @@ starting her second career in psychology. In her work, Anna
 contributes her organisational skills and gains valuable knowledge and
 experience in the field of psychological research.
 
-** Alumni
+** Alumni                                                          :noexport:
 - Simon Fuchs. Resident physician                                  
 - Marius Brandenberg, Master student
 - Stephanie Homan, PhD. Postdoc
