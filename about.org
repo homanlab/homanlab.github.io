@@ -13,7 +13,6 @@ Lab studies the origins and clinical consequences of heterogeneity in
 psychotic disorders. Interested in working with us? Please start by
 [[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
 
-
 ** Current members                                                 :noexport:
 *** Prof. Philipp Homan, MD, PhD. Principal investigator
 #+ATTR_HTML: :width 200px
