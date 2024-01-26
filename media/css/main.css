@@ -337,7 +337,7 @@ table th.right, table td.right {
 .post ul > li:before {
     content: "- ";
     margin-left: 0em;
-    color: #ccc;
+    color: black;
 }
 .post ol {
     counter-reset: o-list;
