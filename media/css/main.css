@@ -447,7 +447,7 @@ table th.right, table td.right {
 
 /* Responsive
    -------------------------------------------------- */
-@media (min-width: 320px) and (max-width: 800px){
+@media (max-width: 600px){
 
   body {
       padding: 0px;
