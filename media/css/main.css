@@ -448,10 +448,10 @@ table th.right, table td.right {
 /* Responsive
    -------------------------------------------------- */
 
-@media (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 800px){
 
   body {
-      padding: 2px;
+      padding: 0px;
       font-size: 30px;
   }
 
@@ -475,9 +475,6 @@ table th.right, table td.right {
       font-size: 30px;
   }
 }
-
-
-
 
 /*
 @media (min-width: 768px) {
