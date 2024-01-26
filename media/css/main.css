@@ -448,6 +448,16 @@ table th.right, table td.right {
 /* Responsive
    -------------------------------------------------- */
 
+@media (min-width: 320px) and (max-width: 999px) {
+
+  // Mobile and tablet CSS
+  body {
+      padding: 10px;
+      font-size: 22px;
+  }
+
+}
+
 @media (min-width: 768px) {
     /* Increase body padding and font-sizes */
     body {
