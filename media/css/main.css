@@ -212,7 +212,7 @@ table th.right, table td.right {
 .masthead {
     color: #ccc;
     color: #666;
-    font-size: 20px;
+    font-size: 22px;
     text-transform: lowercase;
     text-transform: uppercase;
     background-color: #f9f9f9;
@@ -238,7 +238,7 @@ table th.right, table td.right {
 }
 .masthead li {
     display: inline-block;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
 }
 .masthead li + li:before {
@@ -253,7 +253,7 @@ table th.right, table td.right {
 }
 
 .masthead h1 {
-    font-size: 20px;
+    font-size: 22px;
     color: #000000;
     font-weight: bold;
 }
@@ -261,7 +261,7 @@ table th.right, table td.right {
 .masthead h2 {
     font-variant: small-caps;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 2px;
     color: #666;
     color: #4678c4;
