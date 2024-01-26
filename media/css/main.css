@@ -39,8 +39,8 @@ body {
     font-family: Avenir, Arial;
     font-size: 14px;
     line-height: 1.5;
-    color: #666;
-    background-color: #fff;
+    color: gray;
+    background-color: white;
 }
 p {
     margin: 0 0 20px;
@@ -174,7 +174,7 @@ img {
 a {
     font-weight: inherit;
     line-height: inherit;
-    color: #000; 
+    color: black; 
     /*text-decoration: none;*/
     text-decoration: none;
 }
@@ -262,6 +262,7 @@ table th.right, table td.right {
     font-variant: small-caps;
     font-weight: normal;
     font-size: 16px;
+    letter-spacing: 2px;
     color: #666;
     color: #4678c4;
     color: #CCC;
