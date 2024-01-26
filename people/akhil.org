@@ -22,6 +22,7 @@ mainly focus on dense sampling techniques to elucidate the nuanced
 interpatient variability in schizophrenia.
 
 
+
 ** Recent publications
 
 ** Prizes, awards, fellowships                                     :noexport:
