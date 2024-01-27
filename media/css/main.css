@@ -449,29 +449,30 @@ table th.right, table td.right {
    -------------------------------------------------- */
 @media only screen and (max-device-width : 720px) {
 
-  body {
-      padding: 0px;
-      font-size: 30px;
+  html, body {
+      padding: 0;
+      margin: 0;
+      font-size: 35px;
   }
 
   h1, h2, h3 {
-      font-size: 30px;
+      font-size: 40px;
   } 
 
   .masthead {
-      font-size: 35px;
-  }
-
-  .masthead h1 {
       font-size: 40px;
   }
 
+  .masthead h1 {
+      font-size: 45px;
+  }
+
   .masthead h2 {
-      font-size: 35px;
+      font-size: 40px;
   }
 
   .masthead li {
-      font-size: 30px;
+      font-size: 40px;
   }
 }
 
