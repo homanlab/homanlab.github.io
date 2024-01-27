@@ -455,6 +455,12 @@ table th.right, table td.right {
       font-size: 35px;
   }
 
+  .container {
+      margin: 0 auto;
+      max-width: 800px;
+  }
+
+
   h1, h2, h3 {
       font-size: 40px;
   } 
