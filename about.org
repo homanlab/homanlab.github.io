@@ -10,8 +10,9 @@
 #+AVATAR:      https://homanlab.github.io/media/img/tromso.png
 
 #+ATTR_HTML: :width 400px
-#+CAPTION: Tromsø, Norway, Jan 2024
+# CAPTION: Tromsø, Norway, Jan 2024
 [[https://homanlab.github.io/media/img/tromso.png]]
+#+HTML: <p>Tromsø, Norway, Jan 2024</p>
 
 Established in 2020 after [[https://homanlab.github.io/philipp][Philipp]] had moved from NYC to Zurich and
 affiliated with the [[https://dppp.uzh.ch/][Department of Psychiatry and Psychotherapy]] at the
