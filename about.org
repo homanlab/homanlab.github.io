@@ -10,7 +10,6 @@
 #+AVATAR:      https://homanlab.github.io/media/img/tromso.png
 
 #+ATTR_HTML: :width 400px
-# CAPTION: Tromsø, Norway, Jan 2024
 [[https://homanlab.github.io/media/img/tromso.png]]
 #+HTML: <p>Tromsø, Norway, Jan 2024</p>
 
@@ -19,6 +18,7 @@ affiliated with the [[https://dppp.uzh.ch/][Department of Psychiatry and Psychot
 [[https://www.uzh.ch/][University of Zurich]], our lab is interested the origins and clinical
 consequences of heterogeneity in severe mental disorders. Interested
 in working with us? Please start by [[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
+
 
 * Who we are
 People in our lab have diverse backgrounds including medicine,
