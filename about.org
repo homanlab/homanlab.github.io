@@ -1,17 +1,54 @@
-#+TITLE:       About the lab 
+#+TITLE:       About us
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2019-09-29 Sun
-#+KEYWORDS:    lab, members, personnel
-#+TAGS:        lab, members, personnel
+#+KEYWORDS:    lab, about 
+#+TAGS:        lab, about
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Members of the IDP lab
+#+DESCRIPTION: What we do
+#+AVATAR:      https://homanlab.github.io/media/img/tromso.png
 
-Located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich, the Homan
-Lab studies the origins and clinical consequences of heterogeneity in
-psychotic disorders. Interested in working with us? Please start by
-[[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
+#+ATTR_HTML: :width 400px
+[[https://homanlab.github.io/media/img/tromso.png]]
+
+Established in 2020 after [[https://homanlab.github.io/philipp][Philipp]] had moved from NYC to Zurich and
+affiliated with the [[https://dppp.uzh.ch/][Department of Psychiatry and Psychotherapy]] at the
+[[https://www.uzh.ch/][University of Zurich]], our lab is interested the origins and clinical
+consequences of heterogeneity in severe mental disorders. Interested
+in working with us? Please start by [[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
+
+* Who we are
+People in our lab have diverse backgrounds including medicine,
+psychology, biology, computer science, engineering. Please find [[https://homanlab.github.io/people/][all
+members here]].
+
+* What we do
+Current projects.
+
+* Who we collaborate with
+** Current:
+# - [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
+- Iris Sommer, MD, PhD. UMC Groningen
+- Brita Elvevåg, PhD. UiT Tromsø
+- Wolfram Hinzen, PhD. UPF Barcelona
+- Stefan Kaiser, MD. University of Geneva
+- Matthias Kirschner, MD. University of Geneva
+- Emre Bora, MD. Dokuz Eylul University, Turkey 
+- Filip Spaniel, MD. National Institute of Mental Health, Czech Republic
+- David Cotter, MD and Mary Cannon, MD. Royal College of Surgeons, Ireland
+- [[https://www.psychology.uzh.ch/en/areas/nec/plafor/team/Head-of-Discipline/Langer.html][Nicolas Langer]], PhD. University of Zurich
+- [[https://feinstein.northwell.edu/institutes-researchers/our-researchers/john-m-kane-md][John Kane]], MD. Zucker Hillside Hospital, NY
+- [[http://www.psykl.mri.tum.de/evidenzbasierte-psychiatrie][Stefan Leucht]], MD. TU Munich
+
+** Former:
+- [[https://medicine.yale.edu/lab/decision/][Ifat Levy]], PhD. Yale University
+- [[https://medicine.yale.edu/lab/harpazrotem/][Ilan Harpaz-Rotem]], PhD. Yale University
+- [[https://people.wgtn.ac.nz/david.podhortzercarmel][David Carmel]], PhD. University of Wellington
+- [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]], PhD. Mount Sinai, NY
+- [[https://nordic.cochrane.org/our-centre/nordic-cochrane-centre/our-team][Klaus Munkholm]], MD, DMSc. Nordic Cochrane Centre, Denmark
+- [[https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/6316/9b1e3][Chantal Martin Soelch]], PhD. University of Fribourg, CH
+- [[https://www.rehazentrum-valens.ch/ueber-uns/organisation/][Peter Brugger]], PhD. University of Zurich
 
 
 ** Current members                                                 :noexport:
@@ -193,28 +230,4 @@ experience in the field of psychological research.
 - Stephanie Homan, PhD. Postdoc
 - Alba Lopez, Research intern
 - Ueli Stocker, Research intern 
-
-* External collaborators
-** Current:
-# - [[https://en.wikipedia.org/wiki/Nina_Schooler][Nina Schooler]], PhD. State University of New York Downstate Medical Center, NY
-- Iris Sommer, MD, PhD. UMC Groningen
-- Brita Elvevåg, PhD. UiT Tromsø
-- Wolfram Hinzen, PhD. UPF Barcelona
-- Stefan Kaiser, MD. University of Geneva
-- Matthias Kirschner, MD. University of Geneva
-- Emre Bora, MD. Dokuz Eylul University, Turkey 
-- Filip Spaniel, MD. National Institute of Mental Health, Czech Republic
-- David Cotter, MD and Mary Cannon, MD. Royal College of Surgeons, Ireland
-- [[https://www.psychology.uzh.ch/en/areas/nec/plafor/team/Head-of-Discipline/Langer.html][Nicolas Langer]], PhD. University of Zurich
-- [[https://feinstein.northwell.edu/institutes-researchers/our-researchers/john-m-kane-md][John Kane]], MD. Zucker Hillside Hospital, NY
-- [[http://www.psykl.mri.tum.de/evidenzbasierte-psychiatrie][Stefan Leucht]], MD. TU Munich
-
-** Former:
-- [[https://medicine.yale.edu/lab/decision/][Ifat Levy]], PhD. Yale University
-- [[https://medicine.yale.edu/lab/harpazrotem/][Ilan Harpaz-Rotem]], PhD. Yale University
-- [[https://people.wgtn.ac.nz/david.podhortzercarmel][David Carmel]], PhD. University of Wellington
-- [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]], PhD. Mount Sinai, NY
-- [[https://nordic.cochrane.org/our-centre/nordic-cochrane-centre/our-team][Klaus Munkholm]], MD, DMSc. Nordic Cochrane Centre, Denmark
-- [[https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/6316/9b1e3][Chantal Martin Soelch]], PhD. University of Fribourg, CH
-- [[https://www.rehazentrum-valens.ch/ueber-uns/organisation/][Peter Brugger]], PhD. University of Zurich
 
