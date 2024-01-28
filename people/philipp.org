@@ -17,27 +17,24 @@
 Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]]
 at the British Journal of Psychiatry and BMC Medicine. Philipp is
 Vicedirector and Chief Physician (Stv. Klinikdirektor und Chefarzt) at
-the University Hospital and Principal Investigator of the IDP Lab
-where he is lucky to work with a wonderful group of [[https://homanlab.github.io/people/][talented
-people]]. Philipp studied business and computer science at the [[https://tuwien.ac.at/en/][Technical
-University]] and medicine at the [[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He
-completed his residency in psychiatry (with Werner Strik) as well as a
-PhD in clinical neuroscience (with Thomas Dierks) at the [[https://www.upd.unibe.ch][University of
-Bern]] in Switzerland where he was Attending Physician at the [[http://www.upd.unibe.ch][University
-Hospital]] and also led the Brain Stimulation Unit. He then did a two
-year fellowship with [[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]], New York after
-which he joined the faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein
-Institute for Medical Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in
-New York.
+the University Hospital and Principal Investigator of the Homan Lab
+where works with a group of [[https://homanlab.github.io/people/][talented people]]. Philipp studied business
+and computer science at the [[https://tuwien.ac.at/en/][Technical University]] and medicine at the
+[[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He completed his residency in psychiatry
+(with Werner Strik) as well as a PhD in clinical neuroscience (with
+Thomas Dierks) at the [[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was
+Attending Physician at the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain
+Stimulation Unit. He then did a two year postdoctoral fellowship with
+[[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]] in New York after which he joined the
+faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for Medical
+Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
  
-** Recent publications
+** Recent preprints and publications
+- Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
 - Homan P. et al. 2022, Psychological Medicine [[[http://dx.doi.org/10.1017/S0033291722000794][link]]]
 - Neumeier, Homan S. et al. 2021, Schizophrenia Bulletin [[[https://doi.org/10.1093/schbul/sbab078][link]]]
-- Homan S. et al. 2020, Neuroscience & Biobehavioral Reviews [[[https://doi.org/10.1101/2020.05.02.20088831][link]]]
 See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+homan+patricia+NOT+homan+pg+NOT+homan+peter+NOT+correction+NOT+thorax][here]] for full list
 
-** Preprints
-- Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
 
 ** Editorials and essays
 - Homan 2023, MERKUR [[[https://volltext.merkur-zeitschrift.de/article/99.120210/mr-77-6-81][link]]]
@@ -106,5 +103,3 @@ See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=homan+p+NOT+homan+philip+NOT+hom
 - LinkedIn: [[https://www.linkedin.com/in/philipp-homan-832223188/][philipp-homan]]
 
 	
-
-
