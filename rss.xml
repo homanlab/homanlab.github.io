@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Sat, 27 Jan 2024 07:38:19 CET</pubDate>
-    <lastBuildDate>Sat, 27 Jan 2024 07:38:19 CET</lastBuildDate>
+    <pubDate>Sun, 28 Jan 2024 09:38:36 CET</pubDate>
+    <lastBuildDate>Sun, 28 Jan 2024 09:38:36 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>ERC Synergy Grant</title>
+      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
+      <description><![CDATA[New grant for Philipp with three european partners ]]></description>
+      <pubDate>2024-01-28</pubDate>
+      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
+    </item>
     <item>
       <title>Akhil Misra, PhD student</title>
       <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
@@ -35,13 +42,6 @@
       <description><![CDATA[How to apply ]]></description>
       <pubDate>2023-11-10</pubDate>
       <guid>http://homanlab.github.io/blog/2019/10/20/applying</guid>
-    </item>
-    <item>
-      <title>ERC Synergy Grant</title>
-      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
-      <description><![CDATA[New grant for Philipp with three european partners ]]></description>
-      <pubDate>2023-11-08</pubDate>
-      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
     </item>
     <item>
       <title>Finn-Lennart Rabe, PhD, Postdoc </title>
