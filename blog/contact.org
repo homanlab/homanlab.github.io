@@ -7,6 +7,7 @@
 #+TAGS:        lab, contact, website
 #+LANGUAGE:    en
 #+SHOWCOMMENT: nil
+#+SHOWMETA:    nil
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: How to reach us 
 #+AVATAR:      https://homanlab.github.io/media/img/contact3.png
