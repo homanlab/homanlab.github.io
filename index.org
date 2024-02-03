@@ -3,5 +3,3 @@
 # REFRESH: 0; url=https://homanlab.github.io/news/
 #+REFRESH: 0; url= https://homanlab.github.io/blog/2023/10/27/ercsynergy/
 #+ATTR_HTML: :width 400px
-
-
