@@ -12,6 +12,28 @@
 #+DESCRIPTION: How to reach us 
 #+AVATAR:      https://homanlab.github.io/media/img/contact3.png
 
+#+BEGIN_SRC emacs-lisp :exports none :results silent
+(let* ((config (cdr (assoc "blog" op/category-config-alist)))))
+"blog"
+config
+;(or (op/read-org-option "SHOWCOMMENT")
+;     (plist-get config :show-comment))
+; set timestamp format
+;(setq org-export-date-timestamp-format "%FT%T%z")
+;(require 'org-wc)
+;(flyspell-mode t)
+;(synosaurus-mode t)
+;(auto-complete-mode t)
+;(linum-mode t)
+;(whitespace-mode t)
+;(setq org-babel-inline-result-wrap "%s")
+;(setq org-export-with-broken-links "mark")
+;(setq fill-column 72)
+;(setq whitespace-line-column 72)
+#+END_SRC
+
+
+
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/contact3.png]]
 
