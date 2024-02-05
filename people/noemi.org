@@ -1,4 +1,4 @@
-#+TITLE:       Noemi Dannecker, MSc. PhD student (Alumna)
+#+TITLE:       Noemi Dannecker, MSc. PhD student (alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-07 Mon
