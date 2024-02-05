@@ -1,7 +1,7 @@
-#+TITLE:       Stephanie Homan, PhD. Postdoc
+#+TITLE:       Stephanie Homan, PhD. Postdoc (alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-07 Mon
 #+URI:         /people/%y/%m/%d/stephanie-homan-phd
 #+KEYWORDS:    lab, stephanie, contact, cv
 #+TAGS:        lab, stephanie, contact, cv
@@ -14,13 +14,12 @@
 [[https://homanlab.github.io/media/img/homans.png]]
 
 Stephanie completed her PhD at the University of Bern in 2019 and
-currently works as a postdoc and psychologist at the University Hospital
-of Psychiatry. As a clinician researcher, she is interested in the
-question of whether or not patients respond differently to interventions
-(antipsychotics, brain stimulation, psychotherapy). While Stephanie's
-[[https://www.psychologie.uzh.ch/de/bereiche/hea/expsy/team/winkelbeiner.html][primary affilition]] is with [[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Birgit Kleim]] and the [[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Experimental
-Psychopathology and Psychotherapy Group]] she still contributes to the IDP
-Lab with her expertise.
+currently works as a postdoc and psychologist at the University
+Hospital of Psychiatry. As a clinician researcher, she is interested
+in the question of whether or not patients respond differently to
+interventions (antipsychotics, brain stimulation,
+psychotherapy). Stephanie [[https://www.psychologie.uzh.ch/de/bereiche/hea/expsy/team/winkelbeiner.html][is affiliated]] with [[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Birgit Kleim]] and the
+[[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Experimental Psychopathology and Psychotherapy Group]].
 
 ** Recent publications
 - Neumeier, Homan S. et al. 2021, Schizophrenia Bulletin [[[https://doi.org/10.1093/schbul/sbab078][link]]]
