@@ -1,4 +1,4 @@
-#+TITLE:       Akhil Misra, PhD student
+#+TITLE:       Akhil Misra. PhD student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri

@@ -1,4 +1,4 @@
-#+TITLE:       Foivos Georgiadis, MD, PhD-student
+#+TITLE:       Foivos Georgiadis, MD. MD-PhD student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
