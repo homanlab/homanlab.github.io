@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Mon, 05 Feb 2024 14:53:06 CET</pubDate>
-    <lastBuildDate>Mon, 05 Feb 2024 14:53:06 CET</lastBuildDate>
+    <pubDate>Mon, 05 Feb 2024 14:59:17 CET</pubDate>
+    <lastBuildDate>Mon, 05 Feb 2024 14:59:17 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -21,6 +21,13 @@
       <description><![CDATA[PhD-student]]></description>
       <pubDate>2024-02-05</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/foivos-georgiadis-md</guid>
+    </item>
+    <item>
+      <title>Michaela Bürge, MSc, Clinical trial manager</title>
+      <link>http://homanlab.github.io/people/2019/10/11/michaela-buerge-msc</link>
+      <description><![CDATA[Clinical trial manager]]></description>
+      <pubDate>2024-02-05</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/michaela-buerge-msc</guid>
     </item>
     <item>
       <title>ERC Synergy Grant</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Psychiatry resident]]></description>
       <pubDate>2023-11-04</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/nils-kallen-md</guid>
-    </item>
-    <item>
-      <title>Roya Hüppi, PhD student</title>
-      <link>http://homanlab.github.io/people/2019/10/11/roya-hueppi</link>
-      <description><![CDATA[PhD student]]></description>
-      <pubDate>2023-11-04</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/roya-hueppi</guid>
     </item>
   </channel>
 </rss>
