@@ -1,0 +1,36 @@
+#+TITLE:       Foivos Georgiadis, MD, PhD-student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-11 Fri
+#+URI:         /people/%y/%m/%d/foivos-georgiadis-md
+#+KEYWORDS:    lab, foivos, contact, cv
+#+TAGS:        lab, foivos, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: PhD-student
+#+AVATAR:      https://homanlab.github.io/media/img/georgiadis.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/georgiadis.png]]
+
+Foivos completed his medical studies at the University of Athens and
+his Master of Science in Biomedical Engineering at ETH Zurich; his
+master thesis in McLean Hospital of Harvard Medical School, focused on
+leveraging computational methods for identifying disease subtypes of
+PTSD. Currently, Foivos combines his clinical experience with his
+passion for scientific discovery in his MD-PhD project within the
+Homan Lab. Ongoing projects involve using large international
+databases such as ENIGMA and the UKBioBank to elucidate the
+neurobiological underpinnings of brain disorders, with a special
+interest in endophenotypes and biomarker discovery.
+
+** Recent publications
+- Georgiadis et al. 2023, Molecular Psychiatry. doi:
+  https://doi.org/10.1038/s41380-024-02442-7.
+
+** Prizes, awards, fellowships                                     :noexport:
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: foivos.georgiadis@bli.uzh.ch
