@@ -1,4 +1,4 @@
-#+TITLE:       Ellen Ji, PhD. Postdoc (Alumna)
+#+TITLE:       Ellen Ji, PhD. Postdoc (alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-06 Sun 
