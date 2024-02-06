@@ -1,0 +1,31 @@
+#+TITLE:       Viviane Clivio. Doctoral student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/viviane-clivio
+#+KEYWORDS:    lab, viviane, contact, cv
+#+TAGS:        lab, viviane, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Doctoral student
+#+AVATAR:      https://homanlab.github.io/media/img/clivio.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/clivio.png]]
+
+Viviane studied medicine at the University of Zurich. During her
+practical year, she completed internships at different psychiatric
+hospitals, where she discovered her interest in psychotic
+disorders. She gained clinical experience while writing her master’s
+thesis about false confessions in patients with schizophrenia in the
+Department for Forensic Psychiatry. Viviane is currently writing her
+dissertation on formal thought disorders in psychosis. In this
+context, she is working on data collection for the [[https://homanlab.github.io/velas/][VELAS study]].
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)44 384 39 52
+- E-mail: vivianecarla.clivio@bli.uzh.ch
+
+	
+
