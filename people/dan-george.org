@@ -1,0 +1,25 @@
+#+TITLE:       Dan-George Filimon. Master's student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-11 Fri
+#+URI:         /people/%y/%m/%d/dan-george-filimon
+#+KEYWORDS:    lab, Dan-George, contact, cv
+#+TAGS:        lab, Dan-George, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Master's student
+#+AVATAR:      https://homanlab.github.io/media/img/filimon.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/filimon.png]]
+
+** Recent Publications
+
+** Prizes, awards, fellowships                                     :noexport:
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: dan-george.filimon@bli.uzh.ch
+
+	

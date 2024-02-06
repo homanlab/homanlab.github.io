@@ -1,0 +1,25 @@
+#+TITLE:       Nils Lang. PhD student 
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-11 Fri
+#+URI:         /people/%y/%m/%d/nils-lang
+#+KEYWORDS:    lab, nils, contact, cv
+#+TAGS:        lab, nils, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Master's student
+#+AVATAR:      https://homanlab.github.io/media/img/lang.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/lang.png]]
+
+** Recent Publications
+
+** Prizes, awards, fellowships                                     :noexport:
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: nils.lang@bli.uzh.ch
+
+	

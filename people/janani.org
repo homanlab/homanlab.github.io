@@ -7,7 +7,7 @@
 #+TAGS:        lab, janani, contact, cv
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Research assistant
+#+DESCRIPTION: Master's student
 #+AVATAR:      https://homanlab.github.io/media/img/panchalingam.png
 
 #+ATTR_HTML: :width 200px
