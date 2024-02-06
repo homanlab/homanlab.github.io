@@ -13,7 +13,18 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/filimon.png]]
 
-** Recent Publications
+DG (Dan-George) worked at Google Zurich between 2013 and 2023 after
+studying Computer Engineering at Politehnica University of
+Bucharest. He decided to switch things up after climbing the corporate
+ladder for 10 years, working on projects like click-through rate
+prediction for the auction in Search Ads, network simulation tools for
+edge traffic for Google Espresso and both internal tools as well as
+end-to-end serving of YouTube Ads. He's now researching methods from
+computational linguistics for understanding Formal Thought Disorder in
+Psychosis for the TRUSTING project while also doing an online MSc. in
+Psychology & Neuroscience of Mental Health at King's College London.
+
+** Recent Publications                                             :noexport:
 
 ** Prizes, awards, fellowships                                     :noexport:
 
