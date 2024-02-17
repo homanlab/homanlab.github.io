@@ -4,10 +4,24 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 06 Feb 2024 14:52:23 CET</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 14:52:23 CET</lastBuildDate>
+    <pubDate>Sat, 17 Feb 2024 08:15:18 CET</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2024 08:15:18 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Benjamin Aston. Research assistant</title>
+      <link>http://homanlab.github.io/people/2019/10/08/benjamin-aston</link>
+      <description><![CDATA[Research assistant]]></description>
+      <pubDate>2024-02-17</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/08/benjamin-aston</guid>
+    </item>
+    <item>
+      <title>Robert Attila Hadobas. Master&#39;s student</title>
+      <link>http://homanlab.github.io/people/2019/10/08/robert-hadobas</link>
+      <description><![CDATA[Master's student]]></description>
+      <pubDate>2024-02-17</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/08/robert-hadobas</guid>
+    </item>
     <item>
       <title>Dan-George Filimon. Master&#39;s student</title>
       <link>http://homanlab.github.io/people/2019/10/11/dan-george-filimon</link>
@@ -63,20 +77,6 @@
       <description><![CDATA[How to reach us ]]></description>
       <pubDate>2024-02-05</pubDate>
       <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
-    </item>
-    <item>
-      <title>Akhil Misra. PhD student</title>
-      <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
-      <description><![CDATA[PhD student]]></description>
-      <pubDate>2024-02-05</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/akhil-misra</guid>
-    </item>
-    <item>
-      <title>Ellen Ji, PhD. Postdoc (alumna)</title>
-      <link>http://homanlab.github.io/people/2019/10/06/ellen-ji-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2024-02-05</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/06/ellen-ji-phd</guid>
     </item>
   </channel>
 </rss>
