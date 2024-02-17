@@ -1,0 +1,30 @@
+#+TITLE:       Robert Attila Hadobas. Master's student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/robert-hadobas
+#+KEYWORDS:    lab, robert, contact, cv
+#+TAGS:        lab, robert, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Master's student
+#+AVATAR:      https://homanlab.github.io/media/img/hadobas.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/hadobas.png]]
+
+Robert is currently pursuing a Master's degree in Human Medicine at
+UZH. He studied Computer Science at UZH for two years before
+transitioning to Medicine. His goals for his Master's thesis are to
+explore the use of imaging and computational techniques to understand
+how variations in linguistic properties of auditory stimuli such as
+podcasts, narratives, or spoken language, impact brain activity in ROI
+observed through fMRI.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: robertattila.hadobas@uzh.ch
+
+	
+

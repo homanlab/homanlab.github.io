@@ -1,0 +1,32 @@
+#+TITLE:       Benjamin Aston. Research assistant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/benjamin-aston
+#+KEYWORDS:    lab, ben, contact, cv
+#+TAGS:        lab, ben, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Research assistant
+#+AVATAR:      https://homanlab.github.io/media/img/aston.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/aston.png]]
+
+After studying Applied Medical Sciences BSc at University College
+London, Benjamin worked for various applied AI start-ups in
+London. For his undergraduate dissertation, he analysed fMRI data to
+investigate functional connectivity differences in patients with
+epilepsy and a healthy control group. Through his avid interest in the
+diagnostic and prognostic potential of language, he discovered the
+DELTA-LANG project and joined the Homan Lab team as a research
+assistant. He aims to continue his studies with an MSc in Zurich to
+deepen his knowledge in neuroscience and psychiatry.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: benjamin.aston@bli.uzh.ch
+
+	
+
