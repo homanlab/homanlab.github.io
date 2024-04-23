@@ -22,9 +22,8 @@ the profession of Psychologist.  He then decided to focus on research,
 in particular, psychometrics, statistics, network analysis and
 programming in R.
 
-Pierfrancesco's current research interest and PhD project /The network
-approach in Neurosciences: from small to big worlds adding layers of
-complexity/, focus on the implementation of network models to reach a
+Pierfrancesco's current research interest and PhD project /The network approach in Neurosciences: from small to big worlds adding layers of complexity/,
+focus on the implementation of network models to reach a
 better understanding of the "latent structure" of psychopathologies
 and how they change over time to implement precise and personalized
 interventions.
