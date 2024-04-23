@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 16 Apr 2024 10:39:02 CEST</pubDate>
-    <lastBuildDate>Tue, 16 Apr 2024 10:39:02 CEST</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 11:26:03 CEST</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 11:26:03 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Helène Durand-Smet. Master&#39;s student</title>
+      <link>http://homanlab.github.io/people/2019/10/08/helene-durand</link>
+      <description><![CDATA[Master's student]]></description>
+      <pubDate>2024-04-23</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/08/helene-durand</guid>
+    </item>
     <item>
       <title>Benjamin Aston. Research assistant</title>
       <link>http://homanlab.github.io/people/2019/10/08/benjamin-aston</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[How to reach us ]]></description>
       <pubDate>2024-02-05</pubDate>
       <guid>http://homanlab.github.io/blog/2019/09/30/how-to-contact-us</guid>
-    </item>
-    <item>
-      <title>Akhil Misra. PhD student</title>
-      <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
-      <description><![CDATA[PhD student]]></description>
-      <pubDate>2024-02-05</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/akhil-misra</guid>
     </item>
   </channel>
 </rss>
