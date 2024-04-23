@@ -1,0 +1,43 @@
+#+TITLE:       Pierfrancesco Sarti. Visiting student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/pierfrancesco-sarti
+#+KEYWORDS:    lab, pierfrancesco, contact, cv
+#+TAGS:        lab, pierfrancesco, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Visiting student
+#+AVATAR:      https://homanlab.github.io/media/img/sarti.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/sarti.jpg
+
+Pierfrancesco is a PhD student in Neuroscience at the University of
+Modena and Reggio Emilia (Italy) under the supervision of
+Prof. Johanna M.C. Blom. He has a Master’s Degree in Psychology and
+Neuroscience at the University of Trento, focusing on adult and
+geriatric patients’ disorders and took the qualifying examination for
+the profession of Psychologist.  He then decided to focus on research,
+in particular, psychometrics, statistics, network analysis and
+programming in R.
+
+Pierfrancesco's current research interest and PhD project /The network
+approach in Neurosciences: from small to big worlds adding layers of
+complexity/, focus on the implementation of network models to reach a
+better understanding of the "latent structure" of psychopathologies
+and how they change over time to implement precise and personalized
+interventions.
+
+** Recent publications
+-	Sarti P, Colliva C, Varrasi S, et al., 2023 
+-	Scarponi D, et al., 2023 
+-	Guerrera C.S, Platania G.A, Boccaccio F.M, et al., 2023 
+-	Platania G.A, Guerrera C.S, Sarti P, et al., 2023 
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- Email: 
+	
+
