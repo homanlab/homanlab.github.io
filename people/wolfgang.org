@@ -28,7 +28,9 @@ generation of motor symptoms in schizophrenia and obsessive-compulsive
 disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
-** Recent publications
+** Recent preprints and publications
+- Omlor et al. 2024, medRxiv [[[https://www.medrxiv.org/content/10.1101/2024.04.13.24305575v1][link]]]
+- Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
 - Omlor et al. 2019, Nature Communications [[[https://www.nature.com/articles/s41467-019-12670-z][link]]]
 - Buchele et al. 2018, JAMA Neurology [[[https://jamanetwork.com/journals/jamaneurology/article-abstract/2659469][link]]]
 - Wahl et al. 2014, Science [[[https://science.sciencemag.org/content/344/6189/1250.long][link]]]
