@@ -11,7 +11,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/lang.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lang.jpg
+[[https://homanlab.github.io/media/img/lang.jpg]]
 
 Nils holds an M.Sc. in Computational Biology from ETH Zurich and the
 University of Basel. He worked on translational research projects in
