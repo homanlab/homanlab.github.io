@@ -26,7 +26,11 @@ psychology, biology, computer science, engineering. Please find [[https://homanl
 members here]].
 
 * What we do
-Current projects.
+- TRUSTING (funded by EU Horizon)
+- DELTA-LANG (funded by ERC Synergy)
+- SPAR (funded by Hartmann Müller Foundation)
+- STRICON (funded by Brain & Behavior Research Foundation)
+- VELAS (funded by Brain & Behavior Research Foundation, OPO and EMDO Foundations)
 
 * Who we collaborate with
 ** Current:
