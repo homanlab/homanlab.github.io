@@ -13,9 +13,9 @@
 #+AVATAR:      https://homanlab.github.io/media/img/contact3.png
 
 #+BEGIN_SRC emacs-lisp :exports none :results silent
-(let* ((config (cdr (assoc "blog" op/category-config-alist)))))
-"blog"
-config
+;(let* ((config (cdr (assoc "blog" op/category-config-alist)))))
+;"blog"
+;config
 ;(or (op/read-org-option "SHOWCOMMENT")
 ;     (plist-get config :show-comment))
 ; set timestamp format
@@ -34,8 +34,8 @@ config
 
 
 
-#+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/contact3.png]]
+#+ATTR_HTML: :width 400px
+[[https://homanlab.github.io/media/img/zurich_winter2023.jpg]]
 
 The lab is located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich
 in the [[https://www.pukzh.ch/patienten-angehoerige/informationen-fuer-erwachsene/wichtige-informationen/anreise-lageplan/psychiatrische-universitaetsklinik-zuerich/][H-Building]].
