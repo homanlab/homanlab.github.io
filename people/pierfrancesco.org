@@ -11,7 +11,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/sarti.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/sarti.jpg
+[[https://homanlab.github.io/media/img/sarti.jpg]]
 
 Pierfrancesco is a PhD student in Neuroscience at the University of
 Modena and Reggio Emilia (Italy) under the supervision of

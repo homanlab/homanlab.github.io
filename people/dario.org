@@ -11,7 +11,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/palpella.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/palpella.jpg
+[[https://homanlab.github.io/media/img/palpella.jpg]]
 
 Dario studied medicine at the International Medical School in Milan,
 after which he commenced his psychiatry residency in the same

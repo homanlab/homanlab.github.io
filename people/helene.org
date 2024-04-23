@@ -11,7 +11,7 @@
 #+AVATAR:      https://homanlab.github.io/media/img/durand.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/durand.jpg
+[[https://homanlab.github.io/media/img/durand.jpg]]
 
 Helene is currently a master's student at ETH in Neuroengineering and
 a graduate from a bioengineering bachelor's at EPFL, Lausanne.
