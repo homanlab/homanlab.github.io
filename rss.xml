@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 23 Apr 2024 14:08:14 CEST</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2024 14:08:14 CEST</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 14:19:51 CEST</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 14:19:51 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -37,11 +37,25 @@
       <guid>http://homanlab.github.io/people/2019/10/08/helene-durand</guid>
     </item>
     <item>
+      <title>Janani Panchalingam. Master&#39;s student</title>
+      <link>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</link>
+      <description><![CDATA[Master's student]]></description>
+      <pubDate>2024-04-23</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</guid>
+    </item>
+    <item>
       <title>Nils Lang, MSc. PhD student </title>
       <link>http://homanlab.github.io/people/2019/10/11/nils-lang</link>
       <description><![CDATA[Master's student]]></description>
       <pubDate>2024-04-23</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/nils-lang</guid>
+    </item>
+    <item>
+      <title>Prof. Philipp Homan, MD, PhD. Principal investigator</title>
+      <link>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2024-04-23</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/12/philipp-homan-md-phd</guid>
     </item>
     <item>
       <title>Pierfrancesco Sarti. Visiting student</title>
@@ -63,20 +77,6 @@
       <description><![CDATA[Master's student]]></description>
       <pubDate>2024-02-17</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/08/robert-hadobas</guid>
-    </item>
-    <item>
-      <title>Janani Panchalingam. Master&#39;s student</title>
-      <link>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</link>
-      <description><![CDATA[Master's student]]></description>
-      <pubDate>2024-02-06</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/08/janani-panchalingam</guid>
-    </item>
-    <item>
-      <title>Marius Brandenberg. Master&#39;s student</title>
-      <link>http://homanlab.github.io/people/2019/10/08/marius-brandenberg</link>
-      <description><![CDATA[Master's student]]></description>
-      <pubDate>2024-02-06</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/08/marius-brandenberg</guid>
     </item>
   </channel>
 </rss>
