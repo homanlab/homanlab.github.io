@@ -1,4 +1,4 @@
-#+TITLE:       Nils Lang. PhD student 
+#+TITLE:       Nils Lang, MSc. PhD student 
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-11 Fri
@@ -8,10 +8,24 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Master's student
-#+AVATAR:      https://homanlab.github.io/media/img/lang.png
+#+AVATAR:      https://homanlab.github.io/media/img/lang.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/lang.png]]
+[[https://homanlab.github.io/media/img/lang.jpg
+
+Nils holds an M.Sc. in Computational Biology from ETH Zurich and the
+University of Basel. He worked on translational research projects in
+Orthopedics and Reproductive Medicine before joining the Homan Lab in
+January 2024 to pursue his PhD in Neuroscience, focusing on language
+processing in the brain using natural language processing (NLP) and
+fMRI modeling methods. Specifically, he is interested in in-silico
+models of dynamic processes, such as spatio-temporal patterns of brain
+activation in response to language stimuli and during speech
+production. Contributing to the TRUSTING project, he is working on
+using Large Language Models (LLMs) to identify NLP metrics that most
+sensitively track the underlying cognitive and neurological changes in
+psychosis and schizophrenia. In his free time, he enjoys running and
+cycling in the beautiful nature around Zurich and playing his guitar.
 
 ** Recent Publications
 
