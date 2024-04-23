@@ -19,9 +19,11 @@ at the University of Zurich. She gained experience in two internships,
 one in the field of eating disorders at the Privat Clinic Aadorf and
 the other in early psychosis at the Psychiatric University Hospital of
 Zurich. At the moment, she is working on her master's thesis
-/Adherence in patients with acute psychosis: Analysis of the
-influencing factors in a psychotherapy study with Motivational
-Interviewing/ within the MIA-study.
+/Adherence in patients with acute psychosis: Analysis of the influencing factors in a psychotherapy study with Motivational Interviewing/
+within the MIA-study.
+
+** Recent preprints and publications
+- Panchalingam et al. 2024, PsyArXiv [[[https://osf.io/preprints/psyarxiv/x3mub][link]]]
 
 ** Contact
 #+ATTR_HTML: :target _blank

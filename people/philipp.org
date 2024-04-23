@@ -30,6 +30,9 @@ faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstei
 Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
  
 ** Recent preprints and publications
+- Rabe et al. 2024, medRxiv [[[https://www.medrxiv.org/content/10.1101/2024.04.05.24305387v2][link]]]
+- Omlor et al. 2024, medRxiv [[[https://www.medrxiv.org/content/10.1101/2024.04.13.24305575v1][link]]]
+- Panchalingam et al. 2024, PsyArXiv [[https://osf.io/preprints/psyarxiv/x3mub][[link]]]
 - Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
 - Homan P. et al. 2022, Psychological Medicine [[[http://dx.doi.org/10.1017/S0033291722000794][link]]]
 - Neumeier, Homan S. et al. 2021, Schizophrenia Bulletin [[[https://doi.org/10.1093/schbul/sbab078][link]]]
