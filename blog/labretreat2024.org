@@ -23,6 +23,7 @@ a focused scientific exchange. One of the highlights was a scientific
 speed dating where lab members took 6 minutes to pitch their ideas to
 one another.
 
+#+BEGIN_EXPORT html
 <table>
 <tr>
 <td><img src="https://homanlab.github.io/media/img/labretreatsd6.jpg" width="200"></td>
@@ -34,22 +35,22 @@ one another.
 <td><img src="https://homanlab.github.io/media/img/labretreatsd1.jpg" width="200"></td>
 </tr>
 </table>
+#+END_EXPORT
 
-
-#+ATTR_HTML: :width 200px :title labretreatsd6
-[[https://homanlab.github.io/media/img/labretreatsd6.jpg]]
-
-#+ATTR_HTML: :width 200px :title labretreatsd5
-[[https://homanlab.github.io/media/img/labretreatsd5.jpg]]
-
-#+ATTR_HTML: :width 200px :title labretreatsd4
-[[https://homanlab.github.io/media/img/labretreatsd4.jpg]]
-
-#+ATTR_HTML: :width 200px :title labretreatsd2
-[[https://homanlab.github.io/media/img/labretreatsd2.jpg]]
-
-#+ATTR_HTML: :width 200px :title labretreatsd1
-[[https://homanlab.github.io/media/img/labretreatsd1.jpg]]
+# #+ATTR_HTML: :width 200px :title labretreatsd6
+# [[https://homanlab.github.io/media/img/labretreatsd6.jpg]]
+# 
+# #+ATTR_HTML: :width 200px :title labretreatsd5
+# [[https://homanlab.github.io/media/img/labretreatsd5.jpg]]
+# 
+# #+ATTR_HTML: :width 200px :title labretreatsd4
+# [[https://homanlab.github.io/media/img/labretreatsd4.jpg]]
+# 
+# #+ATTR_HTML: :width 200px :title labretreatsd2
+# [[https://homanlab.github.io/media/img/labretreatsd2.jpg]]
+# 
+# #+ATTR_HTML: :width 200px :title labretreatsd1
+# [[https://homanlab.github.io/media/img/labretreatsd1.jpg]]
 
 The day ended nicely at [[https://kleinefreiheit.ch/][Kleine Freiheit]]. 
 
