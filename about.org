@@ -23,7 +23,8 @@ in working with us? Please start by [[https://homanlab.github.io/blog/2019/10/20
 * Who we are
 People in our lab have diverse backgrounds including medicine,
 psychology, biology, computer science, engineering. Please find [[https://homanlab.github.io/people/][all
-members here]].
+members here]], and you can see some pictures from our recent [[https://homanlab.github.io/retreat][Homan Lab
+Retreat 2024]] and read more about us [[https://homanlab.github.io/retreat][here]].
 
 * What we do
 - TRUSTING (funded by EU Horizon)
