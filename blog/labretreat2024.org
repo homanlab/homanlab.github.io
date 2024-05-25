@@ -10,7 +10,7 @@
 #+DESCRIPTION: Bridging clinical and computational psychiatry 
 #+AVATAR:      https://homanlab.github.io/media/img/labretreat2024.jpg
 
-#+ATTR_HTML: :width 600px :title labretreat
+#+ATTR_HTML: :width 700px :title labretreat
 [[https://homanlab.github.io/media/img/labretreat2024.jpg]]
 
 We have been growing recently as a lab, and thought it would be
@@ -22,6 +22,19 @@ gathered for a retreat at [[https://www.uzh.ch/en][UZH]] on May 23 for
 a focused scientific exchange. One of the highlights was a scientific
 speed dating where lab members took 6 minutes to pitch their ideas to
 one another.
+
+<table>
+<tr>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd6.jpg" width="200"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd5.jpg" width="200"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd4.jpg" width="200"></td>
+</tr>
+<tr>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd2.jpg" width="200"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd1.jpg" width="200"></td>
+</tr>
+</table>
+
 
 #+ATTR_HTML: :width 200px :title labretreatsd6
 [[https://homanlab.github.io/media/img/labretreatsd6.jpg]]
@@ -40,5 +53,5 @@ one another.
 
 The day ended nicely at [[https://kleinefreiheit.ch/][Kleine Freiheit]]. 
 
-#+ATTR_HTML: :width 600px :title labretreatkf1
+#+ATTR_HTML: :width 700px :title labretreatkf1
 [[https://homanlab.github.io/media/img/labretreatkf1.jpg]]
