@@ -19,11 +19,11 @@ exchange. Perfectly organized by
 [[https://homanlab.github.io/roya][Roya]],
 [[https://homanlab.github.io/nilslang][Nils Lang]] and
 [[https://homanlab.github.io/giacomo][Giacomo]], the Homan Lab thus
-gathered for a retreat at [[https://www.uzh.ch/en][UZH]] on May 23
-for. One of the highlights was a scientific speed dating where lab
-members took 6 minutes to pitch their ideas to one another. It was
-also a great opportunity to welcome our latest members Lucia (who
-started in May) and Yves (who will start in June).
+gathered for a retreat at [[https://www.uzh.ch/en][UZH]] on May 23.
+One of the highlights was a scientific speed dating where lab members
+took 6 minutes to pitch their ideas to one another. It was also a
+great opportunity to welcome our latest members Lucia (who started in
+May) and Yves (who will start in June).
 
 #+BEGIN_EXPORT html
 <table cellspacing="5" cellpadding="5" width="600">
