@@ -9,12 +9,8 @@
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: How to reach us
 #+AVATAR:      https://homanlab.github.io/media/img/zurich_summer2.jpg
-
-* References                                                    :ignore:
-\bibliographystyle{npp-grant}
-\nobibliography{homan_pub} 
-# \nobibliography{master} 
-
+#+CITE_EXPORT: basic
+#+BIBLIOGRAPHY: /Users/phoman/db/bibtex/master.bib 
 * Image                                                              :ignore:
 #+ATTR_HTML: :width 400px
 [[https://homanlab.github.io/media/img/zurich_summer2.jpg]]
@@ -59,8 +55,8 @@
 
 (setq searchstr (rx-to-string '(and "peer reviewed" (*? anything) "homan"))) 
 (setq keys (get-bibkeys searchstr))
-(setq l1 (mapcar (lambda (c) (concat "1. \\bibentry{" c)) keys))
-(setq l2 (mapcar (lambda (c) (concat c "}." )) l1))
+(setq l1 (mapcar (lambda (c) (concat "1. [cite:@" c)) keys))
+(setq l2 (mapcar (lambda (c) (concat c "]." )) l1))
 
 ;(require 'seq)
 ;(setq l3 (seq-sort-by #'length #'> l2))
@@ -77,51 +73,65 @@
 #+END_SRC
 
 #+RESULTS:
-- \bibentry{Soelch2020}
-- \bibentry{Homan2020a}
-- \bibentry{Winkelbeiner2019b}
-- \bibentry{Thies2020}
-- \bibentry{Munkholm2020}
-- \bibentry{Kirschner2020b}
-- \bibentry{Homan2020c}
-- \bibentry{Grieder2020}
-- \bibentry{Gaillard2020}
-- \bibentry{Brakowski2020}
-- \bibentry{Ali2020}
-- \bibentry{Winkelbeiner2019}
-- \bibentry{Marzouk2019}
-- \bibentry{Kunzelmann2019}
-- \bibentry{Homan2019k}
-- \bibentry{Homan2019a}
-- \bibentry{Homan2019}
-- \bibentry{Gaillard2019}
-- \bibentry{Winkelbeiner2018a}
-- \bibentry{Winkelbeiner2018}
-- \bibentry{Viviano2018}
-- \bibentry{Hu2018}
-- \bibentry{Cavelti2018b}
-- \bibentry{Cavelti2018a}
-- \bibentry{Cavelti2018}
-- \bibentry{Homan2017d}
-- \bibentry{Homan2017b}
-- \bibentry{Homan2017a}
-- \bibentry{Cavelti2016}
-- \bibentry{Kindler2015}
-- \bibentry{Homan2015b}
-- \bibentry{Homan2015a}
-- \bibentry{Woodward2014}
-- \bibentry{Homan2014g}
-- \bibentry{Homan2014e}
-- \bibentry{Homan2014d}
-- \bibentry{Kindler2013a}
-- \bibentry{Kindler2013}
-- \bibentry{Homan2013c}
-- \bibentry{Homan2013b}
-- \bibentry{Homan2013a}
-- \bibentry{Homan2012b}
-- \bibentry{Homan2012a}
-- \bibentry{Homan2011b}
-- \bibentry{Oliver2020a}
+1. cite:Sharkey2024.
+1. cite:Rubio2024.
+1. cite:Muller2024.
+1. cite:Jiang2023a.
+1. cite:Wagner2023a.
+1. cite:Schijven2023.
+1. cite:Georgiadis2023.
+1. cite:Corona2022.
+1. cite:Palaniyappan2022.
+1. cite:Kuzo2022.
+1. cite:Homan2022f.
+1. cite:Constantinides2022.
+1. cite:Brakowski2022.
+1. cite:Soelch2021.
+1. cite:Neumeier2021.
+1. cite:Homan2021.
+1. cite:Homan2020a.
+1. cite:Defilippis2021.
+1. cite:Winkelbeiner2019b.
+1. cite:Thies2020.
+1. cite:Oliver2020a.
+1. cite:Munkholm2020.
+1. cite:Kirschner2020b.
+1. cite:Grieder2020.
+1. cite:Gaillard2020.
+1. cite:Ali2020.
+1. cite:Winkelbeiner2019.
+1. cite:Marzouk2019.
+1. cite:Kunzelmann2019.
+1. cite:Homan2019k.
+1. cite:Homan2019a.
+1. cite:Homan2019.
+1. cite:Gaillard2019.
+1. cite:Winkelbeiner2018a.
+1. cite:Winkelbeiner2018.
+1. cite:Viviano2018.
+1. cite:Hu2018.
+1. cite:Cavelti2018b.
+1. cite:Cavelti2018a.
+1. cite:Cavelti2018.
+1. cite:Homan2017d.
+1. cite:Homan2017b.
+1. cite:Homan2017a.
+1. cite:Cavelti2016.
+1. cite:Kindler2015.
+1. cite:Homan2015b.
+1. cite:Homan2015a.
+1. cite:Woodward2014.
+1. cite:Homan2014g.
+1. cite:Homan2014e.
+1. cite:Homan2014d.
+1. cite:Kindler2013a.
+1. cite:Kindler2013.
+1. cite:Homan2013c.
+1. cite:Homan2013b.
+1. cite:Homan2013a.
+1. cite:Homan2012b.
+1. cite:Homan2012a.
+1. cite:Homan2011b.
 
 *** Output                                                      :ignore:
 ** Publications without peer-review and preprints
