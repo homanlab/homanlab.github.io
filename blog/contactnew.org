@@ -1,7 +1,7 @@
 #+TITLE:       Contact
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
-#+DATE:        2023-10-27 Fri
+#+DATE:        2019-09-30 Mon
 #+URI:         /blog/%y/%m/%d/contactnew
 #+KEYWORDS:    lab, contact, website
 #+TAGS:        lab, contact, website
@@ -15,7 +15,7 @@
 
 The lab is located at the [[https://www.pukzh.ch][University Hospital
 of Psychiatry]] in Zurich in the
-[[https://homanlab.github.io/media/img/contact1.jpg]][Main Building]].
+[[https://homanlab.github.io/media/img/contact1.jpg][Main Building]].
 
 * Address
 Psychiatric Hospital \\
@@ -27,7 +27,7 @@ Switzerland
 
 * How to get there 
 - Public Transport Tram 11 or Forchbahn S18 to Balgrist stop
-- About 5 minutes [[https://homanlab.github.io/media/img/contact1.jpg]][walk]].
+- About 5 minutes [[https://homanlab.github.io/media/img/contact1.jpg][walk]].
 
 * Phone
 +41 (0)58 384 33 65
