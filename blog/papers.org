@@ -48,7 +48,7 @@
 # CALL: bibkey-code()
 
 
-** Publications with peer-review[fn:1]
+** Publications with peer-review
 *** Code                                                        :ignore:
 
 #+BEGIN_SRC emacs-lisp :exports results :results raw
