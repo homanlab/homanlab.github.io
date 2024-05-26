@@ -8,7 +8,7 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Bridging clinical and computational psychiatry 
-#+AVATAR:      https://homanlab.github.io/media/img/labretreat2024.jpg
+#+AVATAR:      https://homanlab.github.io/media/img/labretreatkf1.jpg
 
 #+ATTR_HTML: :width 700px :title labretreat
 [[https://homanlab.github.io/media/img/labretreat2024.jpg]]
