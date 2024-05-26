@@ -1,0 +1,163 @@
+#+TITLE:       Papers
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2019-09-30 Mon
+#+URI:         /blog/%y/%m/%d/papers
+#+KEYWORDS:    lab, papers, publications
+#+TAGS:        lab, papers, publications
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: How to reach us
+#+AVATAR:      https://homanlab.github.io/media/img/zurich_summer2.jpg
+
+* References                                                    :ignore:
+\bibliographystyle{npp-grant}
+\nobibliography{homan_pub} 
+# \nobibliography{master} 
+
+* Image                                                              :ignore:
+#+ATTR_HTML: :width 400px
+[[https://homanlab.github.io/media/img/zurich_summer2.jpg]]
+
+* Output                                                             :ignore:
+** Code                                                         :ignore:
+#+BEGIN_SRC bash :exports results :results silent
+~/db/bin/upbs
+#+END_SRC
+
+#+NAME: bibkey-code
+#+BEGIN_SRC emacs-lisp :exports results :results silent
+
+(print "hi there")
+
+(defun get-bibkeys (searchstr)
+(seq-map
+ (lambda (entry)
+   (cdr (assoc "=key=" (cdr entry))))
+ (seq-filter
+   (lambda (entry)
+     (string-match-p searchstr (or (car entry) "")))
+     ;(string-match-p searchstr (or (cdr (assoc "author" (cdr entry))) "")))
+  (sort (bibtex-completion-candidates)
+                    (lambda (entry1 entry2)
+                      (> (string-to-number (or (cdr (assoc "year" (cdr entry1))) "0"))
+                         (string-to-number (or (cdr (assoc "year" (cdr entry2))) "0"))))))))
+
+#+END_SRC
+
+# CALL: bibkey-code()
+
+
+** Publications with peer-review[fn:1]
+*** Code                                                        :ignore:
+
+#+BEGIN_SRC emacs-lisp :exports results :results raw
+;(setq entries (sort (bibtex-completion-candidates)
+;                    (lambda (entry1 entry2)
+;                      (< (string-to-number (or (cdr (assoc "year" (cdr entry1))) "0"))
+;                         (string-to-number (or (cdr (assoc "year" (cdr entry2))) "0"))))))
+
+(setq searchstr (rx-to-string '(and "peer reviewed" (*? anything) "homan"))) 
+(setq keys (get-bibkeys searchstr))
+(setq l1 (mapcar (lambda (c) (concat "1. \\bibentry{" c)) keys))
+(setq l2 (mapcar (lambda (c) (concat c "}." )) l1))
+
+;(require 'seq)
+;(setq l3 (seq-sort-by #'length #'> l2))
+;(setq l3 (cl-sort l2 'string-lessp :key 'downcase))
+;(setq l3 (cl-sort l2 'string-match :key 'downcase))
+
+;(substring "Homan2020" 5 )
+;(replace-regexp-in-string "\\..*" "" "Test.m")
+
+;(setq l3 (sort l2 (lambda (a b) (string< (car a) (car b)))))
+
+(mapconcat 'identity l2 "\n")
+
+#+END_SRC
+
+#+RESULTS:
+- \bibentry{Soelch2020}
+- \bibentry{Homan2020a}
+- \bibentry{Winkelbeiner2019b}
+- \bibentry{Thies2020}
+- \bibentry{Munkholm2020}
+- \bibentry{Kirschner2020b}
+- \bibentry{Homan2020c}
+- \bibentry{Grieder2020}
+- \bibentry{Gaillard2020}
+- \bibentry{Brakowski2020}
+- \bibentry{Ali2020}
+- \bibentry{Winkelbeiner2019}
+- \bibentry{Marzouk2019}
+- \bibentry{Kunzelmann2019}
+- \bibentry{Homan2019k}
+- \bibentry{Homan2019a}
+- \bibentry{Homan2019}
+- \bibentry{Gaillard2019}
+- \bibentry{Winkelbeiner2018a}
+- \bibentry{Winkelbeiner2018}
+- \bibentry{Viviano2018}
+- \bibentry{Hu2018}
+- \bibentry{Cavelti2018b}
+- \bibentry{Cavelti2018a}
+- \bibentry{Cavelti2018}
+- \bibentry{Homan2017d}
+- \bibentry{Homan2017b}
+- \bibentry{Homan2017a}
+- \bibentry{Cavelti2016}
+- \bibentry{Kindler2015}
+- \bibentry{Homan2015b}
+- \bibentry{Homan2015a}
+- \bibentry{Woodward2014}
+- \bibentry{Homan2014g}
+- \bibentry{Homan2014e}
+- \bibentry{Homan2014d}
+- \bibentry{Kindler2013a}
+- \bibentry{Kindler2013}
+- \bibentry{Homan2013c}
+- \bibentry{Homan2013b}
+- \bibentry{Homan2013a}
+- \bibentry{Homan2012b}
+- \bibentry{Homan2012a}
+- \bibentry{Homan2011b}
+- \bibentry{Oliver2020a}
+
+*** Output                                                      :ignore:
+** Publications without peer-review and preprints
+*** Code                                                        :ignore:
+
+#+BEGIN_SRC emacs-lisp :exports results :results raw
+
+;(setq searchstr (rx-to-string '(and "not reviewed" (*? anything) "preprint" (*? anything) "homan"))) 
+(setq searchstr (rx-to-string '(and "not reviewed" (*? anything)
+                                (or "editorial" "preprint" "abstract" "essay") (*? anything) 
+                                    "homan"))) 
+                                    
+(setq keys (get-bibkeys searchstr))
+(setq l1 (mapcar (lambda (c) (concat "1. \\bibentry{" c)) keys))
+(setq l2 (mapcar (lambda (c) (concat c "}." )) l1))
+(mapconcat 'identity l2 "\n")
+
+#+END_SRC
+
+#+RESULTS:
+1. \bibentry{DeYoung2022}.
+1. \bibentry{Homan2022j}.
+1. \bibentry{Winkelbeiner2020}.
+1. \bibentry{Neumeier2020a}.
+1. \bibentry{Neumeier2020}.
+1. \bibentry{Homan2020d}.
+1. \bibentry{Munkholm2019a}.
+1. \bibentry{Homan2019h}.
+1. \bibentry{Winkelbeiner2018b}.
+1. \bibentry{Homan2018t}.
+1. \bibentry{Homan2018j}.
+1. \bibentry{Homan2018c}.
+1. \bibentry{Homan2018b}.
+1. \bibentry{Homan2016}.
+1. \bibentry{Homan2014f}.
+1. \bibentry{Homan2009a}.
+1. \bibentry{Homan2009}.
+
+*** Output                                                      :ignore:

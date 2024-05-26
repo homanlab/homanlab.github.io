@@ -19,7 +19,6 @@ affiliated with the [[https://dppp.uzh.ch/][Department of Psychiatry and Psychot
 consequences of heterogeneity in severe mental disorders. Interested
 in working with us? Please start by [[https://homanlab.github.io/blog/2019/10/20/applying][reading here]].
 
-
 * Who we are
 People in our lab have diverse backgrounds including medicine,
 psychology, biology, computer science, engineering. Please find [[https://homanlab.github.io/people/][all
@@ -56,7 +55,6 @@ Retreat 2024]] and read more about us [[https://homanlab.github.io/retreat][here
 - [[https://nordic.cochrane.org/our-centre/nordic-cochrane-centre/our-team][Klaus Munkholm]], MD, DMSc. Nordic Cochrane Centre, Denmark
 - [[https://www3.unifr.ch/psycho/de/departement/mitarbeitende/dept/people/6316/9b1e3][Chantal Martin Soelch]], PhD. University of Fribourg, CH
 - [[https://www.rehazentrum-valens.ch/ueber-uns/organisation/][Peter Brugger]], PhD. University of Zurich
-
 
 ** Current members                                                 :noexport:
 *** Prof. Philipp Homan, MD, PhD. Principal investigator
@@ -237,3 +235,6 @@ experience in the field of psychological research.
 - Stephanie Homan, PhD. Postdoc
 - Alba Lopez, Research intern
 - Ueli Stocker, Research intern 
+
+* Contact us
+You can always [[https://homanlab.github.io/blog/2019/09/30/contactnew/][contact us here]].
