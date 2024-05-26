@@ -27,16 +27,18 @@ our latest members Lucia (who started in May) and Yves (who will start
 in June).
 
 #+BEGIN_EXPORT html
-<table cellspacing="5" cellpadding="5" width="600">
+<table cellspacing="5" cellpadding="0" width="700">
 <tr>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd6.jpg" width="200"></td>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd5.jpg" width="200"></td>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd4.jpg" width="200"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd6.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd5.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd4.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatdf1.jpg" width="150"></td>
 </tr>
 <tr>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd2.jpg" width="200"></td>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd1.jpg" width="200"></td>
-<td><img src="https://homanlab.github.io/media/img/labretreatsd7.jpg" width="200"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatdf2.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd2.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd1.jpg" width="150"></td>
+<td><img src="https://homanlab.github.io/media/img/labretreatsd7.jpg" width="150"></td>
 </tr>
 </table>
 #+END_EXPORT
