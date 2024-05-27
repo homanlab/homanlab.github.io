@@ -4,23 +4,23 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Sun, 26 May 2024 20:45:34 CEST</pubDate>
-    <lastBuildDate>Sun, 26 May 2024 20:45:34 CEST</lastBuildDate>
+    <pubDate>Mon, 27 May 2024 10:11:07 CEST</pubDate>
+    <lastBuildDate>Mon, 27 May 2024 10:11:07 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Lab Retreat</title>
+      <link>http://homanlab.github.io/blog/2024/05/25/labretreat2024</link>
+      <description><![CDATA[Bridging clinical and computational psychiatry ]]></description>
+      <pubDate>2024-05-27</pubDate>
+      <guid>http://homanlab.github.io/blog/2024/05/25/labretreat2024</guid>
+    </item>
     <item>
       <title>Contact</title>
       <link>http://homanlab.github.io/blog/2019/09/30/contactnew</link>
       <description><![CDATA[How to reach us]]></description>
       <pubDate>2024-05-26</pubDate>
       <guid>http://homanlab.github.io/blog/2019/09/30/contactnew</guid>
-    </item>
-    <item>
-      <title>Lab Retreat</title>
-      <link>http://homanlab.github.io/blog/2024/05/25/labretreat2024</link>
-      <description><![CDATA[Bridging clinical and computational psychiatry ]]></description>
-      <pubDate>2024-05-26</pubDate>
-      <guid>http://homanlab.github.io/blog/2024/05/25/labretreat2024</guid>
     </item>
     <item>
       <title>ERC Synergy Grant</title>
