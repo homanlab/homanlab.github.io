@@ -7,7 +7,7 @@
 #+TAGS:        retreat, lab, 2024, constitution
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
-#+DESCRIPTION: Bridging clinical and computational psychiatry 
+#+DESCRIPTION: Team building and beyond 
 #+AVATAR:      https://homanlab.github.io/media/img/labretreatkf1.jpg?randomparam=123456
 
 #+ATTR_HTML: :width 700px :title labretreat
