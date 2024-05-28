@@ -1,7 +1,7 @@
 #+TITLE:       Benjamin Aston. Research assistant
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-10 Thu
 #+URI:         /people/%y/%m/%d/benjamin-aston
 #+KEYWORDS:    lab, ben, contact, cv
 #+TAGS:        lab, ben, contact, cv

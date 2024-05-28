@@ -1,7 +1,7 @@
 #+TITLE:       Janani Panchalingam. Master's student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-09 Wed
 #+URI:         /people/%y/%m/%d/janani-panchalingam
 #+KEYWORDS:    lab, janani, contact, cv
 #+TAGS:        lab, janani, contact, cv

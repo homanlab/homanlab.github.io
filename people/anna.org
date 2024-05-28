@@ -1,7 +1,7 @@
 #+TITLE:       Anna Steiner. Research assistant
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Thu
+#+DATE:        2019-10-10 Thu
 #+URI:         /people/%y/%m/%d/anna-steiner
 #+KEYWORDS:    lab, anna, contact, cv
 #+TAGS:        lab, anna, contact, cv

@@ -1,7 +1,7 @@
 #+TITLE:       Viviane Clivio. Doctoral student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-09 Wed
 #+URI:         /people/%y/%m/%d/viviane-clivio
 #+KEYWORDS:    lab, viviane, contact, cv
 #+TAGS:        lab, viviane, contact, cv

@@ -1,7 +1,7 @@
-#+TITLE:       Alba Lopez. Research intern
+#+TITLE:       Alba Lopez. Research intern (alumna)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Thu
+#+DATE:        2019-10-06 Sun
 #+URI:         /people/%y/%m/%d/alba-lopez
 #+KEYWORDS:    lab, alba, contact, cv
 #+TAGS:        lab, alba, contact, cv

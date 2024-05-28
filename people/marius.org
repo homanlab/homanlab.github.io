@@ -1,7 +1,7 @@
-#+TITLE:       Marius Brandenberg. Master's student
+#+TITLE:       Marius Brandenberg. Master's student (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-06 Sun
 #+URI:         /people/%y/%m/%d/marius-brandenberg
 #+KEYWORDS:    lab, marius, contact, cv
 #+TAGS:        lab, marius, contact, cv

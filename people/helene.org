@@ -1,7 +1,7 @@
 #+TITLE:       Helène Durand-Smet. Master's student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-09 Wed
 #+URI:         /people/%y/%m/%d/helene-durand
 #+KEYWORDS:    lab, helene, contact, cv
 #+TAGS:        lab, helene, contact, cv
