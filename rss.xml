@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 28 May 2024 11:20:36 CEST</pubDate>
-    <lastBuildDate>Tue, 28 May 2024 11:20:36 CEST</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 11:22:03 CEST</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 11:22:03 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -28,6 +28,13 @@
       <description><![CDATA[Clinical trial manager]]></description>
       <pubDate>2024-05-28</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/12/lucia-bautista</guid>
+    </item>
+    <item>
+      <title>Prof. Philipp Homan, MD, PhD. Principal investigator</title>
+      <link>http://homanlab.github.io/people/2019/10/13/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2024-05-28</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/13/philipp-homan-md-phd</guid>
     </item>
     <item>
       <title>Rahel Horisberger, PhD. Postdoc/Senior psychologist</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[New grant for Philipp with three european partners ]]></description>
       <pubDate>2024-04-24</pubDate>
       <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
-    </item>
-    <item>
-      <title>Dario Palpella. Visiting student</title>
-      <link>http://homanlab.github.io/people/2019/10/08/dario-palpella</link>
-      <description><![CDATA[Visiting student]]></description>
-      <pubDate>2024-04-23</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/08/dario-palpella</guid>
     </item>
   </channel>
 </rss>
