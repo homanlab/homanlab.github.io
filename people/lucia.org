@@ -1,7 +1,7 @@
 #+TITLE:       Lucia Bautista, PhD. Clinical trial manager
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-12 Sat
 #+URI:         /people/%y/%m/%d/lucia-bautista
 #+KEYWORDS:    lab, lucia, contact, cv
 #+TAGS:        lab, lucia, contact, cv
