@@ -1,0 +1,39 @@
+#+TITLE:       Lucia Bautista, PhD. Clinical trial manager
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-08 Tue 
+#+URI:         /people/%y/%m/%d/lucia-bautista
+#+KEYWORDS:    lab, lucia, contact, cv
+#+TAGS:        lab, lucia, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Clinical trial manager
+#+AVATAR:      https://homanlab.github.io/media/img/bautista.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/bautista.jpg]]
+
+Lucia Bautista studied Biochemistry at the University of Granada
+(Spain). She holds a PhD in biology from the University of Seville
+(Spain) and worked a postdoctoral fellow in the Institute of Molecular
+Health Sciences at ETH Zurich, where she gained extensive research
+experience in the field of liver metabolism and physiology. After that
+she enjoyed 7 years at the Liver4Life project (Wyss Zurich) actively
+contributing to the development of an ex situ perfusion technology
+aimed at rescuing marginal grafts and increasing the pool of organs
+available for transplantation. During this time, she also obtained a
+Certificate of Advances studies (CAS) in Clinical Trial
+Management. This experience equipped her with a solid foundation in
+clinical trial related concepts, medical device development and
+regulatory guidelines. She joined the Homan lab in May 2024 as a
+Clinical Trial Manager, where she combines her research background and
+regulatory knowledge to support and coordinate the delivery of the
+TRUSTING project Clinical Trial.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: lucia.bautista@bli.uzh.ch
+
+	
+
