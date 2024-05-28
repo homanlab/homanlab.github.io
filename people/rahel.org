@@ -1,7 +1,7 @@
 #+TITLE:       Rahel Horisberger, PhD. Postdoc/Senior psychologist
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-12 Sat
+#+DATE:        2019-10-13 Sun
 #+URI:         /people/%y/%m/%d/rahel-horisberger-msc
 #+KEYWORDS:    lab, rahel, contact, cv
 #+TAGS:        lab, rahel, contact, cv
@@ -28,7 +28,7 @@ Psychiatric University Hospital in Zurich.
 
 ** Contact
 #+ATTR_HTML: :target _blank
-- Phone: +41 (0)44 384 21 11
-- E-mail: rahel.horisberger@uzh.ch
+- Phone: +41 (0)58 384 21 11
+- E-mail: rahel.horisberger@pukzh.ch
 
 	
