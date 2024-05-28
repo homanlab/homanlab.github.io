@@ -11,7 +11,7 @@
 #+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
 
 #+ATTR_HTML: :width 200px
-https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+[[https://homanlab.github.io/media/img/homanlab_logo.png]]
 
 ** Recent publications
 
