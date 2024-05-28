@@ -11,7 +11,7 @@
 
 #+ATTR_HTML: :width 400px
 [[https://homanlab.github.io/media/img/tromso.png]]
-#+HTML: <p>Tromsø, Norway, Jan 2024</p>
+#+HTML: <p>Tromsø, Norway, Jan 2024 (first ERC Synergy meeting)</p>
 
 Established in 2020 after [[https://homanlab.github.io/philipp][Philipp]] had moved from NYC to Zurich and
 affiliated with the [[https://dppp.uzh.ch/][Department of Psychiatry and Psychotherapy]] at the

@@ -12,10 +12,7 @@
 
 #+ATTR_HTML: :width 400px
 [[https://homanlab.github.io/media/img/zurich_summer2.jpg]]
-
-The lab is located at the [[https://www.pukzh.ch][University Hospital
-of Psychiatry]] in Zurich in the
-[[https://homanlab.github.io/media/img/contact1.jpg][Main Building]].
+#+HTML: <p>Zurich, summer 2020</p>
 
 * Address
 Psychiatric Hospital \\
@@ -24,6 +21,9 @@ Prof. Philipp Homan \\
 Lenggstrasse 31 \\
 8032 Zurich \\
 Switzerland
+
+The lab is located at the [[https://www.pukzh.ch][University Hospital of Psychiatry]] in Zurich
+in the [[https://homanlab.github.io/media/img/contact1.jpg][Main Building]].
 
 * How to get there 
 - Public Transport Tram 11 or Forchbahn S18 to Balgrist stop

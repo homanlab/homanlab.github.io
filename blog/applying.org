@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: How to apply 
-#+AVATAR:      https://homanlab.github.io/media/img/striatum.png
+#+AVATAR:      https://homanlab.github.io/media/img/homanlab_logo.png
 
 #+ATTR_HTML: :width 200px :title delta
-[[https://homanlab.github.io/media/img/striatum.png]]
+[[https://homanlab.github.io/media/img/homanlab_logo.png]]
 
 We are always interested in hearing from people who are interested in
 working with us. While we may not always have an immediate open
