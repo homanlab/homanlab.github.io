@@ -1,0 +1,25 @@
+#+TITLE:       Yves Pauli. PhD student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-11 Fri
+#+URI:         /people/%y/%m/%d/yves-pauli
+#+KEYWORDS:    lab, yves, contact, cv
+#+TAGS:        lab, yves, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: PhD student
+#+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+
+#+ATTR_HTML: :width 200px
+https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+
+** Recent publications
+
+** Prizes, awards, fellowships                                     :noexport:
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: yves.pauli@bli.uzh.ch
+
+	
