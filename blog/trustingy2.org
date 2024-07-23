@@ -10,7 +10,7 @@
 #+DESCRIPTION: Wrapping up a busy first year 
 #+AVATAR:      https://homanlab.github.io/media/img/TRUSTING2024.png
 
-#+ATTR_HTML: :width 800px :title trusting
+#+ATTR_HTML: :width 900px :title trusting
 [[https://homanlab.github.io/media/img/TRUSTING2024.png]]
 
 Wrapping up a busy first year, the [[https://trusting-project.eu/][TRUSTING]] consortium met for its
