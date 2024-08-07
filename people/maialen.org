@@ -1,7 +1,7 @@
 #+TITLE:       Maialen Moraza Rodriguez. Visiting student
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-06 Sun
+#+DATE:        2019-10-08 Tue 
 #+URI:         /people/%y/%m/%d/maialen-moraza
 #+KEYWORDS:    lab, maialen, contact, cv
 #+TAGS:        lab, maialen, contact, cv
