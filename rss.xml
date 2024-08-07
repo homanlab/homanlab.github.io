@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Wed, 07 Aug 2024 09:22:11 CEST</pubDate>
-    <lastBuildDate>Wed, 07 Aug 2024 09:22:11 CEST</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 12:59:50 CEST</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:59:50 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>ERC Synergy Grant</title>
+      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
+      <description><![CDATA[New grant for Philipp with three european partners ]]></description>
+      <pubDate>2024-08-07</pubDate>
+      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
+    </item>
     <item>
       <title>Davide Staub. Research assistant</title>
       <link>http://homanlab.github.io/people/2019/10/10/davide-staub</link>
@@ -28,13 +35,6 @@
       <description><![CDATA[Wrapping up a busy first year ]]></description>
       <pubDate>2024-07-23</pubDate>
       <guid>http://homanlab.github.io/blog/2024/07/22/trustingy2</guid>
-    </item>
-    <item>
-      <title>ERC Synergy Grant</title>
-      <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
-      <description><![CDATA[New grant for Philipp with three european partners ]]></description>
-      <pubDate>2024-07-10</pubDate>
-      <guid>http://homanlab.github.io/blog/2023/10/27/ercsynergy</guid>
     </item>
     <item>
       <title>Working with us</title>
