@@ -4,10 +4,24 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 23 Jul 2024 10:12:27 CEST</pubDate>
-    <lastBuildDate>Tue, 23 Jul 2024 10:12:27 CEST</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 08:54:05 CEST</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 08:54:05 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Davide Staub. Research assistant</title>
+      <link>http://homanlab.github.io/people/2019/10/10/davide-staub</link>
+      <description><![CDATA[Research assistant]]></description>
+      <pubDate>2024-08-07</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/10/davide-staub</guid>
+    </item>
+    <item>
+      <title>Maialen Moraza Rodriguez. Visiting student</title>
+      <link>http://homanlab.github.io/people/2019/10/06/maialen-moraza</link>
+      <description><![CDATA[Visiting student]]></description>
+      <pubDate>2024-08-07</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/06/maialen-moraza</guid>
+    </item>
     <item>
       <title>EU Horizon project TRUSTING: Annual Meeting in Leiden</title>
       <link>http://homanlab.github.io/blog/2024/07/22/trustingy2</link>
@@ -63,20 +77,6 @@
       <description><![CDATA[Research assistant]]></description>
       <pubDate>2024-05-28</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/10/benjamin-aston</guid>
-    </item>
-    <item>
-      <title>Finn-Lennart Rabe, PhD. Postdoc </title>
-      <link>http://homanlab.github.io/people/2019/10/13/finn-rabe-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2024-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/13/finn-rabe-phd</guid>
-    </item>
-    <item>
-      <title>Giacomo Cecere, MD. Postdoc/Attending physician</title>
-      <link>http://homanlab.github.io/people/2019/10/13/giacomo-cecere-md</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2024-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/13/giacomo-cecere-md</guid>
     </item>
   </channel>
 </rss>
