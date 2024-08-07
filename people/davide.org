@@ -1,0 +1,32 @@
+#+TITLE:       Davide Staub. Research assistant
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-10 Thu
+#+URI:         /people/%y/%m/%d/davide-staub
+#+KEYWORDS:    lab, davide, contact, cv
+#+TAGS:        lab, davide, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Research assistant
+#+AVATAR:      https://homanlab.github.io/media/img/staub.png
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/staub.png]]
+
+Davide Staub completed his degree in Computational Science and
+Engineering at ETH Zurich. His research has focused on developing and
+applying scientific machine learning (SciML) techniques, particularly
+during his time at Oxford and throughout his master's thesis,
+primarily in the realm of Geophysics and Seismology. Before starting a
+PhD in SciML, he is interested in exploring how these methodologies,
+and machine learning in general, can be applied to new fields. Davide
+has joined the Homan Lab as a Research Assistant, where he contributes
+to the machine learning aspects of the TRUSTING and DELTA projects.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: davide.staub@bli.uzh.ch
+
+	
+

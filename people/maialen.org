@@ -1,0 +1,29 @@
+#+TITLE:       Maialen Moraza Rodriguez. Visiting student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-06 Sun
+#+URI:         /people/%y/%m/%d/maialen-moraza
+#+KEYWORDS:    lab, maialen, contact, cv
+#+TAGS:        lab, maialen, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Visiting student
+#+AVATAR:      https://homanlab.github.io/media/img/moraza.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/moraza.jpg]]
+
+Maialen is currently a biomedical student at the Central University of
+Catalonia, participating in the development of a clinical trial for
+the TRUSTING project. She has previous experience in the field and is
+particularly enthusiastic about learning more about psychiatric
+disorders. Maialen is particularly interested in
+neuropsychopharmacology and psychiatric disorders and hopes to deepen
+her previous knowledge and link it to these areas.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11 
+- E-mail: maialen.morazarodriguez@uzh.ch
+
+	
