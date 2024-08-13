@@ -8,10 +8,25 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: PhD student
-#+AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+# AVATAR:      https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=200
+#+AVATAR:      https://homanlab.github.io/media/img/pauli.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/homanlab_logo.png]]
+[[https://homanlab.github.io/media/img/pauli.jpg]]
+
+Yves acquired his master's degree in Mechanical Engineering from ETH
+Zurich in 2023. During his studies, he focused on medical imaging
+methods and the implementation of machine learning methods therein. He
+pursued his interests in neuroscience in his semester project at the
+EPI-Clinic Lengg and his masters Thesis at the McMaster University in
+Hamilton, Canada. His master's thesis investigated the automatic
+detection of Alzheimer's Disease within Diffusion Tensor Imaging data
+using Mahalanobis distance-based outlier detection. After gaining
+teaching experience at the Literargymnasium Rämibühl he joined the
+Homan Lab in June 2024 as a PhD student in cognitive neuroscience. His
+PhD research focuses on the investigation of language processing in
+the brains of psychotic patients using language models and correlating
+the findings with fMRI recordings.
 
 ** Recent publications
 
