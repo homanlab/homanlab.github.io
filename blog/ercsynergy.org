@@ -26,7 +26,7 @@ will receive 3.3 million of the project's 10 million euro total funding.
   
 ** Update - we've started hiring!
 - +[[https://jobs.uzh.ch/offene-stellen/two-erc-funded-postdoc-positions-in-computational-psychiatry/de10b76b-d56a-4687-9b5e-074a9242651e][ERC-funded postdoc in computational psychiatry]]+
-- [[https://jobs.uzh.ch/offene-stellen/two-erc-funded-postdoc-positions-in-computational-psychiatry/de10b76b-d56a-4687-9b5e-074a9242651e][ERC-funded postdoc in computational psychiatry]]
+- +[[https://jobs.uzh.ch/offene-stellen/two-erc-funded-postdoc-positions-in-computational-psychiatry/de10b76b-d56a-4687-9b5e-074a9242651e][ERC-funded postdoc in computational psychiatry]]+
 - +[[https://jobs.uzh.ch/offene-stellen/erc-funded-phd-position-in-computational-psychiatry/b25ba4b2-69b6-4672-9fef-c65a8a118471][ERC-funded PhD in computational psychiatry]]+
 - +[[https://jobs.uzh.ch/offene-stellen/erc-funded-research-coordinator/13c0baef-3684-404c-ac6b-3b7c687e9cc2][ERC-funded coordinator in computational psychiatry]]+
 
