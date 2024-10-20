@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Wed, 21 Aug 2024 17:26:18 CEST</pubDate>
-    <lastBuildDate>Wed, 21 Aug 2024 17:26:18 CEST</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2024 21:19:07 CEST</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2024 21:19:07 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Upcoming talks</title>
+      <link>http://homanlab.github.io/blog/2024/08/31/talks</link>
+      <description><![CDATA[Homan Lab members giving talks ]]></description>
+      <pubDate>2024-10-20</pubDate>
+      <guid>http://homanlab.github.io/blog/2024/08/31/talks</guid>
+    </item>
     <item>
       <title>ERC Synergy Grant</title>
       <link>http://homanlab.github.io/blog/2023/10/27/ercsynergy</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2024-05-28</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/06/alba-lopez</guid>
-    </item>
-    <item>
-      <title>Anna Steiner. Research assistant</title>
-      <link>http://homanlab.github.io/people/2019/10/10/anna-steiner</link>
-      <description><![CDATA[Anna Steiner, research assistant]]></description>
-      <pubDate>2024-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/10/anna-steiner</guid>
     </item>
   </channel>
 </rss>
