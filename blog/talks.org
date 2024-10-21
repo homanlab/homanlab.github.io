@@ -1,34 +1,32 @@
-#+TITLE:       Upcoming talks
+#+TITLE:       Upcoming talks and presentations
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2024-08-31 Sat
 #+URI:         /blog/%y/%m/%d/talks
-#+KEYWORDS:    talks, lectures, seminars
-#+TAGS:        talks, lectures, seminars
+#+KEYWORDS:    talks, lectures, seminars, presentations
+#+TAGS:        talks, lectures, seminars, presentations
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Homan Lab members giving talks 
 #+AVATAR:      https://homanlab.github.io/media/img/Ulm2024.png
 
-#+ATTR_HTML: :width 400px :title trusting
+#+ATTR_HTML: :width 200px :title trusting
 [[https://homanlab.github.io/media/img/Ulm2024.png]]
 
 *2024*
-- 27.11.2024: Genetic susceptibility to schizophrenia through
-  neuroinflammatory pathways is associated with retinal thinning:
-  Findings from the UK-Biobank, DGPPN 2024, Berlin, Germany (Philipp)
-- 13.11.2024: Grundlagen psychotischer Erkrankungen, KESB Zürich, Zurich (Philipp)
-- 07.11.2024: Psychosis as a linguistic phenotype, French Institute of Health and Medical Research, Paris, France (Philipp)
-- 06.11.2024: Psychopathology as linguistic fingerprint, Swiss Brain Health Plan Symposium, Zurich (Philipp)
-- 31.10.2024: Psychosen -- neue Therapieoptionen und Sicherheit, SGAMSP, Bern (Philipp)
-- 28.10.2024: Sprache bei psychotischen Erkrankungen -- Klinik und moderne Analysemethoden, Hotel St. Gotthard Zurich (Philipp)
-- 23.10.2024: Die sprachliche Signatur von Psychosen, University of Magdeburg, Germany (Philipp)
-- 07.10.2024: Digitalisierung und Psychiatrie, University of Ghent, Belgium (Philipp)
-- 18.09.2024: Psyche und Mensch - Business und Gesundheit, MBA Alumni, University of Zurich (Philipp)
-- 12.09.2024: Schizophrenie: Neue Einblicke und Behandlungsmethoden, SGPP Lunch Symposium, Bern (Philipp)
-- 11.09.2024: Artificial Intelligence, SGPP, Bern (Philipp)
-- 11.09.2024: Promising biomarkers for tinnitus and speech/voice in
-  different medical fields, ZNZ Symposium, Zurich (Roya)
-- 05.09.2024: Die Geometrie psychotischer Sprache: Word Embeddings und Large Language Models in der psychiatrischen Forschung, EPI Klinik Lengg, Zurich (Philipp)  
+- 27.11.2024: DGPPN 2024, Berlin, Germany (Philipp)
+- 13.11.2024: Kinder und Erwachsenen Schutzbehörde, Zurich (Philipp)
+- 07.11.2024: French Institute of Health and Medical Research, Paris, France (Philipp)
+- 06.11.2024: Swiss Brain Health Plan Symposium, Zurich (Philipp)
+- 31.10.2024: SGAMSP Jahrestagung, Bern (Philipp)
+- 28.10.2024: Schizophrenie+, Hotel St. Gotthard Zurich (Philipp)
+- 23.10.2024: University of Magdeburg, Germany (Philipp)
+- 07.10.2024: University of Ghent, Belgium (Philipp)
+- 18.09.2024: MBA Alumni, University of Zurich (Philipp)
+- 13.09.2024: PhD Retreat Clinical Science, University of Zurich (Roya, Akhil, Nils Lang)
+- 12.09.2024: SGPP Lunch Symposium, Bern (Philipp)
+- 11.09.2024: SGPP, Bern (Philipp)
+- 11.09.2024: ZNZ Symposium, Zurich (Roya)
+- 05.09.2024: EPI Klinik Lengg, Zurich (Philipp)  
     
   
