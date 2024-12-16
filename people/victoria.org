@@ -26,6 +26,3 @@ projects funded under Horizon 2020 and Horizon Europe.
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)58 384 21 11
 - E-mail: victoria.edkins@bli.uzh.ch
-
-	
-
