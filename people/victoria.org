@@ -1,0 +1,31 @@
+#+TITLE:       Victoria Edkins, PhD. Project manager and research coordinator
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-13 Sun
+#+URI:         /people/%y/%m/%d/victoria-edkins
+#+KEYWORDS:    lab, vicky, contact, cv
+#+TAGS:        lab, vicky, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Project manager
+#+AVATAR:      https://homanlab.github.io/media/img/edkins.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/edkins.jpg]]
+
+Vicky is the research coordinator for the DELTA-LANG project within
+Professor Philipp Homan's lab. She completed her PhD in experimental
+cognitive psychology at the University of Bristol in the UK
+in 2008. Following this she worked as Project Team Leader for a
+multi-disciplinary, multi-partner research project in the public
+health domain. Prior to joining the Homan Lab, Vicky worked
+internationally as a research consultant and member of research
+projects funded under Horizon 2020 and Horizon Europe.  
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: victoria.edkins@bli.uzh.ch
+
+	
+
