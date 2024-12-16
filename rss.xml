@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Mon, 21 Oct 2024 10:32:22 CEST</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2024 10:32:22 CEST</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 11:19:09 CET</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 11:19:09 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Victoria Edkins, PhD. Project manager and research coordinator</title>
+      <link>http://homanlab.github.io/people/2019/10/13/victoria-edkins</link>
+      <description><![CDATA[Project manager]]></description>
+      <pubDate>2024-12-16</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/13/victoria-edkins</guid>
+    </item>
     <item>
       <title>Upcoming talks and presentations</title>
       <link>http://homanlab.github.io/blog/2024/08/31/talks</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Team building and beyond ]]></description>
       <pubDate>2024-05-28</pubDate>
       <guid>http://homanlab.github.io/blog/2024/05/25/labretreat2024</guid>
-    </item>
-    <item>
-      <title>Alba Lopez. Research intern (alumna)</title>
-      <link>http://homanlab.github.io/people/2019/10/06/alba-lopez</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2024-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/06/alba-lopez</guid>
     </item>
   </channel>
 </rss>
