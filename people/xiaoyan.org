@@ -1,0 +1,56 @@
+#+TITLE:       Xiaoyan Wu, PhD. Postdoc 
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-13 Sun
+#+URI:         /people/%y/%m/%d/xiaoyan-wu
+#+KEYWORDS:    lab, xiaoyan, contact, cv
+#+TAGS:        lab, xiaoyan, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Postdoc
+#+AVATAR:      https://homanlab.github.io/media/img/wu.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/wu.jpg]]
+
+Xiaoyan completed her PhD in psychology and cognitive neuroscience at
+the IDG McGovern Institute, Beijing Normal University, with Prof. Chao
+Liu and Prof. Hang Zhang (Peking University). During her PhD, she was
+a visiting scholar at the Zurich Center for Neuroeconomics at the
+University of Zurich, with Prof. Christian C. Ruff. Her current
+research focuses on semantic neural representations and verbal
+communication. She aims to uncover the neural circuits underlying
+disorganized language production in schizophrenia by using
+computational modeling, natural language processing Models (NLPs),
+large language models (LLMs) and neuroimaging techniques (fMRI and
+MEG).
+
+** Recent publications
+
+- *Wu, X.*, Ren, X., Liu, C., & Zhang, H. (2024). The motive cocktail in
+  altruistic behaviors. Nature Computational Science, 4(9),
+  659-676. https://doi.org/10.1038/s43588-024-00685-6
+
+- *Wu, X.*, Fu, H., Zhang, T., Bao, D., Hu, J., Zhu, R., ... & Liu, C. A
+  cognitive computational mechanism for mutual cooperation: The roles
+  of positive expectation and social reward. Acta Psychologica Sinica,
+  56(9), 1299. https://doi.org/10.3724/SP.J.1041.2024.01299
+
+- Wang, H., *Wu, X.*, Xu, J., Zhu, R., Zhang, S., Xu, Z., ... &
+  Liu, C. (2024). Acute stress during witnessing injustice shifts
+  third-party interventions from punishing the perpetrator to helping
+  the victim. PLoS Biology, 22(5),
+  e3002195. https://doi.org/10.1073/pnas.2314590121
+
+- Jin, K., Wu, J., Zhang, R., Zhang, S., *Wu, X.*, Wu, T., ... &
+  Liu, C. (2024). Observing heroic behavior and its influencing
+  factors in immersive virtual environments. Proceedings of the
+  National Academy of Sciences, 121(17),
+  e2314590121. https://doi.org/10.1073/pnas.2314590121
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: xiaoyan.wu@bli.uzh.ch
+- Personal page: https://xiaoyanwu2024.github.io/ 
+
