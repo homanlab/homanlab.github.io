@@ -43,8 +43,7 @@ We would like to thank everyone from the [[https://enigma.ini.usc.edu/ongoing/en
 contributed to this insightful work.
 
 The study has featured as an article in UZH News
-([[https://www.news.uzh.ch/de/articles/media/2025/schizophrenie.html][https://www.news.uzh.ch/de/articles/media/2025/schizophrenie.html]])
-and has received some attention already:
+([[https://tinyurl.com/yc3vnb5x][https://www.news.uzh.ch/]]) and has received some attention already:
 
 #+BEGIN_EXPORT html
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
