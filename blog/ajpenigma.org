@@ -14,7 +14,8 @@
 [[https://homanlab.github.io/media/img/ajpenigma.jpg]]
 
 We are pleased to share our latest publication in the American Journal
-of Psychiatry: https://lnkd.in/e3FqqhCY
+of Psychiatry:
+[[https://psychiatryonline.org/doi/10.1176/appi.ajp.20230806][https://psychiatryonline.org/doi/10.1176/appi.ajp.20230806]].
 
 Conventional studies of the structural differences between the brains
 of people with schizophrenia and neurotypical controls rely on mean
@@ -42,9 +43,10 @@ We would like to thank everyone from the [[https://enigma.ini.usc.edu/ongoing/en
 contributed to this insightful work.
 
 The study has featured as an article in UZH News
-(https://lnkd.in/euyuXmkw) and has received some attention already:
+([[https://www.news.uzh.ch/de/articles/media/2025/schizophrenie.html][https://www.news.uzh.ch/de/articles/media/2025/schizophrenie.html]])
+and has received some attention already:
 
-<script async src="https://badge.dimensions.ai/badge.js"
-charset="utf-8"></script> <span class="__dimensions_badge_embed__"
-data-doi="10.1176/appi.ajp.20230806"
-data-style="medium_rectangle"></span>
+#+BEGIN_EXPORT html
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1176/appi.ajp.20230806" data-style="medium_rectangle"></span>
+#+END_EXPORT
