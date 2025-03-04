@@ -48,7 +48,6 @@ and has received some attention already:
 
 #+BEGIN_EXPORT html
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<center>
 <div class='altmetric-embed' data-badge-type='large-donut' data-badge-details='right'
 data-doi="10.1176/appi.ajp.20230806"></div>
 <br>
