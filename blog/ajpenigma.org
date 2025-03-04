@@ -26,7 +26,7 @@ thickness, cortical surface area, cortical folding index, subcortical
 volume, and fractional anisotropy. This enabled us to provide novel
 insights into the heterogeneity of brain measures in schizophrenia.
 
-Lead by first author [[https://homanlab.github.io/Wolfgang][Wolfgang Omlor]], we found that individuals with
+Lead by first author [[https://homanlab.github.io/wolfgang][Wolfgang Omlor]], we found that individuals with
 schizophrenia exhibit greater variability in cortical thickness,
 cortical surface area, subcortical volume, and fractional anisotropy
 within the frontotemporal and subcortical network. This increased
@@ -48,7 +48,9 @@ and has received some attention already:
 
 #+BEGIN_EXPORT html
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='medium-donut' data-doi="10.1176/appi.ajp.20230806"></div>
+<center>
+<div class='altmetric-embed' data-badge-type='large-donut' data-badge-details='right'
+data-doi="10.1176/appi.ajp.20230806"></div>
 <br>
 <br>
 #+END_EXPORT
