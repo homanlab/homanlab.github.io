@@ -14,8 +14,12 @@
 [[https://homanlab.github.io/media/img/Ulm2024.png]]
 
 *2025*
-- 02.04.2025: [[https://sirs.societyconference.com/conf/server/itinerary_planner.php/confAgenda?date=*&s_type%5B%5D=LB&s_type%5B%5D=OR&s_type%5B%5D=PP&search_text=Homan&mode=SCH&edu_hrs=&include_co_auth=true&include_keywords=true&utc_offset=&export_to_pdf=true&appId=admin&report_type=det_view][SIRS 2025 Chicago]], Free Talk and Poster Presentations (Nils, Giacomo, Finn, Roya)
-- 01.04.2025: [[https://sirs.societyconference.com/conf/server/itinerary_planner.php/confAgenda?date=*&s_type%5B%5D=SY&search_text=Homan&mode=SCH&edu_hrs=&include_co_auth=true&include_keywords=true&utc_offset=&export_to_pdf=true&appId=admin&report_type=det_view][SIRS 2025 Chicago]], Symposium Talk (Philipp)
+- 23.05.2025: [[https://www.fomf.ch/content/psychiatrie-und-psychotherapie-update-refresher-zuerich-220525?topic=PSYCH#overview][Psychiatrie Update Refresher]], Lecture (Philipp)
+- 16.05.2025: [[https://www.uzh.ch/de/explore/portrait/dies.html][Dies Academicus]], UZH, Interview (Philipp)
+- 08.05.2025: Psychiatrie Plus, Küsnacht, Lecture (Philipp)
+- 06.05.2025: Inger Salling Stiftung, Award Talk (Philipp)
+- 02.04.2025: [[https://sirs.societyconference.com/conf/#sessions/conf10019][SIRS 2025 Chicago]], Free Talk and Poster Presentations (Nils, Giacomo, Finn, Roya)
+- 01.04.2025: [[https://sirs.societyconference.com/conf/#sessions/conf10019][SIRS 2025 Chicago]], Symposium Talk (Philipp)
 - 26.03.2025: [[https://www.pbl.ch/jobs-bildung/akkreditierte-fort-und-weiterbildung/kinder-und-jugendpsychiatrie][Psychiatrie Baselland (PBL)]], Invited Talk (Philipp)
 - 23.03.2025: 50. Winterseminar Oberlech, Seminar Talk (Philipp)
 - 27.02.2025: [[https://www.pdag.ch/ueber-die-pdag/veranstaltungen-fuer-alle-interessierten/bedeutung-der-sprache-fuer-psychische-erkrankungen][PDAG Königsfelden]], Invited talk (Philipp)
