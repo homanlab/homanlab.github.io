@@ -16,7 +16,7 @@
 We are pleased to share our latest publication in the American Journal
 of Psychiatry: [[https://psychiatryonline.org/doi/10.1176/appi.ajp.20230806][https://psychiatryonline.org/]].
 
-#+ATTR_HTML: :width 300px :title ajp
+#+ATTR_HTML: :width 100px :title ajp
 https://psychiatryonline.org/cms/10.1176/ajp.2025.182.issue-3/asset/19550ba0-be19-50ba-8be1-550ba08be195/ajp.2025.182.issue-3.cover.jpg
 
 Conventional studies of the structural differences between the brains
