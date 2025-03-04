@@ -13,7 +13,20 @@
 #+ATTR_HTML: :width 200px :title trusting
 [[https://homanlab.github.io/media/img/Ulm2024.png]]
 
+*2025*
+- 02.04.2025: [[https://sirs.societyconference.com/conf/server/itinerary_planner.php/confAgenda?date=*&s_type%5B%5D=LB&s_type%5B%5D=OR&s_type%5B%5D=PP&search_text=Homan&mode=SCH&edu_hrs=&include_co_auth=true&include_keywords=true&utc_offset=&export_to_pdf=true&appId=admin&report_type=det_view][SIRS 2025 Chicago]], Free Talk and Poster Presentations (Nils, Giacomo, Finn, Roya)
+- 01.04.2025: [[https://sirs.societyconference.com/conf/server/itinerary_planner.php/confAgenda?date=*&s_type%5B%5D=SY&search_text=Homan&mode=SCH&edu_hrs=&include_co_auth=true&include_keywords=true&utc_offset=&export_to_pdf=true&appId=admin&report_type=det_view][SIRS 2025 Chicago]], Symposium Talk (Philipp)
+- 26.03.2025: [[https://www.pbl.ch/jobs-bildung/akkreditierte-fort-und-weiterbildung/kinder-und-jugendpsychiatrie][Psychiatrie Baselland (PBL)]], Invited Talk (Philipp)
+- 23.03.2025: 50. Winterseminar Oberlech, Seminar Talk (Philipp)
+- 27.02.2025: [[https://www.pdag.ch/ueber-die-pdag/veranstaltungen-fuer-alle-interessierten/bedeutung-der-sprache-fuer-psychische-erkrankungen][PDAG Königsfelden]], Invited talk (Philipp)
+- 25.02.2025: [[https://www.privatklinik-meiringen.ch/veranstaltungen1/][Privatklinik Meiringen]], Invited Talk (Philipp)
+- 06.02.2025: [[https://www.pukzh.ch/events/symposium-frueherkennung-von-psychosen-bei-jugendlichen-und-jungen-erwachsenen/][Symposium Früherkennung]], UZH (Philipp)
+- 17.01.2025: [[https://www.agzcollegium.ch/Psychische_Erkrankungen_in_der_Grundversorgerpraxis][Ärztegesellschaft Zürich]], Invited Talk (Philipp)
+- 15.01.2025: [[https://pukzuerich.amp-health.ch/][Psychiatrie in 4 Tagen]], Lecture (Philipp)
+  
+
 *2024*
+- 11.12.2024: DELTA-LANG Meeting, Zurich (Philipp, Finn, Davide, Nils, Akhil, Vicky, Yves) 
 - 27.11.2024: DGPPN 2024, Berlin, Germany (Philipp)
 - 13.11.2024: Kinder und Erwachsenen Schutzbehörde, Zurich (Philipp)
 - 07.11.2024: French Institute of Health and Medical Research, Paris, France (Philipp)
