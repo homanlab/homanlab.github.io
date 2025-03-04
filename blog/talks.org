@@ -27,7 +27,11 @@
 - 06.02.2025: [[https://www.pukzh.ch/events/symposium-frueherkennung-von-psychosen-bei-jugendlichen-und-jungen-erwachsenen/][Symposium Früherkennung]], UZH (Philipp)
 - 17.01.2025: [[https://www.agzcollegium.ch/Psychische_Erkrankungen_in_der_Grundversorgerpraxis][Ärztegesellschaft Zürich]], Invited Talk (Philipp)
 - 15.01.2025: [[https://pukzuerich.amp-health.ch/][Psychiatrie in 4 Tagen]], Lecture (Philipp)
-  
+
+#+BEGIN_EXPORT html
+<br>
+<br>
+#+END_EXPORT
 
 *2024*
 - 11.12.2024: DELTA-LANG Meeting, Zurich (Philipp, Finn, Davide, Nils, Akhil, Vicky, Yves) 
