@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2025-03-05 Wed
-#+URI:         /blog/%y/%m/%d/ajpenigma
+#+URI:         /blog/%y/%m/%d/arxiv
 #+KEYWORDS:    TRUSTING, schizophrenia, machine learning, variability
 #+KEYWORDS:    TRUSTING, schizophrenia, machine learning, variability
 #+LANGUAGE:    en
