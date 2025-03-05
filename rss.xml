@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Tue, 04 Mar 2025 14:06:10 CET</pubDate>
-    <lastBuildDate>Tue, 04 Mar 2025 14:06:10 CET</lastBuildDate>
+    <pubDate>Wed, 05 Mar 2025 10:51:34 CET</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 10:51:34 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Uncertainty modeling of speech </title>
+      <link>http://homanlab.github.io/blog/2025/03/05/ajpenigma</link>
+      <description><![CDATA[New preprint on arXiv  ]]></description>
+      <pubDate>2025-03-05</pubDate>
+      <guid>http://homanlab.github.io/blog/2025/03/05/ajpenigma</guid>
+    </item>
     <item>
       <title>Measuring the many shapes of the brain</title>
       <link>http://homanlab.github.io/blog/2025/03/04/ajpenigma</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Wrapping up a busy first year ]]></description>
       <pubDate>2024-07-23</pubDate>
       <guid>http://homanlab.github.io/blog/2024/07/22/trustingy2</guid>
-    </item>
-    <item>
-      <title>Working with us</title>
-      <link>http://homanlab.github.io/blog/2019/10/20/applying</link>
-      <description><![CDATA[How to apply ]]></description>
-      <pubDate>2024-05-28</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/10/20/applying</guid>
     </item>
   </channel>
 </rss>
