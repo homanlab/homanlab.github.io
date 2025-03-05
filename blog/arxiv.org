@@ -1,0 +1,51 @@
+#+TITLE:       Uncertainty modeling of speech 
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2025-03-05 Wed
+#+URI:         /blog/%y/%m/%d/ajpenigma
+#+KEYWORDS:    TRUSTING, schizophrenia, machine learning, variability
+#+KEYWORDS:    TRUSTING, schizophrenia, machine learning, variability
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: New preprint on arXiv  
+#+AVATAR:      https://homanlab.github.io/media/img/TRUSTING_logo.png
+
+#+ATTR_HTML: :width 100px :title logo
+[[https://homanlab.github.io/media/img/TRUSTING_logo.png]]
+
+We are happy to share our latest preprint, now live on [[https://arxiv.org/abs/2502.18285][arXiv]]:
+*Uncertainty Modeling in Multimodal Speech Analysis Across the
+Psychosis Spectrum*, which is part of the [[https://trusting-project.eu/][TRUSTING project]]. This work
+was led by [[https://krauthammerlab.ch/authors/rohanianmorteza/][Morteza Rohanian]] in collaboration with the labs of
+[[https://krauthammerlab.ch/authors/rohanianmorteza/][Prof. Michael Krauthammer]] and [[https://www.psychologie.uzh.ch/de/bereiche/nec/plafor/team/Leitung-der-Professur/Langer.html][Prof. Nicolas Langer]].
+ 
+Mental disorders are often accompanied by speech disruptions. These
+features have the potential to provide important information relevant
+to diagnosis and treatment. However, they can be difficult to observe
+and to accurately measure. They may also vary from person to
+person. To tackle this, we built an uncertainty-aware AI model that
+makes use of acoustic and semantic speech features to predict symptom
+severity and psychosis-related traits.
+ 
+*Why is this important?*
+
+ - The model adapts to different conversation types, prioritising
+   sound features in structured tasks and language features in
+   open-ended discussions.
+ - By estimating uncertainty, it highlights how reliable different
+   speech markers (like pitch changes, fluency issues, and spectral
+   instability) are for assessment.
+ - It performed consistently well across various interaction contexts.
+
+We believe that this approach could help with the early detection of
+recurring illness signs and are excited about this possibility. Check
+it out and let us know what you think.
+
+#+BEGIN_EXPORT html
+<!--<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class='altmetric-embed' data-badge-type='large-donut'
+     data-badge-details='right' data-arxiv-id="2502.18285"></div>
+<br>
+<br>
+-->
+#+END_EXPORT
