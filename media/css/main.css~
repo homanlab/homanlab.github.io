@@ -500,17 +500,3 @@ table th.right, table td.right {
     }
 }
 */
-
-.badge {
-  display: inline-block;
-  padding: 2px 6px;
-  background: #eee;
-  color: #333;
-  border-radius: 4px;
-  margin-right: 6px;
-  font-size: 0.85em;
-}
-.badge.open-access {
-  background: #fdbc4b;
-  font-weight: bold;
-}
