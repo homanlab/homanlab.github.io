@@ -1,12 +1,11 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const authorRaw = "Homan P"; // Change as needed
-  const tag = "Psychiatry";              // Optional tag (e.g. "Psychiatry")
-  const apiKey = "";           // Optional NCBI API key
+  const authorRaw = "Homan P";  // Customize author
+  const tag = "";               // Optional keyword (e.g., "Psychiatry")
+  const apiKey = "";            // Optional NCBI API key
   const retmax = 10;
 
   const authorTag = `"${authorRaw}"[Author]`;
   const searchTerm = tag ? `${authorTag} AND ${tag}` : authorTag;
-
   const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(searchTerm)}&retmode=json&retmax=${retmax}&sort=pub+date${apiKey ? '&api_key=' + apiKey : ''}`;
 
   fetch(searchUrl)
@@ -51,13 +50,27 @@ document.addEventListener("DOMContentLoaded", function () {
           const title = entry.title || '(no title)';
           const journal = entry.fulljournalname || '(no journal)';
           const pubdate = entry.pubdate || '';
-          const elocationid = entry.elocationid || '';
-          const pmcid = entry.pmc || null;
           const pubtype = entry.pubtype?.[0] || "Journal Article";
 
-          const doiMatch = elocationid.match(/10\.\d{4,9}\/[-._;()\/:A-Z0-9]+/i);
-          const doi = doiMatch ? doiMatch[0] : null;
+          // Extract DOI
+          let doi = null;
+          if (entry.elocationid) {
+            const match = entry.elocationid.match(/10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i);
+            if (match) doi = match[0];
+          }
+          if (!doi && Array.isArray(entry.articleids)) {
+            const doiEntry = entry.articleids.find(id => id.idtype === "doi");
+            if (doiEntry) doi = doiEntry.value;
+          }
 
+          // Extract PMCID for Open Access badge
+          let pmcid = null;
+          if (Array.isArray(entry.articleids)) {
+            const pmcEntry = entry.articleids.find(id => id.idtype === "pmc");
+            if (pmcEntry) pmcid = pmcEntry.value;
+          }
+
+          // Format author list with bolded target author
           const boldRegex = new RegExp(authorRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
           const authorList = entry.authors.map((auth, i, arr) => {
             let name = auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
@@ -66,31 +79,48 @@ document.addEventListener("DOMContentLoaded", function () {
             return name;
           }).join(' ; ');
 
-          const html = `
-            <p>
-              <em>${pubtype}</em><br>
-              <div class="meta">${authorList}</div>
-              <strong>${title}</strong><br>
-              <span style="font-style: italic;">${journal}</span> (${pubdate})<br>
-              ${doi ? `<a href="https://doi.org/${doi}" target="_blank">${doi}</a><br>` : ''}
-              ${doi ? `
-                <div class="altmetric-embed"
-                     data-badge-type="1x1"
-                     data-badge-popover="right"
-                     data-doi="${doi}">
-                </div>` : ''}
-              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a> |
-              ${doi ? `<a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a> |` : ''}
-              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=pmid" target="_blank">EndNote</a> |
-              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=ris" target="_blank">RIS</a>
-            </p>
-          `;
+          let html = `<p>
+            <em>${pubtype}</em><br>
+            <div class="meta">${authorList}</div>
+            <strong>${title}</strong><br>
+            <span style="font-style: italic;">${journal}</span> (${pubdate})<br>`;
+
+          if (doi) {
+            html += `<a href="https://doi.org/${doi}" target="_blank">${doi}</a><br>`;
+          }
+
+          if (pmcid) {
+            html += `
+              <span class="badge open-access">Open Access</span>
+              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/${pmcid}/" target="_blank">
+                <span class="badge">Full text</span>
+              </a><br>`;
+          }
+
+          if (doi) {
+            html += `
+              <div class="altmetric-embed"
+                   data-badge-type="1x1"
+                   data-badge-popover="right"
+                   data-doi="${doi}">
+              </div>`;
+          }
+
+          html += `<a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
+
+          if (doi) {
+            html += ` | <a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a>`;
+          }
+
+          html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=pmid" target="_blank">EndNote</a>`;
+          html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=ris" target="_blank">RIS</a>`;
+          html += `</p>`;
 
           container.insertAdjacentHTML('beforeend', html);
         });
       }
 
-      // Reinitialize Altmetric badges after DOM updates
+      // Activate Altmetric badges after content is added
       setTimeout(() => {
         if (typeof window._altmetric_embed_init === 'function') {
           window._altmetric_embed_init();
