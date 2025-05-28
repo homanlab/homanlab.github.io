@@ -29,12 +29,17 @@ disorder by combining fMRI in humans with optogenetic and calcium
 imaging tools in mice.
 
 ** Recent preprints and publications
-- Omlor et al. 2024, medRxiv [[[https://www.medrxiv.org/content/10.1101/2024.04.13.24305575v1][link]]]
-- Omlor et al. 2023, bioRxiv [[[https://doi.org/10.1101/2023.09.22.559032][link]]]
-- Omlor et al. 2019, Nature Communications [[[https://www.nature.com/articles/s41467-019-12670-z][link]]]
-- Buchele et al. 2018, JAMA Neurology [[[https://jamanetwork.com/journals/jamaneurology/article-abstract/2659469][link]]]
-- Wahl et al. 2014, Science [[[https://science.sciencemag.org/content/344/6189/1250.long][link]]]
-See [[https://www.ncbi.nlm.nih.gov/pubmed/?term=omlor+w][here]] for full list
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Omlor W",
+#+HTML:    tag: "Psychiatry OR Neuroscience",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 ** Prizes, awards, fellowships                                           
 -	2010: Albrecht-Fleckenstein-Award for the medical doctorate
