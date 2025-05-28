@@ -24,7 +24,7 @@ psychotherapy). Stephanie [[https://www.psychologie.uzh.ch/de/bereiche/hea/expsy
 ** Recent publications
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
-#+HTML:    authorRaw: '("Homan S"[Author] OR "Winkelbeiner S"[Author])',
+#+HTML:    authorRaw: "Homan S",
 #+HTML:    tag: "Psychiatry",
 #+HTML:    retmax: 15,
 #+HTML:    targetId: "pubmed-results"
