@@ -13,15 +13,16 @@
 #+ATTR_HTML: :width 200px :title delta
 [[https://homanlab.github.io/media/img/homanlab_logo.png]]
 
-We are always interested in hearing from people who are interested in
-working with us. While we may not always have an immediate open
-position, there are often prospective openings that could be relevant.
+We're usually happy to hear from people interested in joining our
+group. While we may not have a current opening, opportunities often
+arise, and we welcome proactive inquiries.
 
-In general, having an idea of the sort of research you are interested
-in is important so that we can assess whether your interests are
-aligned with what we do. Hence, *please describe as specifically as
-possible what you would like to do*. Skills that we are particularly
-interested in are computational modeling and computational
-linguistics, functional neuroimaging and knowledge in experimental
-designs.
+If you're considering getting in touch, it's helpful if you can
+describe as *clearly as possible the kind of research you’re
+interested in and how it connects to our work*. We’re particularly
+interested in skills related to computational modeling, computational
+linguistics, functional neuroimaging, and experimental design.
+
+Questions? Please reach out to [[https://homanlab.github.io/people/2019/10/13/victoria-edkins/][Victoria Edkins]], our project manager
+and research coordinator.
 
