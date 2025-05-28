@@ -31,7 +31,6 @@ Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] 
  
 ** Recent preprints and publications
 
-#+HTML: <h2>PubMed publications by Homan P</h2>
 #+HTML: <div id="pubmed-results">Loading...</div>
 #+HTML: <script src="pubmed.js"></script>
 

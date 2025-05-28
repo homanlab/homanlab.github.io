@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const authorRaw = "Homan P"; // Change this if needed
-  const tag = "Psychiatry";              // Optional keyword (e.g. "Psychiatry")
-  const apiKey = "";           // Optional: NCBI API key for higher rate limits
-  const retmax = 100;
+  const authorRaw = "Homan P"; // Change as needed
+  const tag = "Psychiatry";              // Optional tag filter (e.g., "Psychiatry")
+  const apiKey = "";
+  const retmax = 10;
 
   const authorTag = `"${authorRaw}"[Author]`;
   const searchTerm = tag ? `${authorTag} AND ${tag}` : authorTag;
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const articles = data.result;
       const uids = (articles.uids || Object.keys(articles)).filter(k => k !== 'uids');
 
-      // Sort by date descending
+      // Sort descending by pub date
       uids.sort((a, b) => {
         const dateA = new Date(articles[a].pubdate || '1900');
         const dateB = new Date(articles[b].pubdate || '1900');
@@ -54,15 +54,38 @@ document.addEventListener("DOMContentLoaded", function () {
           const journal = entry.fulljournalname || '(no journal)';
           const pubdate = entry.pubdate || '';
           const elocationid = entry.elocationid || '';
+          const pmcid = entry.articleids?.find(id => id.idtype === "pmc")?.value || null;
+
           const doiMatch = elocationid.match(/10\.\d{4,9}\/[-._;()\/:A-Z0-9]+/i);
           const doi = doiMatch ? doiMatch[0] : null;
 
+          // Author formatting with bold highlight
+          const boldRegex = new RegExp(authorRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
+          const authorList = entry.authors.map((auth, i, arr) => {
+            let name = auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
+            //if (i === 0) return `${name} (First author)`;
+            //if (i === arr.length - 1) return `${name} (Last author)`;
+            return name;
+          }).join(' ; ');
+
           const html = `
             <p>
+              <div class="meta">${authorList}</div>
               <strong>${title}</strong><br>
               <span style="font-style: italic;">${journal}</span> (${pubdate})<br>
               ${doi ? `<a href="https://doi.org/${doi}" target="_blank">${doi}</a><br>` : ''}
-              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>
+              ${pmcid ? `
+                <span class="badge open-access">Open Access</span>
+                <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/${pmcid}/" target="_blank">
+                  <span class="badge">Full text</span>
+                </a><br>` : ''}
+              ${doi ? `
+                <a href="https://www.altmetric.com/details.php?doi=${encodeURIComponent(doi)}" target="_blank">
+                  View Altmetric metrics
+                </a><br>` : ''}
+              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a> |
+              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=pmid" target="_blank">EndNote</a> |
+              <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=ris" target="_blank">RIS</a>
             </p>
           `;
           container.insertAdjacentHTML('beforeend', html);
@@ -74,3 +97,6 @@ document.addEventListener("DOMContentLoaded", function () {
       console.error(err);
     });
 });
+
+
+
