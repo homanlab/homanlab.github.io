@@ -109,3 +109,5 @@ function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "
     });
 }
 
+
+
