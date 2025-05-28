@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Wed, 28 May 2025 16:04:54 CEST</pubDate>
-    <lastBuildDate>Wed, 28 May 2025 16:04:54 CEST</lastBuildDate>
+    <pubDate>Wed, 28 May 2025 16:24:47 CEST</pubDate>
+    <lastBuildDate>Wed, 28 May 2025 16:24:47 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,13 @@
       <description><![CDATA[How to apply ]]></description>
       <pubDate>2025-05-28</pubDate>
       <guid>http://homanlab.github.io/blog/2019/10/20/applying</guid>
+    </item>
+    <item>
+      <title>Akhil Misra. PhD student</title>
+      <link>http://homanlab.github.io/people/2019/10/11/akhil-misra</link>
+      <description><![CDATA[PhD student]]></description>
+      <pubDate>2025-05-28</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/11/akhil-misra</guid>
     </item>
     <item>
       <title>Finn-Lennart Rabe, PhD. Postdoc </title>
@@ -44,6 +51,13 @@
       <guid>http://homanlab.github.io/people/2019/10/09/janani-panchalingam</guid>
     </item>
     <item>
+      <title>Lucia Bautista, PhD. Clinical trial manager</title>
+      <link>http://homanlab.github.io/people/2019/10/13/lucia-bautista</link>
+      <description><![CDATA[Clinical trial manager]]></description>
+      <pubDate>2025-05-28</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/13/lucia-bautista</guid>
+    </item>
+    <item>
       <title>Nils Kallen, MD. Postdoc/Resident physician</title>
       <link>http://homanlab.github.io/people/2019/10/12/nils-kallen-md</link>
       <description><![CDATA[Psychiatry resident]]></description>
@@ -58,25 +72,11 @@
       <guid>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</guid>
     </item>
     <item>
-      <title>Rahel Horisberger, PhD. Postdoc/Senior psychologist</title>
-      <link>http://homanlab.github.io/people/2019/10/13/rahel-horisberger-msc</link>
-      <description><![CDATA[Doctoral Student]]></description>
+      <title>Pierfrancesco Sarti. Visiting student</title>
+      <link>http://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti</link>
+      <description><![CDATA[Visiting student]]></description>
       <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/13/rahel-horisberger-msc</guid>
-    </item>
-    <item>
-      <title>Stephanie Homan, PhD. Postdoc (alumna)</title>
-      <link>http://homanlab.github.io/people/2019/10/07/stephanie-homan-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/07/stephanie-homan-phd</guid>
-    </item>
-    <item>
-      <title>Victoria Edkins, PhD. Project manager and research coordinator</title>
-      <link>http://homanlab.github.io/people/2019/10/13/victoria-edkins</link>
-      <description><![CDATA[Project manager]]></description>
-      <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/13/victoria-edkins</guid>
+      <guid>http://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti</guid>
     </item>
   </channel>
 </rss>
