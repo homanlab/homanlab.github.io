@@ -23,7 +23,17 @@ Zurich. At the moment, she is working on her master's thesis
 within the MIA-study.
 
 ** Recent preprints and publications
-- Panchalingam et al. 2024, PsyArXiv [[[https://osf.io/preprints/psyarxiv/x3mub][link]]]
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Panchalingam J",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 ** Contact
 #+ATTR_HTML: :target _blank

@@ -26,27 +26,38 @@ large language models (LLMs) and neuroimaging techniques (fMRI and
 MEG).
 
 ** Recent publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Wu X",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
-- *Wu, X.*, Ren, X., Liu, C., & Zhang, H. (2024). The motive cocktail in
-  altruistic behaviors. Nature Computational Science, 4(9),
-  659-676. https://doi.org/10.1038/s43588-024-00685-6
+# - *Wu, X.*, Ren, X., Liu, C., & Zhang, H. (2024). The motive cocktail in
+#   altruistic behaviors. Nature Computational Science, 4(9),
+#   659-676. https://doi.org/10.1038/s43588-024-00685-6
 
-- *Wu, X.*, Fu, H., Zhang, T., Bao, D., Hu, J., Zhu, R., ... & Liu, C. A
-  cognitive computational mechanism for mutual cooperation: The roles
-  of positive expectation and social reward. Acta Psychologica Sinica,
-  56(9), 1299. https://doi.org/10.3724/SP.J.1041.2024.01299
+# - *Wu, X.*, Fu, H., Zhang, T., Bao, D., Hu, J., Zhu, R., ... & Liu, C. A
+#   cognitive computational mechanism for mutual cooperation: The roles
+#   of positive expectation and social reward. Acta Psychologica Sinica,
+#   56(9), 1299. https://doi.org/10.3724/SP.J.1041.2024.01299
 
-- Wang, H., *Wu, X.*, Xu, J., Zhu, R., Zhang, S., Xu, Z., ... &
-  Liu, C. (2024). Acute stress during witnessing injustice shifts
-  third-party interventions from punishing the perpetrator to helping
-  the victim. PLoS Biology, 22(5),
-  e3002195. https://doi.org/10.1073/pnas.2314590121
+# - Wang, H., *Wu, X.*, Xu, J., Zhu, R., Zhang, S., Xu, Z., ... &
+#   Liu, C. (2024). Acute stress during witnessing injustice shifts
+#   third-party interventions from punishing the perpetrator to helping
+#   the victim. PLoS Biology, 22(5),
+#   e3002195. https://doi.org/10.1073/pnas.2314590121
 
-- Jin, K., Wu, J., Zhang, R., Zhang, S., *Wu, X.*, Wu, T., ... &
-  Liu, C. (2024). Observing heroic behavior and its influencing
-  factors in immersive virtual environments. Proceedings of the
-  National Academy of Sciences, 121(17),
-  e2314590121. https://doi.org/10.1073/pnas.2314590121
+# - Jin, K., Wu, J., Zhang, R., Zhang, S., *Wu, X.*, Wu, T., ... &
+#   Liu, C. (2024). Observing heroic behavior and its influencing
+#   factors in immersive virtual environments. Proceedings of the
+#   National Academy of Sciences, 121(17),
+#   e2314590121. https://doi.org/10.1073/pnas.2314590121
 
 ** Contact
 #+ATTR_HTML: :target _blank

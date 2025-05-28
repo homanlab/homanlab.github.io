@@ -25,8 +25,17 @@ neurobiological underpinnings of brain disorders, with a special
 interest in endophenotypes and biomarker discovery.
 
 ** Recent publications
-- Georgiadis et al. 2023, Molecular Psychiatry. doi:
-  https://doi.org/10.1038/s41380-024-02442-7.
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Georgiadis F",
+#+HTML:    tag: "Psychiatry",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 ** Prizes, awards, fellowships                                     :noexport:
 
