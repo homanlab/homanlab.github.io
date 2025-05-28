@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
             ${doi ? ` | <a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a>` : ""}
             | <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/?format=pmid" target="_blank">EndNote</a>
             | <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/?format=ris" target="_blank">RIS</a>
-          </div>
+          </div><br><br>
         `;
 
         if (!byYear[year]) byYear[year] = [];
