@@ -35,7 +35,7 @@ imaging tools in mice.
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
 #+HTML:    authorRaw: "Omlor W",
-#+HTML:    tag: "Psychiatry OR Neuroscience",
+#+HTML:    tag: "Psychiatry AND Zurich",
 #+HTML:    retmax: 15,
 #+HTML:    targetId: "pubmed-results"
 #+HTML:  });
