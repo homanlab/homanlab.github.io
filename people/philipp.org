@@ -45,10 +45,17 @@ Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] 
 #+HTML:   font-weight: bold;
 #+HTML: }
 #+HTML: </style>
-#+HTML: <div id="pubmed-results">Loading...</div>
+#+HTML: <div id="pubmed-results"></div>
 #+HTML: <script src="pubmed.js"></script>
-#+HTML: <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" async></script>
-
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Homan P",
+#+HTML:    tag: "Psychiatry",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 
 ** Editorials and essays
