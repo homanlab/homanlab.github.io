@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const authorRaw = "Homan P"; // Change as needed
   const tag = "Psychiatry";              // Optional tag (e.g. "Psychiatry")
   const apiKey = "";           // Optional NCBI API key
-  const retmax = 100;
+  const retmax = 10;
 
   const authorTag = `"${authorRaw}"[Author]`;
   const searchTerm = tag ? `${authorTag} AND ${tag}` : authorTag;
