@@ -32,7 +32,7 @@ MEG).
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
 #+HTML:    authorRaw: "Wu Xiaoyan",
-#+HTML:    tag: "Psychiatry OR Liu OR Zhang",
+#+HTML:    tag: "",
 #+HTML:    retmax: 15,
 #+HTML:    targetId: "pubmed-results"
 #+HTML:  });
