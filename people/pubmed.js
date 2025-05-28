@@ -72,9 +72,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
           // Authors
           const boldRegex = new RegExp(authorRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
-          const authorList = entry.authors.map(auth => {
-            return auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
-          }).join(' ; ');
+          const authorList = entry.authors.map(auth =>
+            auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`)
+          ).join(' ; ');
 
           let html = `<div class="pub-entry">
             <em>${pubtype}</em><br>
@@ -103,12 +103,10 @@ document.addEventListener("DOMContentLoaded", function () {
               </div>`;
           }
 
-          html += `<br><a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
-
+          html += `<a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
           if (doi) {
             html += ` | <a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a>`;
           }
-
           html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=pmid" target="_blank">EndNote</a>`;
           html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=ris" target="_blank">RIS</a>`;
           html += `</div>`;
@@ -117,18 +115,15 @@ document.addEventListener("DOMContentLoaded", function () {
         });
       }
 
-      // ✅ Trigger Altmetric rendering
+      // Altmetric badge reinitialization
       setTimeout(() => {
         if (typeof window._altmetric_embed_init === 'function') {
           window._altmetric_embed_init();
         }
-      }, 100);
+      }, 300);
     })
     .catch(err => {
       document.getElementById('pubmed-results').innerText = 'Error loading publications.';
       console.error(err);
     });
 });
-
-
-
