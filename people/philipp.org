@@ -31,8 +31,9 @@ Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] 
  
 ** Recent preprints and publications
 #+HTML: <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" async></script>
-#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script src="/js/pubmed_dynamic.js"></script>
 #+HTML: <div id="pubmed-results">Loading...</div>
+
 
 
 
