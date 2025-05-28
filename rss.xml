@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Wed, 28 May 2025 15:38:51 CEST</pubDate>
-    <lastBuildDate>Wed, 28 May 2025 15:38:51 CEST</lastBuildDate>
+    <pubDate>Wed, 28 May 2025 15:45:52 CEST</pubDate>
+    <lastBuildDate>Wed, 28 May 2025 15:45:52 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Working with us</title>
+      <link>http://homanlab.github.io/blog/2019/10/20/applying</link>
+      <description><![CDATA[How to apply ]]></description>
+      <pubDate>2025-05-28</pubDate>
+      <guid>http://homanlab.github.io/blog/2019/10/20/applying</guid>
+    </item>
     <item>
       <title>Finn-Lennart Rabe, PhD. Postdoc </title>
       <link>http://homanlab.github.io/people/2019/10/13/finn-rabe-phd</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2025-05-28</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/13/werner-surbeck-md-phd</guid>
-    </item>
-    <item>
-      <title>Wolfgang Omlor, MD, PhD. Postdoc/Attending physician</title>
-      <link>http://homanlab.github.io/people/2019/10/13/wolfgang-omlor-md-phd</link>
-      <description><![CDATA[Postdoc]]></description>
-      <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/13/wolfgang-omlor-md-phd</guid>
     </item>
   </channel>
 </rss>
