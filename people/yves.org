@@ -29,6 +29,18 @@ the brains of psychotic patients using language models and correlating
 the findings with fMRI recordings.
 
 ** Recent publications
+** Recent publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Pauli Y",
+#+HTML:    tag: "Psychiatry",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML: </script>
 
 ** Prizes, awards, fellowships                                     :noexport:
 

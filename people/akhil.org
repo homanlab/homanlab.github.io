@@ -23,6 +23,18 @@ interpatient variability in schizophrenia.
 
 
 ** Recent publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Misra A",
+#+HTML:    tag: "Psychiatry",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML: </script>
+
 
 ** Prizes, awards, fellowships                                     :noexport:
 

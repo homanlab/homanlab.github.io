@@ -29,10 +29,17 @@ and how they change over time to implement precise and personalized
 interventions.
 
 ** Recent publications
--	Sarti P, Colliva C, Varrasi S, et al., 2023 
--	Scarponi D, et al., 2023 
--	Guerrera C.S, Platania G.A, Boccaccio F.M, et al., 2023 
--	Platania G.A, Guerrera C.S, Sarti P, et al., 2023 
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Sarti P",
+#+HTML:    tag: "Psychiatry",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML: </script>
 
 ** Contact
 #+ATTR_HTML: :target _blank
