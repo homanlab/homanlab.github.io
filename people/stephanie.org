@@ -22,17 +22,14 @@ psychotherapy). Stephanie [[https://www.psychologie.uzh.ch/de/bereiche/hea/expsy
 [[https://www.dppp.uzh.ch/en/researchgroups/researchgroups/experimental-psychopathology-and-psychotherapy/team.html][Experimental Psychopathology and Psychotherapy Group]].
 
 ** Recent publications
-#+HTML: <div id="pubmed-results"></div>
-#+HTML: <script src="pubmed.js"></script>
-#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
-#+HTML:    authorRaw: "Homan S OR Winkelbeiner S",
+#+HTML:    authorRaw: '("Homan S"[Author] OR "Winkelbeiner S"[Author])',
 #+HTML:    tag: "Psychiatry",
 #+HTML:    retmax: 15,
 #+HTML:    targetId: "pubmed-results"
 #+HTML:  });
-#+HTML:  </script>
+#+HTML: </script>
 
 ** Prizes, awards, fellowships
 - 11/2020: Research Grant from the EMDO Foundation, Switzerland
