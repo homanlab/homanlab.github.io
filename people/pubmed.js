@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const authorRaw = "Homan P";  // Customize author
-  const tag = "";               // Optional keyword (e.g., "Psychiatry")
-  const apiKey = "";            // Optional NCBI API key
+  const authorRaw = "Homan P";
+  const tag = "Psychiatry";
+  const apiKey = "";
   const retmax = 10;
 
   const authorTag = `"${authorRaw}"[Author]`;
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
           const pubdate = entry.pubdate || '';
           const pubtype = entry.pubtype?.[0] || "Journal Article";
 
-          // Extract DOI
+          // DOI
           let doi = null;
           if (entry.elocationid) {
             const match = entry.elocationid.match(/10\.\d{4,9}\/[-._;()/:A-Z0-9]+/i);
@@ -63,24 +63,24 @@ document.addEventListener("DOMContentLoaded", function () {
             if (doiEntry) doi = doiEntry.value;
           }
 
-          // Extract PMCID for Open Access badge
+          // PMCID for Open Access
           let pmcid = null;
           if (Array.isArray(entry.articleids)) {
             const pmcEntry = entry.articleids.find(id => id.idtype === "pmc");
             if (pmcEntry) pmcid = pmcEntry.value;
           }
 
-          // Format author list with bolded target author
+          // Authors with bolding
           const boldRegex = new RegExp(authorRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
           const authorList = entry.authors.map((auth, i, arr) => {
             let name = auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
-            if (i === 0) return `${name} (First author)`;
-            if (i === arr.length - 1) return `${name} (Last author)`;
+            //if (i === 0) return `${name} (First author)`;
+            //if (i === arr.length - 1) return `${name} (Last author)`;
             return name;
           }).join(' ; ');
 
           let html = `<p>
-            <em>${pubtype}</em><br>
+            <em>${pubtype}</em>
             <div class="meta">${authorList}</div>
             <strong>${title}</strong><br>
             <span style="font-style: italic;">${journal}</span> (${pubdate})<br>`;
@@ -99,11 +99,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
           if (doi) {
             html += `
-              <div class="altmetric-embed"
-                   data-badge-type="1x1"
-                   data-badge-popover="right"
-                   data-doi="${doi}">
-              </div>`;
+              <a href="https://www.altmetric.com/details.php?doi=${encodeURIComponent(doi)}" target="_blank">
+                <img src="https://badges.altmetric.com/?size=1&doi=${encodeURIComponent(doi)}"
+                     alt="Altmetric badge"
+                     style="vertical-align: middle; margin: 4px 0;" />
+              </a><br>`;
           }
 
           html += `<a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
@@ -119,13 +119,6 @@ document.addEventListener("DOMContentLoaded", function () {
           container.insertAdjacentHTML('beforeend', html);
         });
       }
-
-      // Activate Altmetric badges after content is added
-      setTimeout(() => {
-        if (typeof window._altmetric_embed_init === 'function') {
-          window._altmetric_embed_init();
-        }
-      }, 100);
     })
     .catch(err => {
       document.getElementById('pubmed-results').innerText = 'Error loading publications.';
