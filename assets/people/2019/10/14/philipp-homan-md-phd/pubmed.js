@@ -63,25 +63,22 @@ document.addEventListener("DOMContentLoaded", function () {
             if (doiEntry) doi = doiEntry.value;
           }
 
-          // PMCID for Open Access
+          // PMCID
           let pmcid = null;
           if (Array.isArray(entry.articleids)) {
             const pmcEntry = entry.articleids.find(id => id.idtype === "pmc");
             if (pmcEntry) pmcid = pmcEntry.value;
           }
 
-          // Authors with bolding
+          // Authors
           const boldRegex = new RegExp(authorRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i');
-          const authorList = entry.authors.map((auth, i, arr) => {
-            let name = auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
-            //if (i === 0) return `${name} (First author)`;
-            //if (i === arr.length - 1) return `${name} (Last author)`;
-            return name;
+          const authorList = entry.authors.map(auth => {
+            return auth.name.replace(boldRegex, `<strong>${authorRaw}</strong>`);
           }).join(' ; ');
 
-          let html = `<p>
-            <em>${pubtype}</em>
-            <div class="meta">${authorList}</div>
+          let html = `<div class="pub-entry">
+            <em>${pubtype}</em><br>
+            ${authorList}<br>
             <strong>${title}</strong><br>
             <span style="font-style: italic;">${journal}</span> (${pubdate})<br>`;
 
@@ -94,19 +91,19 @@ document.addEventListener("DOMContentLoaded", function () {
               <span class="badge open-access">Open Access</span>
               <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/${pmcid}/" target="_blank">
                 <span class="badge">Full text</span>
-              </a><br>`;
+              </a>`;
           }
 
           if (doi) {
             html += `
-              <a href="https://www.altmetric.com/details.php?doi=${encodeURIComponent(doi)}" target="_blank">
-                <img src="https://badges.altmetric.com/?size=1&doi=${encodeURIComponent(doi)}"
-                     alt="Altmetric badge"
-                     style="vertical-align: middle; margin: 4px 0;" />
-              </a><br>`;
+              <div class="altmetric-embed"
+                   data-badge-type="1x1"
+                   data-badge-popover="right"
+                   data-doi="${doi}">
+              </div>`;
           }
 
-          html += `<a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
+          html += `<br><a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}" target="_blank">PubMed</a>`;
 
           if (doi) {
             html += ` | <a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a>`;
@@ -114,14 +111,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
           html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=pmid" target="_blank">EndNote</a>`;
           html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${entry.uid}/?format=ris" target="_blank">RIS</a>`;
-          html += `</p>`;
+          html += `</div>`;
 
           container.insertAdjacentHTML('beforeend', html);
         });
       }
+
+      // ✅ Trigger Altmetric rendering
+      setTimeout(() => {
+        if (typeof window._altmetric_embed_init === 'function') {
+          window._altmetric_embed_init();
+        }
+      }, 100);
     })
     .catch(err => {
       document.getElementById('pubmed-results').innerText = 'Error loading publications.';
       console.error(err);
     });
 });
+
+
+
