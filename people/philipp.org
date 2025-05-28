@@ -35,6 +35,7 @@ Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] 
 #+HTML: <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" async></script>
 
 
+
 ** Editorials and essays
 - Homan 2023, MERKUR [[[https://volltext.merkur-zeitschrift.de/article/99.120210/mr-77-6-81][link]]]
 - Homan & Kane 2018, Acta Psychiatrica Scandinavica [[[https://onlinelibrary.wiley.com/doi/full/10.1111/acps.12965][link]]]
