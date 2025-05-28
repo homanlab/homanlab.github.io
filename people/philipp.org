@@ -30,21 +30,6 @@ faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstei
 Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
  
 ** Recent preprints and publications
-#+HTML: <style>
-#+HTML: .badge {
-#+HTML:   display: inline-block;
-#+HTML:   padding: 2px 6px;
-#+HTML:   background: #eee;
-#+HTML:   color: #333;
-#+HTML:   border-radius: 4px;
-#+HTML:   margin-right: 6px;
-#+HTML:   font-size: 0.85em;
-#+HTML: }
-#+HTML: .badge.open-access {
-#+HTML:   background: #fdbc4b;
-#+HTML:   font-weight: bold;
-#+HTML: }
-#+HTML: </style>
 #+HTML: <div id="pubmed-results"></div>
 #+HTML: <script src="pubmed.js"></script>
 #+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
