@@ -74,11 +74,11 @@ function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "
         }
         if (doi) {
           html += `
-            <div class="altmetric-embed"
-                 data-badge-type="attention-score-only"
-                 data-badge-popover="right"
-                 data-doi="${doi}">
-            </div>`;
+            <span class="altmetric-embed"
+                  data-badge-type="attention-score-only"
+                  data-badge-popover="right"
+                  data-doi="${doi}">
+            </span>`;
         }
         html += `</div>`;
 
@@ -88,7 +88,7 @@ function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "
         }
         html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/?format=pmid" target="_blank">EndNote</a>`;
         html += ` | <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/?format=ris" target="_blank">RIS</a>`;
-        html += `</div>`;
+        html += `</div><br><br>`;
 
         if (!byYear[year]) byYear[year] = [];
         byYear[year].push(html);
