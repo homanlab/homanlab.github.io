@@ -1,5 +1,13 @@
 function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "pubmed-results" }) {
-  const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent('"' + authorRaw + '"[Author]' + (tag ? ' AND ' + tag : ''))}&retmode=json&retmax=${retmax}&sort=pub+date`;
+  //const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent('"' + authorRaw + '"[Author]' + (tag ? ' AND ' + tag : ''))}&retmode=json&retmax=${retmax}&sort=pub+date`;
+
+
+  const hasFieldTag = /\[[^\]]+\]/.test(authorRaw);
+  const wrappedAuthor = hasFieldTag ? authorRaw : `"${authorRaw}"[Author]`;
+  const searchTerm = tag ? `${wrappedAuthor} AND ${tag}` : wrappedAuthor;
+
+  const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(searchTerm)}&retmode=json&retmax=${retmax}&sort=pub+date`;
+
 
   fetch(searchUrl)
     .then(res => res.json())
