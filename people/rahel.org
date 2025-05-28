@@ -22,9 +22,17 @@ is a senior psychologist and licenced psychotherapist at the
 Psychiatric University Hospital in Zurich.
 
 ** Recent publications
-- Horisberger, R., Kaiser, S., & Hartmann-Riemer, M. (2023). Social
-  motives as a psychological factor influencing negative symptoms in
-  patients with schizophrenia. doi: https://doi.org/10.31234/osf.io/v236a
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Horisberger R",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 ** Contact
 #+ATTR_HTML: :target _blank

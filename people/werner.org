@@ -22,6 +22,20 @@ study]], Werner investigates brain-based semantic processing
 abnormalities in schizophrenia spectrum disorders, together with [[https://homanlab.github.io/noemi/][Noemi]]
 and their [[https://homanlab.github.io/velas#team][team of students]].
 
+** Recent preprints and publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Surbeck W",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
+
+
 ** Prizes, Awards, Fellowships
 - 08/2020: [[https://homanlab.github.io/blog/2020/08/28/narsad-young-investigator-grant-werner][NARSAD Young Investigator Grant]], Brain & Behavior Research
   Foundation, New York, USA

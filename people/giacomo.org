@@ -22,7 +22,17 @@ psychotic disorders, a topic that he hopes to further explore and study
 in depth as his residency progresses.
 
 ** Recent publications
-- Homan S. et al. 2020, Neuroscience & Biobehavioral Reviews [[[https://doi.org/10.1101/2020.05.02.20088831][link]]]
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Cecere G",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
 ** Contact
 #+ATTR_HTML: :target _blank
