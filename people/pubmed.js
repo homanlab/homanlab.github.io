@@ -75,7 +75,7 @@ function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "
         if (doi) {
           html += `
             <div class="altmetric-embed"
-                 data-badge-type="donut"
+                 data-badge-type="attention-score-only"
                  data-badge-popover="right"
                  data-doi="${doi}">
             </div>`;
