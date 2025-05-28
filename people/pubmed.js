@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
               <span class="badge open-access">Open Access</span>
               <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/${pmcid}/" target="_blank"><span class="badge">Full text</span></a>` : ""}
             ${doi ? `
-              <div class="altmetric-embed" data-badge-type="1x1" data-badge-popover="right" data-doi="${doi}"></div>` : ""}
+              <div class="altmetric-embed" data-badge-type="attention-score-only" data-badge-popover="right" data-doi="${doi}"></div>` : ""}
             <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}" target="_blank">PubMed</a>
             ${doi ? ` | <a href="https://doi2bib.org/bib/${encodeURIComponent(doi)}" target="_blank">BibTeX</a>` : ""}
             | <a href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/?format=pmid" target="_blank">EndNote</a>
