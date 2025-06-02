@@ -66,10 +66,21 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
         //  return name.replace(regex, `<strong>${authorRaw}</strong>`);
         //}).join(" ; ");
 
-        const regex = new RegExp(`\\b${authorToHighlight}\\b`, "i");
+        //const regex = new RegExp(`\\b${authorToHighlight}\\b`, "i");
+        //const authorList = authors.map(name => {
+        //  return regex.test(name) ? name.replace(regex, `<strong>${authorToHighlight}</strong>`) : name;
+        //}).join(" ; ");
+
+        const normalizedTarget = authorToHighlight.trim().toLowerCase();
         const authorList = authors.map(name => {
-          return regex.test(name) ? name.replace(regex, `<strong>${authorToHighlight}</strong>`) : name;
+          const normalizedName = name.trim().toLowerCase();
+          if (normalizedName.includes(normalizedTarget)) {
+            const bolded = name.replace(new RegExp(authorToHighlight, "i"), match => `<strong>${match}</strong>`);
+            return bolded;
+          }
+          return name;
         }).join(" ; ");
+
 
         let html = `<div class="pub-entry">
           <em>${label}</em><br>
