@@ -13,21 +13,41 @@
 #+ATTR_HTML: :width 200px
 [[https://homanlab.github.io/media/img/lab_ph2.png]]
 
-[[https://homanlab.github.io/philipp/][Philipp]] is a [[https://en.wikipedia.org/wiki/Physician-scientist][clinician scientist]] at the [[https://www.pukzh.ch/][University Hospital of
-Psychiatry]] and the [[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]]. He is [[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/information/editorial-board][Associate Editor]]
-at the British Journal of Psychiatry and BMC Medicine. Philipp is
-Vicedirector and Chief Physician (Stv. Klinikdirektor und Chefarzt) at
-the University Hospital and Principal Investigator of the Homan Lab
-where works with a group of [[https://homanlab.github.io/people/][talented people]]. Philipp studied business
-and computer science at the [[https://tuwien.ac.at/en/][Technical University]] and medicine at the
-[[https://www.meduniwien.ac.at/web/en][Medical University]] in Vienna. He completed his residency in psychiatry
-(with Werner Strik) as well as a PhD in clinical neuroscience (with
-Thomas Dierks) at the [[https://www.upd.unibe.ch][University of Bern]] in Switzerland where he was
-Attending Physician at the [[http://www.upd.unibe.ch][University Hospital]] and also led the Brain
-Stimulation Unit. He then did a two year postdoctoral fellowship with
-[[http://labs.neuroscience.mssm.edu/project/schiller-lab/][Daniela Schiller]] at [[https://www.mssm.edu][Mount Sinai]] in New York after which he joined the
-faculty as Assistant Professor at the [[https://feinsteininstitute.org][Feinstein Institute for Medical
-Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] in New York.
+
+Philipp is a member of the medical faculty at
+[[https://www.med.uzh.ch/de/UeberdieFakultaet/fakultaetsmitglieder.html][the
+University of Zurich]] and Deputy Director of the
+[[https://www.pukzh.ch][University Hospital of Psychiatry]], where he
+also serves as Chief Physician (Stv. Klinikdirektor und Chefarzt). He
+chairs
+[[https://www.med.uzh.ch/de/UeberdieFakultaet/Fakult%C3%A4tsausschuss.html][Fachbereich
+4 (Clinical Neurosciences and Psychiatry)]] within the faculty and
+leads the Homan-Lab at the
+[[https://www.neuroscience.uzh.ch][Neuroscience Center Zurich]].
+
+Philipp studied business and computer science at the Technical
+University and medicine at the Medical University of Vienna. He
+completed his residency in psychiatry with Werner Strik and earned a
+PhD in clinical neuroscience with Thomas Dierks at the University of
+Bern, where he also led the Brain Stimulation Unit as attending
+physician. He then spent several years in New York, first as a
+postdoctoral fellow with Daniela Schiller at Mount Sinai, and later as
+faculty at the [[https://feinstein.northwell.edu][Feinstein Institutes
+for Medical Research]] and the Zucker School of Medicine. He returned
+to Switzerland to take up his current clinical and academic roles in
+Zurich.
+
+His research combines theory- and data-driven approaches to the study
+of severe mental illness, particularly psychosis. His group integrates
+cognitive neuroscience and data science to study language, thought,
+and decision processes in psychiatric disorders. Philipp serves on the
+editorial boards of several international journals, including the
+[[https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry][British
+Journal of Psychiatry]] and
+[[https://bmcmedicine.biomedcentral.com][BMC Medicine]]. His work is
+supported by the
+[[https://erc.europa.eu/news-events/news/synergy-grants-2023-examples-projects][European
+Research Council (ERC)]].
  
 ** Recent preprints and publications
 #+HTML: <div id="pubmed-results"></div>
