@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Mon, 02 Jun 2025 10:25:28 CEST</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 10:25:28 CEST</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 10:28:30 CEST</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:28:30 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,13 @@
       <description><![CDATA[Principal Investigator]]></description>
       <pubDate>2025-06-02</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</guid>
+    </item>
+    <item>
+      <title>Stephanie Homan, PhD. Postdoc (alumna)</title>
+      <link>http://homanlab.github.io/people/2019/10/07/stephanie-homan-phd</link>
+      <description><![CDATA[Postdoc]]></description>
+      <pubDate>2025-06-02</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/07/stephanie-homan-phd</guid>
     </item>
     <item>
       <title>Working with us</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Psychiatry resident]]></description>
       <pubDate>2025-05-28</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/12/nils-kallen-md</guid>
-    </item>
-    <item>
-      <title>Pierfrancesco Sarti. Visiting student</title>
-      <link>http://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti</link>
-      <description><![CDATA[Visiting student]]></description>
-      <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti</guid>
     </item>
   </channel>
 </rss>
