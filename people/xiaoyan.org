@@ -30,13 +30,19 @@ MEG).
 #+HTML: <script src="pubmed.js"></script>
 #+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 #+HTML: <script>
-#+HTML:  loadPubmedPublications({
-#+HTML:    authorRaw: "Wu Xiaoyan",
-#+HTML:    tag: "",
-#+HTML:    retmax: 15,
-#+HTML:    targetId: "pubmed-results"
-#+HTML:  });
-#+HTML:  </script>
+#+HTML: loadPubmedPublications({
+#+HTML:   authorRaw: 'Wu X[Author] AND (
+#+HTML:   "State Key Laboratory of Cognitive Neuroscience and
+#+HTML:    Learning, Beijing Normal University"[Affiliation] 
+#+HTML:    OR "College of Psychology and Sociology, Shenzhen University"[Affiliation] 
+#+HTML:    OR "Psychiatric Hospital, University of Zurich"[Affiliation]
+#+HTML:    ) NOT Huang R[Author]',
+#+HTML:   highlightAuthor: "Wu X",
+#+HTML:   tag: "",
+#+HTML:   retmax: 15,
+#+HTML:   targetId: "pubmed-results"
+#+HTML: });
+#+HTML: </script>
 
 # - *Wu, X.*, Ren, X., Liu, C., & Zhang, H. (2024). The motive cocktail in
 #   altruistic behaviors. Nature Computational Science, 4(9),
