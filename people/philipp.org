@@ -36,7 +36,8 @@ Research]] and the [[https://medicine.hofstra.edu/][Zucker School of Medicine]] 
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
 #+HTML:    authorRaw: "Homan P NOT Homan PJ[au] NOT Homan Philip[au] NOT Homan Patricia",
-#+HTML:    tag: "Psychiatry",
+#+HTML:    highlightAuthor: "Homan P",
+#+HTML:    tag: "",
 #+HTML:    retmax: 15,
 #+HTML:    targetId: "pubmed-results"
 #+HTML:  });

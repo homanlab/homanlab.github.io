@@ -1,10 +1,12 @@
-function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "pubmed-results" }) {
+function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", retmax = 10, targetId = "pubmed-results" }) {
+//function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "pubmed-results" }) {
   //const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent('"' + authorRaw + '"[Author]' + (tag ? ' AND ' + tag : ''))}&retmode=json&retmax=${retmax}&sort=pub+date`;
 
 
   const hasFieldTag = /\[[^\]]+\]/.test(authorRaw);
   const wrappedAuthor = hasFieldTag ? authorRaw : `"${authorRaw}"[Author]`;
   const searchTerm = tag ? `${wrappedAuthor} AND ${tag}` : wrappedAuthor;
+  const authorToHighlight = highlightAuthor || authorRaw;
 
   const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(searchTerm)}&retmode=json&retmax=${retmax}&sort=pub+date`;
 
@@ -59,9 +61,14 @@ function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "
         const isPreprint = /psyarxiv|biorxiv|medrxiv|arxiv/i.test(journal);
         const label = isPreprint ? "Preprint" : "Journal Article";
 
+        //const authorList = authors.map(name => {
+        //  const regex = new RegExp(authorRaw, "i");
+        //  return name.replace(regex, `<strong>${authorRaw}</strong>`);
+        //}).join(" ; ");
+
+        const regex = new RegExp(`\\b${authorToHighlight}\\b`, "i");
         const authorList = authors.map(name => {
-          const regex = new RegExp(authorRaw, "i");
-          return name.replace(regex, `<strong>${authorRaw}</strong>`);
+          return regex.test(name) ? name.replace(regex, `<strong>${authorToHighlight}</strong>`) : name;
         }).join(" ; ");
 
         let html = `<div class="pub-entry">
