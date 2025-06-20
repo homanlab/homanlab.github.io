@@ -10,7 +10,7 @@
 #+DESCRIPTION: New publication in Nature Mental Health 
 #+AVATAR:      https://homanlab.github.io/media/img/nmh.jpg
 
-#+ATTR_HTML: :width 600px :title nmh
+#+ATTR_HTML: :width 300px :title nmh
 [[https://homanlab.github.io/media/img/nmh.jpg]]
 
 We're happy to share that our new paper is featured on the cover of
