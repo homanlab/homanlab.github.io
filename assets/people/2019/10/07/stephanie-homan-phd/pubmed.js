@@ -1,8 +1,4 @@
 function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", retmax = 10, targetId = "pubmed-results" }) {
-//function loadPubmedPublications({ authorRaw, tag = "", retmax = 10, targetId = "pubmed-results" }) {
-  //const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent('"' + authorRaw + '"[Author]' + (tag ? ' AND ' + tag : ''))}&retmode=json&retmax=${retmax}&sort=pub+date`;
-
-
   const hasFieldTag = /\[[^\]]+\]/.test(authorRaw);
   const wrappedAuthor = hasFieldTag ? authorRaw : `"${authorRaw}"[Author]`;
   const searchTerm = tag ? `${wrappedAuthor} AND ${tag}` : wrappedAuthor;
@@ -10,16 +6,14 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
 
   const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(searchTerm)}&retmode=json&retmax=${retmax}&sort=pub+date`;
 
-
   fetch(searchUrl)
     .then(res => res.json())
     .then(data => {
-      const ids = data.esearchresult.idlist;
+      const ids = data.esearchresult.idlist.map(id => String(id).replace(/\s+/g, ''));
       if (!ids.length) {
         document.getElementById(targetId).innerText = "No publications found.";
         return;
       }
-
       const efetchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${ids.join(",")}&retmode=xml`;
       return fetch(efetchUrl);
     })
@@ -32,6 +26,7 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
       const byYear = {};
 
       articles.forEach(article => {
+        const pmid = article.querySelector("PMID")?.textContent;
         const title = article.querySelector("ArticleTitle")?.textContent || "(no title)";
         const journal = article.querySelector("Journal > Title")?.textContent || "(no journal)";
         const year = article.querySelector("PubDate > Year")?.textContent || "Unknown";
@@ -49,27 +44,22 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
           return last && init ? `${last} ${init}` : null;
         }).filter(Boolean);
 
+        // FIX: Only use top-level ArticleIdList (do not grab from references)
+        const articleIdList = article.querySelector("ArticleIdList");
         const idMap = {};
-        article.querySelectorAll("ArticleId").forEach(id => {
-          idMap[id.getAttribute("IdType")] = id.textContent;
-        });
-
+        if (articleIdList) {
+          articleIdList.querySelectorAll("ArticleId").forEach(id => {
+            idMap[id.getAttribute("IdType")] = id.textContent;
+          });
+        }
         const doi = idMap["doi"];
         const pmcid = idMap["pmc"];
-        const pmid = idMap["pubmed"];
+
+        // Optional debug:
+        // console.log("PMID:", pmid, "Title:", title, "DOI:", doi);
 
         const isPreprint = /psyarxiv|biorxiv|medrxiv|arxiv/i.test(journal);
         const label = isPreprint ? "Preprint" : "Journal Article";
-
-        //const authorList = authors.map(name => {
-        //  const regex = new RegExp(authorRaw, "i");
-        //  return name.replace(regex, `<strong>${authorRaw}</strong>`);
-        //}).join(" ; ");
-
-        //const regex = new RegExp(`\\b${authorToHighlight}\\b`, "i");
-        //const authorList = authors.map(name => {
-        //  return regex.test(name) ? name.replace(regex, `<strong>${authorToHighlight}</strong>`) : name;
-        //}).join(" ; ");
 
         const normalizedTarget = authorToHighlight.trim().toLowerCase();
         const authorList = authors.map(name => {
@@ -81,7 +71,6 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
           return name;
         }).join(" ; ");
 
-
         let html = `<div class="pub-entry">
           <em>${label}</em><br>
           ${authorList}<br>
@@ -89,7 +78,6 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
           <span style="font-style: italic;">${journal}</span>${volume ? ` ${volume}` : ""}${issue ? `(${issue})` : ""}${pages ? `, ${pages}` : ""} (${year} ${date})<br>
           ${doi ? `<a href="https://doi.org/${doi}" target="_blank">${doi}</a><br>` : ""}`;
 
-        // inline badges
         html += `<div class="badges">`;
         if (pmcid) {
           html += `
@@ -134,6 +122,3 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
       document.getElementById(targetId).innerText = "Error loading publications.";
     });
 }
-
-
-
