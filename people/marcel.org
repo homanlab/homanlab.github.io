@@ -1,0 +1,32 @@
+#+TITLE:       Marcel Socoro Garrigosa. Master's student
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-10 Thu
+#+URI:         /people/%y/%m/%d/marcel-socoro
+#+KEYWORDS:    lab, marcel, contact, cv
+#+TAGS:        lab, marcel, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Master's student 
+#+AVATAR:      https://homanlab.github.io/media/img/socoro.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/socoro.jpg]]
+
+Marcel is a master's student in Neural Systems and Computation at
+University of Zurich and ETH Zurich. He earned a BSc in Biomedical
+Engineering from Pompeu Fabra University in Barcelona, where, as part
+of his final project, he employed whole-brain models to investigate
+the pharmacological effects of different antidepressants in major
+depression. With interests in neuropsychiatric disorders, brain
+dynamics, and language, he is now doing a research internship as part
+of the DELTA-LANG project, studying the organization of functional
+brain networks in language processing with longitudinal fMRI data.
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: marcel.socorogarrigosa@uzh.ch 
+
+	
+
