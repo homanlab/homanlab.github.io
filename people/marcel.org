@@ -23,6 +23,19 @@ dynamics, and language, he is now doing a research internship as part
 of the DELTA-LANG project, studying the organization of functional
 brain networks in language processing with longitudinal fMRI data.
 
+** Recent preprints and publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Socoro Garrigosa M",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
+
+
 ** Contact
 #+ATTR_HTML: :target _blank
 - Phone: +41 (0)58 384 21 11
