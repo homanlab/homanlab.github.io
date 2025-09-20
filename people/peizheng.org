@@ -27,7 +27,7 @@ disruptions are linked to schizotypy.
 #+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 #+HTML: <script>
 #+HTML: loadPubmedPublications({
-#+HTML:   authorRaw: 'Wu Peizheng',
+#+HTML:   authorRaw: 'Wu Peizheng AND linguistics',
 #+HTML:   highlightAuthor: "Wu P",
 #+HTML:   tag: "",
 #+HTML:   retmax: 2,
