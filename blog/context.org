@@ -10,7 +10,7 @@
 #+DESCRIPTION: New preprint shows loss focus over reward in psychosis
 #+AVATAR:      https://homanlab.github.io/media/img/omlor2025b.png
 
-#+ATTR_HTML: :width 300px :title omlor2025b
+#+ATTR_HTML: :width 600px :title omlor2025b
 [[https://homanlab.github.io/media/img/omlor2025b.png]]
 
 Schizophrenia is often marked by reduced motivation and difficulty
