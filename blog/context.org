@@ -1,0 +1,36 @@
+#+TITLE:       When loss outweighs reward
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2025-09-20 Sat
+#+URI:         /blog/%y/%m/%d/context
+#+KEYWORDS:    reward, loss, schizophrenia 
+#+TAGS:        reward, loss, schizophrenia
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: New preprint shows loss focus over reward in psychosis
+#+AVATAR:      https://homanlab.github.io/media/img/omlor2025b.png
+
+#+ATTR_HTML: :width 300px :title omlor2025b
+[[https://homanlab.github.io/media/img/omlor2025b.png]]
+
+Schizophrenia is often marked by reduced motivation and difficulty
+experiencing pleasure. In this new study, now [[https://www.medrxiv.org/content/10.1101/2025.07.02.25330758v2][online as a preprint]], we
+asked why people with schizophrenia seem less driven by rewards yet
+remain sensitive to avoiding losses. We examined 50 individuals with
+schizophrenia spectrum disorders and 48 healthy participants while
+they completed a decision-making task during functional brain imaging.
+
+We found that healthy people relied more on goal-directed strategies
+when pursuing rewards, whereas people with schizophrenia focused more
+on avoiding losses. This shift was mirrored in prefrontal brain
+activity. In particular, stronger loss-related activation in the
+anterior cingulate cortex was linked to reduced pleasure and predicted
+worsening motivation and social withdrawal over the following year.
+
+Our findings suggest that people with schizophrenia devote more mental
+resources to avoiding losses than to pursuing rewards. This imbalance
+may underlie problems with motivation and pleasure, and it could guide
+the development of new treatments.
+
+Congratulations to Wolfgang, Giacomo, and Akhil for leading this work,
+and many thanks to our collaborators.
