@@ -1,0 +1,46 @@
+#+TITLE:       Jonas Rohrer. Research intern
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zuerich@gmail.com
+#+DATE:        2019-10-10 Thu
+#+URI:         /people/%y/%m/%d/jonas-rohrer
+#+KEYWORDS:    lab, jonas, contact, cv
+#+TAGS:        lab, jonas, contact, cv
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Master's student 
+#+AVATAR:      https://homanlab.github.io/media/img/rohrer.jpg
+
+#+ATTR_HTML: :width 200px
+[[https://homanlab.github.io/media/img/rohrer.jpg]]
+
+Jonas studied Life Sciences Engineering at the École Polytechnique
+Fédérale de Lausanne (EPFL) with the aim of branching into
+neuroscience. He is currently gaining practical research experience as
+an intern in the Homan Lab under the supervision of Dr. Marlene
+Tahedl. His work focuses on the analysis of MRI data, particularly
+diffusion-weighted MRI, to investigate structural and functional brain
+changes and their relationship to circadian circuits in bipolar
+disorder. Beyond this, Jonas is interested in how the brain encodes
+information as well as modelling neural systems, for instance, to
+study the effects of disease-related alterations in psychiatry.
+
+** Recent preprints and publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Jonas Rohrer",
+#+HTML:    retmax: 5,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
+
+
+** Contact
+#+ATTR_HTML: :target _blank
+- Phone: +41 (0)58 384 21 11
+- E-mail: jonas.rohrer@uzh.ch 
+
+	
+
