@@ -58,7 +58,7 @@ Research Council (ERC)]].
 #+HTML:    authorRaw: "Homan P NOT Homan PJ[au] NOT Homan Philip[au] NOT Homan Patricia",
 #+HTML:    highlightAuthor: "Homan P",
 #+HTML:    tag: "",
-#+HTML:    retmax: 15,
+#+HTML:    retmax: 25,
 #+HTML:    targetId: "pubmed-results"
 #+HTML:  });
 #+HTML:  </script>
