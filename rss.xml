@@ -4,10 +4,17 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Wed, 24 Sep 2025 09:12:08 CEST</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 09:12:08 CEST</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 13:37:35 CEST</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 13:37:35 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Prof. Philipp Homan, MD, PhD. Principal investigator</title>
+      <link>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</link>
+      <description><![CDATA[Principal Investigator]]></description>
+      <pubDate>2025-10-09</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</guid>
+    </item>
     <item>
       <title>Jonas Rohrer. Research intern</title>
       <link>http://homanlab.github.io/people/2019/10/10/jonas-rohrer</link>
@@ -35,13 +42,6 @@
       <description><![CDATA[Master's student ]]></description>
       <pubDate>2025-08-05</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/10/marcel-socoro</guid>
-    </item>
-    <item>
-      <title>Prof. Philipp Homan, MD, PhD. Principal investigator</title>
-      <link>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</link>
-      <description><![CDATA[Principal Investigator]]></description>
-      <pubDate>2025-07-08</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/14/philipp-homan-md-phd</guid>
     </item>
     <item>
       <title>Retinal clues to mental health</title>
