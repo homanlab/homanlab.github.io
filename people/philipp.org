@@ -55,7 +55,7 @@ Research Council (ERC)]].
 #+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 #+HTML: <script>
 #+HTML:  loadPubmedPublications({
-#+HTML:    authorRaw: "Homan P NOT Homan PJ[au] NOT Homan Philip[au] NOT Homan Patricia",
+#+HTML:    authorRaw: "Homan P NOT Homan PJ[au] NOT Homan Philip[au] NOT Homan Patricia NOT Homan Pia",
 #+HTML:    highlightAuthor: "Homan P",
 #+HTML:    tag: "",
 #+HTML:    retmax: 25,
