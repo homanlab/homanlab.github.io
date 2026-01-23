@@ -2,7 +2,7 @@
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zurich@gmail.com
 #+DATE:        2026-01-23 Fri 
-#+URI:         /blog/%y/%m/%d/context
+#+URI:         /blog/%y/%m/%d/abim
 #+KEYWORDS:    conference, synergy, language 
 #+TAGS:        conference, synergy, language 
 #+LANGUAGE:    en
