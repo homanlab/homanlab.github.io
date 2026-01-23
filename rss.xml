@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Fri, 23 Jan 2026 15:30:37 CET</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 15:30:37 CET</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 15:54:47 CET</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 15:54:47 CET</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -14,6 +14,13 @@
       <description><![CDATA[Alpine Brain Imaging Meeting 2026]]></description>
       <pubDate>2026-01-23</pubDate>
       <guid>http://homanlab.github.io/blog/2026/01/23/abim</guid>
+    </item>
+    <item>
+      <title>How disorganization affects learning hidden structure </title>
+      <link>http://homanlab.github.io/blog/2026/01/02/cogmaps</link>
+      <description><![CDATA[New preprint online now on bioRxiv]]></description>
+      <pubDate>2026-01-23</pubDate>
+      <guid>http://homanlab.github.io/blog/2026/01/02/cogmaps</guid>
     </item>
     <item>
       <title>Prof. Philipp Homan, MD, PhD. Principal investigator</title>
@@ -70,13 +77,6 @@
       <description><![CDATA[Postdoc]]></description>
       <pubDate>2025-06-02</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/13/xiaoyan-wu</guid>
-    </item>
-    <item>
-      <title>Working with us</title>
-      <link>http://homanlab.github.io/blog/2019/10/20/applying</link>
-      <description><![CDATA[How to apply ]]></description>
-      <pubDate>2025-05-28</pubDate>
-      <guid>http://homanlab.github.io/blog/2019/10/20/applying</guid>
     </item>
   </channel>
 </rss>
