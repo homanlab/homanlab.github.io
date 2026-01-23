@@ -29,8 +29,10 @@ Poster Award. You can read more about her work [[https://homanlab.github.io/blog
 #+ATTR_HTML: :width 400px :title abim2026d
 [[https://homanlab.github.io/media/img/abim2026d.png]]
 
-Beyond the formal program, there was also some time for socializing
-and of course, skiing.
+This was also a great opportunity to meet with our DELTA-LANG
+collaborators from [[https://www.upf.edu/web/grac][Barcelona]] for a two-day scientific exchange on our
+respective workpackages. Synergy in action! Beyond the formal program,
+there was also some time for socializing and of course, skiing.
 
 #+ATTR_HTML: :width 400px :title abim2026c
 [[https://homanlab.github.io/media/img/abim2026c.png]]
