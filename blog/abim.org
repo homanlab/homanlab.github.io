@@ -1,0 +1,42 @@
+#+TITLE:       ERC Posters and Best Poster Award 
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2026-01-23 Fri 
+#+URI:         /blog/%y/%m/%d/context
+#+KEYWORDS:    conference, synergy, language 
+#+TAGS:        conference, synergy, language 
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Alpine Brain Imaging Meeting 2026
+#+AVATAR:      https://homanlab.github.io/media/img/abim2026.png
+
+#+ATTR_HTML: :width 600px :title abim2026
+[[https://homanlab.github.io/media/img/abim2026.png]]
+
+Members of the lab attended the 20th anniversary edition of the [[https://www.unige.ch/ABIM/][Alpine
+Brain Imaging Meeting]] in Champéry, a long running conference known for
+its interdisciplinary exchange in cognitive and clinical
+neuroscience. This year's meeting again provided an excellent setting
+for presenting new work and engaging in scientific debate.
+
+The lab contributed four poster presentations, three of which were
+closely connected to the [[https://erc.europa.eu/news-events/news/synergy-grants-2023-examples-projects][ERC Synergy project DELTA-LANG]]. [[https://homanlab.github.io/people/2019/10/13/finn-rabe-phd/][Finn]],
+[[https://homanlab.github.io/people/2019/10/11/akhil-misra/][Akhil]], and [[https://homanlab.github.io/people/2019/10/13/xiaoyan-wu/][Xiaoyan]] presented work from the project,
+while Marlene presented her research on circadian disruption in
+bipolar disorder. We are particularly proud of [[https://homanlab.github.io/people/2019/10/13/xiaoyan-wu/][Xiaoyan]], whose
+poster was awarded the Best Poster Award.
+
+#+ATTR_HTML: :width 400px :title abim2026d
+[[https://homanlab.github.io/media/img/abim2026d.png]]
+
+Beyond the formal program, there was also some time for socializing
+and of course, skiing.
+
+#+ATTR_HTML: :width 400px :title abim2026c
+[[https://homanlab.github.io/media/img/abim2026c.png]]
+
+#+ATTR_HTML: :width 400px :title abim2026b
+[[https://homanlab.github.io/media/img/abim2026b.png]]
+
+#+ATTR_HTML: :width 400px :title abim2026a
+[[https://homanlab.github.io/media/img/abim2026a.png]]
