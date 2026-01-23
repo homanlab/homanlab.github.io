@@ -1,0 +1,38 @@
+#+TITLE:       How disorganization affects learning hidden structure 
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2026-01-02 Fri 
+#+URI:         /blog/%y/%m/%d/cogmaps
+#+KEYWORDS:    cognitive maps, xiaoyan, language, erc
+#+TAGS:        cognitive maps, xiaoyan, language, erc
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: New preprint online now on bioRxiv
+#+AVATAR:      https://homanlab.github.io/media/img/Wu2025.png
+
+#+ATTR_HTML: :width 600px :title cogmaps
+[[https://homanlab.github.io/media/img/Wu2025.png]]
+
+In everyday life, we constantly build mental maps that help us
+understand how things are related, even when those relationships are
+not directly visible. These mental maps allow us to generalize, make
+predictions, and learn from experience.
+
+In this study, we show that people who tend to think in a more
+disorganized way (with very mild psychosis traits) have particular
+difficulty building such mental maps when information is presented
+visually. When the same underlying structure is explained using
+language, their performance improves markedly. This suggests that the
+problem is not a general inability to learn, but a specific difficulty
+in turning visual input into an internal structure.
+
+We believe that our findings help explain why some individuals
+struggle more with visually grounded reasoning and abstraction, while
+still performing well when information is verbally structured. More
+broadly, the results point to language as a potential scaffold that
+can support learning and reasoning when perceptual organization is
+challenging.
+
+This [[https://doi.org/10.64898/2025.12.22.695951][preprint]] has been led by [[https://homanlab.github.io/people/2019/10/13/xiaoyan-wu/][Xiaoyan]] is work from the [[https://erc.europa.eu/news-events/news/synergy-grants-2023-examples-projects][ERC Synergy
+Project DELTA-LANG]]. You can read the full paper [[https://doi.org/10.64898/2025.12.22.695951][here]].
+
