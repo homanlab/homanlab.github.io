@@ -27,18 +27,31 @@ and deepen her knowledge of neuroscience and computational psychiatry,
 she is now doing her PhD in the lab of [[https://homanlab.github.io/philipp][Prof. Philipp Homan]] within the
 EU Horizon TRUSTING project.
 
-** Recent Publications
-- Thommen, D., Hüppi, R., Lauermann, F., &
-  Capon-Sieber, V. (2023). Der Einfluss des Einsatzes von
-  Breakout-Räumen auf das Erleben von sozialer Eingebundenheit und
-  intrinsischer Motivation von Studierenden im
-  Onlineunterricht. Psychologie in Erziehung und
-  Unterricht, 70. https://doi.org/10.2378/peu2023.art13d
+** Recent preprints and publications
+#+HTML: <div id="pubmed-results"></div>
+#+HTML: <script src="pubmed.js"></script>
+#+HTML: <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+#+HTML: <script>
+#+HTML:  loadPubmedPublications({
+#+HTML:    authorRaw: "Hüppi R",
+#+HTML:    tag: "Psychiatry AND Zurich",
+#+HTML:    retmax: 15,
+#+HTML:    targetId: "pubmed-results"
+#+HTML:  });
+#+HTML:  </script>
 
-- Sieber, V., Hüppi, R. & Praetorius, A.-K. (2020). Teaching,
-  motivation, and well-being during COVID-19 from the perspective of
-  university students and lecturers [Initial
-  report]. https://doi.org/10.5281/zenodo.4020377
+
+# - Thommen, D., Hüppi, R., Lauermann, F., &
+#   Capon-Sieber, V. (2023). Der Einfluss des Einsatzes von
+#   Breakout-Räumen auf das Erleben von sozialer Eingebundenheit und
+#  intrinsischer Motivation von Studierenden im
+#  Onlineunterricht. Psychologie in Erziehung und
+# Unterricht, 70. https://doi.org/10.2378/peu2023.art13d
+#
+# - Sieber, V., Hüppi, R. & Praetorius, A.-K. (2020). Teaching,
+# motivation, and well-being during COVID-19 from the perspective of
+# university students and lecturers [Initial
+# report]. https://doi.org/10.5281/zenodo.4020377
 
 ** Prizes, awards, fellowships                                     :noexport:
 
