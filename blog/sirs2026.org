@@ -17,7 +17,7 @@ Severeal lab members attended this year's [[https://sirs.societyconference.com/c
 Florence. This year's meeting again provided an excellent setting for
 presenting new work and engaging in scientific debate.
 
-The lab contributed four poster presentations, three of which were
+The lab contributed altogether nine poster presentations, three of which were
 closely connected to the [[https://erc.europa.eu/news-events/news/synergy-grants-2023-examples-projects][ERC Synergy project DELTA-LANG]]. [[https://homanlab.github.io/people/2019/10/11/yves-pauli/][Yves]], [[https://homanlab.github.io/people/2019/10/11/akhil-misra/][Akhil]],
 and [[https://homanlab.github.io/people/2019/10/13/xiaoyan-wu/][Xiaoyan]] presented work from the project, while [[https://homanlab.github.io/people/2019/10/13/finn-rabe-phd/][Finn]] and [[https://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti/][Pier]]
 presented their research on retinal imaging and network modeling. In
