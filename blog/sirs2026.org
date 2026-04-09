@@ -24,7 +24,7 @@ presented their research on retinal imaging and network modeling. We
 are particularly proud of Pier and Finn, who both received an early
 career award from the Society!
 
-#+ATTR_HTML: :width 800px :title SIRSc
+#+ATTR_HTML: :width 400px :title SIRSc
 [[https://homanlab.github.io/media/img/sirs_allposters.jpg]]
 
 
