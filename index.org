@@ -6,6 +6,7 @@
 # REFRESH: 0; url=https://homanlab.github.io/blog/2024/07/22/trustingy2/
 # REFRESH: 0; url=https://homanlab.github.io/blog/2025/06/20/nmh/
 # REFRESH: 0; url=https://homanlab.github.io/blog/2025/09/20/context/
-#+REFRESH: 0; url=https://homanlab.github.io/blog/2026/01/23/abim/
+# REFRESH: 0; url=https://homanlab.github.io/blog/2026/01/23/abim/
+#+REFRESH: 0; url=https://homanlab.github.io/blog/2026/04/09/sirs2026/
 #+ATTR_HTML: :width 400px
 
