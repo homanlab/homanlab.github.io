@@ -1,7 +1,7 @@
-#+TITLE:       Ueli Stocker. Master's student
+#+TITLE:       Ueli Stocker. Master's student (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-09 Wed
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/ueli-stocker
 #+KEYWORDS:    lab, ueli, contact, cv
 #+TAGS:        lab, ueli, contact, cv
