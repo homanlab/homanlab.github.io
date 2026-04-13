@@ -4,8 +4,8 @@
     <title>Homan Lab Zurich</title>
     <link>http://homanlab.github.io</link>
     <description>Mental health research</description>
-    <pubDate>Mon, 13 Apr 2026 14:13:35 CEST</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 14:13:35 CEST</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 14:18:57 CEST</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:18:57 CEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
@@ -30,6 +30,13 @@
       <guid>http://homanlab.github.io/people/2019/10/09/janani-panchalingam</guid>
     </item>
     <item>
+      <title>Maialen Moraza Rodriguez. Visiting student (alumna)</title>
+      <link>http://homanlab.github.io/people/2019/10/06/maialen-moraza</link>
+      <description><![CDATA[Visiting student]]></description>
+      <pubDate>2026-04-13</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/06/maialen-moraza</guid>
+    </item>
+    <item>
       <title>Nils Lang, MSc. PhD student (alumnus)</title>
       <link>http://homanlab.github.io/people/2019/10/06/nils-lang</link>
       <description><![CDATA[Master's student]]></description>
@@ -42,6 +49,13 @@
       <description><![CDATA[Visiting student]]></description>
       <pubDate>2026-04-13</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/08/pierfrancesco-sarti</guid>
+    </item>
+    <item>
+      <title>Ueli Stocker. Master&#39;s student (alumnus)</title>
+      <link>http://homanlab.github.io/people/2019/10/06/ueli-stocker</link>
+      <description><![CDATA[Master's student]]></description>
+      <pubDate>2026-04-13</pubDate>
+      <guid>http://homanlab.github.io/people/2019/10/06/ueli-stocker</guid>
     </item>
     <item>
       <title>Victoria Edkins, PhD. Research manager</title>
@@ -63,20 +77,6 @@
       <description><![CDATA[PhD student]]></description>
       <pubDate>2026-01-29</pubDate>
       <guid>http://homanlab.github.io/people/2019/10/11/roya-hueppi</guid>
-    </item>
-    <item>
-      <title>Yves Pauli. PhD student</title>
-      <link>http://homanlab.github.io/people/2019/10/11/yves-pauli</link>
-      <description><![CDATA[PhD student]]></description>
-      <pubDate>2026-01-29</pubDate>
-      <guid>http://homanlab.github.io/people/2019/10/11/yves-pauli</guid>
-    </item>
-    <item>
-      <title>ERC Posters and Best Poster Award </title>
-      <link>http://homanlab.github.io/blog/2026/01/23/abim</link>
-      <description><![CDATA[Alpine Brain Imaging Meeting 2026]]></description>
-      <pubDate>2026-01-23</pubDate>
-      <guid>http://homanlab.github.io/blog/2026/01/23/abim</guid>
     </item>
   </channel>
 </rss>
