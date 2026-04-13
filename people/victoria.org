@@ -1,4 +1,4 @@
-#+TITLE:       Victoria Edkins, PhD. Project manager and research coordinator
+#+TITLE:       Victoria Edkins, PhD. Research manager
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
 #+DATE:        2019-10-13 Sun

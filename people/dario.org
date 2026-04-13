@@ -1,7 +1,7 @@
-#+TITLE:       Dario Palpella. Visiting student
+#+TITLE:       Dario Palpella. Visiting student (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-08 Tue 
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/dario-palpella
 #+KEYWORDS:    lab, dario, contact, cv
 #+TAGS:        lab, dario, contact, cv

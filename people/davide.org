@@ -1,7 +1,7 @@
-#+TITLE:       Davide Staub. Research assistant
+#+TITLE:       Davide Staub. Research assistant (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-10 Thu
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/davide-staub
 #+KEYWORDS:    lab, davide, contact, cv
 #+TAGS:        lab, davide, contact, cv

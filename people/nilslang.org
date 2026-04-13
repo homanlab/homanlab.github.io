@@ -1,7 +1,7 @@
-#+TITLE:       Nils Lang, MSc. PhD student 
+#+TITLE:       Nils Lang, MSc. PhD student (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-11 Fri
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/nils-lang
 #+KEYWORDS:    lab, nils, contact, cv
 #+TAGS:        lab, nils, contact, cv
