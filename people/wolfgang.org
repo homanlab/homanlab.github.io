@@ -8,25 +8,32 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Postdoc
-#+AVATAR:      https://homanlab.github.io/media/img/omlor.png
+#+AVATAR:      https://homanlab.github.io/media/img/omlor1.jpg
 
 #+ATTR_HTML: :width 200px
-[[https://homanlab.github.io/media/img/omlor.png]]
+[[https://homanlab.github.io/media/img/omlor1.jpg]]
 
-Wolfgang studied medicine at the University of Tuebingen and as fellow
-of the German Academic Scholarship Foundation at Harvard Medical School
-as well as the University of Oxford. Following his medical degree he
-studied natural sciences with focus on mathematics at the University of
-Zurich and completed his PhD in natural sciences with
-Prof. Helmchen. Clinically, he received two years of resident training
-in neurology at the University Hospital of Zurich (USZ) and he is
-currently resident at the Psychiatric University Clinic of Zurich
-(PUK). His previous research work was focused on neural circuit dynamics
-in the mammalian motor system and involved optogenetics, calcium imaging
-and electrophysiological approaches. He currently plans to explore the
-generation of motor symptoms in schizophrenia and obsessive-compulsive
-disorder by combining fMRI in humans with optogenetic and calcium
-imaging tools in mice.
+Wolfgang Omlor is a board-certified psychiatrist and attending
+physician in adult psychiatry at the Psychiatric University Hospital
+Zurich. He obtained his medical doctorate summa cum laude at the
+University of Freiburg under the supervision of Prof. Rumyana Kristeva
+and completed his PhD in natural sciences at the University of Zurich
+with Prof. Fritjof Helmchen. As a fellow of the German Academic
+Scholarship Foundation, he undertook clinical study periods at Harvard
+Medical School and the University of Oxford. His clinical training
+included neurology at the University Hospital Zurich and adult
+psychiatry at the PUK, where he is also a postdoctoral researcher in
+the Homan Lab. His previous research focused on corticospinal
+interactions and neural circuit dynamics in the mammalian motor
+system, using electrophysiology, optogenetics and calcium imaging. His
+current research bridges systems neuroscience and psychiatry, with a
+focus on neurocomputational and multimodal phenotyping of
+schizophrenia-spectrum disorders. He has published in leading
+peer-reviewed journals including The American Journal of Psychiatry,
+Nature Communications, Science and The Journal of Neuroscience,
+obtained competitive external research funding, serves as a reviewer
+for international scientific journals and teaches neurophysiology and
+psychiatry.
 
 ** Recent preprints and publications
 #+HTML: <div id="pubmed-results"></div>
@@ -42,6 +49,7 @@ imaging tools in mice.
 #+HTML:  </script>
 
 ** Prizes, awards, fellowships                                           
+- 2026: [[https://www.hirnliga.ch/aktuelles/artikel/forschungspreis-2026-schizophrenie-ist-nicht-gleich-schizophrenie][Forschungspreis der Schweizerischen Hirnliga]]
 -	2010: Albrecht-Fleckenstein-Award for the medical doctorate
 - 2007-2009: Scholar of the German National Academic Foundation
 - 2008/2009: Scholarships of the German National Academic Foundation to
