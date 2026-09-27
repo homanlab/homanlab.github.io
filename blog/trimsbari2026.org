@@ -8,10 +8,10 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Collaborative TRIMS Project 
-#+AVATAR:      https://homanlab.github.io/media/img/TRIMS_Bari_Group.png
+#+AVATAR:      https://homanlab.github.io/media/img/TRIMS_Bari2026_Group.png
 
 #+ATTR_HTML: :width 800px :title Bari2026
-[[https://homanlab.github.io/media/img/TRIMS_Bari_Group.png]]
+[[https://homanlab.github.io/media/img/TRIMS_Bari2026_Group.png]]
 
 *Treatment resistance indicators from mechanisms in schizophrenia (TRIMS)*
 
