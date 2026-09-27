@@ -1,0 +1,43 @@
+#+TITLE:       SNF Project Start in Bari
+#+AUTHOR:      homanlab
+#+EMAIL:       homanlab.zurich@gmail.com
+#+DATE:        2026-09-27 Sun 
+#+URI:         /blog/%y/%m/%d/trimsbari2026
+#+KEYWORDS:    snf, project, bari, collaboration
+#+TAGS:        snf, project, bari, collaboration
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Collaborative TRIMS Project 
+#+AVATAR:      https://homanlab.github.io/media/img/TRIMS_Bari_Group.png
+
+#+ATTR_HTML: :width 800px :title Bari2026
+[[https://homanlab.github.io/media/img/TRIMS_Bari_Group.png]]
+
+*Treatment resistance indicators from mechanisms in schizophrenia (TRIMS)*
+
+The [[https://data.snf.ch/grants/grant/10009051][Swiss National Science Foundation (SNSF)]] has awarded 2.5 million
+Swiss francs to our new multinational TRIMS project led by the
+University of Zurich ([[https://homanlab.github.io/philipp][Philipp]]), in collaboration with the Universities
+of Bari ([[https://www.libd.org/team/giulio-pergola-phd/][Prof. Giulio Pergola]]) and University of Applied Sciences of
+Western Switzerland Fribourg ([[https://people.hes-so.ch/de/profile/54465174-elena-mugellini][Elena Mugellini]]). The project aims to
+understand why some people with schizophrenia do not respond to
+standard medications, and when switching to clozapine is warranted.
+
+This decision is currently often made too late, with significant
+consequences for patients. To address this, the TRIMS consortium will
+develop a data-driven decision support system to help clinicians
+identify the right moment for a switch to clozapine. The goal is to
+reduce unnecessary exposure to medications that do not help, thereby
+improving care for people with schizophrenia.
+
+The project was officially started in Bari last week, where the TRIMS
+consortium had the pleasure to meet in person and enjoy the
+hospitality of the Bari team. For more information on the project,
+make sure to visit our project website [[https://trims.uzh.ch][https://trims.uzh.ch]]!
+
+
+
+
+
+
+
