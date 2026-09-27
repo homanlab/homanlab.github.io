@@ -19,8 +19,8 @@ The [[https://data.snf.ch/grants/grant/10009051][Swiss National Science Foundati
 Swiss francs to our new multinational TRIMS project led by the
 University of Zurich ([[https://homanlab.github.io/philipp][Philipp]]), in collaboration with the Universities
 of Bari ([[https://www.libd.org/team/giulio-pergola-phd/][Prof. Giulio Pergola]]) and University of Applied Sciences of
-Western Switzerland Fribourg ([[https://people.hes-so.ch/de/profile/54465174-elena-mugellini][Elena Mugellini]]). The project aims to
-understand why some people with schizophrenia do not respond to
+Western Switzerland Fribourg ([[https://people.hes-so.ch/de/profile/54465174-elena-mugellini][Prof. Elena Mugellini]]). The project aims
+to understand why some people with schizophrenia do not respond to
 standard medications, and when switching to clozapine is warranted.
 
 This decision is currently often made too late, with significant
