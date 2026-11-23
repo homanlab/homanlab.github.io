@@ -1,7 +1,7 @@
-#+TITLE:       Finn-Lennart Rabe, PhD. Postdoc 
+#+TITLE:       Finn-Lennart Rabe, PhD. Postdoc (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-13 Sun
+#+DATE:        2019-10-06 Sun 
 #+URI:         /people/%y/%m/%d/finn-rabe-phd
 #+KEYWORDS:    lab, finn, contact, cv
 #+TAGS:        lab, finn, contact, cv
@@ -16,7 +16,7 @@
 Finn completed his PhD at the Neural Control of Movement Laboratory,
 ETH Zurich with Prof. Nicole Wenderoth. His research focused on
 cortical finger representations and their changes in healthy and
-tetraplegic patients.  His main goals at the Homan Lab are to i)
+tetraplegic patients. His main goals at the Homan Lab are to i)
 identify new biomarkers for psychosis by analysing the brain, eye and
 speech and ii) describing inter-individual temporal changes in
 psychosis using longitudinal studies.
