@@ -55,14 +55,13 @@
 <div class="post">
 <h1>Repost: Beyond spaghetti code</h1>
 
-<div id="orge8d11d3" class="figure">
+<div id="org92dbd36" class="figure">
 <p><img src="https://homanlab.github.io/media/img/represearch5.png" alt="represearch5.png" width="200px" title="talk" />
 </p>
 </div>
-
-<div id="outline-container-org247e367" class="outline-2">
-<h2 id="org247e367">Summary</h2>
-<div class="outline-text-2" id="text-org247e367">
+<div id="outline-container-orgc284c94" class="outline-2">
+<h2 id="orgc284c94">Summary</h2>
+<div class="outline-text-2" id="text-orgc284c94">
 <p>
 These are a few notes on reproducibility. Based on a talk that I gave in
 a Research Seminar at Zucker Hillside Hospital in 2018 (the slides are
@@ -82,17 +81,16 @@ across the world. They are ideal tools to make research reproducible.
 </p>
 </div>
 </div>
-
-<div id="outline-container-org22bffc5" class="outline-2">
-<h2 id="org22bffc5">Reproducing and replicating</h2>
-<div class="outline-text-2" id="text-org22bffc5">
+<div id="outline-container-orgb0d011b" class="outline-2">
+<h2 id="orgb0d011b">Reproducing and replicating</h2>
+<div class="outline-text-2" id="text-orgb0d011b">
 <p>
 To understand this difference, the following table by Kirstie Whitaker
 (see her excellent slides <a href="https://figshare.com/articles/Barriers_to_reproducible_research_and_how_to_overcome_them_/5634136">here</a>) is very useful:
 </p>
 
 
-<div id="org77993e3" class="figure">
+<div id="org5445dac" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch.png" alt="represearch.png" width="500px" title="table" />
 </p>
 </div>
@@ -107,10 +105,9 @@ well.
 </p>
 </div>
 </div>
-
-<div id="outline-container-org7c3b30b" class="outline-2">
-<h2 id="org7c3b30b">Separating data from code</h2>
-<div class="outline-text-2" id="text-org7c3b30b">
+<div id="outline-container-org801ff3c" class="outline-2">
+<h2 id="org801ff3c">Separating data from code</h2>
+<div class="outline-text-2" id="text-org801ff3c">
 <p>
 Indeed, I'd argue that not having reproducible work flows is the
 main reason we often fail at reproducing our own work. We use innocent
@@ -119,7 +116,7 @@ in excel sheets such as this
 </p>
 
 
-<div id="org36a290f" class="figure">
+<div id="org22605a5" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch2.png" alt="represearch2.png" width="700px" title="excel example" />
 </p>
 </div>
@@ -131,7 +128,7 @@ from code -- was this done here?
 </p>
 
 
-<div id="org6043524" class="figure">
+<div id="orgb00b2c7" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch3.gif" alt="represearch3.gif" width="700px" title="nope" />
 </p>
 </div>
@@ -153,10 +150,9 @@ often to be confident it is as obvious as it should be.
 </p>
 </div>
 </div>
-
-<div id="outline-container-orgaf11b3c" class="outline-2">
-<h2 id="orgaf11b3c">Using version control</h2>
-<div class="outline-text-2" id="text-orgaf11b3c">
+<div id="outline-container-org3afa3e6" class="outline-2">
+<h2 id="org3afa3e6">Using version control</h2>
+<div class="outline-text-2" id="text-org3afa3e6">
 <p>
 What is version control and why should I use it? For me, this boils down
 to the quesiton: what is git and why should I use it? Git is a free
@@ -168,7 +164,7 @@ it works best with plain text files.
 </p>
 
 
-<div id="org834141c" class="figure">
+<div id="orgfb9953e" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch4.png" alt="represearch4.png" width="700px" title="git" />
 </p>
 </div>
@@ -190,10 +186,9 @@ analyze data.
 </p>
 </div>
 </div>
-
-<div id="outline-container-orgad73625" class="outline-2">
-<h2 id="orgad73625">Using code to analyze data</h2>
-<div class="outline-text-2" id="text-orgad73625">
+<div id="outline-container-org69fe8c9" class="outline-2">
+<h2 id="org69fe8c9">Using code to analyze data</h2>
+<div class="outline-text-2" id="text-org69fe8c9">
 <p>
 Twitter is full of tweets that celebrate the first successes in writing
 code. They are all encouraging, and indeed, there is no magic in writing
@@ -201,7 +196,7 @@ code; once you get started, it's surprisingly simple.
 </p>
 
 
-<div id="org251651b" class="figure">
+<div id="orga2407cf" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch5.jpg" alt="represearch5.jpg" width="700px" title="spaghetti code" />
 </p>
 </div>
@@ -242,7 +237,7 @@ the package across projects.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R" id="org7bbcd19">#---------------------------------------------------
+<pre class="src src-R" id="org946375a"><code>#---------------------------------------------------
 # This is a simple R program
 # 9/18/18, PH
 #---------------------------------------------------
@@ -266,7 +261,7 @@ plot(density(resid(lmfit)))
 # 4. Print coefficients
 #---------------------------------------------------
 summary(lmfit)
-</pre>
+</code></pre>
 </div>
 
 
@@ -292,10 +287,9 @@ wrote.
 </p>
 </div>
 </div>
-
-<div id="outline-container-org6296a76" class="outline-2">
-<h2 id="org6296a76">Putting it all together: the beauty of Makefiles</h2>
-<div class="outline-text-2" id="text-org6296a76">
+<div id="outline-container-orgef9cf83" class="outline-2">
+<h2 id="orgef9cf83">Putting it all together: the beauty of Makefiles</h2>
+<div class="outline-text-2" id="text-orgef9cf83">
 <p>
 Having written some code to different files, the question arises how to
 best execute it. Once again, computer scientists have long figured this
@@ -308,7 +302,7 @@ the beginning.
 </p>
 
 
-<div id="orga6bc37c" class="figure">
+<div id="org8835381" class="figure">
 <p><img src="http://homanlab.github.io/media/img/represearch7.png" alt="represearch7.png" width="700px" title="makefile" />
 </p>
 </div>
@@ -330,7 +324,7 @@ again. Indeed, such a rule can be easily set up in the Makefile.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-sh" id="orgb67b3c4">
+<pre class="src src-sh" id="orgc153d5e"><code>
 # this is a rule in the Makefile
 statistics: preprocessing 
   R CMD BATCH myproj_do.R
@@ -339,7 +333,7 @@ statistics: preprocessing
 preprocessing: datafile1.csv datafile2.csv  
   R CMD BATCH myproj_clean.R
 
-</pre>
+</code></pre>
 </div>
 
 <p>
@@ -362,10 +356,9 @@ Makefile.
 </p>
 </div>
 </div>
-
-<div id="outline-container-orgf98b53f" class="outline-2">
-<h2 id="orgf98b53f">Conclusion</h2>
-<div class="outline-text-2" id="text-orgf98b53f">
+<div id="outline-container-org6045d9e" class="outline-2">
+<h2 id="org6045d9e">Conclusion</h2>
+<div class="outline-text-2" id="text-org6045d9e">
 <p>
 I have argued that making research reproducible requires tools that are
 well-known in computer science and software development, including
@@ -373,10 +366,9 @@ version control, Makefiles, and a disciplined coding style.
 </p>
 </div>
 </div>
-
-<div id="outline-container-org9d77b17" class="outline-2">
-<h2 id="org9d77b17">Further reading</h2>
-<div class="outline-text-2" id="text-org9d77b17">
+<div id="outline-container-org2c5e6e0" class="outline-2">
+<h2 id="org2c5e6e0">Further reading</h2>
+<div class="outline-text-2" id="text-org2c5e6e0">
 <p>
 There are many excellent examples of people reflecting about
 reproducibility online. The post was inspired by what <a href="http://www.jonzelner.net/docker/reproducibility/2016/06/03/docker/">Jon Zelner</a> wrote
@@ -425,7 +417,7 @@ better choice.
       <div class="footer">
         <p>
         <a href="https://homanlab.github.io"><img src="https://s.gravatar.com/avatar/38295839e1191d81c8beb61dadd6815c?s=150" class="center"></a><br>
-        Generated by <a href="http://www.gnu.org/software/emacs/">Emacs</a> 28.x (<a href="http://orgmode.org">Org mode</a> 9.x)
+        Generated by <a href="http://www.gnu.org/software/emacs/">Emacs</a> 31.x (<a href="http://orgmode.org">Org mode</a> 9.x)
         </p>
         <p>
           Copyright &copy; 2023 - <span id="footerYear"></span> <a href="mailto:philipp &lt;dot&gt; homan &lt;at&gt; bli &lt;dot&gt; uzh &lt;dot&gt; ch">Philipp Homan</a>
