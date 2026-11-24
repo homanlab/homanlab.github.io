@@ -1,7 +1,7 @@
-#+TITLE:       Nils Kallen, MD. Postdoc/Resident physician
+#+TITLE:       Nils Kallen, MD. Postdoc/Resident physician (alumnus)
 #+AUTHOR:      homanlab
 #+EMAIL:       homanlab.zuerich@gmail.com
-#+DATE:        2019-10-12 Sat
+#+DATE:        2019-10-06 Sun
 #+URI:         /people/%y/%m/%d/nils-kallen-md
 #+KEYWORDS:    lab, nils, contact, cv
 #+TAGS:        lab, nils, contact, cv
