@@ -1,4 +1,0 @@
-#+TITLE: Benjamin Aston
-#+REFRESH: 0; url= https://homanlab.github.io/people/2019/10/08/benjamin-aston/
-#+ATTR_HTML: :width 400px
-
