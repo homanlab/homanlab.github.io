@@ -119,6 +119,7 @@ function loadPubmedPublications({ authorRaw, highlightAuthor = null, tag = "", r
     })
     .catch(err => {
       console.error(err);
-      document.getElementById(targetId).innerText = "Error loading publications.";
+      //document.getElementById(targetId).innerText = "Error loading publications.";
+      document.getElementById(targetId).innerText = "";
     });
 }
